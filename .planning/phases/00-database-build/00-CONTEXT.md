@@ -93,10 +93,12 @@ App implementation starts in Phase 1.
 **Downstream agents MUST read these before planning or implementing.**
 
 ### Project Spec
-- `SPEC.md` — Full product specification. Phase 0 execution plan (pp. 148–322): folder structure, Stage 0 tool inventory, Stage 1 collection, Stage 2 extraction, Stage 3 validation, definition of done. Data model for `interactions` and `ingredients` tables (pp. 439–488). **Primary reference for all Phase 0 work.**
+- `SPEC.md` — Full product specification. **Primary reference for all Phase 0 work.**
+  - Phase 0 execution plan: section `## Feature Roadmap — v1 › Phase 0: Database Build` and `#### Phase 0 — Detailed Execution Plan` (folder structure, Stage 0 tool inventory, Stage 1–3, definition of done)
+  - Data model: section `## Data Model › Part 1: Local SQLite Database` (tables: `interactions`, `ingredients`)
 
 ### Data Model Addendum (from this discussion)
-- **`conflict_note` field** — Add to `interactions` table. TEXT, optional. Present when two sources disagree on severity; describes the disagreement. Not in SPEC.md data model — this discussion locks it.
+- **`conflict_note` field** — Add to `interactions` table. Schema: `conflict_note TEXT` — optional, null when absent. Populated only when D-15 conflict resolution was applied (two sources disagree on severity). Plain English description of the disagreement, e.g. `"NIH ODS (high) rates advisory; PubMed abstract (medium) rates critical — higher confidence source wins, higher severity on tie."` Not in SPEC.md — this discussion locks it.
 - **`metadata` table** — Add to `stackwise.sqlite`. Columns: `db_version` TEXT, `date_built` TEXT. One row. Not in SPEC.md — this discussion locks it.
 
 ### Working Artifacts (created during Phase 0, not yet existing)
