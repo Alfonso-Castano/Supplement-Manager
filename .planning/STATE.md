@@ -1,11 +1,11 @@
 ---
 current_phase: "0"
 current_phase_name: "Database Build"
-current_plan: "2 of 4"
+current_plan: "3 of 4"
 total_phases: "10"
 status: "in_progress"
 progress: "[██░░░░░░░░] 6%"
-last_activity: "2026-05-05"
+last_activity: "2026-05-06"
 phase_count: 10
 plan_count: 4
 summary_count: 2
@@ -23,9 +23,9 @@ See: SPEC.md (full project specification)
 ## Current Position
 
 Phase: 0 of 10 (Database Build)  
-Plan: 2 of 4 complete in current phase  
+Plan: 3 of 4 complete in current phase  
 Status: In progress  
-Last activity: 2026-05-05 — Plan 00-02 (Stage 1 Collection) complete; 96 raw files + 50 OpenFDA files collected  
+Last activity: 2026-05-06 — Plan 00-03 (Stage 2 Extraction) complete; 31 validated interaction records + timing_properties on 16 compounds  
 Progress: [██░░░░░░░░] 6%
 
 ---
@@ -69,9 +69,16 @@ Progress: [██░░░░░░░░] 6%
 - OPENFDA_API_KEY and NCBI_API_KEY confirmed registered in terminal session (not stored in files per T-0-01)
 - pytest 9.0.2 already installed (not a new install)
 
+### Execution Decisions (Plan 00-03)
+
+- OpenFDA low-confidence records excluded — user preference: no record is better than an inaccurate one; co-occurrence data without mechanism doesn't qualify
+- 31 records accepted below 50-record plan target — genuine absence of credibly-sourced interactions for 8 medications; Stage 3 PubMed gap-fill is the correct path
+- `timing_conflict` type requires `timing_relevant=true` — 9 records reclassified to `unsafe_combination` (pharmacological interactions regardless of timing)
+- PPI class-effect records (omeprazole, pantoprazole) added at medium confidence — NIH ODS + FDA communication clearly documents the class mechanism
+
 ### Pending Todos
 
-- None. Plan 00-02 complete. Next: Plan 00-03 (Stage 2 Extraction).
+- None. Plan 00-03 complete. Next: Plan 00-04 (Stage 3: Gap Analysis + SQLite Compilation).
 
 ### Blockers / Concerns
 
@@ -87,6 +94,6 @@ None carried forward from previous milestone.
 
 ## Session Continuity
 
-Last session: 2026-05-05  
-Stopped at: Completed 00-02-PLAN.md (Stage 1 Collection); 96 HTML files + 50 OpenFDA files collected; checkpoint:human-verify gate  
-Resume file: None — next plan is 00-03-PLAN.md (Stage 2: Extraction)
+Last session: 2026-05-06  
+Stopped at: Completed 00-03-PLAN.md (Stage 2 Extraction); 31 validated interaction records; human gate approved  
+Resume file: None — next plan is 00-04-PLAN.md (Stage 3: Gap Analysis + SQLite Compilation)
