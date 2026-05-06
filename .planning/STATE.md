@@ -1,14 +1,14 @@
 ---
 current_phase: "0"
 current_phase_name: "Database Build"
-current_plan: "1 of 4"
+current_plan: "2 of 4"
 total_phases: "10"
 status: "in_progress"
-progress: "[█░░░░░░░░░] 3%"
+progress: "[██░░░░░░░░] 6%"
 last_activity: "2026-05-05"
 phase_count: 10
 plan_count: 4
-summary_count: 1
+summary_count: 2
 ---
 
 ## Project Reference
@@ -23,10 +23,10 @@ See: SPEC.md (full project specification)
 ## Current Position
 
 Phase: 0 of 10 (Database Build)  
-Plan: 1 of 4 complete in current phase  
+Plan: 2 of 4 complete in current phase  
 Status: In progress  
-Last activity: 2026-05-05 — Plan 00-01 (Stage 0 Pre-flight) complete; target list approved at D-04 gate  
-Progress: [█░░░░░░░░░] 3%
+Last activity: 2026-05-05 — Plan 00-02 (Stage 1 Collection) complete; 96 raw files + 50 OpenFDA files collected  
+Progress: [██░░░░░░░░] 6%
 
 ---
 
@@ -55,6 +55,13 @@ Progress: [█░░░░░░░░░] 3%
 - D-19: Regional scope is US retail; include traditional medicine if in approved sources
 - D-20: Post-launch updates are on-demand, gap-report driven
 
+### Execution Decisions (Plan 00-02)
+
+- NIH ODS only has 43 HealthProfessional factsheets total — melatonin, CoQ10, ginkgo, St. John's Wort, echinacea, glucosamine, chondroitin, and garlic are NOT covered; MSK/MedlinePlus (NCCIH) fill the gap
+- MedlinePlus herb index links to nccih.nih.gov/health/ and ODS Consumer pages (not /druginfo/natural/ as assumed in research)
+- 3 compounds completely missing from all HTML sources: vitamin_b_complex (composite product), chondroitin, phosphatidylserine — Stage 3 PubMed gap-fill required
+- phosphatidylserine: MSK URL in target_list.json was wrong (404); NCCIH has no dedicated page; only OpenFDA coverage
+
 ### Execution Decisions (Plan 00-01)
 
 - Added chromium, resveratrol, quercetin to reach exactly 50 supplements (plan enumerated 47 unique names; all three additions have known drug interactions and NIH ODS/MSK coverage)
@@ -64,7 +71,7 @@ Progress: [█░░░░░░░░░] 3%
 
 ### Pending Todos
 
-- Set OPENFDA_API_KEY and NCBI_API_KEY environment variables before running Plan 00-02 (Stage 1 collection scripts)
+- None. Plan 00-02 complete. Next: Plan 00-03 (Stage 2 Extraction).
 
 ### Blockers / Concerns
 
@@ -81,5 +88,5 @@ None carried forward from previous milestone.
 ## Session Continuity
 
 Last session: 2026-05-05  
-Stopped at: Completed 00-01-PLAN.md (Stage 0 Pre-flight); target list approved at D-04 gate  
-Resume file: None — next plan is 00-02-PLAN.md (Stage 1: Collection)
+Stopped at: Completed 00-02-PLAN.md (Stage 1 Collection); 96 HTML files + 50 OpenFDA files collected; checkpoint:human-verify gate  
+Resume file: None — next plan is 00-03-PLAN.md (Stage 2: Extraction)
