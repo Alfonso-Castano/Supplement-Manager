@@ -5,7 +5,7 @@
       "item_type": "supplement",
       "category": "vitamin",
       "nih_ods_url": "https://ods.od.nih.gov/factsheets/VitaminD-HealthProfessional/",
-      "msk_url": null,
+      "msk_url": "https://www.mskcc.org/cancer-care/integrative-medicine/herbs/vitamin-d",
       "notes": null
     },
     {
@@ -60,8 +60,8 @@
       "canonical_name": "melatonin",
       "item_type": "supplement",
       "category": "hormone",
-      "nih_ods_url": "https://ods.od.nih.gov/factsheets/Melatonin-HealthProfessional/",
-      "msk_url": null,
+      "nih_ods_url": null,
+      "msk_url": "https://www.mskcc.org/cancer-care/integrative-medicine/herbs/melatonin",
       "notes": null
     },
     {
@@ -76,8 +76,8 @@
       "canonical_name": "coenzyme_q10",
       "item_type": "supplement",
       "category": "antioxidant",
-      "nih_ods_url": "https://ods.od.nih.gov/factsheets/Coenzyme_Q10-HealthProfessional/",
-      "msk_url": null,
+      "nih_ods_url": null,
+      "msk_url": "https://www.mskcc.org/cancer-care/integrative-medicine/herbs/coenzyme-q10",
       "notes": null
     },
     {
@@ -196,17 +196,17 @@
       "canonical_name": "ginkgo_biloba",
       "item_type": "supplement",
       "category": "botanical",
-      "nih_ods_url": "https://ods.od.nih.gov/factsheets/GinkgoBiloba-HealthProfessional/",
-      "msk_url": null,
+      "nih_ods_url": null,
+      "msk_url": "https://www.mskcc.org/cancer-care/integrative-medicine/herbs/ginkgo",
       "notes": "Major anticoagulant interactions"
     },
     {
       "canonical_name": "st_johns_wort",
       "item_type": "supplement",
       "category": "botanical",
-      "nih_ods_url": "https://ods.od.nih.gov/factsheets/StJohnsWort-HealthProfessional/",
-      "msk_url": null,
-      "notes": "Major CYP3A4 inducer — broad drug interactions"
+      "nih_ods_url": null,
+      "msk_url": "https://www.mskcc.org/cancer-care/integrative-medicine/herbs/st-john-wort",
+      "notes": "Major CYP3A4 inducer \u00e2\u20ac\u201d broad drug interactions"
     },
     {
       "canonical_name": "milk_thistle",
@@ -236,23 +236,23 @@
       "canonical_name": "echinacea",
       "item_type": "supplement",
       "category": "botanical",
-      "nih_ods_url": "https://ods.od.nih.gov/factsheets/Echinacea-HealthProfessional/",
-      "msk_url": null,
+      "nih_ods_url": null,
+      "msk_url": "https://www.mskcc.org/cancer-care/integrative-medicine/herbs/echinacea",
       "notes": "Immunosuppressant interactions"
     },
     {
       "canonical_name": "glucosamine",
       "item_type": "supplement",
       "category": "amino_acid",
-      "nih_ods_url": "https://ods.od.nih.gov/factsheets/Glucosamine-HealthProfessional/",
-      "msk_url": null,
+      "nih_ods_url": null,
+      "msk_url": "https://www.mskcc.org/cancer-care/integrative-medicine/herbs/glucosamine",
       "notes": "Anticoagulant interactions"
     },
     {
       "canonical_name": "chondroitin",
       "item_type": "supplement",
       "category": "amino_acid",
-      "nih_ods_url": "https://ods.od.nih.gov/factsheets/Glucosamine-HealthProfessional/",
+      "nih_ods_url": null,
       "msk_url": null,
       "notes": "Often paired with glucosamine; same ODS fact sheet"
     },
@@ -260,8 +260,8 @@
       "canonical_name": "garlic",
       "item_type": "supplement",
       "category": "botanical",
-      "nih_ods_url": "https://ods.od.nih.gov/factsheets/Garlic-HealthProfessional/",
-      "msk_url": null,
+      "nih_ods_url": null,
+      "msk_url": "https://www.mskcc.org/cancer-care/integrative-medicine/herbs/garlic",
       "notes": "Anticoagulant and antihypertensive interactions"
     },
     {
@@ -286,7 +286,7 @@
       "category": "amino_acid",
       "nih_ods_url": null,
       "msk_url": "https://www.mskcc.org/cancer-care/integrative-medicine/herbs/5-htp-01",
-      "notes": "Serotonin syndrome risk with SSRIs — high priority interaction"
+      "notes": "Serotonin syndrome risk with SSRIs \u00e2\u20ac\u201d high priority interaction"
     },
     {
       "canonical_name": "elderberry",
@@ -309,7 +309,7 @@
       "item_type": "supplement",
       "category": "amino_acid",
       "nih_ods_url": null,
-      "msk_url": "https://www.mskcc.org/cancer-care/integrative-medicine/herbs/n-acetyl-cysteine",
+      "msk_url": "https://www.mskcc.org/cancer-care/integrative-medicine/herbs/n-acetylcysteine",
       "notes": "N-acetyl cysteine; interactions with nitroglycerin and antiepileptics"
     },
     {
@@ -350,7 +350,7 @@
       "category": "botanical",
       "nih_ods_url": null,
       "msk_url": null,
-      "notes": "Emerging supplement; minimal interaction data — may rely on PubMed gap-fill"
+      "notes": "Emerging supplement; minimal interaction data \u00e2\u20ac\u201d may rely on PubMed gap-fill"
     },
     {
       "canonical_name": "iodine",

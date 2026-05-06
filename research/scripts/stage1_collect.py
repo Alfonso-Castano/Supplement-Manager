@@ -95,13 +95,21 @@ def collect_medlineplus(target_list: dict, session: requests.Session) -> dict:
         return results
 
     # Collect all herb links from the index
+    # Links go to nccih.nih.gov/health/ and ODS Consumer pages
     herb_links = {}
     for a in soup.find_all("a", href=True):
         href = a["href"]
-        if "/druginfo/natural/" in href or "/druginfo/herb_" in href.lower():
-            text = a.get_text().strip().lower()
-            if text:
-                herb_links[text] = href if href.startswith("http") else f"https://medlineplus.gov{href}"
+        text = a.get_text().strip().lower()
+        if not text:
+            continue
+        # MedlinePlus herb index links to NCCIH and ODS Consumer pages
+        if (
+            "nccih.nih.gov/health/" in href
+            or "/druginfo/natural/" in href
+            or ("/factsheets/" in href and "Consumer" in href)
+            or "cancer.gov/about-cancer/treatment/cam" in href
+        ):
+            herb_links[text] = href if href.startswith("http") else f"https://medlineplus.gov{href}"
 
     time.sleep(1)
 
@@ -124,14 +132,19 @@ def collect_medlineplus(target_list: dict, session: requests.Session) -> dict:
         found_url = None
         for variant in all_names:
             variant_lower = variant.lower()
+            # 1. Exact match first
             if variant_lower in herb_links:
                 found_url = herb_links[variant_lower]
                 break
-            # Partial match
+            # 2. Partial match: link_text starts with our name (avoid false positives)
             for link_text, link_url in herb_links.items():
-                if variant_lower in link_text or link_text in variant_lower:
-                    found_url = link_url
-                    break
+                # Only match if the link text starts with or exactly equals the variant
+                # This prevents "nac" from matching "niacin", "vitamin b" matching "vitamin b12", etc.
+                if link_text.startswith(variant_lower) or variant_lower.startswith(link_text):
+                    # Reject if lengths differ too much (e.g. "nac" matching "niacin")
+                    if abs(len(link_text) - len(variant_lower)) <= 5:
+                        found_url = link_url
+                        break
             if found_url:
                 break
 
@@ -197,25 +210,19 @@ def collect_msk(target_list: dict, session: requests.Session) -> dict:
         all_variants = [name.replace("_", "-"), name.replace("_", " ")]
         all_variants += [a.replace(" ", "-").lower() for a in aliases]
 
+        # First: try direct msk_url from target_list (most reliable)
         found_url = None
-        for variant in all_variants:
-            if variant in herb_urls:
-                found_url = herb_urls[variant]
-                break
-            # Partial slug match
-            for slug, url in herb_urls.items():
-                if variant in slug or slug in variant:
-                    found_url = url
-                    break
-            if found_url:
+        for compound in target_list["supplements"]:
+            if compound["canonical_name"] == name and compound.get("msk_url"):
+                found_url = compound["msk_url"]
+                print(f"  Using msk_url from target_list for {name}: {found_url}")
                 break
 
-        # Also try from target_list msk_url directly if provided
+        # Second: try exact slug match from index
         if not found_url:
-            for compound in target_list["supplements"]:
-                if compound["canonical_name"] == name and compound.get("msk_url"):
-                    found_url = compound["msk_url"]
-                    print(f"  Using msk_url from target_list for {name}: {found_url}")
+            for variant in all_variants:
+                if variant in herb_urls:
+                    found_url = herb_urls[variant]
                     break
 
         if not found_url:
