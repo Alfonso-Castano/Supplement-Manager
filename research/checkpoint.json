@@ -1,6 +1,6 @@
 {
   "stage0_complete": true,
-  "stage1_complete": false,
+  "stage1_complete": true,
   "stage2_complete": false,
   "stage3_gap_report_complete": false,
   "stage3_compile_complete": false,

@@ -1,0 +1,7724 @@
+{
+  "canonical_name": "ginkgo_biloba",
+  "query_variants": [
+    "GINKGO BILOBA",
+    "GINKGO",
+    "MAIDENHAIR TREE",
+    "GINKGO BILOBA EXTRACT"
+  ],
+  "total_reports_fetched": 300,
+  "co_occurrence_reports": 300,
+  "co_occurrences": [
+    {
+      "drugs": [
+        "CLOPIDOGREL",
+        "GINKGO BILOBA"
+      ],
+      "reactions": [
+        "Vaginal haemorrhage",
+        "Haematuria",
+        "Contusion"
+      ],
+      "report_id": "10006139"
+    },
+    {
+      "drugs": [
+        "CLOPIDOGREL (CLOPIDOGREL)",
+        "GINKGO BILOBA (GINKGO BILOBA)"
+      ],
+      "reactions": [
+        "Contusion",
+        "Vaginal haemorrhage",
+        "Dizziness",
+        "Feeling abnormal",
+        "Chromaturia",
+        "Haematuria",
+        "Drug interaction",
+        "Self-medication"
+      ],
+      "report_id": "10006796"
+    },
+    {
+      "drugs": [
+        "PROLIA",
+        "GINKGO BILOBA"
+      ],
+      "reactions": [
+        "Urinary tract infection",
+        "Vaginal haemorrhage",
+        "Device failure",
+        "Blood test abnormal",
+        "Urine analysis abnormal",
+        "Muscle spasms",
+        "Gingival pain",
+        "Nasopharyngitis",
+        "Fluid retention",
+        "Oral herpes",
+        "Dermal cyst",
+        "Weight increased",
+        "Fatigue",
+        "Pain in extremity"
+      ],
+      "report_id": "10014414"
+    },
+    {
+      "drugs": [
+        "EXELON PATCH",
+        "ATENOLOL",
+        "SOMALGIN",
+        "LOSARTAN",
+        "GINKGO BILOBA"
+      ],
+      "reactions": [
+        "Depression",
+        "Pneumonia",
+        "Fluid retention"
+      ],
+      "report_id": "10020057"
+    },
+    {
+      "drugs": [
+        "OCTAGAM",
+        "ALENDRONATE SODIUM",
+        "VITAMIN B COMPLEX",
+        "XIPAMIDE",
+        "GINKGO BILOBA",
+        "DULOXETINE"
+      ],
+      "reactions": [
+        "Embolism",
+        "Aortic thrombosis",
+        "Vertigo",
+        "Pain in extremity",
+        "Monoparesis",
+        "Dyspnoea",
+        "Tachycardia",
+        "General physical health deterioration",
+        "Cardiogenic shock",
+        "Cardiac death",
+        "Peripheral artery thrombosis",
+        "Peripheral artery thrombosis",
+        "Intracardiac thrombus",
+        "Arteriosclerosis",
+        "Renal infarct",
+        "Arteriosclerosis coronary artery",
+        "Ventricular failure",
+        "Pulmonary oedema"
+      ],
+      "report_id": "10022108"
+    },
+    {
+      "drugs": [
+        "EXFORGE",
+        "EXFORGE",
+        "GINKGO BILOBA",
+        "GINKGO BILOBA",
+        "B12//CYANOCOBALAMIN"
+      ],
+      "reactions": [
+        "Dementia Alzheimer^s type",
+        "Memory impairment",
+        "Rash",
+        "Pruritus"
+      ],
+      "report_id": "10040096"
+    },
+    {
+      "drugs": [
+        "TECFIDERA",
+        "GEODON",
+        "BENZACILLN",
+        "LAMOTRIGINE",
+        "NAPROXEN",
+        "BACLOFEN",
+        "TRAZODONE",
+        "SPIRONOLACTONE",
+        "CYCLOBENZAPRINE",
+        "CYANOCOBALAMIN",
+        "EPINEPHRINE",
+        "ADDERALL",
+        "DOXYCYCLINE",
+        "BENZTROPINE",
+        "FINACEA",
+        "GINKGO BILOBA",
+        "VITAMIN B12",
+        "CALCIUM",
+        "OMEPRAZOLE",
+        "BASE E-POLYETHYLENE GLYCOL PD"
+      ],
+      "reactions": [
+        "Dementia",
+        "Hypoaesthesia"
+      ],
+      "report_id": "10046367"
+    },
+    {
+      "drugs": [
+        "PLAN B ONE-STEP",
+        "MULTIVITAMIN",
+        "GINKGO BILOBA",
+        "IRON",
+        "VITAMIN B12",
+        "VITAMIN D3"
+      ],
+      "reactions": [
+        "Diarrhoea",
+        "Menstruation irregular"
+      ],
+      "report_id": "10053365"
+    },
+    {
+      "drugs": [
+        "MONO-TILDIEM",
+        "PARIET (RABEPRAZOLE SODIUM) (RABEPRAZOLE SODIUM)",
+        "GINKOR (GINKOR /00838501/) (TROXERUTIN, GINKGO BILOBA EXTRACT)"
+      ],
+      "reactions": [
+        "Drug reaction with eosinophilia and systemic symptoms"
+      ],
+      "report_id": "10061595"
+    },
+    {
+      "drugs": [
+        "OXALIPLAT TEVA",
+        "IRINOTECANO ACTAVIS",
+        "CALCIUM FOLINATE TEVA",
+        "FLUOROURACILO ACCORD",
+        "DEXAMETASONA",
+        "GRANISSETROM ACTAVIS",
+        "TRIMETAZIDINA",
+        "LISINOPRIL",
+        "OMEPRAZOL",
+        "ALPRAZOLAM",
+        "GINKGO BILOBA"
+      ],
+      "reactions": [
+        "Oropharyngeal discomfort",
+        "Erythema",
+        "Speech disorder",
+        "Off label use",
+        "Hypoaesthesia oral",
+        "Blood pressure increased"
+      ],
+      "report_id": "10068997"
+    },
+    {
+      "drugs": [
+        "ZOLPIDEM",
+        "ZOLPIDEM",
+        "LYSANXIA",
+        "LYSANXIA",
+        "TERCIAN /00759301/",
+        "TERCIAN /00759301/",
+        "TANAKAN (GINKGO BILOBA EXTRACT)",
+        "FORLAX/00754501) MACROGOL",
+        "TRIMEBUTINE BIOGARAN (TRIMEBUTINE MALEATE)",
+        "EFFERALGAN/00020001/ (PARACETAMOL)",
+        "FLUIMUCIL (ACETYLCYSTEINE)"
+      ],
+      "reactions": [
+        "Disturbance in attention",
+        "Disturbance in attention",
+        "Impaired driving ability",
+        "Road traffic accident",
+        "Emotional disorder"
+      ],
+      "report_id": "10083473"
+    },
+    {
+      "drugs": [
+        "PREVACID",
+        "ATENOLOL (ATENOLOL)",
+        "EFFIENT (PRASUGREL HYDROCHLORIDE)",
+        "RANITIDINE",
+        "GLUCOSAMINE AND CHONDROITIN (CHONDROITIN SULFATE SODIUM, GLUCASAMINE)",
+        "JUXTAPID",
+        "LOSARTAN (LOSARTAN POTASSIUM)",
+        "COLLAGEN (COLLAGEN)",
+        "CLARITIN",
+        "GINKOBA (GINKGO BILOBA)"
+      ],
+      "reactions": [
+        "Somnolence",
+        "Abdominal pain upper",
+        "Diarrhoea",
+        "Gastrointestinal disorder",
+        "Flatulence",
+        "Feeling abnormal",
+        "Abdominal discomfort",
+        "Headache",
+        "Weight decreased"
+      ],
+      "report_id": "10109801"
+    },
+    {
+      "drugs": [
+        "ABILIFY TABS 5 MG",
+        "MAGNESIUM",
+        "GINKGO BILOBA"
+      ],
+      "reactions": [
+        "Psychotic disorder",
+        "Food craving",
+        "Amnesia",
+        "Asthenia",
+        "Dizziness",
+        "Malaise",
+        "Off label use"
+      ],
+      "report_id": "10133520"
+    },
+    {
+      "drugs": [
+        "CALCIUM",
+        "MULTI VITAMIN",
+        "VITAMIN B 6",
+        "STEROIDS",
+        "IPILIMUMAB",
+        "OSTEO BI-FLEX",
+        "TURMERIC",
+        "VITAMIN D",
+        "FISH OIL",
+        "GINKGO BILOBA",
+        "PREDNISONE."
+      ],
+      "reactions": [
+        "Colitis",
+        "Small intestinal obstruction"
+      ],
+      "report_id": "10141749"
+    },
+    {
+      "drugs": [
+        "ATORVASTATIN CALCIUM",
+        "ROXITHROMYCIN",
+        "CLOPIDOGREL",
+        "LEVAMLODIPINE MALEATE",
+        "GINKGO BILOBA"
+      ],
+      "reactions": [
+        "Drug interaction",
+        "Myositis"
+      ],
+      "report_id": "10162586"
+    },
+    {
+      "drugs": [
+        "SELOZOK",
+        "OMEPRAZOLE",
+        "ROSUVASTATIN",
+        "ROSUVASTATIN",
+        "UNKNOWN",
+        "GINKGO BILOBA",
+        "SIMVASTATIN",
+        "ASPIRINA PREVENT",
+        "ISORDIL"
+      ],
+      "reactions": [
+        "Coronary artery occlusion",
+        "Blood cholesterol increased",
+        "Blood glucose increased",
+        "Dysuria",
+        "Weight decreased"
+      ],
+      "report_id": "10162870"
+    },
+    {
+      "drugs": [
+        "HUMULIN N",
+        "HUMULIN N",
+        "OMEPRAZOL                          /00661201/",
+        "LASIX                              /00032601/",
+        "LASIX                              /00032601/",
+        "GINKGO BILOBA",
+        "POLIVITAMINICO",
+        "CONCOR"
+      ],
+      "reactions": [
+        "Cerebrovascular accident",
+        "Blood glucose increased",
+        "Thrombosis",
+        "Electroencephalogram abnormal",
+        "Computerised tomogram abnormal",
+        "Blood test abnormal",
+        "Hypertension"
+      ],
+      "report_id": "10191461"
+    },
+    {
+      "drugs": [
+        "BUPROPION HYDROCHLORIDE",
+        "LORAZEPAM",
+        "AMBIEN",
+        "SUMATRIPTAN SUCCINATE",
+        "SUMATRIPTAN SUCCINATE",
+        "AMERGE",
+        "FLONASE",
+        "LAMICTAL",
+        "ADVIL",
+        "ASPIRIN",
+        "EXCEDRIN MIGRAINE",
+        "PARACETAMOL",
+        "FEVERFEW",
+        "NIACIN",
+        "MAGNESIUM CITRATE",
+        "GINGER",
+        "COENZYME Q10",
+        "GINKGO BILOBA",
+        "FROVA",
+        "MAXALT",
+        "SEROQUEL",
+        "RELPAX",
+        "ZOMIG",
+        "MIGRANAL",
+        "TOPAMAX",
+        "NEURONTIN",
+        "VERAPAMIL",
+        "DEPAKOTE",
+        "ERGOTRATE",
+        "CAFERGOT",
+        "MIDRID (MIDRID /00450801/) (PARACETAMOL, DICHLORALPHENAZONE, ISOMETHEPTENE)",
+        "AUROTO",
+        "ALEVE",
+        "PROCHLORPERAZINE",
+        "PROMETHAZINE HYDROCHLORIDE",
+        "CEFALEXIN",
+        "NUVARING",
+        "YAZ",
+        "YASMIN",
+        "PHENERGAN",
+        "AMITRIPTYLINE",
+        "CYMBALTA",
+        "ZOLOFT",
+        "ZYRTEC-D",
+        "ALLEGRA",
+        "OPIUM ALKALOIDS",
+        "MOTRIN",
+        "TYLENOL",
+        "DHE",
+        "NAPROSYN",
+        "MIDCHLOR"
+      ],
+      "reactions": [
+        "Suicidal ideation",
+        "Therapeutic response decreased",
+        "Drug ineffective",
+        "Device failure",
+        "Fear",
+        "Dyspnoea",
+        "Chest discomfort",
+        "Throat tightness",
+        "Rash",
+        "Abdominal pain upper",
+        "Migraine",
+        "Tinnitus",
+        "Cognitive disorder",
+        "Memory impairment",
+        "Tremor",
+        "Disturbance in attention",
+        "Parosmia",
+        "Impaired work ability",
+        "Panic attack",
+        "Convulsion",
+        "Feeling of despair",
+        "Product substitution issue"
+      ],
+      "report_id": "10203522"
+    },
+    {
+      "drugs": [
+        "HUMALOG",
+        "LANTUS",
+        "DAPAGLIFLOZIN",
+        "GINKGO BILOBA",
+        "ENALAPRIL",
+        "PRESSAT",
+        "NATRILIX                           /00340101/",
+        "LINAGLIPTIN"
+      ],
+      "reactions": [
+        "Eye haemorrhage",
+        "Visual acuity reduced",
+        "Diabetic neuropathy"
+      ],
+      "report_id": "10203777"
+    },
+    {
+      "drugs": [
+        "SYNTHROID",
+        "SYNTHROID",
+        "LEVOTHYROXINE SODIUM",
+        "ENALAPRIL MALEATE",
+        "GINKGO BILOBA",
+        "LABIRIN",
+        "ALL OTHER THERAPEUTIC PRODUCTS",
+        "PASSIFLORINE"
+      ],
+      "reactions": [
+        "Diabetes mellitus",
+        "Blood triglycerides increased",
+        "Blood pressure fluctuation",
+        "Alopecia",
+        "Hair disorder",
+        "Blood cholesterol increased"
+      ],
+      "report_id": "10203944"
+    },
+    {
+      "drugs": [
+        "GINKGO BILOBA EXTRACT",
+        "TRANEXAMIC ACID.",
+        "OMEPRAZOLE.",
+        "HEPARIN SODIUM.",
+        "HEPARIN SODIUM.",
+        "HYDROXYZINE HYDROCHLORIDE.",
+        "PROPOFOL.",
+        "CORDARONE",
+        "FLUINDIONE",
+        "PROTAMINE SULPHATE",
+        "AVODART",
+        "CLINDAMYCIN PALMITATE HYDROCHLORIDE.",
+        "EPHEDRINE RENAUDIN",
+        "CISATRACURIUM BESILATE",
+        "ETOMIDATE.",
+        "CRESTOR",
+        "STILNOX",
+        "CLINDAMYCIN PHOSPHATE.",
+        "HEMOSTATIC",
+        "VANCOMYCIN",
+        "ACETYLSALICYLATE LYSINE",
+        "KETAMINE",
+        "SUFENTANIL",
+        "ESOMEPRAZOLE",
+        "LERCANIDIPINE HYDROCHLORIDE",
+        "NOREPINEPHRINE",
+        "ACETYLSALICYLATE LYSINE",
+        "CLINDAMYCIN HYDROCHLORIDE."
+      ],
+      "reactions": [
+        "Haemorrhage",
+        "Post procedural haemorrhage"
+      ],
+      "report_id": "10229372"
+    },
+    {
+      "drugs": [
+        "ETOMIDATE",
+        "SUFENTANIL",
+        "PROTAMINE SULPHATE",
+        "TRANEXAMIC ACID",
+        "AVODART",
+        "CRESTOR",
+        "ESOMEPRAZOLE",
+        "STILNOX",
+        "CORDARONE",
+        "LERCANIDIPINE HYDROCHLORIDE",
+        "CLINDAMYCIN PHOSPHATE",
+        "CLINDAMYCIN HYDROCHLORIDE",
+        "CLINDAMYCIN PALMITATE HYDROCHLORIDE",
+        "FLUINDIONE",
+        "OMEPRAZOLE",
+        "EPHEDRINE RENAUDIN",
+        "NORADRENALINE /00127501/",
+        "HEMOSTATIC",
+        "VANCOMYCIN",
+        "CISATRACURIUM BESILATE",
+        "HEPARIN SODIUM",
+        "HEPARIN SODIUM",
+        "HYDROXYZINE HYDROCHLORIDE",
+        "ACETYLSALICYLATE LYSINE",
+        "ACETYLSALICYLATE LYSINE",
+        "GINKGO BILOBA EXTRACT",
+        "PROPOFOL",
+        "KETAMINE"
+      ],
+      "reactions": [
+        "Post procedural haemorrhage",
+        "Haemorrhage"
+      ],
+      "report_id": "10229373"
+    },
+    {
+      "drugs": [
+        "AZATHIOPRINE (AZATHIOPRINE)",
+        "HUMIRA",
+        "PAXIL",
+        "MULTIVITAMINS (ERGOCALCIFEROL,RETINOL,NICOTINAMIDE,ASCORBIC ACID,FOLIC ACID,RIBOFLAVIN,PANTHENOL, THIAMINE HYDROCHLORIDE)",
+        "ZYRTEC (CETIRIZINE HYDROCHLORIDE)",
+        "VITAMIN B (VITAMIN B COMPLEX)",
+        "PRILOSEC (OMEPRAZOLE)",
+        "NASAL (OXYMETAZOLINE HYDROCHLORIDE)",
+        "FISH OIL (FISH OIL)",
+        "VITAMIN B 12 (VITAMIN B NOS)",
+        "VITAMIN D3 (COLECALCIFEROL)",
+        "CALCIUM + VITAMIN D (CALCIUM CARBONATE,COLECALCIFEROL)",
+        "IRON (IRON)",
+        "GINKGO BILOBA (GINKGO BILOBA)",
+        "KLOR-CON (POTASSIUM CHLORIDE)",
+        "NORVASC (AMLODIPINE BESILATE)"
+      ],
+      "reactions": [
+        "Joint swelling",
+        "Arthralgia",
+        "Injection site pruritus",
+        "Drug ineffective",
+        "Diarrhoea",
+        "Abdominal distension",
+        "Malignant melanoma"
+      ],
+      "report_id": "10234919"
+    },
+    {
+      "drugs": [
+        "ENOXAPARIN",
+        "REVLIMID",
+        "COQ10",
+        "GARLIC.",
+        "GINSENG",
+        "GLUCOSAMINE CHONDROITIN",
+        "CALCIUM",
+        "ASPIRIN.",
+        "GINKGO BILOBA"
+      ],
+      "reactions": [
+        "Rectal haemorrhage",
+        "Palpitations"
+      ],
+      "report_id": "10270261"
+    },
+    {
+      "drugs": [
+        "CRIZOTINIB",
+        "MAGNESIUM OXIDE.",
+        "FAMOTIDINE.",
+        "NORTRIPTYLINE",
+        "THEOBROMINE",
+        "GINKGO BILOBA",
+        "MELOXICAM.",
+        "METOCLOPRAMIDE."
+      ],
+      "reactions": [
+        "Vertebral column mass"
+      ],
+      "report_id": "10274045"
+    },
+    {
+      "drugs": [
+        "GINKGO BILOBA",
+        "SOLU-MEDROL",
+        "FAMPYRA",
+        "PAO PEREIRA (HOMEOPATHIC PREPARATION)",
+        "RAUWOLFIA VOMITARIA"
+      ],
+      "reactions": [
+        "Hepatitis acute",
+        "Jaundice"
+      ],
+      "report_id": "10274816"
+    },
+    {
+      "drugs": [
+        "HYDROCHLOROTHIAZIDE.",
+        "RIVOTRIL",
+        "GINKGO BILOBA",
+        "RIVOTRIL",
+        "HYDROCHLOROTHIAZIDE.",
+        "RIVOTRIL",
+        "PHENYTOIN."
+      ],
+      "reactions": [
+        "Agitation",
+        "Hypertensive crisis",
+        "Insomnia",
+        "Therapy cessation",
+        "Amnesia",
+        "Loss of consciousness"
+      ],
+      "report_id": "10275009"
+    },
+    {
+      "drugs": [
+        "VITAMIN C",
+        "CALCIUM",
+        "FISH OIL",
+        "SUPER B ENERGY COMPLEX",
+        "CINNAMON.",
+        "GINKGO BILOBA",
+        "ST JOHN WORT",
+        "DILANTIN"
+      ],
+      "reactions": [
+        "Deafness",
+        "Tinnitus"
+      ],
+      "report_id": "10290523"
+    },
+    {
+      "drugs": [
+        "BAYER GENUINE ASPIRIN",
+        "GINKGO BILOBA"
+      ],
+      "reactions": [
+        "Drug hypersensitivity",
+        "Dyspnoea",
+        "Choking",
+        "Medication error"
+      ],
+      "report_id": "10351609"
+    },
+    {
+      "drugs": [
+        "GINKGO BILOBA",
+        "FENATYL",
+        "VERTIX",
+        "CLOXAZOLAM",
+        "REBIF"
+      ],
+      "reactions": [
+        "Labyrinthitis"
+      ],
+      "report_id": "10357968"
+    },
+    {
+      "drugs": [
+        "MYRBETRIQ",
+        "MYSTATIN",
+        "ALKALOID",
+        "VIT K2",
+        "SYNTHROID",
+        "LATISSE",
+        "GINKGO BILOBA",
+        "GLUCOSAMIN CHONDROITIN",
+        "MENS ROGAINE UNSCENTED FORMULA",
+        "MULTIVIT B12, C",
+        "ZINC",
+        "MAGNESIUM",
+        "EVISTA",
+        "DESONIDE.",
+        "CALCIUM D3",
+        "TRAZODINE",
+        "ASTRACE",
+        "FOLIC ACID.",
+        "IRON",
+        "PROBIOTIC",
+        "LOSARTAN",
+        "GUAIFENESIN."
+      ],
+      "reactions": [
+        "Pain",
+        "Rash",
+        "Pruritus",
+        "Nipple disorder"
+      ],
+      "report_id": "10359345"
+    },
+    {
+      "drugs": [
+        "MELPHALAN",
+        "VIRLESS",
+        "GINKGO BILOBA EXTRACT",
+        "ZOMETA",
+        "DEXAMETHASONE.",
+        "CARFILZOMIB",
+        "MELPHALAN",
+        "PREDNISONE.",
+        "DIOVAN",
+        "DOXAZOSIN",
+        "DOXABEN",
+        "DEXAMETHASONE.",
+        "CARFILZOMIB",
+        "CARFILZOMIB",
+        "TRENTAL",
+        "CONCOR5",
+        "CONCOR5",
+        "EXFORGE",
+        "EXFORGE",
+        "PREDNISONE.",
+        "ZOMETA",
+        "DUTASTERIDE.",
+        "CARFILZOMIB"
+      ],
+      "reactions": [
+        "Respiratory failure",
+        "Fungal infection",
+        "Pneumonitis"
+      ],
+      "report_id": "10361184"
+    },
+    {
+      "drugs": [
+        "PANTOPRAZOLE",
+        "QUEROPAX",
+        "EXODUS//ESCITALOPRAM OXALATE",
+        "TRILEPTAL",
+        "CLOPIDOGREL",
+        "AMIODARONE",
+        "GINKGO BILOBA",
+        "SIMVASTATIN.",
+        "CARVEDILOL."
+      ],
+      "reactions": [
+        "Pyrexia",
+        "Aphagia",
+        "Terminal state",
+        "Hypertension",
+        "Skin discolouration",
+        "Urticaria",
+        "Diabetes mellitus",
+        "Choking sensation",
+        "Hypersensitivity",
+        "Skin exfoliation",
+        "Oral pustule",
+        "Blood glucose increased",
+        "Skin reaction"
+      ],
+      "report_id": "10363558"
+    },
+    {
+      "drugs": [
+        "REVLIMID",
+        "SIMVASTATIN (TABLETS)",
+        "COQ-10 (UBIDECARENONE) (CAPSULES)",
+        "GLUCOSAMINE (TABLETS)",
+        "SAW PALMETTO (SERENOA REPENS) (CAPSULES)",
+        "BENICAR (OLMESARTAN MEDOXOMIL) (TABLETS)",
+        "OMEPRAZOLE (TABLETS)",
+        "FISH OIL (CAPSULES)",
+        "JALYN (DUTAS-T) (CAPSULES)",
+        "LEVOTHYROXINE (TABLETS)",
+        "ASPIRIN (ACETYLSALICYLIC ACID) (TABLETS)",
+        "CRANBERRY (VACCINIUM OXYCOCCUS FRUIT EXTRACT) (CAPSULES)",
+        "MULTIVITAMIN (MULTIVITAMINS) (UNKNOWN)",
+        "PROCHLORPERAZINE MALEATE (TABLETS)",
+        "GINGER EXTRACT (CAPSULES)",
+        "GINKGO BILOBA (TABLETS)",
+        "BROMELAIN (BROMELAINS) (UNKNOWN)",
+        "AMLODIPINE (TABLETS)",
+        "TOVIAZ (FESOTERODINE FUMARATE)",
+        "VESICARE (SOLIFENACIN SUCCINATE) (TABLETS)",
+        "IMIPRAMINE (TABLETS)",
+        "DECADRON (DEXAMETHASONE) (UNKNOWN)"
+      ],
+      "reactions": [
+        "Thrombosis"
+      ],
+      "report_id": "10369374"
+    },
+    {
+      "drugs": [
+        "ASPIRIN.",
+        "FOLIC ACID.",
+        "GARLIC.",
+        "METFORMIN",
+        "PRADAXA",
+        "VITAMIN B COMPLEX",
+        "CRESTOR",
+        "MUCINEX",
+        "VITAMIN E",
+        "DIOVAN",
+        "METOPROLOL",
+        "LASIX",
+        "CAPTOPRIL.",
+        "GINKGO BILOBA"
+      ],
+      "reactions": [
+        "Haemorrhagic anaemia",
+        "Acute prerenal failure",
+        "Upper gastrointestinal haemorrhage",
+        "Coagulopathy",
+        "Fall"
+      ],
+      "report_id": "10385551"
+    },
+    {
+      "drugs": [
+        "NORCO",
+        "VITAMIN B COMPLEX",
+        "SILYMARIN",
+        "METOPROLOL",
+        "VANQUISH",
+        "UBIDECARENONE",
+        "CYANOCOBALAMIN.",
+        "CARNITINE",
+        "COLECALCIFEROL",
+        "GINKGO BILOBA",
+        "COCONUT OIL",
+        "THIOCTIC ACID",
+        "BONE MEAL",
+        "RADIOTHERAPY",
+        "ALOE VERA",
+        "TYKERB",
+        "TYKERB",
+        "OMEGA-3 MARINE TRIGLYCERIDES",
+        "GRAPE SEED EXTRACT ^NATURAL FACTORS^",
+        "TRASTUZUMAB",
+        "MELATONIN",
+        "FISH OIL",
+        "MAGNESIUM SALT",
+        "PACLITAXEL.",
+        "WARFARIN SODIUM.",
+        "ASCORBIC ACID.",
+        "ZOMETA",
+        "TYKERB",
+        "PREGABALIN.",
+        "ADDERALL",
+        "OLIVE OIL",
+        "DOCOSAHEXAENOIC ACID"
+      ],
+      "reactions": [
+        "Chest discomfort",
+        "Pain",
+        "Nasal ulcer",
+        "Dyspnoea",
+        "Diarrhoea",
+        "Onychalgia",
+        "Blood lactate dehydrogenase increased",
+        "Renal function test abnormal",
+        "Hyperventilation",
+        "Ill-defined disorder",
+        "Balance disorder",
+        "Muscle tightness",
+        "Feeling hot",
+        "Musculoskeletal pain",
+        "Fatigue",
+        "Anaemia",
+        "Paraesthesia",
+        "Hypoaesthesia",
+        "Tension",
+        "Somnolence",
+        "Pain in extremity",
+        "Anxiety",
+        "Cough",
+        "Rash",
+        "Weight increased",
+        "Middle insomnia",
+        "Liver function test abnormal",
+        "Epistaxis",
+        "Neuropathy peripheral",
+        "Abasia",
+        "Dry skin",
+        "Dyspepsia",
+        "Nausea",
+        "Chest pain",
+        "Palmar erythema",
+        "Hallucination",
+        "Device failure",
+        "Body temperature decreased",
+        "Gait disturbance",
+        "Memory impairment",
+        "Back pain",
+        "Ejection fraction decreased",
+        "Heart rate irregular",
+        "Thyroid function test abnormal",
+        "Erythema",
+        "Muscular weakness",
+        "Disturbance in attention",
+        "Nasal congestion",
+        "Lymphoedema",
+        "Vomiting",
+        "Arthralgia",
+        "Flatulence",
+        "Panic attack",
+        "Visual impairment",
+        "Sleep disorder",
+        "Myalgia"
+      ],
+      "report_id": "10440655"
+    },
+    {
+      "drugs": [
+        "DEXAMETHASONE (DEXAMETHASONE SODIUM PHOSPHATE)",
+        "VINBLASTINE SULFATE.",
+        "SULFAMETHOXAZOLE AND TRIMETHOPRIM (SULFAMETHOXAZOLE, TRIMETHOPRIM)",
+        "DOXORUBICIN",
+        "DACARBAZINE.",
+        "GABAPENTIN.",
+        "BRENTUXIMAB VEDOTIN",
+        "GINKGO (GINKGO BILOBA)",
+        "METFORMIN",
+        "PALONOSETRON"
+      ],
+      "reactions": [
+        "Chest discomfort",
+        "Herpes virus infection",
+        "Pneumonia",
+        "Hepatitis B",
+        "Pyrexia",
+        "Electrocardiogram QT prolonged"
+      ],
+      "report_id": "10444454"
+    },
+    {
+      "drugs": [
+        "XALATAN",
+        "PARIET",
+        "DOXAZOSIN",
+        "GINKGO BILOBA",
+        "SOMALGIN CARDIO",
+        "NEBILET",
+        "GINKGO BILOBA",
+        "LIPITOR"
+      ],
+      "reactions": [
+        "Cardiac disorder",
+        "Drug ineffective"
+      ],
+      "report_id": "10445803"
+    },
+    {
+      "drugs": [
+        "NIFEDIPINE.",
+        "KETOPROFEN.",
+        "METFORMIN",
+        "FLUPENTIXOL",
+        "METAMIZOL                          /06276702/",
+        "PIRACETAM",
+        "TRIMETAZIDINE",
+        "GINKGO BILOBA",
+        "DIOSMIN",
+        "ASPIRIN.",
+        "TRAMADOL",
+        "DIAZEPAM.",
+        "SIMVASTATIN 20MG",
+        "METOPROLOL",
+        "DICLOFENAC",
+        "PENTAERYTHRITOL TETRANITRATE",
+        "GENTAMICIN."
+      ],
+      "reactions": [
+        "Haemorrhoids",
+        "Blood pressure fluctuation",
+        "Low density lipoprotein increased",
+        "Constipation",
+        "Anxiety",
+        "High density lipoprotein decreased",
+        "Adverse event",
+        "Blood glucose increased",
+        "Creatinine renal clearance decreased",
+        "Blood cholesterol increased"
+      ],
+      "report_id": "10455757"
+    },
+    {
+      "drugs": [
+        "VITAMIN E",
+        "GINKGO BILOBA",
+        "TOPIRAMATE.",
+        "BACLOFEN.",
+        "MAGNESIUM",
+        "FOLIC ACID.",
+        "METOPROLOL",
+        "VITAMIN D3",
+        "CALCIUM",
+        "LORAZEPAM.",
+        "METHOTREXATE",
+        "PHENERGAN",
+        "CYMBALTA",
+        "ASPIRIN.",
+        "PREDNISONE.",
+        "TYLENOL",
+        "XELJANZ",
+        "LIPITOR",
+        "VITAMIN C",
+        "NEXIUM 24HR"
+      ],
+      "reactions": [
+        "Headache",
+        "Somnolence",
+        "Drug hypersensitivity"
+      ],
+      "report_id": "10456614"
+    },
+    {
+      "drugs": [
+        "ESTRADIOL.",
+        "FISH OIL",
+        "TEGRETOL",
+        "LISINOPRIL.",
+        "GINKGO BILOBA",
+        "VITAMIN D",
+        "LAMOTRIGINE.",
+        "OMEPRAZOLE.",
+        "ASPIRIN."
+      ],
+      "reactions": [
+        "Lower limb fracture",
+        "Loss of consciousness",
+        "Cerebrovascular accident",
+        "Upper limb fracture",
+        "Walking disability",
+        "Bone disorder",
+        "Insomnia",
+        "Convulsion",
+        "Nervous system disorder",
+        "Blood sodium decreased"
+      ],
+      "report_id": "10456639"
+    },
+    {
+      "drugs": [
+        "FLUDEX",
+        "PRADAXA",
+        "CRESTOR",
+        "PROPAFENONE.",
+        "GINKGO BILOBA",
+        "CONCOR"
+      ],
+      "reactions": [
+        "Abdominal pain",
+        "Malaise",
+        "Cold sweat",
+        "Abdominal pain upper",
+        "Dyspepsia"
+      ],
+      "report_id": "10462272"
+    },
+    {
+      "drugs": [
+        "SINGULAIR",
+        "GINKGO BILOBA",
+        "LASIX",
+        "KLOR-CON",
+        "ZAROXOLYN",
+        "BACTROBAN",
+        "SOTALOL.",
+        "BONIVA",
+        "LANTUS",
+        "FEMARA",
+        "VICTOZA",
+        "ALDACTONE",
+        "DIOVAN",
+        "PRADAXA",
+        "LANOXIN",
+        "LEXAPRO",
+        "TYLENOL",
+        "ABILITY",
+        "MOMETASONE FUROATE.",
+        "AIEVE",
+        "OMEPRAZOLE.",
+        "PRANDIN",
+        "TOPAMAX",
+        "CALCIUM CITRATE",
+        "KRILL"
+      ],
+      "reactions": [
+        "Bacillus bacteraemia",
+        "Ulcer",
+        "Coagulopathy",
+        "Urinary tract infection",
+        "Gastritis haemorrhagic",
+        "Haemorrhagic anaemia",
+        "Renal failure acute",
+        "Hypernatraemia"
+      ],
+      "report_id": "10465705"
+    },
+    {
+      "drugs": [
+        "MARIJUANA",
+        "POTASSIUM CHLORIDE.",
+        "DIAZEPAM.",
+        "DOXEPIN",
+        "HYDROCODONE",
+        "LEVOTHYROXINE",
+        "TEMAZEPAM.",
+        "NALDEMEDINE",
+        "VITAMIN B12",
+        "ACETAMINOPHEN.",
+        "XOPENEX HFA",
+        "BECLOMETHASONE DIPROPIONATE        /00212602/",
+        "ETHANOL",
+        "GABAPENTIN.",
+        "NORTRIPTYLINE",
+        "FUROSEMIDE.",
+        "CITALOPRAM",
+        "MULTIVITAMIN                       /00097801/",
+        "GINKGO BILOBA",
+        "METHAMPHETAMINE HYDROCHLORIDE TABLETS, USP"
+      ],
+      "reactions": [
+        "Exposure via ingestion",
+        "Obesity",
+        "Emphysema",
+        "Death",
+        "Hypertensive heart disease",
+        "Tobacco user",
+        "Arteriosclerosis coronary artery"
+      ],
+      "report_id": "10478088"
+    },
+    {
+      "drugs": [
+        "GINKGO BILOBA",
+        "LAMISIL",
+        "PREVACID",
+        "ZOLOFT",
+        "DETROL LA",
+        "ALBUTEROL.",
+        "MACROBID",
+        "SINGULAIR",
+        "ADVAIR HFA",
+        "BACTRIM",
+        "NEXIUM"
+      ],
+      "reactions": [
+        "Vision blurred",
+        "Prescribed overdose",
+        "Visual impairment",
+        "Cataract",
+        "Eye disorder"
+      ],
+      "report_id": "10491370"
+    },
+    {
+      "drugs": [
+        "FLAXSEED",
+        "ZIDOVUDINE.",
+        "LAMIVUDINE.",
+        "CALCIUM",
+        "SUSTIVA",
+        "MAGNESIUM",
+        "GINKGO BILOBA",
+        "MULTI VITAMIN"
+      ],
+      "reactions": [
+        "Virologic failure",
+        "Drug interaction"
+      ],
+      "report_id": "10495703"
+    },
+    {
+      "drugs": [
+        "DIGOXIN.",
+        "INSULIN LISPRO",
+        "INDAPAMIDE.",
+        "INSULIN LISPRO",
+        "LERCANIDIPINE",
+        "GINKGO BILOBA",
+        "NICERGOLINE",
+        "ACETYLSALICYLIC ACID",
+        "RAMIPRIL.",
+        "SIMVASTATIN.",
+        "NEBIVOLOL"
+      ],
+      "reactions": [
+        "Fall",
+        "Hypoglycaemia",
+        "Subdural haematoma",
+        "Craniocerebral injury",
+        "Inappropriate schedule of drug administration"
+      ],
+      "report_id": "10518383"
+    },
+    {
+      "drugs": [
+        "SYMBICORT",
+        "VENTOLIN",
+        "FORSTEO",
+        "NITROMINT",
+        "COVEREX",
+        "ESPUMISAN                          /00159501/",
+        "MEMORIL                            /00337701/",
+        "ASPIRIN PROTECT",
+        "CORVATON",
+        "FRONTIN",
+        "GINKGO BILOBA",
+        "SPIRIVA"
+      ],
+      "reactions": [
+        "Asthma"
+      ],
+      "report_id": "10523340"
+    },
+    {
+      "drugs": [
+        "HUMULIN N",
+        "HUMULIN NOS",
+        "HUMULIN NOS",
+        "DIOSMIN",
+        "LANTUS",
+        "HUMULIN N",
+        "SIMVASTATIN.",
+        "MONOCORDIL",
+        "DULOXETINE",
+        "PROCORALAN",
+        "VASTAREL",
+        "ALENDRONATE",
+        "HYDROCHLOROTHIAZIDE.",
+        "HUMULIN NOS",
+        "GLIFAGE",
+        "CALCIUM +D3",
+        "LINAGLIPTIN",
+        "CARVEDILOL.",
+        "GINKGO BILOBA",
+        "HUMULIN NOS",
+        "ENALAPRIL",
+        "HUMALOG"
+      ],
+      "reactions": [
+        "Drug ineffective",
+        "Muscular weakness",
+        "Somnolence",
+        "Injection site pain",
+        "Blood glucose decreased",
+        "Blood glucose increased",
+        "Limb discomfort",
+        "Pneumonia",
+        "Blood glucose fluctuation",
+        "Cataract",
+        "Angina pectoris",
+        "Dizziness",
+        "Hypoaesthesia",
+        "Arthritis",
+        "Feeling abnormal",
+        "Urinary tract infection",
+        "Injection site bruising",
+        "Cerebrovascular accident",
+        "Fibromyalgia",
+        "Inappropriate schedule of drug administration",
+        "Cerebrovascular accident",
+        "Balance disorder"
+      ],
+      "report_id": "10531965"
+    },
+    {
+      "drugs": [
+        "AMLODIPINE (AMLODIPINE BESILATE)",
+        "CALCIUM CARBONATE.",
+        "CINNAMON.",
+        "MULTIVITAMIN (VITAMINS NOS)",
+        "JOINT CARE (GLUCOSAMINE SULFATE)",
+        "OMEGA 3 (FISH OIL)",
+        "CRESTOR",
+        "FLUOXETINE",
+        "METFORMIN HCL (METFORMIN HYDROCHLORIDE)",
+        "NITROSTAT (GLYCERYL TRINITRATE)",
+        "VITAMIN E",
+        "HYDROCHLOROTHIAZIDE.",
+        "JUXTAPID",
+        "ATENOLOL.",
+        "LISINOPRIL.",
+        "POTASSIUM CHLORIDE.",
+        "VITAMIN B6",
+        "GINKOBA (GINKGO BILOBA)",
+        "VITAMIN C",
+        "CLOPIDOGREL BISULFATE.",
+        "ASPIRIN (ACETYLSALICYLIC ACID)",
+        "CO Q10 (UBIDECARENONE)",
+        "FLAXSEED",
+        "IODINE"
+      ],
+      "reactions": [
+        "Aspartate aminotransferase increased",
+        "Alanine aminotransferase increased",
+        "Therapy cessation",
+        "Hepatic enzyme increased"
+      ],
+      "report_id": "10546144"
+    },
+    {
+      "drugs": [
+        "ASPIRIN                            /00002701/",
+        "GINKGO BILOBA",
+        "OMEPRAZOLE.",
+        "DIPHENHYDRAMINE",
+        "METOPROLOL",
+        "SOVALDI",
+        "OLYSIO",
+        "CHOLINE",
+        "DELESTROGEN",
+        "GINSENG                            /01384001/",
+        "FOSFATIDIL",
+        "S-ADENOSYLMETHIONINE SULFATE P-TOLUENESULFONATE",
+        "FUROSEMIDE.",
+        "BIOTIN"
+      ],
+      "reactions": [
+        "Off label use",
+        "Burning sensation",
+        "Hypoaesthesia"
+      ],
+      "report_id": "10549561"
+    },
+    {
+      "drugs": [
+        "GINKGO BILOBA",
+        "PROLOPA",
+        "EXELON PATCH",
+        "EXELON PATCH",
+        "ALOIS",
+        "EXELON PATCH"
+      ],
+      "reactions": [
+        "Dementia Alzheimer^s type",
+        "Weight decreased",
+        "Drug dependence",
+        "Aphagia",
+        "Disease progression",
+        "Agitation",
+        "Parkinson^s disease"
+      ],
+      "report_id": "10561383"
+    },
+    {
+      "drugs": [
+        "SODIUM CHLORIDE.",
+        "LEVOTHYROXINE",
+        "FLU SHOT",
+        "OXYGEN.",
+        "ALBUTEROL.",
+        "ZEMAIRA",
+        "LEVETIRACETAM.",
+        "TAGAMET",
+        "ALL OTHER THERAPEUTIC PRODUCTS",
+        "SIMVASTATIN.",
+        "PRIMATENE",
+        "MUCINEX D",
+        "VITAMIN E",
+        "CIMETIDINE",
+        "ADVAIR HFA",
+        "EPIPEN",
+        "DIOVAN",
+        "CALCIUM 500 + D",
+        "VITAMIN C",
+        "CENTRUM SILVER",
+        "ASPIRIN.",
+        "IPRAT-ALBUT",
+        "GINKO BILOBA",
+        "ALEVE",
+        "SPIRIVA",
+        "GINKGO BILOBA",
+        "DIPHENHYDRAMINE",
+        "LMX",
+        "ALL OTHER NON-THERAPEUTIC PRODUCTS",
+        "DRAMAMINE",
+        "CLARITIN",
+        "THEOPHYLLINE"
+      ],
+      "reactions": [
+        "Eye movement disorder",
+        "Pulse abnormal",
+        "Blood pressure decreased"
+      ],
+      "report_id": "10562077"
+    },
+    {
+      "drugs": [
+        "GINKGO BILOBA EXTRACT W/TROXERUTIN",
+        "VITABACT (PICLOXYDINE DIHYDROCHLORIDE)",
+        "EYLEA",
+        "OMACOR",
+        "VASTAREL",
+        "ASCORBIC ACID, BETACAROTENE, CUPRIC OXIDE, DL-ALPHA TOCOPHERYL ACETATE, ZINC OXIDE"
+      ],
+      "reactions": [
+        "Dermatitis exfoliative",
+        "Eosinophilia"
+      ],
+      "report_id": "10562304"
+    },
+    {
+      "drugs": [
+        "ADVAIR DISKUS",
+        "CLARITIN",
+        "NEURONTIN",
+        "CATAPRES",
+        "GINKGO BILOBA",
+        "PROZAC",
+        "SEROQUEL",
+        "ABILIFY",
+        "IBUPROFEN.",
+        "VENTOLIN",
+        "VOLTAREN",
+        "PEPTO-BISMOL",
+        "KLONOPIN"
+      ],
+      "reactions": [
+        "Feeling jittery",
+        "Stress",
+        "Blood blister"
+      ],
+      "report_id": "10563739"
+    },
+    {
+      "drugs": [
+        "PANTOPRAZOLE SODIUM (PANTOPRAZOLE SODIUM)",
+        "FRAGMIN",
+        "TEMESTA (LORAZEPAM)",
+        "VITAMEDIN INTRAVENOUS (CYANOCOBALAMIN, PYRIDOXINE HYDROCHLORIDE, THIAMINE DISULFIDE)",
+        "ATARAX",
+        "PYRIDOXINE HYDROCHLORIDE (PYRIDOXINE HYDROCHLORIDE)",
+        "FILGRASTIM (FILGRASTIM)",
+        "OLEOVIT-D3 (COLECALCIFEROL)",
+        "VALERIANA OFFICINALIS (VALRIANA OFFICINALIS)",
+        "TRIMETHOPRIM.",
+        "TEBOFORTAN (GINKGO BILOBA)",
+        "IBANDRONATE SODIUM (IBANDRONATE SODIUM)",
+        "OLANZAPINE (OLANZAPINE)",
+        "ANAEROBEX (METRONIDAZOLE)",
+        "THYREX (LEVOTHYROXINE SODIUM)",
+        "DICLOFENAC (DICLOFENAC)",
+        "D-CALSOR (CALCIUM PHOSPHATE DIBASIC, COLECALCIFEROL)",
+        "MIRTAZAPINE."
+      ],
+      "reactions": [
+        "Neutropenia"
+      ],
+      "report_id": "10565207"
+    },
+    {
+      "drugs": [
+        "STRIBILD",
+        "VALTREX",
+        "COMBIVIR",
+        "KALETRA",
+        "GINKGO BILOBA"
+      ],
+      "reactions": [
+        "Hyperglycaemia"
+      ],
+      "report_id": "10566756"
+    },
+    {
+      "drugs": [
+        "VITAMIN C",
+        "GLUTATHIONE PRECURSOR",
+        "PHOSPHATIDYL MATRIX",
+        "MACA",
+        "CRANBERRY.",
+        "ATIVAN",
+        "BIIB017",
+        "EVENING PRIMROSE OIL",
+        "BUTCHER^S BROOM",
+        "GINKGO BILOBA",
+        "ASHWAGANDHA",
+        "BACLOFEN.",
+        "MALIC ACID",
+        "LECITHIN",
+        "MILK THISTLE EXTRACT",
+        "UBIQUINOL",
+        "CHONDROITIN SULFATE (BOVINE)\\GLUCOSAMINE SULFATE",
+        "MULTIVITAMIN",
+        "BIIB017",
+        "BIIB017",
+        "BACLOFEN.",
+        "GINGER ROOT",
+        "IBUPROFEN.",
+        "MECLIZINE"
+      ],
+      "reactions": [
+        "Breast cancer"
+      ],
+      "report_id": "10567714"
+    },
+    {
+      "drugs": [
+        "ACLASTA",
+        "GINKGO BILOBA",
+        "BETASERC",
+        "BUSPAR",
+        "FLUOXETINE",
+        "SIMVASTATIN."
+      ],
+      "reactions": [
+        "Tremor",
+        "Pain",
+        "Upper limb fracture",
+        "Malaise",
+        "Chest discomfort",
+        "Fear of death",
+        "Back pain",
+        "Osteoarthritis",
+        "Fall",
+        "Gait disturbance",
+        "Abasia"
+      ],
+      "report_id": "10570231"
+    },
+    {
+      "drugs": [
+        "WELCHOL",
+        "GINKGO BILOBA",
+        "LUTEIN-ZEAXANTHIN",
+        "FLORA",
+        "BILBERRY                           /01397601/",
+        "CHONDROITIN SULFATE (BOVINE)\\DIMETHYL SULFONE\\GLUCOSAMINE SULFATE",
+        "DIGOXIN.",
+        "NITROGLYCERIN.",
+        "OSTEO                              /00751501/",
+        "METOPROLOL TARTRATE.",
+        "ASPIRIN                            /00002701/",
+        "COENZYME Q10",
+        "VITAMIN C",
+        "MAGNESIUM CITRATE.",
+        "WELCHOL",
+        "ISOSORBIDE MONONITRATE.",
+        "MULTIVITAMINS",
+        "KYOLIC",
+        "RED YEAST RICE",
+        "OMEGA 3-6-9                        /01333901/"
+      ],
+      "reactions": [
+        "Dyspepsia",
+        "Chest pain",
+        "Drug prescribing error",
+        "Myalgia",
+        "Drug administration error",
+        "Constipation"
+      ],
+      "report_id": "10588571"
+    },
+    {
+      "drugs": [
+        "GINKGO BILOBA",
+        "METHYLPHENIDATE ER"
+      ],
+      "reactions": [
+        "Pupils unequal",
+        "Holmes-Adie pupil"
+      ],
+      "report_id": "10622710"
+    },
+    {
+      "drugs": [
+        "ACTONEL",
+        "GINKGO BILOBA",
+        "TYLENOL",
+        "FOLIC ACID.",
+        "HYDROCHLOROTHIAZIDE.",
+        "XTANDI",
+        "ASPIRIN.",
+        "CENTRUM SILVER                     /02363801/",
+        "MAGNESIUM OXIDE.",
+        "PREDNISONE.",
+        "CHONDROITIN SULFATE (BOVINE)\\GLUCOSAMINE SULFATE",
+        "COUMADIN",
+        "AMLODIPINE BESILATE",
+        "FISH OIL",
+        "LISINOPRIL.",
+        "TURMERIC CURCUMIN"
+      ],
+      "reactions": [
+        "Parosmia",
+        "Dysgeusia"
+      ],
+      "report_id": "10634642"
+    },
+    {
+      "drugs": [
+        "MARCOUMAR",
+        "TEBOKAN (GINKGO BILOBA EXTRACT)",
+        "TOREM (TORASEMIDE)",
+        "MODURETIC 5-50",
+        "ZYLORIC (ALLOPURINOL)",
+        "NEBILET (NEBIVOLOL HYDROCHLORIDE)",
+        "FAROS (CRATAEGUS LAEVIGATA EXTRACT)",
+        "APROVEL (IRBESARTAN)",
+        "METFIN (METFORMIN HYDROCHLORIDE)",
+        "MAGNESIUM"
+      ],
+      "reactions": [
+        "Somnolence",
+        "Confusional state",
+        "Dyspraxia",
+        "Acute kidney injury",
+        "Hydrocephalus",
+        "Disorientation",
+        "Asthenia",
+        "Intraventricular haemorrhage"
+      ],
+      "report_id": "10640311"
+    },
+    {
+      "drugs": [
+        "PEPCID",
+        "ZOCOR",
+        "CARDURA",
+        "PLAVIX",
+        "AMLODIPINE",
+        "PRILOSEC",
+        "LISINOPRIL.",
+        "VITAMIN C",
+        "FISH OIL",
+        "PANTHENOL/RETINOL/THIAMINE HYDROCHLORIDE/ASCORBIC ACID/ERGOCALCIFEROL/FOLIC ACID/RIBOFLAVIN/NICOTINA",
+        "IMDUR",
+        "GINKGO BILOBA",
+        "ALL OTHER THERAPEUTIC PRODUCTS",
+        "ELAVIL",
+        "KLONOPIN",
+        "ACETYLSALICYLIC ACID",
+        "COQ10"
+      ],
+      "reactions": [
+        "Stent placement"
+      ],
+      "report_id": "10680574"
+    },
+    {
+      "drugs": [
+        "ASPIRIN.",
+        "NORVASC",
+        "CALCIUM",
+        "ATACAND",
+        "DIAZOXIDE",
+        "HYDROCHLOROTHIAZIDE/TRIAMTERENE",
+        "DICLOFENAC",
+        "SIMVASTATIN.",
+        "CORGARD",
+        "FISH OIL",
+        "VITAMIN E",
+        "METFORMIN",
+        "HYDROCHLOROTHIAZIDE.",
+        "SIMVASTATIN.",
+        "VITAMIN C",
+        "VITAMIN B12",
+        "LIDOCAINE.",
+        "EXCEDRIN",
+        "BENAZEPRIL HYDROCHLORIDE.",
+        "ZOCOR",
+        "ARTHROTEC",
+        "PENICILLIN",
+        "CAPTOPRIL.",
+        "ST. JOHN^S WORT",
+        "PLAVIX",
+        "KETOPROFEN.",
+        "ZYVOX",
+        "VYTORIN",
+        "METHOTREXATE",
+        "LIPITOR",
+        "CIPROFLOXACIN.",
+        "DOXEPIN",
+        "GINKGO BILOBA",
+        "AMLODIPINE",
+        "CLINDAMYCIN",
+        "HYDROCODONE",
+        "BUPROPION HYDROCHLORIDE.",
+        "VICODIN",
+        "WELLBUTRIN",
+        "DHEA"
+      ],
+      "reactions": [
+        "Peptic ulcer",
+        "Gastrointestinal haemorrhage",
+        "Ill-defined disorder"
+      ],
+      "report_id": "10680748"
+    },
+    {
+      "drugs": [
+        "CLARITIN",
+        "LYRICA",
+        "L-ARGININE",
+        "ATIVAN",
+        "MELATONIN",
+        "ARISTOCORT",
+        "ROBITUSSIN DM",
+        "LOPRESSOR",
+        "FISH OIL SOFTGEL",
+        "ARMOUR THYROID",
+        "IMODIUM A-D",
+        "NORVASC",
+        "MAGNESIUM",
+        "FOLCAPS",
+        "K-DUR",
+        "LOPERAMIDE HCL",
+        "DESYREL",
+        "NORVASC",
+        "MAGNESIUM",
+        "NYSTATIN.",
+        "DIOVAN",
+        "GLUCOPHAGE",
+        "LASIX",
+        "FLOMAX",
+        "FLUCONAZOLE.",
+        "GLUCOPHAGE",
+        "GINKGO BILOBA"
+      ],
+      "reactions": [
+        "Hypoacusis",
+        "Sedation"
+      ],
+      "report_id": "10682178"
+    },
+    {
+      "drugs": [
+        "LIPITOR",
+        "ACETYLSALICYLIC ACID",
+        "GINKGO BILOBA",
+        "VITAMIN B6",
+        "FOLIC ACID.",
+        "MECOBALAMIN"
+      ],
+      "reactions": [
+        "Disease recurrence",
+        "Cerebral infarction"
+      ],
+      "report_id": "10682641"
+    },
+    {
+      "drugs": [
+        "ATORVASTATIN CALCIUM.",
+        "LIPITOR",
+        "LIPITOR",
+        "LIPITOR",
+        "GINKGO BILOBA",
+        "FISH OIL",
+        "ASPIRIN."
+      ],
+      "reactions": [
+        "Neuropathy peripheral",
+        "Type 2 diabetes mellitus",
+        "Blood glucose increased"
+      ],
+      "report_id": "10697642"
+    },
+    {
+      "drugs": [
+        "ADVAIR HFA",
+        "METFORMIN",
+        "BOSULIF",
+        "PRAVASTATIN.",
+        "GLIPIZIDE.",
+        "POTASSIUM",
+        "ZOFRAN",
+        "VENTOLIN",
+        "DIPHENHIST",
+        "ALEVE",
+        "TAMSULOSIN",
+        "GINKGO BILOBA",
+        "SPIRONOLACTONE.",
+        "METOPROLOL."
+      ],
+      "reactions": [
+        "Cardiac disorder"
+      ],
+      "report_id": "10698886"
+    },
+    {
+      "drugs": [
+        "CLARITIN",
+        "LUTEIN",
+        "FUROSEMIDE.",
+        "DIAZEPAM.",
+        "KLOR-CON M",
+        "COENZYME Q10",
+        "OMEGA 3 FISH OIL",
+        "PRADAXA",
+        "PRADAXA",
+        "SYNTHROID",
+        "CALCIUM MAGNESIUM AND ZINC",
+        "BAYER ASPIRIN",
+        "NASONEX",
+        "MECLIZINE",
+        "GINKGO BILOBA",
+        "VERAPAMIL ER",
+        "VITAMIN C"
+      ],
+      "reactions": [
+        "Contusion",
+        "Reflux gastritis",
+        "Cerebrovascular accident",
+        "Contusion"
+      ],
+      "report_id": "10698906"
+    },
+    {
+      "drugs": [
+        "VITAMIN B COMPLEX",
+        "DIFICID",
+        "NORVASC",
+        "IRON",
+        "METAMUCIL",
+        "OSCAL D",
+        "VITAMIN C",
+        "MORPHINE",
+        "BENTYL",
+        "CHROMIUM PICOLINATE",
+        "OMEGA 3",
+        "ACIPHEX",
+        "BIOTIN",
+        "DEMEROL",
+        "ROCEPHIN",
+        "VALIUM",
+        "VANCOMYCIN",
+        "VITAMIN E",
+        "ALIGN",
+        "GINKGO BILOBA",
+        "LASIX",
+        "MORPHINE",
+        "VITAMIN A"
+      ],
+      "reactions": [
+        "Diarrhoea",
+        "Faeces soft"
+      ],
+      "report_id": "10699555"
+    },
+    {
+      "drugs": [
+        "TEGRETOL",
+        "CLONAZEPAM.",
+        "GINKGO BILOBA",
+        "VITAMIN C",
+        "PILOCARPINE.",
+        "MABTHERA",
+        "MABTHERA",
+        "AZATHIOPRINE."
+      ],
+      "reactions": [
+        "Confusional state",
+        "Pain",
+        "Hypersensitivity",
+        "Depressed mood",
+        "Eye infection",
+        "Fall",
+        "Drug dose omission",
+        "Immunodeficiency",
+        "Eye inflammation",
+        "Bone disorder",
+        "Cataract",
+        "Eye pain",
+        "Hypertension",
+        "Lip dry",
+        "Tension",
+        "Dry eye",
+        "Ocular hyperaemia",
+        "Visual impairment",
+        "Renal injury",
+        "Off label use",
+        "Malaise",
+        "Rheumatic disorder"
+      ],
+      "report_id": "10699770"
+    },
+    {
+      "drugs": [
+        "VITAMIN D",
+        "AUBAGIO",
+        "LYRICA",
+        "CEFASEL",
+        "VITAMIN D",
+        "PREGABALIN.",
+        "COPAXONE",
+        "ORTHOMOL",
+        "L-THYROXIN",
+        "IBUPROFEN.",
+        "PANTOZOL",
+        "LYRICA",
+        "TEBONIN",
+        "GINKGO BILOBA",
+        "MACROGOL"
+      ],
+      "reactions": [
+        "Musculoskeletal pain",
+        "Pain",
+        "Gait disturbance",
+        "Pain in extremity",
+        "Pain in extremity",
+        "Blood cholesterol increased",
+        "Cervicobrachial syndrome",
+        "Spinal column stenosis",
+        "Back pain",
+        "Oedema peripheral",
+        "Sciatica",
+        "Hypoaesthesia",
+        "Joint swelling",
+        "Arthralgia",
+        "Toothache",
+        "Paraesthesia",
+        "Pain in extremity",
+        "Alopecia",
+        "Abdominal pain",
+        "Head discomfort"
+      ],
+      "report_id": "10704330"
+    },
+    {
+      "drugs": [
+        "COMETRIQ",
+        "GINKGO BILOBA (GINKGO BILOBA)"
+      ],
+      "reactions": [
+        "Skin lesion",
+        "Memory impairment",
+        "Fatigue",
+        "Diarrhoea"
+      ],
+      "report_id": "10704344"
+    },
+    {
+      "drugs": [
+        "REVLIMID",
+        "GINKGO BILOBA",
+        "GINSENG",
+        "ONDANSETRON",
+        "CALCIUM",
+        "ASPIRIN.",
+        "GARLIC.",
+        "COQ10",
+        "LOVENOX",
+        "ENOXAPARIN",
+        "CHONDROITIN SULFATE (BOVINE)\\GLUCOSAMINE SULFATE"
+      ],
+      "reactions": [
+        "Rectal haemorrhage",
+        "Thrombosis",
+        "Palpitations"
+      ],
+      "report_id": "10713151"
+    },
+    {
+      "drugs": [
+        "CENTRUM MULTIVITAMIN",
+        "GLIPIZIDE.",
+        "OMEGA 3 FISH OIL",
+        "VITAMIN E",
+        "METFORMIN HCL ER",
+        "ASPIRIN.",
+        "PREDNISONE.",
+        "ECHINACEA",
+        "AZITHROMYCIN",
+        "REVLIMID",
+        "REVLIMID",
+        "PHOSPHASAL",
+        "BYSTOLIC",
+        "GINKGO BILOBA",
+        "PRAVACHOL",
+        "COZAAR",
+        "PRILOSEC",
+        "ACIDOPHILUS PROBIOTIC"
+      ],
+      "reactions": [
+        "Lactose intolerance",
+        "Diarrhoea"
+      ],
+      "report_id": "10738110"
+    },
+    {
+      "drugs": [
+        "LASIX",
+        "MACROBID",
+        "XANAX",
+        "LISINOPRIL.",
+        "PH PLUS",
+        "IC3 WITH DIM",
+        "PROTONIX",
+        "METFORMIN",
+        "ASPIRIN (ACETYLSALICYLIC ACID)",
+        "LORTAB (HYDROCODONE BITARTRATE, PARACETAMOL, PROMETHAZINE HYDROCHLORIDE)",
+        "CRANBERRY.",
+        "DIFLUCAN",
+        "COREG",
+        "POTASSIUM CHLORIDE.",
+        "PYRIDIUM (PHENAZOPYRIDINE HYDROCHLORIDE)",
+        "ZOFRAN (ONDANSETRON HYDROCHLORIDE)",
+        "VITAMIN E (TOCOPHERYL ACETATE)",
+        "MAGOSTEEN",
+        "BUSPIRONE",
+        "NEURONTIN",
+        "NITROSTAT (GLYCERYL TRINITRATE)",
+        "ZANTAC",
+        "GINKO BILOBA (GINKGO BILOBA)",
+        "JUXTAPID",
+        "CELEXA",
+        "COMPAZINE",
+        "CYANOCOBALAMIN.",
+        "OMEGA 3 (DOCOSAHEXAENOIC ACID, EICOSAPENTAENOIC ACID)",
+        "OMEGA 3 6 9 (OMEGA 9 FATTY ACIDS, OMEGA-3 FATTY ACIDS, OMEGA-6 FATTY ACIDS)"
+      ],
+      "reactions": [
+        "Weight decreased",
+        "Contraindicated drug administered",
+        "Diarrhoea",
+        "Nausea",
+        "Urinary tract infection"
+      ],
+      "report_id": "10749231"
+    },
+    {
+      "drugs": [
+        "IBUPROFEN.",
+        "ADALAT",
+        "GINKGO BILOBA",
+        "PANTOPRAZOLE",
+        "HYDROCODONE BITARTRATE AND ACETAMINOPHEN",
+        "GABAPENTIN.",
+        "ZANAFLEX",
+        "OTEZLA",
+        "LIPITOR",
+        "NUVIGIL"
+      ],
+      "reactions": [
+        "Death"
+      ],
+      "report_id": "10771749"
+    },
+    {
+      "drugs": [
+        "VITAMIN D",
+        "MAGNESIUM CHLORIDE.",
+        "TYSABRI",
+        "VITAMIN B",
+        "AMPYRA",
+        "LEXAPRO",
+        "CALCIUM",
+        "AMPYRA",
+        "GINKGO BILOBA",
+        "ZINC",
+        "VITAMIN C",
+        "NEXIUM"
+      ],
+      "reactions": [
+        "Therapeutic response unexpected",
+        "Incorrect dose administered",
+        "Memory impairment",
+        "Drug dose omission",
+        "Diarrhoea",
+        "Gait disturbance",
+        "Pulmonary embolism"
+      ],
+      "report_id": "10772522"
+    },
+    {
+      "drugs": [
+        "OMEPRAZOLE.",
+        "EFFEXOR",
+        "TOVIAZ",
+        "AMPYRA",
+        "MELOXICAM.",
+        "HYDROCODONE / IBUPROFEN",
+        "AMBIEN",
+        "CALCIUM",
+        "TYSABRI",
+        "BACLOFEN.",
+        "AMPYRA",
+        "VITAMIN B12 COMPLEX",
+        "VITAMIN D",
+        "CHONDROITIN SULFATE (BOVINE)\\GLUCOSAMINE SULFATE",
+        "STOOL SOFTENER",
+        "GINKGO BILOBA",
+        "ZYRTEC",
+        "AMPYRA"
+      ],
+      "reactions": [
+        "Limb discomfort",
+        "Fall",
+        "Therapeutic response unexpected",
+        "Muscular weakness",
+        "Balance disorder",
+        "Gait disturbance"
+      ],
+      "report_id": "10774323"
+    },
+    {
+      "drugs": [
+        "SYNTHROID",
+        "ONDANSETRON HCL",
+        "VELCADE",
+        "PROAIR HFA",
+        "GLIPIZIDE.",
+        "EPIPEN",
+        "CHONDROITIN SULFATE (BOVINE)\\GLUCOSAMINE SULFATE",
+        "POMALYST",
+        "GINKGO BILOBA"
+      ],
+      "reactions": [
+        "Night sweats",
+        "Skin lesion"
+      ],
+      "report_id": "10775248"
+    },
+    {
+      "drugs": [
+        "CRESTOR",
+        "GINKGO BILOBA LEAVES EXTRAXT"
+      ],
+      "reactions": [
+        "Dizziness",
+        "Intervertebral disc protrusion",
+        "Hyperlipidaemia",
+        "Hypoaesthesia",
+        "Vision blurred",
+        "Blood glucose increased"
+      ],
+      "report_id": "10779977"
+    },
+    {
+      "drugs": [
+        "AMLODIPINE W/LOSARTAN POTASSIUM",
+        "CLONAZEPAM.",
+        "ACETYLSALICYLIC ACID",
+        "ROSUVASTATIN",
+        "PRASUGREL HYDROCHLORIDE",
+        "ESOMEPRAZOLE",
+        "GINKGO BILOBA",
+        "PRASUGREL HYDROCHLORIDE",
+        "CALCIUM"
+      ],
+      "reactions": [
+        "Angina unstable",
+        "Palpitations",
+        "Venous occlusion",
+        "Infarction",
+        "Dizziness"
+      ],
+      "report_id": "10796625"
+    },
+    {
+      "drugs": [
+        "GINKGO BILOBA",
+        "MULTIVITAMIN",
+        "HUMIRA",
+        "ALLERGY MEDICATION",
+        "FISH OIL",
+        "IBUPROFEN.",
+        "ESTROVEN"
+      ],
+      "reactions": [
+        "Chills",
+        "Fatigue",
+        "Pain",
+        "Asthenia",
+        "Cold sweat",
+        "Influenza"
+      ],
+      "report_id": "10799452"
+    },
+    {
+      "drugs": [
+        "VALSARTAN/HYDROCHLOROTHIAZIDE",
+        "HUMIRA",
+        "PROMETRIUM",
+        "PREMARIN",
+        "MIRALAX",
+        "PRILOSEC",
+        "STELARA",
+        "GINKGO BILOBA"
+      ],
+      "reactions": [
+        "Drug effect incomplete",
+        "Blister",
+        "Drug ineffective"
+      ],
+      "report_id": "10804961"
+    },
+    {
+      "drugs": [
+        "BACLOFEN.",
+        "CONTRAMAL",
+        "PROMAGNOR",
+        "TYSABRI",
+        "NEOTIGASON",
+        "GINKGO BILOBA",
+        "CITALOPRAM"
+      ],
+      "reactions": [
+        "Anaphylactic shock"
+      ],
+      "report_id": "10812458"
+    },
+    {
+      "drugs": [
+        "FOLIC ACID.",
+        "ATENOLOL.",
+        "BENICAR",
+        "FISH OIL",
+        "VITAMIN B12",
+        "POTASSIUM",
+        "GINKGO BILOBA",
+        "HUMIRA",
+        "ASPIRIN."
+      ],
+      "reactions": [
+        "Drug dose omission",
+        "Drug dispensing error",
+        "Dementia",
+        "Haematochezia",
+        "Dementia Alzheimer^s type"
+      ],
+      "report_id": "10824618"
+    },
+    {
+      "drugs": [
+        "VITAMIN D3",
+        "GABAPENTIN 300MG",
+        "GINKGO BILOBA",
+        "KELP                               /01214901/",
+        "COENZYME Q10",
+        "VITAMIN B12",
+        "MAGNESIUM",
+        "MULTIVITAMIN                       /07504101/"
+      ],
+      "reactions": [
+        "Chest pain",
+        "Skin atrophy",
+        "Paraesthesia",
+        "Alopecia",
+        "Feeling abnormal",
+        "Insomnia",
+        "Drug withdrawal syndrome",
+        "Anxiety",
+        "Decreased interest",
+        "Mood altered",
+        "Abdominal distension",
+        "Headache",
+        "Wheezing",
+        "Palpitations",
+        "Depression",
+        "Nausea"
+      ],
+      "report_id": "10852855"
+    },
+    {
+      "drugs": [
+        "FISH OIL",
+        "ASPIRIN.",
+        "PRILOSEC",
+        "COZAAR",
+        "GLIPIZIDE.",
+        "PRAVACHOL",
+        "REVLIMID",
+        "ECHINACEA",
+        "GINKGO BILOBA",
+        "BYSTOLIC",
+        "PROBIOTIC",
+        "MULTIVITAMINS",
+        "METFORMIN"
+      ],
+      "reactions": [
+        "Cataract"
+      ],
+      "report_id": "10857600"
+    },
+    {
+      "drugs": [
+        "REVLIMID",
+        "OMEPRAZOLE.",
+        "WARFARIN SODIUM.",
+        "REVLIMID",
+        "MELOXICAM.",
+        "METOPROLOL SUCCINATE.",
+        "REVLIMID",
+        "REVLIMID",
+        "REVLIMID",
+        "LOVASTATIN.",
+        "HALOBETASOL PROPIONATE.",
+        "GINKGO BILOBA",
+        "ONDANSETRON ODT",
+        "ASPIRIN."
+      ],
+      "reactions": [
+        "Pharyngitis",
+        "Drug dose omission",
+        "Candida infection"
+      ],
+      "report_id": "10857848"
+    },
+    {
+      "drugs": [
+        "SAW PALMETTO",
+        "CRANBERRY.",
+        "AVODART",
+        "FLOMAX",
+        "REVLIMID",
+        "COENZYME Q10",
+        "BENICAR",
+        "AMLODIPINE",
+        "DECADRON",
+        "ECOTRIN",
+        "SIMVASTATIN.",
+        "GLUCOSAMINE",
+        "JALYN",
+        "TOVIAZ",
+        "REVLIMID",
+        "FISH OIL",
+        "MULTIVITAMINS",
+        "GINGER EXTRACT",
+        "IMIPRAMINE",
+        "ALEVE",
+        "PROCHLORPERAZINE MALEATE.",
+        "GINKGO BILOBA",
+        "REVLIMID",
+        "OMEPRAZOLE.",
+        "LEVOTHYROXINE",
+        "TURMERIC",
+        "ASPIRIN.",
+        "BROMELAIN",
+        "VESICARE",
+        "DECADRON"
+      ],
+      "reactions": [
+        "Drug dose omission",
+        "Body height decreased",
+        "Thrombosis"
+      ],
+      "report_id": "10864349"
+    },
+    {
+      "drugs": [
+        "PROTONIX",
+        "GLIPIZIDE.",
+        "ACARBOSE.",
+        "GINKGO BILOBA",
+        "ACETYLSALICYLIC ACID",
+        "VITAMIN B12",
+        "IRON",
+        "VITAMIN D",
+        "METOPROLOL",
+        "LOSARTAN",
+        "GABAPENTIN.",
+        "GABAPENTIN.",
+        "TORSEMIDE.",
+        "LIVALO",
+        "SYNTHROID",
+        "CIPRO",
+        "CARBAMAZEPINE.",
+        "CLONIDINE.",
+        "FISH OIL",
+        "METFORMIN"
+      ],
+      "reactions": [
+        "Peripheral swelling",
+        "Gait disturbance"
+      ],
+      "report_id": "10866978"
+    },
+    {
+      "drugs": [
+        "COENZYME Q10",
+        "MAGNESIUM",
+        "MULTIVITAMINUM",
+        "GINKGO BILOBA",
+        "KELP                               /01214901/",
+        "VITAMIN D3",
+        "GABAPENTIN.",
+        "VITAMIN B12"
+      ],
+      "reactions": [
+        "Mood altered",
+        "Alopecia",
+        "Chest pain",
+        "Drug withdrawal syndrome",
+        "Abdominal distension",
+        "Decreased interest",
+        "Headache",
+        "Nausea",
+        "Wheezing",
+        "Palpitations",
+        "Product use issue",
+        "Feeling abnormal",
+        "Skin atrophy",
+        "Depression",
+        "Paraesthesia",
+        "Anxiety",
+        "Insomnia"
+      ],
+      "report_id": "10869666"
+    },
+    {
+      "drugs": [
+        "ACARBOSE.",
+        "FISH OIL",
+        "GABAPENTIN.",
+        "LIVALO",
+        "IRON",
+        "CLONIDINE.",
+        "VITAMIN D",
+        "CARBAMAZEPIN",
+        "CIPRO",
+        "GABAPENTIN.",
+        "GABAPENTIN.",
+        "METFORMIN",
+        "TORSEMIDE.",
+        "LOSARTAN",
+        "PROTONIX",
+        "GLIPIZIDE.",
+        "SYNTHROID",
+        "VITAMIN B12",
+        "GINKGO BILOBA",
+        "ASPIRIN.",
+        "METOPROLOL"
+      ],
+      "reactions": [
+        "Trigeminal neuralgia",
+        "Intentional product use issue",
+        "Pain in extremity",
+        "Drug ineffective for unapproved indication",
+        "Crying"
+      ],
+      "report_id": "10869896"
+    },
+    {
+      "drugs": [
+        "GABAPENTIN.",
+        "TORSEMIDE.",
+        "LIVALO",
+        "FISH OIL",
+        "PROTONIX",
+        "IRON",
+        "LYRICA",
+        "ACARBOSE.",
+        "CIPRO /00697203/",
+        "GINKGO BILOBA",
+        "ACETYLSALICYLIC ACID",
+        "GLIPIZIDE.",
+        "CLONIDINE.",
+        "SYNTHROID",
+        "VITAMIN D",
+        "LOSARTAN",
+        "METFORMIN",
+        "GABAPENTIN.",
+        "CARBAMAZEPINE.",
+        "VITAMIN B12",
+        "METOPROLOL"
+      ],
+      "reactions": [
+        "Drug ineffective",
+        "Intentional product misuse"
+      ],
+      "report_id": "10869919"
+    },
+    {
+      "drugs": [
+        "GABAPENTIN.",
+        "COENZYME Q10",
+        "GINKGO BILOBA",
+        "KELP",
+        "MAGNESIUM",
+        "VITAMIN B12",
+        "MULTIVITAMIN",
+        "VITAMIN D3"
+      ],
+      "reactions": [
+        "Anxiety",
+        "Nausea",
+        "Chest pain",
+        "Decreased interest",
+        "Alopecia",
+        "Paraesthesia",
+        "Feeling abnormal",
+        "Headache",
+        "Abdominal distension",
+        "Skin atrophy",
+        "Mood altered",
+        "Insomnia",
+        "Depression",
+        "Wheezing",
+        "Palpitations",
+        "Drug withdrawal syndrome"
+      ],
+      "report_id": "10870234"
+    },
+    {
+      "drugs": [
+        "MOBICOX",
+        "VITAMIN E",
+        "GINKGO BILOBA",
+        "TERAZOSIN"
+      ],
+      "reactions": [
+        "Polymyalgia rheumatica",
+        "C-reactive protein increased",
+        "Myalgia",
+        "Red blood cell sedimentation rate increased"
+      ],
+      "report_id": "10870675"
+    },
+    {
+      "drugs": [
+        "VITAMIN B12",
+        "GABAPENTIN.",
+        "VITAMIN D3",
+        "GINKGO BILOBA",
+        "KELP",
+        "MULTIVITAMINS",
+        "COENZYME Q10",
+        "MAGNESIUM"
+      ],
+      "reactions": [
+        "Skin atrophy",
+        "Drug withdrawal syndrome",
+        "Anxiety",
+        "Abdominal distension",
+        "Alopecia",
+        "Wheezing",
+        "Paraesthesia",
+        "Feeling abnormal",
+        "Nausea",
+        "Palpitations",
+        "Insomnia",
+        "Decreased interest",
+        "Mood altered",
+        "Chest pain",
+        "Headache",
+        "Depression"
+      ],
+      "report_id": "10871431"
+    },
+    {
+      "drugs": [
+        "MAGNESIUM",
+        "COENZYME Q10",
+        "VITAMIN B12",
+        "KELP",
+        "GABAPENTIN.",
+        "GINKGO BILOBA",
+        "VITAMIN D3"
+      ],
+      "reactions": [
+        "Skin atrophy",
+        "Decreased interest",
+        "Mood altered",
+        "Palpitations",
+        "Anxiety",
+        "Nausea",
+        "Paraesthesia",
+        "Chest pain",
+        "Abdominal distension",
+        "Alopecia",
+        "Depression",
+        "Headache",
+        "Feeling abnormal",
+        "Wheezing",
+        "Drug withdrawal syndrome",
+        "Insomnia"
+      ],
+      "report_id": "10874321"
+    },
+    {
+      "drugs": [
+        "VITAMIN B12",
+        "COENZYME Q10",
+        "GABAPENTIN (UNKNOWN)",
+        "GINKGO BILOBA",
+        "VITAMIN D3",
+        "KELP                               /01214901/",
+        "MAGNESIUM"
+      ],
+      "reactions": [
+        "Headache",
+        "Abdominal distension",
+        "Alopecia",
+        "Insomnia",
+        "Decreased interest",
+        "Chest pain",
+        "Depression",
+        "Skin atrophy",
+        "Feeling abnormal",
+        "Drug withdrawal syndrome",
+        "Palpitations",
+        "Paraesthesia",
+        "Mood altered",
+        "Anxiety",
+        "Nausea",
+        "Wheezing"
+      ],
+      "report_id": "10885710"
+    },
+    {
+      "drugs": [
+        "CLOPIDOGREL",
+        "GINKGO BILOBA"
+      ],
+      "reactions": [
+        "Vaginal haemorrhage",
+        "Haematuria",
+        "Contusion"
+      ],
+      "report_id": "10006139"
+    },
+    {
+      "drugs": [
+        "CLOPIDOGREL (CLOPIDOGREL)",
+        "GINKGO BILOBA (GINKGO BILOBA)"
+      ],
+      "reactions": [
+        "Contusion",
+        "Vaginal haemorrhage",
+        "Dizziness",
+        "Feeling abnormal",
+        "Chromaturia",
+        "Haematuria",
+        "Drug interaction",
+        "Self-medication"
+      ],
+      "report_id": "10006796"
+    },
+    {
+      "drugs": [
+        "VITAMIN E                          /00110501/",
+        "SYNTHROID",
+        "VITAMIN D                          /00107901/",
+        "OMEGA-3                            /01866101/",
+        "AMARYL",
+        "BYETTA",
+        "VITAMIN C",
+        "GINKGO                             /01003101/",
+        "FISH OIL",
+        "HYDROCODONE",
+        "GLUCOSAMINE",
+        "GLUCOPHAGE",
+        "COENZYME Q-GEL"
+      ],
+      "reactions": [
+        "Thyroid cancer"
+      ],
+      "report_id": "10007984"
+    },
+    {
+      "drugs": [
+        "OXYTROL FOR WOMEN",
+        "OXYTROL FOR WOMEN",
+        "DIAZIDE",
+        "SYNTHROID",
+        "ASCORBIC ACID",
+        "CALCIUM (UNSPECIFIED)",
+        "HYALURONIC ACID",
+        "ORIGIN CO Q-10",
+        "PYRIDOXINE",
+        "VITAMIN E",
+        "GLUCOSAMINE SULFATE",
+        "BROMELAINS",
+        "OMEGA-3 MARINE TRIGLYCERIDES",
+        "ACIDOPHILUS",
+        "ECHINACEA",
+        "CHROMIUM PICOLINATE",
+        "GINKGO",
+        "GARLIC"
+      ],
+      "reactions": [
+        "Somnolence",
+        "Drug effect decreased"
+      ],
+      "report_id": "10011875"
+    },
+    {
+      "drugs": [
+        "PROLIA",
+        "GINKGO BILOBA"
+      ],
+      "reactions": [
+        "Urinary tract infection",
+        "Vaginal haemorrhage",
+        "Device failure",
+        "Blood test abnormal",
+        "Urine analysis abnormal",
+        "Muscle spasms",
+        "Gingival pain",
+        "Nasopharyngitis",
+        "Fluid retention",
+        "Oral herpes",
+        "Dermal cyst",
+        "Weight increased",
+        "Fatigue",
+        "Pain in extremity"
+      ],
+      "report_id": "10014414"
+    },
+    {
+      "drugs": [
+        "EXELON PATCH",
+        "ATENOLOL",
+        "SOMALGIN",
+        "LOSARTAN",
+        "GINKGO BILOBA"
+      ],
+      "reactions": [
+        "Depression",
+        "Pneumonia",
+        "Fluid retention"
+      ],
+      "report_id": "10020057"
+    },
+    {
+      "drugs": [
+        "OCTAGAM",
+        "ALENDRONATE SODIUM",
+        "VITAMIN B COMPLEX",
+        "XIPAMIDE",
+        "GINKGO BILOBA",
+        "DULOXETINE"
+      ],
+      "reactions": [
+        "Embolism",
+        "Aortic thrombosis",
+        "Vertigo",
+        "Pain in extremity",
+        "Monoparesis",
+        "Dyspnoea",
+        "Tachycardia",
+        "General physical health deterioration",
+        "Cardiogenic shock",
+        "Cardiac death",
+        "Peripheral artery thrombosis",
+        "Peripheral artery thrombosis",
+        "Intracardiac thrombus",
+        "Arteriosclerosis",
+        "Renal infarct",
+        "Arteriosclerosis coronary artery",
+        "Ventricular failure",
+        "Pulmonary oedema"
+      ],
+      "report_id": "10022108"
+    },
+    {
+      "drugs": [
+        "OXYTROL FOR WOMEN",
+        "SIMVASTATIN",
+        "LEVOTHYROXINE SODIUM",
+        "HYDROCHLOROTHIAZIDE (+) VALSARTAN",
+        "ASPIRIN",
+        "GINKGO"
+      ],
+      "reactions": [
+        "Application site erythema",
+        "Application site pruritus",
+        "Application site rash"
+      ],
+      "report_id": "10032950"
+    },
+    {
+      "drugs": [
+        "EXFORGE",
+        "EXFORGE",
+        "GINKGO BILOBA",
+        "GINKGO BILOBA",
+        "B12//CYANOCOBALAMIN"
+      ],
+      "reactions": [
+        "Dementia Alzheimer^s type",
+        "Memory impairment",
+        "Rash",
+        "Pruritus"
+      ],
+      "report_id": "10040096"
+    },
+    {
+      "drugs": [
+        "TECFIDERA",
+        "GEODON",
+        "BENZACILLN",
+        "LAMOTRIGINE",
+        "NAPROXEN",
+        "BACLOFEN",
+        "TRAZODONE",
+        "SPIRONOLACTONE",
+        "CYCLOBENZAPRINE",
+        "CYANOCOBALAMIN",
+        "EPINEPHRINE",
+        "ADDERALL",
+        "DOXYCYCLINE",
+        "BENZTROPINE",
+        "FINACEA",
+        "GINKGO BILOBA",
+        "VITAMIN B12",
+        "CALCIUM",
+        "OMEPRAZOLE",
+        "BASE E-POLYETHYLENE GLYCOL PD"
+      ],
+      "reactions": [
+        "Dementia",
+        "Hypoaesthesia"
+      ],
+      "report_id": "10046367"
+    },
+    {
+      "drugs": [
+        "XTANDI",
+        "FISH OIL",
+        "MULTIVITAMINS, COMBINATIONS",
+        "XALATAN",
+        "FERROUS SULFATE",
+        "ATORVASTATIN",
+        "CALCIUM",
+        "LUPRON",
+        "NAMENDA",
+        "XANAX",
+        "XTANDI",
+        "GINKGO                             /01003101/",
+        "DULCOLAX (BISACODYL)",
+        "XTANDI",
+        "MACULAR PROTECT",
+        "ARICEPT",
+        "XGEVA",
+        "VAYACOG"
+      ],
+      "reactions": [
+        "Diarrhoea",
+        "Underdose",
+        "Bladder neoplasm",
+        "Tumour haemorrhage",
+        "Hypokalaemia",
+        "Memory impairment",
+        "Cystitis",
+        "Agitation",
+        "Encephalopathy",
+        "Haematuria traumatic",
+        "Diarrhoea",
+        "Dehydration",
+        "Blood magnesium decreased",
+        "Confusional state",
+        "Drug dose omission",
+        "Wrong technique in product usage process",
+        "Haemorrhagic anaemia"
+      ],
+      "report_id": "10049744"
+    },
+    {
+      "drugs": [
+        "PLAN B ONE-STEP",
+        "MULTIVITAMIN",
+        "GINKGO BILOBA",
+        "IRON",
+        "VITAMIN B12",
+        "VITAMIN D3"
+      ],
+      "reactions": [
+        "Diarrhoea",
+        "Menstruation irregular"
+      ],
+      "report_id": "10053365"
+    },
+    {
+      "drugs": [
+        "MONO-TILDIEM",
+        "PARIET (RABEPRAZOLE SODIUM) (RABEPRAZOLE SODIUM)",
+        "GINKOR (GINKOR /00838501/) (TROXERUTIN, GINKGO BILOBA EXTRACT)"
+      ],
+      "reactions": [
+        "Drug reaction with eosinophilia and systemic symptoms"
+      ],
+      "report_id": "10061595"
+    },
+    {
+      "drugs": [
+        "OXALIPLAT TEVA",
+        "IRINOTECANO ACTAVIS",
+        "CALCIUM FOLINATE TEVA",
+        "FLUOROURACILO ACCORD",
+        "DEXAMETASONA",
+        "GRANISSETROM ACTAVIS",
+        "TRIMETAZIDINA",
+        "LISINOPRIL",
+        "OMEPRAZOL",
+        "ALPRAZOLAM",
+        "GINKGO BILOBA"
+      ],
+      "reactions": [
+        "Oropharyngeal discomfort",
+        "Erythema",
+        "Speech disorder",
+        "Off label use",
+        "Hypoaesthesia oral",
+        "Blood pressure increased"
+      ],
+      "report_id": "10068997"
+    },
+    {
+      "drugs": [
+        "ZOLPIDEM",
+        "ZOLPIDEM",
+        "LYSANXIA",
+        "LYSANXIA",
+        "TERCIAN /00759301/",
+        "TERCIAN /00759301/",
+        "TANAKAN (GINKGO BILOBA EXTRACT)",
+        "FORLAX/00754501) MACROGOL",
+        "TRIMEBUTINE BIOGARAN (TRIMEBUTINE MALEATE)",
+        "EFFERALGAN/00020001/ (PARACETAMOL)",
+        "FLUIMUCIL (ACETYLCYSTEINE)"
+      ],
+      "reactions": [
+        "Disturbance in attention",
+        "Disturbance in attention",
+        "Impaired driving ability",
+        "Road traffic accident",
+        "Emotional disorder"
+      ],
+      "report_id": "10083473"
+    },
+    {
+      "drugs": [
+        "IRON (UNSPECIFIED)",
+        "SCHIFF PROBIOTIC ACIDOPHILUS",
+        "CHOLECALCIFEROL",
+        "CHONDROITIN SULFATE SODIUM (+) GLUCOSAMINE SULFATE",
+        "CALCIUM (UNSPECIFIED)",
+        "ECHINACEA (UNSPECIFIED)",
+        "EVENING PRIMROSE OIL",
+        "VITAMIN E",
+        "SUNDOWN TRIPLE OMEGA 3-6-9",
+        "NATURES MADE CHOLEST OFF",
+        "OXYTROL FOR WOMEN",
+        "GINKGO",
+        "CB COMPLEX",
+        "Q-10",
+        "ESTER-C",
+        "BETA CAROTENE",
+        "MELATONIN",
+        "BIOTIN",
+        "ZINC (UNSPECIFIED)"
+      ],
+      "reactions": [
+        "Application site pain",
+        "Application site urticaria",
+        "Application site irritation",
+        "Pruritus",
+        "Application site erythema"
+      ],
+      "report_id": "10102368"
+    },
+    {
+      "drugs": [
+        "PREVACID",
+        "ATENOLOL (ATENOLOL)",
+        "EFFIENT (PRASUGREL HYDROCHLORIDE)",
+        "RANITIDINE",
+        "GLUCOSAMINE AND CHONDROITIN (CHONDROITIN SULFATE SODIUM, GLUCASAMINE)",
+        "JUXTAPID",
+        "LOSARTAN (LOSARTAN POTASSIUM)",
+        "COLLAGEN (COLLAGEN)",
+        "CLARITIN",
+        "GINKOBA (GINKGO BILOBA)"
+      ],
+      "reactions": [
+        "Somnolence",
+        "Abdominal pain upper",
+        "Diarrhoea",
+        "Gastrointestinal disorder",
+        "Flatulence",
+        "Feeling abnormal",
+        "Abdominal discomfort",
+        "Headache",
+        "Weight decreased"
+      ],
+      "report_id": "10109801"
+    },
+    {
+      "drugs": [
+        "ABILIFY TABS 5 MG",
+        "MAGNESIUM",
+        "GINKGO BILOBA"
+      ],
+      "reactions": [
+        "Psychotic disorder",
+        "Food craving",
+        "Amnesia",
+        "Asthenia",
+        "Dizziness",
+        "Malaise",
+        "Off label use"
+      ],
+      "report_id": "10133520"
+    },
+    {
+      "drugs": [
+        "CALCIUM",
+        "MULTI VITAMIN",
+        "VITAMIN B 6",
+        "STEROIDS",
+        "IPILIMUMAB",
+        "OSTEO BI-FLEX",
+        "TURMERIC",
+        "VITAMIN D",
+        "FISH OIL",
+        "GINKGO BILOBA",
+        "PREDNISONE."
+      ],
+      "reactions": [
+        "Colitis",
+        "Small intestinal obstruction"
+      ],
+      "report_id": "10141749"
+    },
+    {
+      "drugs": [
+        "ATORVASTATIN CALCIUM",
+        "ROXITHROMYCIN",
+        "CLOPIDOGREL",
+        "LEVAMLODIPINE MALEATE",
+        "GINKGO BILOBA"
+      ],
+      "reactions": [
+        "Drug interaction",
+        "Myositis"
+      ],
+      "report_id": "10162586"
+    },
+    {
+      "drugs": [
+        "SELOZOK",
+        "OMEPRAZOLE",
+        "ROSUVASTATIN",
+        "ROSUVASTATIN",
+        "UNKNOWN",
+        "GINKGO BILOBA",
+        "SIMVASTATIN",
+        "ASPIRINA PREVENT",
+        "ISORDIL"
+      ],
+      "reactions": [
+        "Coronary artery occlusion",
+        "Blood cholesterol increased",
+        "Blood glucose increased",
+        "Dysuria",
+        "Weight decreased"
+      ],
+      "report_id": "10162870"
+    },
+    {
+      "drugs": [
+        "BYDUREON",
+        "DILTIAZEM CD",
+        "LYRICA",
+        "JANUVIA",
+        "METOPROLOL TARTRATE",
+        "LIVALO",
+        "GINKGO",
+        "ECHINACEA",
+        "ECOTRIN",
+        "EFIENT",
+        "RAMIPRIL",
+        "TAMSULOSIN",
+        "NASONEX"
+      ],
+      "reactions": [
+        "Injection site pain",
+        "Weight decreased"
+      ],
+      "report_id": "10164512"
+    },
+    {
+      "drugs": [
+        "XARELTO",
+        "XARELTO",
+        "SODIUM CHLORIDE",
+        "GINKGO",
+        "GLUCOSE",
+        "CALCIUM GLUCONATE",
+        "VITAMIN C"
+      ],
+      "reactions": [
+        "Haematuria"
+      ],
+      "report_id": "10169629"
+    },
+    {
+      "drugs": [
+        "SUMATRIPTAN.",
+        "BUPROPION",
+        "TYLENOL",
+        "COENZYME Q10",
+        "MAXALT-MLT",
+        "EXCEDRIN MIGRAINE",
+        "MOTRIN",
+        "MAXALT",
+        "DEPAKOTE",
+        "MIDRIN",
+        "YASMIN",
+        "MEDICATION UNKNOWN",
+        "OPIATE",
+        "FLONASE",
+        "ASPIRIN.",
+        "NEURONTIN",
+        "ERGONOVINE MALEATE.",
+        "PHENERGAN",
+        "AMITRIPTYLINE",
+        "IMITREX",
+        "SUMATRIPTAN.",
+        "SUMATRIPTAN.",
+        "AMERGE",
+        "LAMICTAL",
+        "GINGER.",
+        "GINKGO",
+        "SEROQUEL",
+        "ZOMIG",
+        "ERGOTRATE",
+        "CAFERGOT",
+        "DHE (DIHYDROERGOTAMINE MESILATE)",
+        "ADVIL",
+        "PROMETHAZINE",
+        "AMBIEN",
+        "LORAZEPAM.",
+        "CYMBALTA",
+        "IMITREX",
+        "ALEVE",
+        "MAGNESIUM",
+        "VERAPAMIL",
+        "AUROTO",
+        "ZOLOFT",
+        "FEVERFEW",
+        "NIACIN.",
+        "MIGRANAL",
+        "TOPAMAX",
+        "MIDCHLOR",
+        "PROCHLORPERAZINE.",
+        "ZYRTEC-D",
+        "ALLEGRA",
+        "FIORICET WITH CODEINE",
+        "VITAMIN B",
+        "FROVA",
+        "RELPAX",
+        "NAPROSYN",
+        "NAPROXEN.",
+        "CEPHALEXIN.",
+        "NUVARING",
+        "YAZ"
+      ],
+      "reactions": [
+        "Parosmia",
+        "Rash",
+        "Migraine",
+        "Memory impairment",
+        "Feeling of despair",
+        "Anxiety",
+        "Chest discomfort",
+        "Dyspnoea",
+        "Seizure",
+        "Drug ineffective",
+        "Suicidal ideation",
+        "Abdominal pain upper",
+        "Tinnitus",
+        "Cognitive disorder",
+        "Tremor",
+        "Disturbance in attention",
+        "Throat tightness",
+        "Panic attack",
+        "Therapeutic response decreased"
+      ],
+      "report_id": "10181541"
+    },
+    {
+      "drugs": [
+        "HUMULIN N",
+        "HUMULIN N",
+        "OMEPRAZOL                          /00661201/",
+        "LASIX                              /00032601/",
+        "LASIX                              /00032601/",
+        "GINKGO BILOBA",
+        "POLIVITAMINICO",
+        "CONCOR"
+      ],
+      "reactions": [
+        "Cerebrovascular accident",
+        "Blood glucose increased",
+        "Thrombosis",
+        "Electroencephalogram abnormal",
+        "Computerised tomogram abnormal",
+        "Blood test abnormal",
+        "Hypertension"
+      ],
+      "report_id": "10191461"
+    },
+    {
+      "drugs": [
+        "BUPROPION HYDROCHLORIDE",
+        "LORAZEPAM",
+        "AMBIEN",
+        "SUMATRIPTAN SUCCINATE",
+        "SUMATRIPTAN SUCCINATE",
+        "AMERGE",
+        "FLONASE",
+        "LAMICTAL",
+        "ADVIL",
+        "ASPIRIN",
+        "EXCEDRIN MIGRAINE",
+        "PARACETAMOL",
+        "FEVERFEW",
+        "NIACIN",
+        "MAGNESIUM CITRATE",
+        "GINGER",
+        "COENZYME Q10",
+        "GINKGO BILOBA",
+        "FROVA",
+        "MAXALT",
+        "SEROQUEL",
+        "RELPAX",
+        "ZOMIG",
+        "MIGRANAL",
+        "TOPAMAX",
+        "NEURONTIN",
+        "VERAPAMIL",
+        "DEPAKOTE",
+        "ERGOTRATE",
+        "CAFERGOT",
+        "MIDRID (MIDRID /00450801/) (PARACETAMOL, DICHLORALPHENAZONE, ISOMETHEPTENE)",
+        "AUROTO",
+        "ALEVE",
+        "PROCHLORPERAZINE",
+        "PROMETHAZINE HYDROCHLORIDE",
+        "CEFALEXIN",
+        "NUVARING",
+        "YAZ",
+        "YASMIN",
+        "PHENERGAN",
+        "AMITRIPTYLINE",
+        "CYMBALTA",
+        "ZOLOFT",
+        "ZYRTEC-D",
+        "ALLEGRA",
+        "OPIUM ALKALOIDS",
+        "MOTRIN",
+        "TYLENOL",
+        "DHE",
+        "NAPROSYN",
+        "MIDCHLOR"
+      ],
+      "reactions": [
+        "Suicidal ideation",
+        "Therapeutic response decreased",
+        "Drug ineffective",
+        "Device failure",
+        "Fear",
+        "Dyspnoea",
+        "Chest discomfort",
+        "Throat tightness",
+        "Rash",
+        "Abdominal pain upper",
+        "Migraine",
+        "Tinnitus",
+        "Cognitive disorder",
+        "Memory impairment",
+        "Tremor",
+        "Disturbance in attention",
+        "Parosmia",
+        "Impaired work ability",
+        "Panic attack",
+        "Convulsion",
+        "Feeling of despair",
+        "Product substitution issue"
+      ],
+      "report_id": "10203522"
+    },
+    {
+      "drugs": [
+        "HUMALOG",
+        "LANTUS",
+        "DAPAGLIFLOZIN",
+        "GINKGO BILOBA",
+        "ENALAPRIL",
+        "PRESSAT",
+        "NATRILIX                           /00340101/",
+        "LINAGLIPTIN"
+      ],
+      "reactions": [
+        "Eye haemorrhage",
+        "Visual acuity reduced",
+        "Diabetic neuropathy"
+      ],
+      "report_id": "10203777"
+    },
+    {
+      "drugs": [
+        "SYNTHROID",
+        "SYNTHROID",
+        "LEVOTHYROXINE SODIUM",
+        "ENALAPRIL MALEATE",
+        "GINKGO BILOBA",
+        "LABIRIN",
+        "ALL OTHER THERAPEUTIC PRODUCTS",
+        "PASSIFLORINE"
+      ],
+      "reactions": [
+        "Diabetes mellitus",
+        "Blood triglycerides increased",
+        "Blood pressure fluctuation",
+        "Alopecia",
+        "Hair disorder",
+        "Blood cholesterol increased"
+      ],
+      "report_id": "10203944"
+    },
+    {
+      "drugs": [
+        "FIBRINOGEN HUMAN\\THROMBIN HUMAN",
+        "ETOMIDATE",
+        "KARDEGIC",
+        "HEPARIN SODIUM",
+        "KETAMINE",
+        "GINKGO",
+        "TRANEXAMIC ACID",
+        "PROPOFOL",
+        "NIMBEX",
+        "SUFENTANIL",
+        "VANCOMYCIN",
+        "ATARAX",
+        "AVODART",
+        "CRESTOR",
+        "ESOMEPRAZOLE",
+        "ZOLPIDEM TARTRATE",
+        "ESCODARONE"
+      ],
+      "reactions": [
+        "Post procedural haemorrhage"
+      ],
+      "report_id": "10218424"
+    },
+    {
+      "drugs": [
+        "GINKGO BILOBA EXTRACT",
+        "TRANEXAMIC ACID.",
+        "OMEPRAZOLE.",
+        "HEPARIN SODIUM.",
+        "HEPARIN SODIUM.",
+        "HYDROXYZINE HYDROCHLORIDE.",
+        "PROPOFOL.",
+        "CORDARONE",
+        "FLUINDIONE",
+        "PROTAMINE SULPHATE",
+        "AVODART",
+        "CLINDAMYCIN PALMITATE HYDROCHLORIDE.",
+        "EPHEDRINE RENAUDIN",
+        "CISATRACURIUM BESILATE",
+        "ETOMIDATE.",
+        "CRESTOR",
+        "STILNOX",
+        "CLINDAMYCIN PHOSPHATE.",
+        "HEMOSTATIC",
+        "VANCOMYCIN",
+        "ACETYLSALICYLATE LYSINE",
+        "KETAMINE",
+        "SUFENTANIL",
+        "ESOMEPRAZOLE",
+        "LERCANIDIPINE HYDROCHLORIDE",
+        "NOREPINEPHRINE",
+        "ACETYLSALICYLATE LYSINE",
+        "CLINDAMYCIN HYDROCHLORIDE."
+      ],
+      "reactions": [
+        "Haemorrhage",
+        "Post procedural haemorrhage"
+      ],
+      "report_id": "10229372"
+    },
+    {
+      "drugs": [
+        "ETOMIDATE",
+        "SUFENTANIL",
+        "PROTAMINE SULPHATE",
+        "TRANEXAMIC ACID",
+        "AVODART",
+        "CRESTOR",
+        "ESOMEPRAZOLE",
+        "STILNOX",
+        "CORDARONE",
+        "LERCANIDIPINE HYDROCHLORIDE",
+        "CLINDAMYCIN PHOSPHATE",
+        "CLINDAMYCIN HYDROCHLORIDE",
+        "CLINDAMYCIN PALMITATE HYDROCHLORIDE",
+        "FLUINDIONE",
+        "OMEPRAZOLE",
+        "EPHEDRINE RENAUDIN",
+        "NORADRENALINE /00127501/",
+        "HEMOSTATIC",
+        "VANCOMYCIN",
+        "CISATRACURIUM BESILATE",
+        "HEPARIN SODIUM",
+        "HEPARIN SODIUM",
+        "HYDROXYZINE HYDROCHLORIDE",
+        "ACETYLSALICYLATE LYSINE",
+        "ACETYLSALICYLATE LYSINE",
+        "GINKGO BILOBA EXTRACT",
+        "PROPOFOL",
+        "KETAMINE"
+      ],
+      "reactions": [
+        "Post procedural haemorrhage",
+        "Haemorrhage"
+      ],
+      "report_id": "10229373"
+    },
+    {
+      "drugs": [
+        "AZATHIOPRINE (AZATHIOPRINE)",
+        "HUMIRA",
+        "PAXIL",
+        "MULTIVITAMINS (ERGOCALCIFEROL,RETINOL,NICOTINAMIDE,ASCORBIC ACID,FOLIC ACID,RIBOFLAVIN,PANTHENOL, THIAMINE HYDROCHLORIDE)",
+        "ZYRTEC (CETIRIZINE HYDROCHLORIDE)",
+        "VITAMIN B (VITAMIN B COMPLEX)",
+        "PRILOSEC (OMEPRAZOLE)",
+        "NASAL (OXYMETAZOLINE HYDROCHLORIDE)",
+        "FISH OIL (FISH OIL)",
+        "VITAMIN B 12 (VITAMIN B NOS)",
+        "VITAMIN D3 (COLECALCIFEROL)",
+        "CALCIUM + VITAMIN D (CALCIUM CARBONATE,COLECALCIFEROL)",
+        "IRON (IRON)",
+        "GINKGO BILOBA (GINKGO BILOBA)",
+        "KLOR-CON (POTASSIUM CHLORIDE)",
+        "NORVASC (AMLODIPINE BESILATE)"
+      ],
+      "reactions": [
+        "Joint swelling",
+        "Arthralgia",
+        "Injection site pruritus",
+        "Drug ineffective",
+        "Diarrhoea",
+        "Abdominal distension",
+        "Malignant melanoma"
+      ],
+      "report_id": "10234919"
+    },
+    {
+      "drugs": [
+        "PROPOLIS",
+        "GINKGO EXTRACT\\HEPTAMINOL\\TROXERUTIN",
+        "PAC",
+        "DIOSMINE",
+        "VOLTAREN",
+        "OGASTORO",
+        "EFFERALGAN",
+        "CALCIUM",
+        "ACLASTA",
+        "DICLOFENAC"
+      ],
+      "reactions": [
+        "Wrist fracture",
+        "Fall"
+      ],
+      "report_id": "10249117"
+    },
+    {
+      "drugs": [
+        "ENOXAPARIN",
+        "REVLIMID",
+        "COQ10",
+        "GARLIC.",
+        "GINSENG",
+        "GLUCOSAMINE CHONDROITIN",
+        "CALCIUM",
+        "ASPIRIN.",
+        "GINKGO BILOBA"
+      ],
+      "reactions": [
+        "Rectal haemorrhage",
+        "Palpitations"
+      ],
+      "report_id": "10270261"
+    },
+    {
+      "drugs": [
+        "CRIZOTINIB",
+        "MAGNESIUM OXIDE.",
+        "FAMOTIDINE.",
+        "NORTRIPTYLINE",
+        "THEOBROMINE",
+        "GINKGO BILOBA",
+        "MELOXICAM.",
+        "METOCLOPRAMIDE."
+      ],
+      "reactions": [
+        "Vertebral column mass"
+      ],
+      "report_id": "10274045"
+    },
+    {
+      "drugs": [
+        "MICARDIS PLUS",
+        "XANAX",
+        "TAHOR",
+        "GINKGO EXTRACT\\HEPTAMINOL\\TROXERUTIN",
+        "PREVISCAN",
+        "AMIODARONE BIOGARAN",
+        "DOLIPRANE"
+      ],
+      "reactions": [
+        "Rectal haemorrhage",
+        "Hemiplegia",
+        "International normalised ratio increased",
+        "Anaemia",
+        "Atrial fibrillation",
+        "Epistaxis",
+        "Muscle haemorrhage",
+        "Loss of consciousness",
+        "Escherichia infection",
+        "Overdose"
+      ],
+      "report_id": "10274569"
+    },
+    {
+      "drugs": [
+        "GINKGO BILOBA",
+        "SOLU-MEDROL",
+        "FAMPYRA",
+        "PAO PEREIRA (HOMEOPATHIC PREPARATION)",
+        "RAUWOLFIA VOMITARIA"
+      ],
+      "reactions": [
+        "Hepatitis acute",
+        "Jaundice"
+      ],
+      "report_id": "10274816"
+    },
+    {
+      "drugs": [
+        "HYDROCHLOROTHIAZIDE.",
+        "RIVOTRIL",
+        "GINKGO BILOBA",
+        "RIVOTRIL",
+        "HYDROCHLOROTHIAZIDE.",
+        "RIVOTRIL",
+        "PHENYTOIN."
+      ],
+      "reactions": [
+        "Agitation",
+        "Hypertensive crisis",
+        "Insomnia",
+        "Therapy cessation",
+        "Amnesia",
+        "Loss of consciousness"
+      ],
+      "report_id": "10275009"
+    },
+    {
+      "drugs": [
+        "GLIPIZIDE.",
+        "VITAMIN B",
+        "TRICOR",
+        "CHROMIUM",
+        "SAW PALMETTO",
+        "NIASPAN",
+        "GLUCOSAMINE",
+        "CHONDROITIN SULFATE (BOVINE)",
+        "BYETTA",
+        "TENORMIN",
+        "VYTORIN",
+        "INSULIN",
+        "CARDURA",
+        "OMACOR",
+        "COENZYME Q10",
+        "OLMESARTAN MEDOXOMIL + HCTZ",
+        "ASPIRIN.",
+        "METFORMIN HCL XR",
+        "NIASPAN",
+        "NEXIUM",
+        "GINKGO",
+        "MULTIVITAMIN"
+      ],
+      "reactions": [
+        "Lactic acidosis",
+        "Multi-organ failure",
+        "Flatulence",
+        "Decreased appetite",
+        "Pancreatitis acute",
+        "Nausea",
+        "Anxiety",
+        "Fatigue",
+        "Sepsis",
+        "Shock",
+        "Brain oedema",
+        "Dizziness"
+      ],
+      "report_id": "10287317"
+    },
+    {
+      "drugs": [
+        "VITAMIN C",
+        "CALCIUM",
+        "FISH OIL",
+        "SUPER B ENERGY COMPLEX",
+        "CINNAMON.",
+        "GINKGO BILOBA",
+        "ST JOHN WORT",
+        "DILANTIN"
+      ],
+      "reactions": [
+        "Deafness",
+        "Tinnitus"
+      ],
+      "report_id": "10290523"
+    },
+    {
+      "drugs": [
+        "ESMERON",
+        "OMEGA-3 MARINE TRIGLYCERIDES",
+        "GINKGO",
+        "PROPOFOL.",
+        "NOTEN",
+        "DEXAMETHASONE.",
+        "CRESTOR",
+        "VITAMINS (UNSPECIFIED)"
+      ],
+      "reactions": [
+        "Dyspnoea",
+        "Stridor",
+        "Oxygen saturation decreased"
+      ],
+      "report_id": "10308141"
+    },
+    {
+      "drugs": [
+        "LEVOTHYROXIN",
+        "SPRYCEL",
+        "ALBUTEROL.",
+        "CENTRUM SILVER",
+        "VITAMIN C",
+        "SALMON OIL",
+        "ASA",
+        "DUTASTERIDE",
+        "TAMSULOSIN HCL",
+        "GLUCOSAMINE",
+        "CALCIUM + VITAMIN D",
+        "GINKGO",
+        "ADVAIR HFA",
+        "VITAMIN B COMPLEX",
+        "BIOTIN"
+      ],
+      "reactions": [
+        "Gallbladder disorder"
+      ],
+      "report_id": "10340193"
+    },
+    {
+      "drugs": [
+        "BAYER GENUINE ASPIRIN",
+        "GINKGO BILOBA"
+      ],
+      "reactions": [
+        "Drug hypersensitivity",
+        "Dyspnoea",
+        "Choking",
+        "Medication error"
+      ],
+      "report_id": "10351609"
+    },
+    {
+      "drugs": [
+        "VFEND",
+        "GINKGO",
+        "DILANTIN",
+        "MONTELUKAST",
+        "SENNA LAXATIVE",
+        "IRON",
+        "CHONDROITIN",
+        "ZOFRAN",
+        "VITAMIN C",
+        "FLUTICASONE PROPIONATE, SALMETEROL XINAFOATE"
+      ],
+      "reactions": [
+        "Vomiting",
+        "Anaemia",
+        "Body height decreased",
+        "Diarrhoea",
+        "Colon cancer",
+        "Nausea",
+        "Dehydration",
+        "Poor venous access",
+        "Neoplasm recurrence",
+        "Weight decreased"
+      ],
+      "report_id": "10356581"
+    },
+    {
+      "drugs": [
+        "GINKGO BILOBA",
+        "FENATYL",
+        "VERTIX",
+        "CLOXAZOLAM",
+        "REBIF"
+      ],
+      "reactions": [
+        "Labyrinthitis"
+      ],
+      "report_id": "10357968"
+    },
+    {
+      "drugs": [
+        "MYRBETRIQ",
+        "MYSTATIN",
+        "ALKALOID",
+        "VIT K2",
+        "SYNTHROID",
+        "LATISSE",
+        "GINKGO BILOBA",
+        "GLUCOSAMIN CHONDROITIN",
+        "MENS ROGAINE UNSCENTED FORMULA",
+        "MULTIVIT B12, C",
+        "ZINC",
+        "MAGNESIUM",
+        "EVISTA",
+        "DESONIDE.",
+        "CALCIUM D3",
+        "TRAZODINE",
+        "ASTRACE",
+        "FOLIC ACID.",
+        "IRON",
+        "PROBIOTIC",
+        "LOSARTAN",
+        "GUAIFENESIN."
+      ],
+      "reactions": [
+        "Pain",
+        "Rash",
+        "Pruritus",
+        "Nipple disorder"
+      ],
+      "report_id": "10359345"
+    },
+    {
+      "drugs": [
+        "MELPHALAN",
+        "VIRLESS",
+        "GINKGO BILOBA EXTRACT",
+        "ZOMETA",
+        "DEXAMETHASONE.",
+        "CARFILZOMIB",
+        "MELPHALAN",
+        "PREDNISONE.",
+        "DIOVAN",
+        "DOXAZOSIN",
+        "DOXABEN",
+        "DEXAMETHASONE.",
+        "CARFILZOMIB",
+        "CARFILZOMIB",
+        "TRENTAL",
+        "CONCOR5",
+        "CONCOR5",
+        "EXFORGE",
+        "EXFORGE",
+        "PREDNISONE.",
+        "ZOMETA",
+        "DUTASTERIDE.",
+        "CARFILZOMIB"
+      ],
+      "reactions": [
+        "Respiratory failure",
+        "Fungal infection",
+        "Pneumonitis"
+      ],
+      "report_id": "10361184"
+    },
+    {
+      "drugs": [
+        "PANTOPRAZOLE",
+        "QUEROPAX",
+        "EXODUS//ESCITALOPRAM OXALATE",
+        "TRILEPTAL",
+        "CLOPIDOGREL",
+        "AMIODARONE",
+        "GINKGO BILOBA",
+        "SIMVASTATIN.",
+        "CARVEDILOL."
+      ],
+      "reactions": [
+        "Pyrexia",
+        "Aphagia",
+        "Terminal state",
+        "Hypertension",
+        "Skin discolouration",
+        "Urticaria",
+        "Diabetes mellitus",
+        "Choking sensation",
+        "Hypersensitivity",
+        "Skin exfoliation",
+        "Oral pustule",
+        "Blood glucose increased",
+        "Skin reaction"
+      ],
+      "report_id": "10363558"
+    },
+    {
+      "drugs": [
+        "NUVARING",
+        "GINKGO"
+      ],
+      "reactions": [
+        "Deep vein thrombosis",
+        "Pneumonia",
+        "Pulmonary embolism"
+      ],
+      "report_id": "10369085"
+    },
+    {
+      "drugs": [
+        "REVLIMID",
+        "SIMVASTATIN (TABLETS)",
+        "COQ-10 (UBIDECARENONE) (CAPSULES)",
+        "GLUCOSAMINE (TABLETS)",
+        "SAW PALMETTO (SERENOA REPENS) (CAPSULES)",
+        "BENICAR (OLMESARTAN MEDOXOMIL) (TABLETS)",
+        "OMEPRAZOLE (TABLETS)",
+        "FISH OIL (CAPSULES)",
+        "JALYN (DUTAS-T) (CAPSULES)",
+        "LEVOTHYROXINE (TABLETS)",
+        "ASPIRIN (ACETYLSALICYLIC ACID) (TABLETS)",
+        "CRANBERRY (VACCINIUM OXYCOCCUS FRUIT EXTRACT) (CAPSULES)",
+        "MULTIVITAMIN (MULTIVITAMINS) (UNKNOWN)",
+        "PROCHLORPERAZINE MALEATE (TABLETS)",
+        "GINGER EXTRACT (CAPSULES)",
+        "GINKGO BILOBA (TABLETS)",
+        "BROMELAIN (BROMELAINS) (UNKNOWN)",
+        "AMLODIPINE (TABLETS)",
+        "TOVIAZ (FESOTERODINE FUMARATE)",
+        "VESICARE (SOLIFENACIN SUCCINATE) (TABLETS)",
+        "IMIPRAMINE (TABLETS)",
+        "DECADRON (DEXAMETHASONE) (UNKNOWN)"
+      ],
+      "reactions": [
+        "Thrombosis"
+      ],
+      "report_id": "10369374"
+    },
+    {
+      "drugs": [
+        "ASPIRIN.",
+        "FOLIC ACID.",
+        "GARLIC.",
+        "METFORMIN",
+        "PRADAXA",
+        "VITAMIN B COMPLEX",
+        "CRESTOR",
+        "MUCINEX",
+        "VITAMIN E",
+        "DIOVAN",
+        "METOPROLOL",
+        "LASIX",
+        "CAPTOPRIL.",
+        "GINKGO BILOBA"
+      ],
+      "reactions": [
+        "Haemorrhagic anaemia",
+        "Acute prerenal failure",
+        "Upper gastrointestinal haemorrhage",
+        "Coagulopathy",
+        "Fall"
+      ],
+      "report_id": "10385551"
+    },
+    {
+      "drugs": [
+        "PACLITAXEL.",
+        "COUMADIN",
+        "CARNITINE",
+        "TYKERB",
+        "VANQUISH",
+        "VITAMIN B-100",
+        "GRAPE SEED EXTRACT",
+        "NORCO",
+        "LYRICA",
+        "MELATONIN",
+        "ALPHA LIPOIC ACID",
+        "VITAMIN C",
+        "VITAMIN D3",
+        "FISH OIL",
+        "UBIDECARENONE",
+        "GINKGO",
+        "TYKERB",
+        "TYKERB",
+        "DOCOSAHEXAENOIC ACID",
+        "VITAMIN B12",
+        "OMEGA FISH OIL",
+        "HERCEPTIN",
+        "ZOMETA",
+        "VITAMIN B12",
+        "SILYMARIN",
+        "ALOE VERA GEL",
+        "COCONUT OIL",
+        "OLIVE OIL",
+        "MILK THISTLE"
+      ],
+      "reactions": [
+        "Dyspnoea",
+        "Erythema",
+        "Liver function test abnormal",
+        "Hypoaesthesia",
+        "Cognitive disorder",
+        "Arthralgia",
+        "Nasal congestion",
+        "Weight increased",
+        "Muscle tightness",
+        "Blood lactate dehydrogenase",
+        "Thyroid function test abnormal",
+        "Chest discomfort",
+        "Diarrhoea",
+        "Myalgia",
+        "Paraesthesia",
+        "Nasal ulcer",
+        "Rash",
+        "Mental impairment",
+        "Musculoskeletal pain",
+        "Renal function test abnormal",
+        "Epistaxis",
+        "Lymphoedema",
+        "Visual impairment",
+        "Extrasystoles",
+        "Neuropathy peripheral",
+        "Middle insomnia",
+        "Nausea",
+        "Pain in extremity",
+        "Feeling hot",
+        "Balance disorder",
+        "Heart rate irregular",
+        "Faeces soft",
+        "Ejection fraction decreased",
+        "Anaemia",
+        "Dyspepsia",
+        "Insomnia",
+        "Cough",
+        "Memory impairment",
+        "Sleep disorder",
+        "Device failure",
+        "Ejection fraction decreased",
+        "Back pain",
+        "Onychalgia",
+        "Vomiting",
+        "Pain",
+        "Anxiety",
+        "Body temperature decreased",
+        "Palmar erythema",
+        "Gait disturbance",
+        "Fatigue",
+        "Flatulence",
+        "Hallucination",
+        "Abasia",
+        "Chest pain",
+        "Hyperventilation",
+        "Dry skin",
+        "Muscular weakness",
+        "Tension",
+        "Panic attack",
+        "Amnesia",
+        "Disturbance in attention",
+        "Tooth disorder"
+      ],
+      "report_id": "10435606"
+    },
+    {
+      "drugs": [
+        "NORCO",
+        "VITAMIN B COMPLEX",
+        "SILYMARIN",
+        "METOPROLOL",
+        "VANQUISH",
+        "UBIDECARENONE",
+        "CYANOCOBALAMIN.",
+        "CARNITINE",
+        "COLECALCIFEROL",
+        "GINKGO BILOBA",
+        "COCONUT OIL",
+        "THIOCTIC ACID",
+        "BONE MEAL",
+        "RADIOTHERAPY",
+        "ALOE VERA",
+        "TYKERB",
+        "TYKERB",
+        "OMEGA-3 MARINE TRIGLYCERIDES",
+        "GRAPE SEED EXTRACT ^NATURAL FACTORS^",
+        "TRASTUZUMAB",
+        "MELATONIN",
+        "FISH OIL",
+        "MAGNESIUM SALT",
+        "PACLITAXEL.",
+        "WARFARIN SODIUM.",
+        "ASCORBIC ACID.",
+        "ZOMETA",
+        "TYKERB",
+        "PREGABALIN.",
+        "ADDERALL",
+        "OLIVE OIL",
+        "DOCOSAHEXAENOIC ACID"
+      ],
+      "reactions": [
+        "Chest discomfort",
+        "Pain",
+        "Nasal ulcer",
+        "Dyspnoea",
+        "Diarrhoea",
+        "Onychalgia",
+        "Blood lactate dehydrogenase increased",
+        "Renal function test abnormal",
+        "Hyperventilation",
+        "Ill-defined disorder",
+        "Balance disorder",
+        "Muscle tightness",
+        "Feeling hot",
+        "Musculoskeletal pain",
+        "Fatigue",
+        "Anaemia",
+        "Paraesthesia",
+        "Hypoaesthesia",
+        "Tension",
+        "Somnolence",
+        "Pain in extremity",
+        "Anxiety",
+        "Cough",
+        "Rash",
+        "Weight increased",
+        "Middle insomnia",
+        "Liver function test abnormal",
+        "Epistaxis",
+        "Neuropathy peripheral",
+        "Abasia",
+        "Dry skin",
+        "Dyspepsia",
+        "Nausea",
+        "Chest pain",
+        "Palmar erythema",
+        "Hallucination",
+        "Device failure",
+        "Body temperature decreased",
+        "Gait disturbance",
+        "Memory impairment",
+        "Back pain",
+        "Ejection fraction decreased",
+        "Heart rate irregular",
+        "Thyroid function test abnormal",
+        "Erythema",
+        "Muscular weakness",
+        "Disturbance in attention",
+        "Nasal congestion",
+        "Lymphoedema",
+        "Vomiting",
+        "Arthralgia",
+        "Flatulence",
+        "Panic attack",
+        "Visual impairment",
+        "Sleep disorder",
+        "Myalgia"
+      ],
+      "report_id": "10440655"
+    },
+    {
+      "drugs": [
+        "IBUPROFEN.",
+        "GUAIFENESIN.",
+        "GINKGO",
+        "VENTOLINE",
+        "LUTEIN",
+        "GABAPENTIN.",
+        "DIAZEPAM.",
+        "IRON",
+        "VITAMIN B12",
+        "VITAMIN A",
+        "VITAMIN B 6",
+        "CHLORELLA",
+        "MAGNESIUM OXIDE W/ZINC",
+        "ALBUTEROL SULFATE TABLETS USP",
+        "ADVAIR HFA",
+        "VITAMIIN C",
+        "SPIRULINA",
+        "ALBUTEROL SULFATE TABLETS USP",
+        "BILOBAN",
+        "TRAMADOL",
+        "SINGULAIR",
+        "VITAMIN B 6",
+        "BETA CAROTENE",
+        "GLUCOSAMINE",
+        "TOBI",
+        "TOBI",
+        "DULERA",
+        "GINSENG NOS",
+        "TUSSIONEX PENNKINETIC",
+        "PROBIOTICS NOS",
+        "VITAMIN E",
+        "ZYRTEC",
+        "VITAMIN D3",
+        "ALBUTEROL SULFATE TABLETS USP"
+      ],
+      "reactions": [
+        "Road traffic accident",
+        "Spinal cord injury",
+        "Spinal fracture",
+        "Nerve injury",
+        "Hypoaesthesia",
+        "Occupational exposure to dust",
+        "Inappropriate schedule of drug administration",
+        "Malaise",
+        "Lower respiratory tract infection fungal",
+        "Eye disorder",
+        "Vomiting",
+        "Post-traumatic neck syndrome",
+        "Dyspnoea"
+      ],
+      "report_id": "10442581"
+    },
+    {
+      "drugs": [
+        "DEXAMETHASONE (DEXAMETHASONE SODIUM PHOSPHATE)",
+        "VINBLASTINE SULFATE.",
+        "SULFAMETHOXAZOLE AND TRIMETHOPRIM (SULFAMETHOXAZOLE, TRIMETHOPRIM)",
+        "DOXORUBICIN",
+        "DACARBAZINE.",
+        "GABAPENTIN.",
+        "BRENTUXIMAB VEDOTIN",
+        "GINKGO (GINKGO BILOBA)",
+        "METFORMIN",
+        "PALONOSETRON"
+      ],
+      "reactions": [
+        "Chest discomfort",
+        "Herpes virus infection",
+        "Pneumonia",
+        "Hepatitis B",
+        "Pyrexia",
+        "Electrocardiogram QT prolonged"
+      ],
+      "report_id": "10444454"
+    },
+    {
+      "drugs": [
+        "XALATAN",
+        "PARIET",
+        "DOXAZOSIN",
+        "GINKGO BILOBA",
+        "SOMALGIN CARDIO",
+        "NEBILET",
+        "GINKGO BILOBA",
+        "LIPITOR"
+      ],
+      "reactions": [
+        "Cardiac disorder",
+        "Drug ineffective"
+      ],
+      "report_id": "10445803"
+    },
+    {
+      "drugs": [
+        "NIFEDIPINE.",
+        "KETOPROFEN.",
+        "METFORMIN",
+        "FLUPENTIXOL",
+        "METAMIZOL                          /06276702/",
+        "PIRACETAM",
+        "TRIMETAZIDINE",
+        "GINKGO BILOBA",
+        "DIOSMIN",
+        "ASPIRIN.",
+        "TRAMADOL",
+        "DIAZEPAM.",
+        "SIMVASTATIN 20MG",
+        "METOPROLOL",
+        "DICLOFENAC",
+        "PENTAERYTHRITOL TETRANITRATE",
+        "GENTAMICIN."
+      ],
+      "reactions": [
+        "Haemorrhoids",
+        "Blood pressure fluctuation",
+        "Low density lipoprotein increased",
+        "Constipation",
+        "Anxiety",
+        "High density lipoprotein decreased",
+        "Adverse event",
+        "Blood glucose increased",
+        "Creatinine renal clearance decreased",
+        "Blood cholesterol increased"
+      ],
+      "report_id": "10455757"
+    },
+    {
+      "drugs": [
+        "VITAMIN E",
+        "GINKGO BILOBA",
+        "TOPIRAMATE.",
+        "BACLOFEN.",
+        "MAGNESIUM",
+        "FOLIC ACID.",
+        "METOPROLOL",
+        "VITAMIN D3",
+        "CALCIUM",
+        "LORAZEPAM.",
+        "METHOTREXATE",
+        "PHENERGAN",
+        "CYMBALTA",
+        "ASPIRIN.",
+        "PREDNISONE.",
+        "TYLENOL",
+        "XELJANZ",
+        "LIPITOR",
+        "VITAMIN C",
+        "NEXIUM 24HR"
+      ],
+      "reactions": [
+        "Headache",
+        "Somnolence",
+        "Drug hypersensitivity"
+      ],
+      "report_id": "10456614"
+    },
+    {
+      "drugs": [
+        "ESTRADIOL.",
+        "FISH OIL",
+        "TEGRETOL",
+        "LISINOPRIL.",
+        "GINKGO BILOBA",
+        "VITAMIN D",
+        "LAMOTRIGINE.",
+        "OMEPRAZOLE.",
+        "ASPIRIN."
+      ],
+      "reactions": [
+        "Lower limb fracture",
+        "Loss of consciousness",
+        "Cerebrovascular accident",
+        "Upper limb fracture",
+        "Walking disability",
+        "Bone disorder",
+        "Insomnia",
+        "Convulsion",
+        "Nervous system disorder",
+        "Blood sodium decreased"
+      ],
+      "report_id": "10456639"
+    },
+    {
+      "drugs": [
+        "FLUDEX",
+        "PRADAXA",
+        "CRESTOR",
+        "PROPAFENONE.",
+        "GINKGO BILOBA",
+        "CONCOR"
+      ],
+      "reactions": [
+        "Abdominal pain",
+        "Malaise",
+        "Cold sweat",
+        "Abdominal pain upper",
+        "Dyspepsia"
+      ],
+      "report_id": "10462272"
+    },
+    {
+      "drugs": [
+        "SINGULAIR",
+        "GINKGO BILOBA",
+        "LASIX",
+        "KLOR-CON",
+        "ZAROXOLYN",
+        "BACTROBAN",
+        "SOTALOL.",
+        "BONIVA",
+        "LANTUS",
+        "FEMARA",
+        "VICTOZA",
+        "ALDACTONE",
+        "DIOVAN",
+        "PRADAXA",
+        "LANOXIN",
+        "LEXAPRO",
+        "TYLENOL",
+        "ABILITY",
+        "MOMETASONE FUROATE.",
+        "AIEVE",
+        "OMEPRAZOLE.",
+        "PRANDIN",
+        "TOPAMAX",
+        "CALCIUM CITRATE",
+        "KRILL"
+      ],
+      "reactions": [
+        "Bacillus bacteraemia",
+        "Ulcer",
+        "Coagulopathy",
+        "Urinary tract infection",
+        "Gastritis haemorrhagic",
+        "Haemorrhagic anaemia",
+        "Renal failure acute",
+        "Hypernatraemia"
+      ],
+      "report_id": "10465705"
+    },
+    {
+      "drugs": [
+        "MARIJUANA",
+        "POTASSIUM CHLORIDE.",
+        "DIAZEPAM.",
+        "DOXEPIN",
+        "HYDROCODONE",
+        "LEVOTHYROXINE",
+        "TEMAZEPAM.",
+        "NALDEMEDINE",
+        "VITAMIN B12",
+        "ACETAMINOPHEN.",
+        "XOPENEX HFA",
+        "BECLOMETHASONE DIPROPIONATE        /00212602/",
+        "ETHANOL",
+        "GABAPENTIN.",
+        "NORTRIPTYLINE",
+        "FUROSEMIDE.",
+        "CITALOPRAM",
+        "MULTIVITAMIN                       /00097801/",
+        "GINKGO BILOBA",
+        "METHAMPHETAMINE HYDROCHLORIDE TABLETS, USP"
+      ],
+      "reactions": [
+        "Exposure via ingestion",
+        "Obesity",
+        "Emphysema",
+        "Death",
+        "Hypertensive heart disease",
+        "Tobacco user",
+        "Arteriosclerosis coronary artery"
+      ],
+      "report_id": "10478088"
+    },
+    {
+      "drugs": [
+        "ALCON ICAPS MULTIVITAMIN FORMULA",
+        "VITAMIN B (UNSPECIFIED)",
+        "POTASSIUM (UNSPECIFIED)",
+        "CALCIUM (UNSPECIFIED) (+) VITAMIN D (UNSPECIFIED)",
+        "METFORMIN",
+        "THYROID",
+        "GINKGO",
+        "OXYTROL FOR WOMEN",
+        "OXYTROL FOR WOMEN"
+      ],
+      "reactions": [
+        "Burning sensation"
+      ],
+      "report_id": "10482734"
+    },
+    {
+      "drugs": [
+        "GINKGO BILOBA",
+        "LAMISIL",
+        "PREVACID",
+        "ZOLOFT",
+        "DETROL LA",
+        "ALBUTEROL.",
+        "MACROBID",
+        "SINGULAIR",
+        "ADVAIR HFA",
+        "BACTRIM",
+        "NEXIUM"
+      ],
+      "reactions": [
+        "Vision blurred",
+        "Prescribed overdose",
+        "Visual impairment",
+        "Cataract",
+        "Eye disorder"
+      ],
+      "report_id": "10491370"
+    },
+    {
+      "drugs": [
+        "FLAXSEED",
+        "ZIDOVUDINE.",
+        "LAMIVUDINE.",
+        "CALCIUM",
+        "SUSTIVA",
+        "MAGNESIUM",
+        "GINKGO BILOBA",
+        "MULTI VITAMIN"
+      ],
+      "reactions": [
+        "Virologic failure",
+        "Drug interaction"
+      ],
+      "report_id": "10495703"
+    },
+    {
+      "drugs": [
+        "DIGOXIN.",
+        "INSULIN LISPRO",
+        "INDAPAMIDE.",
+        "INSULIN LISPRO",
+        "LERCANIDIPINE",
+        "GINKGO BILOBA",
+        "NICERGOLINE",
+        "ACETYLSALICYLIC ACID",
+        "RAMIPRIL.",
+        "SIMVASTATIN.",
+        "NEBIVOLOL"
+      ],
+      "reactions": [
+        "Fall",
+        "Hypoglycaemia",
+        "Subdural haematoma",
+        "Craniocerebral injury",
+        "Inappropriate schedule of drug administration"
+      ],
+      "report_id": "10518383"
+    },
+    {
+      "drugs": [
+        "SYMBICORT",
+        "VENTOLIN",
+        "FORSTEO",
+        "NITROMINT",
+        "COVEREX",
+        "ESPUMISAN                          /00159501/",
+        "MEMORIL                            /00337701/",
+        "ASPIRIN PROTECT",
+        "CORVATON",
+        "FRONTIN",
+        "GINKGO BILOBA",
+        "SPIRIVA"
+      ],
+      "reactions": [
+        "Asthma"
+      ],
+      "report_id": "10523340"
+    },
+    {
+      "drugs": [
+        "FOSRENOL",
+        "TAHOR",
+        "TAHOR",
+        "GINKGO EXTRACT\\HEPTAMINOL\\TROXERUTIN",
+        "KAYEXALATE",
+        "ZOLPIDEM TARTRATE",
+        "BISOPROLOL FUMARATE",
+        "FUROSEMIDE"
+      ],
+      "reactions": [
+        "Hepatitis"
+      ],
+      "report_id": "10524119"
+    },
+    {
+      "drugs": [
+        "HUMULIN N",
+        "HUMULIN NOS",
+        "HUMULIN NOS",
+        "DIOSMIN",
+        "LANTUS",
+        "HUMULIN N",
+        "SIMVASTATIN.",
+        "MONOCORDIL",
+        "DULOXETINE",
+        "PROCORALAN",
+        "VASTAREL",
+        "ALENDRONATE",
+        "HYDROCHLOROTHIAZIDE.",
+        "HUMULIN NOS",
+        "GLIFAGE",
+        "CALCIUM +D3",
+        "LINAGLIPTIN",
+        "CARVEDILOL.",
+        "GINKGO BILOBA",
+        "HUMULIN NOS",
+        "ENALAPRIL",
+        "HUMALOG"
+      ],
+      "reactions": [
+        "Drug ineffective",
+        "Muscular weakness",
+        "Somnolence",
+        "Injection site pain",
+        "Blood glucose decreased",
+        "Blood glucose increased",
+        "Limb discomfort",
+        "Pneumonia",
+        "Blood glucose fluctuation",
+        "Cataract",
+        "Angina pectoris",
+        "Dizziness",
+        "Hypoaesthesia",
+        "Arthritis",
+        "Feeling abnormal",
+        "Urinary tract infection",
+        "Injection site bruising",
+        "Cerebrovascular accident",
+        "Fibromyalgia",
+        "Inappropriate schedule of drug administration",
+        "Cerebrovascular accident",
+        "Balance disorder"
+      ],
+      "report_id": "10531965"
+    },
+    {
+      "drugs": [
+        "AMLODIPINE (AMLODIPINE BESILATE)",
+        "CALCIUM CARBONATE.",
+        "CINNAMON.",
+        "MULTIVITAMIN (VITAMINS NOS)",
+        "JOINT CARE (GLUCOSAMINE SULFATE)",
+        "OMEGA 3 (FISH OIL)",
+        "CRESTOR",
+        "FLUOXETINE",
+        "METFORMIN HCL (METFORMIN HYDROCHLORIDE)",
+        "NITROSTAT (GLYCERYL TRINITRATE)",
+        "VITAMIN E",
+        "HYDROCHLOROTHIAZIDE.",
+        "JUXTAPID",
+        "ATENOLOL.",
+        "LISINOPRIL.",
+        "POTASSIUM CHLORIDE.",
+        "VITAMIN B6",
+        "GINKOBA (GINKGO BILOBA)",
+        "VITAMIN C",
+        "CLOPIDOGREL BISULFATE.",
+        "ASPIRIN (ACETYLSALICYLIC ACID)",
+        "CO Q10 (UBIDECARENONE)",
+        "FLAXSEED",
+        "IODINE"
+      ],
+      "reactions": [
+        "Aspartate aminotransferase increased",
+        "Alanine aminotransferase increased",
+        "Therapy cessation",
+        "Hepatic enzyme increased"
+      ],
+      "report_id": "10546144"
+    },
+    {
+      "drugs": [
+        "ASPIRIN                            /00002701/",
+        "GINKGO BILOBA",
+        "OMEPRAZOLE.",
+        "DIPHENHYDRAMINE",
+        "METOPROLOL",
+        "SOVALDI",
+        "OLYSIO",
+        "CHOLINE",
+        "DELESTROGEN",
+        "GINSENG                            /01384001/",
+        "FOSFATIDIL",
+        "S-ADENOSYLMETHIONINE SULFATE P-TOLUENESULFONATE",
+        "FUROSEMIDE.",
+        "BIOTIN"
+      ],
+      "reactions": [
+        "Off label use",
+        "Burning sensation",
+        "Hypoaesthesia"
+      ],
+      "report_id": "10549561"
+    },
+    {
+      "drugs": [
+        "GINKGO BILOBA",
+        "PROLOPA",
+        "EXELON PATCH",
+        "EXELON PATCH",
+        "ALOIS",
+        "EXELON PATCH"
+      ],
+      "reactions": [
+        "Dementia Alzheimer^s type",
+        "Weight decreased",
+        "Drug dependence",
+        "Aphagia",
+        "Disease progression",
+        "Agitation",
+        "Parkinson^s disease"
+      ],
+      "report_id": "10561383"
+    },
+    {
+      "drugs": [
+        "SODIUM CHLORIDE.",
+        "LEVOTHYROXINE",
+        "FLU SHOT",
+        "OXYGEN.",
+        "ALBUTEROL.",
+        "ZEMAIRA",
+        "LEVETIRACETAM.",
+        "TAGAMET",
+        "ALL OTHER THERAPEUTIC PRODUCTS",
+        "SIMVASTATIN.",
+        "PRIMATENE",
+        "MUCINEX D",
+        "VITAMIN E",
+        "CIMETIDINE",
+        "ADVAIR HFA",
+        "EPIPEN",
+        "DIOVAN",
+        "CALCIUM 500 + D",
+        "VITAMIN C",
+        "CENTRUM SILVER",
+        "ASPIRIN.",
+        "IPRAT-ALBUT",
+        "GINKO BILOBA",
+        "ALEVE",
+        "SPIRIVA",
+        "GINKGO BILOBA",
+        "DIPHENHYDRAMINE",
+        "LMX",
+        "ALL OTHER NON-THERAPEUTIC PRODUCTS",
+        "DRAMAMINE",
+        "CLARITIN",
+        "THEOPHYLLINE"
+      ],
+      "reactions": [
+        "Eye movement disorder",
+        "Pulse abnormal",
+        "Blood pressure decreased"
+      ],
+      "report_id": "10562077"
+    },
+    {
+      "drugs": [
+        "GINKGO BILOBA EXTRACT W/TROXERUTIN",
+        "VITABACT (PICLOXYDINE DIHYDROCHLORIDE)",
+        "EYLEA",
+        "OMACOR",
+        "VASTAREL",
+        "ASCORBIC ACID, BETACAROTENE, CUPRIC OXIDE, DL-ALPHA TOCOPHERYL ACETATE, ZINC OXIDE"
+      ],
+      "reactions": [
+        "Dermatitis exfoliative",
+        "Eosinophilia"
+      ],
+      "report_id": "10562304"
+    },
+    {
+      "drugs": [
+        "ADVAIR DISKUS",
+        "CLARITIN",
+        "NEURONTIN",
+        "CATAPRES",
+        "GINKGO BILOBA",
+        "PROZAC",
+        "SEROQUEL",
+        "ABILIFY",
+        "IBUPROFEN.",
+        "VENTOLIN",
+        "VOLTAREN",
+        "PEPTO-BISMOL",
+        "KLONOPIN"
+      ],
+      "reactions": [
+        "Feeling jittery",
+        "Stress",
+        "Blood blister"
+      ],
+      "report_id": "10563739"
+    },
+    {
+      "drugs": [
+        "PANTOPRAZOLE SODIUM (PANTOPRAZOLE SODIUM)",
+        "FRAGMIN",
+        "TEMESTA (LORAZEPAM)",
+        "VITAMEDIN INTRAVENOUS (CYANOCOBALAMIN, PYRIDOXINE HYDROCHLORIDE, THIAMINE DISULFIDE)",
+        "ATARAX",
+        "PYRIDOXINE HYDROCHLORIDE (PYRIDOXINE HYDROCHLORIDE)",
+        "FILGRASTIM (FILGRASTIM)",
+        "OLEOVIT-D3 (COLECALCIFEROL)",
+        "VALERIANA OFFICINALIS (VALRIANA OFFICINALIS)",
+        "TRIMETHOPRIM.",
+        "TEBOFORTAN (GINKGO BILOBA)",
+        "IBANDRONATE SODIUM (IBANDRONATE SODIUM)",
+        "OLANZAPINE (OLANZAPINE)",
+        "ANAEROBEX (METRONIDAZOLE)",
+        "THYREX (LEVOTHYROXINE SODIUM)",
+        "DICLOFENAC (DICLOFENAC)",
+        "D-CALSOR (CALCIUM PHOSPHATE DIBASIC, COLECALCIFEROL)",
+        "MIRTAZAPINE."
+      ],
+      "reactions": [
+        "Neutropenia"
+      ],
+      "report_id": "10565207"
+    },
+    {
+      "drugs": [
+        "STRIBILD",
+        "VALTREX",
+        "COMBIVIR",
+        "KALETRA",
+        "GINKGO BILOBA"
+      ],
+      "reactions": [
+        "Hyperglycaemia"
+      ],
+      "report_id": "10566756"
+    },
+    {
+      "drugs": [
+        "VITAMIN C",
+        "GLUTATHIONE PRECURSOR",
+        "PHOSPHATIDYL MATRIX",
+        "MACA",
+        "CRANBERRY.",
+        "ATIVAN",
+        "BIIB017",
+        "EVENING PRIMROSE OIL",
+        "BUTCHER^S BROOM",
+        "GINKGO BILOBA",
+        "ASHWAGANDHA",
+        "BACLOFEN.",
+        "MALIC ACID",
+        "LECITHIN",
+        "MILK THISTLE EXTRACT",
+        "UBIQUINOL",
+        "CHONDROITIN SULFATE (BOVINE)\\GLUCOSAMINE SULFATE",
+        "MULTIVITAMIN",
+        "BIIB017",
+        "BIIB017",
+        "BACLOFEN.",
+        "GINGER ROOT",
+        "IBUPROFEN.",
+        "MECLIZINE"
+      ],
+      "reactions": [
+        "Breast cancer"
+      ],
+      "report_id": "10567714"
+    },
+    {
+      "drugs": [
+        "ACLASTA",
+        "GINKGO BILOBA",
+        "BETASERC",
+        "BUSPAR",
+        "FLUOXETINE",
+        "SIMVASTATIN."
+      ],
+      "reactions": [
+        "Tremor",
+        "Pain",
+        "Upper limb fracture",
+        "Malaise",
+        "Chest discomfort",
+        "Fear of death",
+        "Back pain",
+        "Osteoarthritis",
+        "Fall",
+        "Gait disturbance",
+        "Abasia"
+      ],
+      "report_id": "10570231"
+    },
+    {
+      "drugs": [
+        "WELCHOL",
+        "GINKGO BILOBA",
+        "LUTEIN-ZEAXANTHIN",
+        "FLORA",
+        "BILBERRY                           /01397601/",
+        "CHONDROITIN SULFATE (BOVINE)\\DIMETHYL SULFONE\\GLUCOSAMINE SULFATE",
+        "DIGOXIN.",
+        "NITROGLYCERIN.",
+        "OSTEO                              /00751501/",
+        "METOPROLOL TARTRATE.",
+        "ASPIRIN                            /00002701/",
+        "COENZYME Q10",
+        "VITAMIN C",
+        "MAGNESIUM CITRATE.",
+        "WELCHOL",
+        "ISOSORBIDE MONONITRATE.",
+        "MULTIVITAMINS",
+        "KYOLIC",
+        "RED YEAST RICE",
+        "OMEGA 3-6-9                        /01333901/"
+      ],
+      "reactions": [
+        "Dyspepsia",
+        "Chest pain",
+        "Drug prescribing error",
+        "Myalgia",
+        "Drug administration error",
+        "Constipation"
+      ],
+      "report_id": "10588571"
+    },
+    {
+      "drugs": [
+        "CALCIPOTRIENE CREAM",
+        "GINKGO",
+        "TECFIDERA",
+        "TECFIDERA",
+        "TECFIDERA",
+        "FEXOFENADINE",
+        "BACLOFEN.",
+        "VITAMIN D3",
+        "FISH OIL",
+        "FLUTICASONE PROPIONATE.",
+        "VITAMIN E"
+      ],
+      "reactions": [
+        "Sepsis",
+        "Lymphopenia",
+        "Cellulitis"
+      ],
+      "report_id": "10609459"
+    },
+    {
+      "drugs": [
+        "CARBOPLATIN.",
+        "CARBOPLATIN.",
+        "KABI PACLITAXEL",
+        "KABI PACLITAXEL",
+        "GINKGO",
+        "EMEND",
+        "EMEND"
+      ],
+      "reactions": [
+        "Jaundice cholestatic"
+      ],
+      "report_id": "10621599"
+    },
+    {
+      "drugs": [
+        "GINKGO BILOBA",
+        "METHYLPHENIDATE ER"
+      ],
+      "reactions": [
+        "Pupils unequal",
+        "Holmes-Adie pupil"
+      ],
+      "report_id": "10622710"
+    },
+    {
+      "drugs": [
+        "XINKESHU",
+        "GINKGO LEAF",
+        "NEXIUM",
+        "SHEXIANGBAOXIN",
+        "BIFIDOBAETERIUM TETRAVACCINE",
+        "PLENDIL",
+        "PLENDIL",
+        "LOSEC",
+        "PREDNISONE."
+      ],
+      "reactions": [
+        "Oral mucosa erosion",
+        "Haematemesis",
+        "Blood fibrinogen decreased",
+        "Gastrointestinal disorder",
+        "Helicobacter infection",
+        "Gastrooesophageal reflux disease",
+        "Gingival erosion",
+        "Ileus",
+        "Drug ineffective",
+        "Intestinal haemorrhage",
+        "Lower gastrointestinal haemorrhage",
+        "Colitis",
+        "Diarrhoea",
+        "Gastritis erosive",
+        "Regurgitation",
+        "Depression",
+        "Abdominal pain upper",
+        "Gastric polyps",
+        "Gastrointestinal motility disorder",
+        "Mastication disorder",
+        "Haematochezia",
+        "Abdominal pain"
+      ],
+      "report_id": "10634372"
+    },
+    {
+      "drugs": [
+        "ACTONEL",
+        "GINKGO BILOBA",
+        "TYLENOL",
+        "FOLIC ACID.",
+        "HYDROCHLOROTHIAZIDE.",
+        "XTANDI",
+        "ASPIRIN.",
+        "CENTRUM SILVER                     /02363801/",
+        "MAGNESIUM OXIDE.",
+        "PREDNISONE.",
+        "CHONDROITIN SULFATE (BOVINE)\\GLUCOSAMINE SULFATE",
+        "COUMADIN",
+        "AMLODIPINE BESILATE",
+        "FISH OIL",
+        "LISINOPRIL.",
+        "TURMERIC CURCUMIN"
+      ],
+      "reactions": [
+        "Parosmia",
+        "Dysgeusia"
+      ],
+      "report_id": "10634642"
+    },
+    {
+      "drugs": [
+        "MARCOUMAR",
+        "TEBOKAN (GINKGO BILOBA EXTRACT)",
+        "TOREM (TORASEMIDE)",
+        "MODURETIC 5-50",
+        "ZYLORIC (ALLOPURINOL)",
+        "NEBILET (NEBIVOLOL HYDROCHLORIDE)",
+        "FAROS (CRATAEGUS LAEVIGATA EXTRACT)",
+        "APROVEL (IRBESARTAN)",
+        "METFIN (METFORMIN HYDROCHLORIDE)",
+        "MAGNESIUM"
+      ],
+      "reactions": [
+        "Somnolence",
+        "Confusional state",
+        "Dyspraxia",
+        "Acute kidney injury",
+        "Hydrocephalus",
+        "Disorientation",
+        "Asthenia",
+        "Intraventricular haemorrhage"
+      ],
+      "report_id": "10640311"
+    },
+    {
+      "drugs": [
+        "MELOXICAM.",
+        "THALOMID",
+        "CALCIUM CARBONATE.",
+        "SERTRALINE HCL",
+        "LISINOPRIL.",
+        "CRESTOR",
+        "VITAMIN D",
+        "TRAMADOL HCL",
+        "KLOR-CON M20",
+        "THALOMID",
+        "OXAPROZIN.",
+        "GINKGO",
+        "ASPIRIN EC",
+        "DEXAMETHASONE.",
+        "ACYCLOVIR.",
+        "VITAMIN E",
+        "VITAMIN B12",
+        "TRAZODONE HYDROCHLORIDE."
+      ],
+      "reactions": [
+        "Drug dose omission",
+        "Fatigue",
+        "Arthritis",
+        "Hypersomnia"
+      ],
+      "report_id": "10656028"
+    },
+    {
+      "drugs": [
+        "PEPCID",
+        "ZOCOR",
+        "CARDURA",
+        "PLAVIX",
+        "AMLODIPINE",
+        "PRILOSEC",
+        "LISINOPRIL.",
+        "VITAMIN C",
+        "FISH OIL",
+        "PANTHENOL/RETINOL/THIAMINE HYDROCHLORIDE/ASCORBIC ACID/ERGOCALCIFEROL/FOLIC ACID/RIBOFLAVIN/NICOTINA",
+        "IMDUR",
+        "GINKGO BILOBA",
+        "ALL OTHER THERAPEUTIC PRODUCTS",
+        "ELAVIL",
+        "KLONOPIN",
+        "ACETYLSALICYLIC ACID",
+        "COQ10"
+      ],
+      "reactions": [
+        "Stent placement"
+      ],
+      "report_id": "10680574"
+    },
+    {
+      "drugs": [
+        "ASPIRIN.",
+        "NORVASC",
+        "CALCIUM",
+        "ATACAND",
+        "DIAZOXIDE",
+        "HYDROCHLOROTHIAZIDE/TRIAMTERENE",
+        "DICLOFENAC",
+        "SIMVASTATIN.",
+        "CORGARD",
+        "FISH OIL",
+        "VITAMIN E",
+        "METFORMIN",
+        "HYDROCHLOROTHIAZIDE.",
+        "SIMVASTATIN.",
+        "VITAMIN C",
+        "VITAMIN B12",
+        "LIDOCAINE.",
+        "EXCEDRIN",
+        "BENAZEPRIL HYDROCHLORIDE.",
+        "ZOCOR",
+        "ARTHROTEC",
+        "PENICILLIN",
+        "CAPTOPRIL.",
+        "ST. JOHN^S WORT",
+        "PLAVIX",
+        "KETOPROFEN.",
+        "ZYVOX",
+        "VYTORIN",
+        "METHOTREXATE",
+        "LIPITOR",
+        "CIPROFLOXACIN.",
+        "DOXEPIN",
+        "GINKGO BILOBA",
+        "AMLODIPINE",
+        "CLINDAMYCIN",
+        "HYDROCODONE",
+        "BUPROPION HYDROCHLORIDE.",
+        "VICODIN",
+        "WELLBUTRIN",
+        "DHEA"
+      ],
+      "reactions": [
+        "Peptic ulcer",
+        "Gastrointestinal haemorrhage",
+        "Ill-defined disorder"
+      ],
+      "report_id": "10680748"
+    },
+    {
+      "drugs": [
+        "CLARITIN",
+        "LYRICA",
+        "L-ARGININE",
+        "ATIVAN",
+        "MELATONIN",
+        "ARISTOCORT",
+        "ROBITUSSIN DM",
+        "LOPRESSOR",
+        "FISH OIL SOFTGEL",
+        "ARMOUR THYROID",
+        "IMODIUM A-D",
+        "NORVASC",
+        "MAGNESIUM",
+        "FOLCAPS",
+        "K-DUR",
+        "LOPERAMIDE HCL",
+        "DESYREL",
+        "NORVASC",
+        "MAGNESIUM",
+        "NYSTATIN.",
+        "DIOVAN",
+        "GLUCOPHAGE",
+        "LASIX",
+        "FLOMAX",
+        "FLUCONAZOLE.",
+        "GLUCOPHAGE",
+        "GINKGO BILOBA"
+      ],
+      "reactions": [
+        "Hypoacusis",
+        "Sedation"
+      ],
+      "report_id": "10682178"
+    },
+    {
+      "drugs": [
+        "LIPITOR",
+        "ACETYLSALICYLIC ACID",
+        "GINKGO BILOBA",
+        "VITAMIN B6",
+        "FOLIC ACID.",
+        "MECOBALAMIN"
+      ],
+      "reactions": [
+        "Disease recurrence",
+        "Cerebral infarction"
+      ],
+      "report_id": "10682641"
+    },
+    {
+      "drugs": [
+        "ATORVASTATIN CALCIUM.",
+        "LIPITOR",
+        "LIPITOR",
+        "LIPITOR",
+        "GINKGO BILOBA",
+        "FISH OIL",
+        "ASPIRIN."
+      ],
+      "reactions": [
+        "Neuropathy peripheral",
+        "Type 2 diabetes mellitus",
+        "Blood glucose increased"
+      ],
+      "report_id": "10697642"
+    },
+    {
+      "drugs": [
+        "ADVAIR HFA",
+        "METFORMIN",
+        "BOSULIF",
+        "PRAVASTATIN.",
+        "GLIPIZIDE.",
+        "POTASSIUM",
+        "ZOFRAN",
+        "VENTOLIN",
+        "DIPHENHIST",
+        "ALEVE",
+        "TAMSULOSIN",
+        "GINKGO BILOBA",
+        "SPIRONOLACTONE.",
+        "METOPROLOL."
+      ],
+      "reactions": [
+        "Cardiac disorder"
+      ],
+      "report_id": "10698886"
+    },
+    {
+      "drugs": [
+        "CLARITIN",
+        "LUTEIN",
+        "FUROSEMIDE.",
+        "DIAZEPAM.",
+        "KLOR-CON M",
+        "COENZYME Q10",
+        "OMEGA 3 FISH OIL",
+        "PRADAXA",
+        "PRADAXA",
+        "SYNTHROID",
+        "CALCIUM MAGNESIUM AND ZINC",
+        "BAYER ASPIRIN",
+        "NASONEX",
+        "MECLIZINE",
+        "GINKGO BILOBA",
+        "VERAPAMIL ER",
+        "VITAMIN C"
+      ],
+      "reactions": [
+        "Contusion",
+        "Reflux gastritis",
+        "Cerebrovascular accident",
+        "Contusion"
+      ],
+      "report_id": "10698906"
+    },
+    {
+      "drugs": [
+        "VITAMIN B COMPLEX",
+        "DIFICID",
+        "NORVASC",
+        "IRON",
+        "METAMUCIL",
+        "OSCAL D",
+        "VITAMIN C",
+        "MORPHINE",
+        "BENTYL",
+        "CHROMIUM PICOLINATE",
+        "OMEGA 3",
+        "ACIPHEX",
+        "BIOTIN",
+        "DEMEROL",
+        "ROCEPHIN",
+        "VALIUM",
+        "VANCOMYCIN",
+        "VITAMIN E",
+        "ALIGN",
+        "GINKGO BILOBA",
+        "LASIX",
+        "MORPHINE",
+        "VITAMIN A"
+      ],
+      "reactions": [
+        "Diarrhoea",
+        "Faeces soft"
+      ],
+      "report_id": "10699555"
+    },
+    {
+      "drugs": [
+        "TEGRETOL",
+        "CLONAZEPAM.",
+        "GINKGO BILOBA",
+        "VITAMIN C",
+        "PILOCARPINE.",
+        "MABTHERA",
+        "MABTHERA",
+        "AZATHIOPRINE."
+      ],
+      "reactions": [
+        "Confusional state",
+        "Pain",
+        "Hypersensitivity",
+        "Depressed mood",
+        "Eye infection",
+        "Fall",
+        "Drug dose omission",
+        "Immunodeficiency",
+        "Eye inflammation",
+        "Bone disorder",
+        "Cataract",
+        "Eye pain",
+        "Hypertension",
+        "Lip dry",
+        "Tension",
+        "Dry eye",
+        "Ocular hyperaemia",
+        "Visual impairment",
+        "Renal injury",
+        "Off label use",
+        "Malaise",
+        "Rheumatic disorder"
+      ],
+      "report_id": "10699770"
+    },
+    {
+      "drugs": [
+        "VITAMIN D",
+        "AUBAGIO",
+        "LYRICA",
+        "CEFASEL",
+        "VITAMIN D",
+        "PREGABALIN.",
+        "COPAXONE",
+        "ORTHOMOL",
+        "L-THYROXIN",
+        "IBUPROFEN.",
+        "PANTOZOL",
+        "LYRICA",
+        "TEBONIN",
+        "GINKGO BILOBA",
+        "MACROGOL"
+      ],
+      "reactions": [
+        "Musculoskeletal pain",
+        "Pain",
+        "Gait disturbance",
+        "Pain in extremity",
+        "Pain in extremity",
+        "Blood cholesterol increased",
+        "Cervicobrachial syndrome",
+        "Spinal column stenosis",
+        "Back pain",
+        "Oedema peripheral",
+        "Sciatica",
+        "Hypoaesthesia",
+        "Joint swelling",
+        "Arthralgia",
+        "Toothache",
+        "Paraesthesia",
+        "Pain in extremity",
+        "Alopecia",
+        "Abdominal pain",
+        "Head discomfort"
+      ],
+      "report_id": "10704330"
+    },
+    {
+      "drugs": [
+        "COMETRIQ",
+        "GINKGO BILOBA (GINKGO BILOBA)"
+      ],
+      "reactions": [
+        "Skin lesion",
+        "Memory impairment",
+        "Fatigue",
+        "Diarrhoea"
+      ],
+      "report_id": "10704344"
+    },
+    {
+      "drugs": [
+        "RIFADINE",
+        "LOVENOX",
+        "PARACETAMOL",
+        "MONICOR",
+        "DICLOFENAC POTASSIUM.",
+        "CLINDAMYCIN",
+        "IRBESARTAN.",
+        "CELIPROLOL",
+        "DIFFU-K",
+        "KARDEGIC",
+        "GINKGO EXTRACT\\HEPTAMINOL\\TROXERUTIN",
+        "LANSOPRAZOLE.",
+        "TRAMADOL HYDROCHLORIDE.",
+        "FUROSEMIDE.",
+        "ZOPICLONE",
+        "ALPRAZOLAM."
+      ],
+      "reactions": [
+        "Erythema",
+        "Decreased appetite",
+        "Rash morbilliform",
+        "Weight decreased",
+        "General physical health deterioration"
+      ],
+      "report_id": "10711856"
+    },
+    {
+      "drugs": [
+        "REVLIMID",
+        "GINKGO BILOBA",
+        "GINSENG",
+        "ONDANSETRON",
+        "CALCIUM",
+        "ASPIRIN.",
+        "GARLIC.",
+        "COQ10",
+        "LOVENOX",
+        "ENOXAPARIN",
+        "CHONDROITIN SULFATE (BOVINE)\\GLUCOSAMINE SULFATE"
+      ],
+      "reactions": [
+        "Rectal haemorrhage",
+        "Thrombosis",
+        "Palpitations"
+      ],
+      "report_id": "10713151"
+    },
+    {
+      "drugs": [
+        "MONO-TILDIEM",
+        "PARIET (RABEPRAZOLE SODIUM) (RABEPRAZOLE SODIUM)",
+        "GINKOR (GINKOR /00838501/) (TROXERUTIN, GINKGO BILOBA EXTRACT)"
+      ],
+      "reactions": [
+        "Drug reaction with eosinophilia and systemic symptoms"
+      ],
+      "report_id": "10061595"
+    },
+    {
+      "drugs": [
+        "ZOLPIDEM",
+        "ZOLPIDEM",
+        "LYSANXIA",
+        "LYSANXIA",
+        "TERCIAN /00759301/",
+        "TERCIAN /00759301/",
+        "TANAKAN (GINKGO BILOBA EXTRACT)",
+        "FORLAX/00754501) MACROGOL",
+        "TRIMEBUTINE BIOGARAN (TRIMEBUTINE MALEATE)",
+        "EFFERALGAN/00020001/ (PARACETAMOL)",
+        "FLUIMUCIL (ACETYLCYSTEINE)"
+      ],
+      "reactions": [
+        "Disturbance in attention",
+        "Disturbance in attention",
+        "Impaired driving ability",
+        "Road traffic accident",
+        "Emotional disorder"
+      ],
+      "report_id": "10083473"
+    },
+    {
+      "drugs": [
+        "GINKGO BILOBA EXTRACT",
+        "TRANEXAMIC ACID.",
+        "OMEPRAZOLE.",
+        "HEPARIN SODIUM.",
+        "HEPARIN SODIUM.",
+        "HYDROXYZINE HYDROCHLORIDE.",
+        "PROPOFOL.",
+        "CORDARONE",
+        "FLUINDIONE",
+        "PROTAMINE SULPHATE",
+        "AVODART",
+        "CLINDAMYCIN PALMITATE HYDROCHLORIDE.",
+        "EPHEDRINE RENAUDIN",
+        "CISATRACURIUM BESILATE",
+        "ETOMIDATE.",
+        "CRESTOR",
+        "STILNOX",
+        "CLINDAMYCIN PHOSPHATE.",
+        "HEMOSTATIC",
+        "VANCOMYCIN",
+        "ACETYLSALICYLATE LYSINE",
+        "KETAMINE",
+        "SUFENTANIL",
+        "ESOMEPRAZOLE",
+        "LERCANIDIPINE HYDROCHLORIDE",
+        "NOREPINEPHRINE",
+        "ACETYLSALICYLATE LYSINE",
+        "CLINDAMYCIN HYDROCHLORIDE."
+      ],
+      "reactions": [
+        "Haemorrhage",
+        "Post procedural haemorrhage"
+      ],
+      "report_id": "10229372"
+    },
+    {
+      "drugs": [
+        "ETOMIDATE",
+        "SUFENTANIL",
+        "PROTAMINE SULPHATE",
+        "TRANEXAMIC ACID",
+        "AVODART",
+        "CRESTOR",
+        "ESOMEPRAZOLE",
+        "STILNOX",
+        "CORDARONE",
+        "LERCANIDIPINE HYDROCHLORIDE",
+        "CLINDAMYCIN PHOSPHATE",
+        "CLINDAMYCIN HYDROCHLORIDE",
+        "CLINDAMYCIN PALMITATE HYDROCHLORIDE",
+        "FLUINDIONE",
+        "OMEPRAZOLE",
+        "EPHEDRINE RENAUDIN",
+        "NORADRENALINE /00127501/",
+        "HEMOSTATIC",
+        "VANCOMYCIN",
+        "CISATRACURIUM BESILATE",
+        "HEPARIN SODIUM",
+        "HEPARIN SODIUM",
+        "HYDROXYZINE HYDROCHLORIDE",
+        "ACETYLSALICYLATE LYSINE",
+        "ACETYLSALICYLATE LYSINE",
+        "GINKGO BILOBA EXTRACT",
+        "PROPOFOL",
+        "KETAMINE"
+      ],
+      "reactions": [
+        "Post procedural haemorrhage",
+        "Haemorrhage"
+      ],
+      "report_id": "10229373"
+    },
+    {
+      "drugs": [
+        "MELPHALAN",
+        "VIRLESS",
+        "GINKGO BILOBA EXTRACT",
+        "ZOMETA",
+        "DEXAMETHASONE.",
+        "CARFILZOMIB",
+        "MELPHALAN",
+        "PREDNISONE.",
+        "DIOVAN",
+        "DOXAZOSIN",
+        "DOXABEN",
+        "DEXAMETHASONE.",
+        "CARFILZOMIB",
+        "CARFILZOMIB",
+        "TRENTAL",
+        "CONCOR5",
+        "CONCOR5",
+        "EXFORGE",
+        "EXFORGE",
+        "PREDNISONE.",
+        "ZOMETA",
+        "DUTASTERIDE.",
+        "CARFILZOMIB"
+      ],
+      "reactions": [
+        "Respiratory failure",
+        "Fungal infection",
+        "Pneumonitis"
+      ],
+      "report_id": "10361184"
+    },
+    {
+      "drugs": [
+        "GINKGO BILOBA EXTRACT W/TROXERUTIN",
+        "VITABACT (PICLOXYDINE DIHYDROCHLORIDE)",
+        "EYLEA",
+        "OMACOR",
+        "VASTAREL",
+        "ASCORBIC ACID, BETACAROTENE, CUPRIC OXIDE, DL-ALPHA TOCOPHERYL ACETATE, ZINC OXIDE"
+      ],
+      "reactions": [
+        "Dermatitis exfoliative",
+        "Eosinophilia"
+      ],
+      "report_id": "10562304"
+    },
+    {
+      "drugs": [
+        "MARCOUMAR",
+        "TEBOKAN (GINKGO BILOBA EXTRACT)",
+        "TOREM (TORASEMIDE)",
+        "MODURETIC 5-50",
+        "ZYLORIC (ALLOPURINOL)",
+        "NEBILET (NEBIVOLOL HYDROCHLORIDE)",
+        "FAROS (CRATAEGUS LAEVIGATA EXTRACT)",
+        "APROVEL (IRBESARTAN)",
+        "METFIN (METFORMIN HYDROCHLORIDE)",
+        "MAGNESIUM"
+      ],
+      "reactions": [
+        "Somnolence",
+        "Confusional state",
+        "Dyspraxia",
+        "Acute kidney injury",
+        "Hydrocephalus",
+        "Disorientation",
+        "Asthenia",
+        "Intraventricular haemorrhage"
+      ],
+      "report_id": "10640311"
+    },
+    {
+      "drugs": [
+        "BIOTIN",
+        "WOMENS MULTIVITAMIN + MINERAL",
+        "AVONEX",
+        "GINKGO BILOBA EXTRACT"
+      ],
+      "reactions": [
+        "Insomnia"
+      ],
+      "report_id": "10944341"
+    },
+    {
+      "drugs": [
+        "HAVLANE",
+        "NEBIVOLOL",
+        "DAFALGAN",
+        "ATORVASTATIN",
+        "OLMETEC",
+        "GINKGO BILOBA EXTRACT",
+        "KARDEGIC",
+        "AMLOR"
+      ],
+      "reactions": [
+        "Interstitial lung disease"
+      ],
+      "report_id": "11186063"
+    },
+    {
+      "drugs": [
+        "INDAPAMIDA",
+        "LEVOTHYROXINE.",
+        "TRAMADOL AND ACETAMINOPHEN",
+        "DAFLON                             /00426001/",
+        "GINKGO BILOBA EXTRACT",
+        "BETMIGA",
+        "METAMIZOLE MAGNESIUM"
+      ],
+      "reactions": [
+        "Rash",
+        "Pruritus",
+        "Ear swelling"
+      ],
+      "report_id": "11205708"
+    },
+    {
+      "drugs": [
+        "SERMION (NICERGOLINE)",
+        "EYLEA",
+        "TANAKAN (GINKGO BILOBA EXTRACT)",
+        "EUTIROX (LEVOTHYROXINE SODIUM)"
+      ],
+      "reactions": [
+        "Tinnitus",
+        "Off label use",
+        "Deafness neurosensory",
+        "Ear discomfort"
+      ],
+      "report_id": "11253539"
+    },
+    {
+      "drugs": [
+        "PANTOPRAZOLE",
+        "NEBIVOLOL.",
+        "EUTHYROX",
+        "SIMVASTATIN.",
+        "PREDNISOLON",
+        "XARELTO",
+        "RAMIPRIL.",
+        "GINKGO BILOBA EXTRACT"
+      ],
+      "reactions": [
+        "Lactic acidosis",
+        "Arterial occlusive disease",
+        "Dyspnoea",
+        "Somnolence",
+        "Septic shock",
+        "Mesenteric arterial occlusion",
+        "Thrombosis",
+        "Respiratory failure",
+        "Haemorrhagic infarction",
+        "Multi-organ failure"
+      ],
+      "report_id": "11289678"
+    },
+    {
+      "drugs": [
+        "XYREM",
+        "XYREM",
+        "XYREM",
+        "LORATADINE.",
+        "EFFEXOR",
+        "PANAX GINSENG EXTRACT",
+        "ASCORBIC ACID.",
+        "HYDROCHLOROTHIAZIDE.",
+        "SEROQUEL",
+        "BRAIN AND MEMORY",
+        "CYANOCOBALAMIN.",
+        "VITAMIN B6",
+        "ADDERALL",
+        "AMLODIPINE",
+        "ADDERALL",
+        "VITAMIN D3",
+        "GINKGO BILOBA EXTRACT",
+        "CALCIUM MAGNESIUM ZINK",
+        "CINNAMOMUM VERUM",
+        "FISH OIL"
+      ],
+      "reactions": [
+        "Asthenia",
+        "Panic attack",
+        "Anxiety",
+        "Attention deficit hyperactivity disorder",
+        "Blood pressure increased",
+        "Somnolence",
+        "Suicidal ideation",
+        "Burning sensation",
+        "Condition aggravated",
+        "Fatigue",
+        "Abnormal sleep-related event",
+        "Condition aggravated",
+        "Hyperhidrosis",
+        "Photosensitivity reaction",
+        "Condition aggravated",
+        "Migraine",
+        "Off label use",
+        "Depression",
+        "Amnesia"
+      ],
+      "report_id": "11473542"
+    },
+    {
+      "drugs": [
+        "FOLIC ACID.",
+        "MULTIVITAMINS W/FLUORIDE",
+        "ASPIRIN.",
+        "OXYBUTYNIN CHLORIDE.",
+        "TRIAMCINOLONE",
+        "LEVOTHYROXINE SODIUM.",
+        "DHEA",
+        "GINKGO BILOBA EXTRACT",
+        "FUROSEMIDE.",
+        "CALCIUM",
+        "D-3",
+        "VITAMIN B COMPLEX",
+        "IRON SULFATE",
+        "FENUGREEK",
+        "TEA TREE OIL.",
+        "FISH OIL W/TOCOPHEROL",
+        "LYRICA",
+        "VITAMIN C",
+        "COCONUT OIL",
+        "ALENDRONATE SODIUM.",
+        "MAGNESIUM",
+        "BIFIDOBACTERIUM LACTIS",
+        "OLEA EUROPAEA LEAF EXTRACT",
+        "VITAMIN B12",
+        "GABAPENTIN.",
+        "ELEUTHEROCOCCUS SENTICOSUS",
+        "IMBRUVICA",
+        "IMBRUVICA",
+        "MULTIVITAMIN",
+        "PANTOPRAZOLE SODIUM."
+      ],
+      "reactions": [
+        "Stomatitis",
+        "Sensitivity of teeth",
+        "Hypoacusis",
+        "Onychomycosis",
+        "Nocturia",
+        "Muscle spasms",
+        "Abdominal pain upper",
+        "Nasal ulcer",
+        "Headache",
+        "Vision blurred",
+        "Cough"
+      ],
+      "report_id": "11820645"
+    },
+    {
+      "drugs": [
+        "REVATIO",
+        "SINBABY",
+        "DIGOXIN.",
+        "ALLEGRA",
+        "D-PENICILLAMINE",
+        "NAKASSER",
+        "GINKGO BILOBA EXTRACT",
+        "GINKGO BILOBA EXTRACT",
+        "SPIRONOLACTONE.",
+        "TREPROSTINIL",
+        "ROSIS",
+        "D-PENICILLAMINE",
+        "DICLOFENAC"
+      ],
+      "reactions": [
+        "Hypokalaemia",
+        "Cardiac failure",
+        "Syncope"
+      ],
+      "report_id": "12059400"
+    },
+    {
+      "drugs": [
+        "DORZOLAMIDE",
+        "NAPROXEN.",
+        "DOXYCYCLINE MONOHYDRATE",
+        "COD LIVER OIL",
+        "GINKGO BILOBA EXTRACT",
+        "TAMSULOSINE"
+      ],
+      "reactions": [
+        "Nightmare",
+        "Daydreaming"
+      ],
+      "report_id": "12217896"
+    },
+    {
+      "drugs": [
+        "GINSENG                            /01384001/",
+        "GINKGO BILOBA EXTRACT",
+        "HYDROCODONE BITARTRATE AND ACETAMINOPHEN",
+        "IBUPROFEN (AMALLC)",
+        "IBUPROFEN (AMALLC)",
+        "TRAMADOL."
+      ],
+      "reactions": [
+        "Pulmonary alveolar haemorrhage",
+        "Potentiating drug interaction"
+      ],
+      "report_id": "12221020"
+    },
+    {
+      "drugs": [
+        "COD LIVER OIL",
+        "DORZOLAMIDE",
+        "GINKGO BILOBA EXTRACT",
+        "NAPROXEN.",
+        "TAMSULOSINE",
+        "DOXYCYCLINE."
+      ],
+      "reactions": [
+        "Nightmare",
+        "Daydreaming"
+      ],
+      "report_id": "12223293"
+    },
+    {
+      "drugs": [
+        "COD LIVER OIL",
+        "GINKGO BILOBA EXTRACT",
+        "NAPROXEN.",
+        "DOXYCYCLINE.",
+        "TAMSULOSINE",
+        "DORZOLAMIDE"
+      ],
+      "reactions": [
+        "Nightmare",
+        "Daydreaming"
+      ],
+      "report_id": "12227276"
+    },
+    {
+      "drugs": [
+        "GINKGO BILOBA EXTRACT",
+        "COD LIVER OIL",
+        "NAPROXEN.",
+        "TAMSULOSINE",
+        "DOXYCYCLINE.",
+        "DORZOLAMIDE"
+      ],
+      "reactions": [
+        "Daydreaming",
+        "Nightmare"
+      ],
+      "report_id": "12233049"
+    },
+    {
+      "drugs": [
+        "ACTILYSE",
+        "GINKGO BILOBA EXTRACT"
+      ],
+      "reactions": [
+        "Haemorrhage intracranial"
+      ],
+      "report_id": "12335833"
+    },
+    {
+      "drugs": [
+        "GINKGO BILOBA EXTRACT",
+        "BAYASPIRIN",
+        "CARBAMAZEPINE.",
+        "CEREBROPROTEIN HYDROLYSATE",
+        "METOPROLOL.",
+        "LIPITOR"
+      ],
+      "reactions": [
+        "Sinus bradycardia",
+        "Hypertension",
+        "Product use issue"
+      ],
+      "report_id": "12370493"
+    },
+    {
+      "drugs": [
+        "METOPROLOL TARTRATE.",
+        "GINKGO BILOBA EXTRACT",
+        "LIPITOR",
+        "CEREBROPROTEIN HYDROLYSATE",
+        "BAYASPIRIN",
+        "CARBAMAZEPINE."
+      ],
+      "reactions": [
+        "Product use issue",
+        "Sinus bradycardia",
+        "Hypertension"
+      ],
+      "report_id": "12399308"
+    },
+    {
+      "drugs": [
+        "XELJANZ",
+        "GINKGO BILOBA EXTRACT",
+        "ULTRACET",
+        "PLAQUENIL",
+        "CELECOXIB."
+      ],
+      "reactions": [
+        "Dementia"
+      ],
+      "report_id": "12504001"
+    },
+    {
+      "drugs": [
+        "LYSINE",
+        "METOPROL XL",
+        "MIRAPEX",
+        "RYTARY",
+        "SERTRALINE HCL",
+        "GINKGO BILOBA EXTRACT",
+        "SELENIUM",
+        "VITAMIN B12",
+        "BENAZEPRIL HCL",
+        "CALCIUM CITRATE +",
+        "COENZYME Q10",
+        "FISH OIL",
+        "RYTARY",
+        "GLUCOSAMINE SULFATE",
+        "VITAMIN D3",
+        "MIRAPEX",
+        "CARBIDOPA/LEVODOPA",
+        "BABY ASPIRIN",
+        "FLAXSEED",
+        "ZINC",
+        "FOLIC ACID.",
+        "VITAMIN A",
+        "VITAMIN B6"
+      ],
+      "reactions": [
+        "Pre-existing condition improved",
+        "Dystonia",
+        "Drug effect decreased",
+        "Drug effect delayed",
+        "Muscle spasms"
+      ],
+      "report_id": "12615671"
+    },
+    {
+      "drugs": [
+        "ACYCLOVIR.",
+        "TESTOSTERONE CYPIONATE.",
+        "VITAMIN B6",
+        "ADDERALL",
+        "XYREM",
+        "VITAMIN B12",
+        "CEREFOLIN NAC",
+        "XYREM",
+        "ALPHA LIPOIC ACID",
+        "ADDERALL",
+        "GINKGO BILOBA EXTRACT",
+        "BYSTOLIC",
+        "XYREM",
+        "SERMORELIN ACETATE.",
+        "DIGESTIVE ENZYMES"
+      ],
+      "reactions": [
+        "Intentional product use issue",
+        "Hepatic steatosis",
+        "Hypertension"
+      ],
+      "report_id": "12623784"
+    },
+    {
+      "drugs": [
+        "XYREM",
+        "GINKGO BILOBA EXTRACT",
+        "HYDROCHLOROTHIAZIDE.",
+        "GLIMEPIRIDE.",
+        "METFORMIN HCL",
+        "OSTEO-BI-FLEX",
+        "PAXIL",
+        "FERGON",
+        "LOSARTAN POTASSIUM.",
+        "ROGAINE",
+        "CLARITIN",
+        "ICAPS",
+        "RETIN-A",
+        "VITAMIN B12",
+        "METROGEL",
+        "IBUPROFEN.",
+        "XYREM",
+        "MULTIVITAMINS",
+        "ADDERALL",
+        "CITRUCEL",
+        "COENZYME Q10",
+        "FOLIC ACID.",
+        "FLUTICASONE PROPIONATE.",
+        "XYREM",
+        "ASPIRIN.",
+        "VITAMIN D3",
+        "FERROUS SULFATE."
+      ],
+      "reactions": [
+        "Hypersensitivity",
+        "Artificial crown procedure",
+        "Gingival pain",
+        "Blood pressure fluctuation",
+        "Toothache"
+      ],
+      "report_id": "12777875"
+    },
+    {
+      "drugs": [
+        "ATENOLOL.",
+        "AVONEX",
+        "CALCIUM 500 PLUS D",
+        "SYNTHROID",
+        "VITAMIN C",
+        "VITAMIN B12",
+        "LUMIGAN",
+        "BACLOFEN.",
+        "MAGNESIUM ASPARTATE",
+        "GINKGO BILOBA EXTRACT",
+        "NEURONTIN",
+        "KLONOPIN",
+        "LIPITOR",
+        "VITAMIN A PALMITATE",
+        "CENTRUM"
+      ],
+      "reactions": [
+        "Knee arthroplasty"
+      ],
+      "report_id": "12877018"
+    },
+    {
+      "drugs": [
+        "FLUOXETINE",
+        "MIANSERIN",
+        "POTASSIUM",
+        "LANSOPRAZOLE.",
+        "POTASSIUM",
+        "LANSOPRAZOLE.",
+        "GINKGO BILOBA/GINKGO BILOBA EXTRACT/GINKGO BILOBA LEAF EXTRACT",
+        "ACETYLSALICYLATE LYSINE/ACETYLSALICYLIC ACID",
+        "POLYETHYLENE GLYCOL 3350.",
+        "BISOPROLOL",
+        "HYDROCHLOROTHIAZIDE."
+      ],
+      "reactions": [
+        "Weight decreased",
+        "Diarrhoea",
+        "Blood gastrin increased",
+        "Chondrocalcinosis",
+        "Colitis erosive",
+        "Adjustment disorder with depressed mood",
+        "Malnutrition"
+      ],
+      "report_id": "12909720"
+    },
+    {
+      "drugs": [
+        "FOLIC ACID.",
+        "FIORICET",
+        "SOLU-CORTEF",
+        "VITAMIN D3",
+        "CYMBALTA",
+        "ALEVE",
+        "ACTEMRA",
+        "BIOTIN",
+        "PREDNISONE.",
+        "TRAMADOL HCL",
+        "METHOTREXATE.",
+        "NEXIUM",
+        "ACTEMRA",
+        "NORCO",
+        "GINKGO BILOBA EXTRACT"
+      ],
+      "reactions": [
+        "Nausea",
+        "Pain",
+        "Hypoaesthesia",
+        "Paraesthesia"
+      ],
+      "report_id": "13019493"
+    },
+    {
+      "drugs": [
+        "XYREM",
+        "XYREM",
+        "XYREM",
+        "BENADRYL ALLERGY",
+        "BACTRIM DS",
+        "MIRALAX",
+        "PRILOSEC",
+        "DILAUDID",
+        "MORPHINE",
+        "NORCO",
+        "ALPHA LIPOIC ACID",
+        "BYSTOLIC",
+        "ARTIFICIAL TEARS [PROPYLENE GLYCOL]",
+        "CARNITOR",
+        "CETIRIZINE HCL",
+        "CLONAZEPAM",
+        "COENZYME Q10",
+        "CREATINE MONOHYDRATE",
+        "CYANOCOBALAMIN",
+        "EPIPEN",
+        "FLUTICASONE PROPIONATE",
+        "FOLIC ACID",
+        "LORAZEPAM",
+        "MAGNESIUM GLYCINATE",
+        "METHYLPHENIDATE",
+        "NAPROXEN SODIUM",
+        "NUX VOMICA [STRYCHNOS NUX-VOMICA]",
+        "OCEAN SALINE NASAL SPRAY",
+        "OMEGA 3 FISH OIL [FISH OIL]",
+        "ONDANSETRON",
+        "PROMOD [GINKGO BILOBA EXTRACT]",
+        "RIBOFLAVIN",
+        "SODIUM CHLORIDE",
+        "THIAMINE",
+        "TYLENOL EXTRA STRENGTH",
+        "VITAMIN D3",
+        "VITAMIN E NATURAL [TOCOPHEROL]",
+        "MIDODRINE HYDROCHLORIDE"
+      ],
+      "reactions": [
+        "Autoimmune disorder",
+        "Malaise",
+        "Muscle atrophy",
+        "Arthropathy",
+        "Autonomic nervous system imbalance",
+        "Myalgia",
+        "Weight decreased",
+        "Weight increased",
+        "Therapeutic response decreased"
+      ],
+      "report_id": "13205443"
+    },
+    {
+      "drugs": [
+        "METHYLPREDNISOLONE SODIUM SUCCINATE.",
+        "METHYLPREDNISOLONE SODIUM SUCCINATE.",
+        "OXIRACETAM",
+        "CALCITRIOL.",
+        "ESOMEPRAZOLE SODIUM.",
+        "GINKGO BILOBA EXTRACT",
+        "POTASSIUM CHLORIDE.",
+        "ESOMEPRAZOLE SODIUM.",
+        "MECOBALAMIN",
+        "SODIUM CHLORIDE."
+      ],
+      "reactions": [
+        "Liver injury"
+      ],
+      "report_id": "13256789"
+    },
+    {
+      "drugs": [
+        "VESICARE",
+        "CRESTOR",
+        "BONALING-A",
+        "VITIS VINIFERA EXTRACT",
+        "PROBUCOL",
+        "VESICARE",
+        "STILLEN",
+        "*ASPIRIN",
+        "LIPITOR",
+        "*ASPIRIN",
+        "KETAS",
+        "GINKGO BILOBA EXTRACT"
+      ],
+      "reactions": [
+        "Thalamus haemorrhage"
+      ],
+      "report_id": "13307051"
+    },
+    {
+      "drugs": [
+        "CELEBREX",
+        "TUOSU",
+        "GINKGO BILOBA EXTRACT",
+        "SODIUM CHLORIDE.",
+        "LEVOFLOXACIN."
+      ],
+      "reactions": [
+        "Pruritus",
+        "Dysphoria",
+        "Chest discomfort",
+        "Tachypnoea",
+        "Rash",
+        "Anxiety"
+      ],
+      "report_id": "13332685"
+    },
+    {
+      "drugs": [
+        "LASIX",
+        "WELLBUTRIN SR",
+        "CORDARONE",
+        "FERREX",
+        "CENTURY MEN 1-DAY",
+        "XARELTO",
+        "ZOCOR",
+        "XANAX",
+        "SAW PALMETTO EXTRACT BERRY",
+        "GINKGO BILOBA EXTRACT LEAF",
+        "TOPROL XL",
+        "CELEXA",
+        "PRINIVIL",
+        "BIOPERINE",
+        "ASIAN RED GINSENG EXTRACT ROOT",
+        "NORCO",
+        "PROPRETARY BLEND EQUIVALENT",
+        "PURPLE RHINO MALE ENHANCEMENT SOLUTION POWER FORMULA",
+        "BARBITURATE",
+        "SINGULAIR",
+        "NEXIUM",
+        "L-ARGININE HYDROCHLORIDE",
+        "MUIRA PUAMA EXTRACT BERRY",
+        "HORNY GOAT WEED EXTRACT LEAF"
+      ],
+      "reactions": [
+        "Therapy cessation",
+        "Barbiturates positive"
+      ],
+      "report_id": "13342666"
+    },
+    {
+      "drugs": [
+        "PRADAXA",
+        "LISINOPRIL.",
+        "LISINOPRIL.",
+        "DIGOXIN.",
+        "MAGNESIUM",
+        "GINKGO BILOBA EXTRACT",
+        "ASPIRIN.",
+        "VITAMIN B12",
+        "HYDROCHLOROTHIAZIDE.",
+        "METOPROLOL SUCCINATE.",
+        "VIT A B C/LUCCINA/MINERALS(OCUVITE)",
+        "METOPROLOL TARTRATE."
+      ],
+      "reactions": [
+        "Rectal haemorrhage",
+        "Haemorrhagic anaemia"
+      ],
+      "report_id": "13362807"
+    },
+    {
+      "drugs": [
+        "XYREM",
+        "RIBOFLAVIN",
+        "REGLAN",
+        "IVIGLOB EX",
+        "MIRALAX",
+        "EPIPEN",
+        "SODIUM CHLORIDE.",
+        "BENADRYL ALLERGY",
+        "CETIRIZINE HCL",
+        "CLONAZEPAM.",
+        "MIDODRINE HCL",
+        "THIAMINE.",
+        "DILAUDID",
+        "ARTIFICIAL TEARS [PROPYLENE GLYCOL]",
+        "NAPROXEN SODIUM.",
+        "NUX VOMICA [STRYCHNOS NUX-VOMICA]",
+        "OCEAN SALINE NASAL SPRAY",
+        "BACTRIM DS",
+        "PRILOSEC",
+        "BYSTOLIC",
+        "CYANOCOBALAMIN.",
+        "MAGNESIUM GLYCINATE",
+        "XYREM",
+        "METHYLPHENIDATE.",
+        "XYREM",
+        "MORPHINE",
+        "COENZYME Q10",
+        "CREATINE MONOHYDRATE",
+        "FOLIC ACID.",
+        "OMEGA 3 [FISH OIL;TOCOPHEROL]",
+        "SINGULAIR",
+        "NORCO",
+        "ALPHA LIPOIC ACID",
+        "CARNITOR",
+        "FLUTICASONE PROPIONATE.",
+        "LORAZEPAM.",
+        "ONDANSETRON",
+        "PROMOD [GINKGO BILOBA EXTRACT]",
+        "TYLENOL EXTRA STRENGTH",
+        "VITAMIN E"
+      ],
+      "reactions": [
+        "Drug hypersensitivity",
+        "Malaise",
+        "Head discomfort",
+        "Abdominal discomfort"
+      ],
+      "report_id": "13403382"
+    },
+    {
+      "drugs": [
+        "ZANIDIP",
+        "OXYNORM",
+        "LEFLUNOMIDE ZENTIVA",
+        "BELOC-ZOC FORTE",
+        "VITAMIN D3",
+        "NOVALGIN",
+        "COSENTYX",
+        "SYMFONA N (GINKGO BILOBA EXTRACT)",
+        "ASPIRIN CARDIO",
+        "ATORVASTATIN PFIZER",
+        "CO VALSARTAN",
+        "MYDOCALM",
+        "FLATULEX",
+        "TARGIN",
+        "TEMESTA EXPIDET",
+        "NOVALGIN"
+      ],
+      "reactions": [
+        "Basedow^s disease",
+        "Nausea"
+      ],
+      "report_id": "13514608"
+    },
+    {
+      "drugs": [
+        "METOPROLOL.",
+        "SOTALOL.",
+        "GINKGO BILOBA EXTRACT",
+        "ESCITALOPRAM",
+        "MOKLAR",
+        "TRAZODONE",
+        "SERTRALINE",
+        "CYPROHEPTADINE.",
+        "ZOLPIDEM",
+        "IVABRADINE",
+        "VENLAFAXINE",
+        "MOKLAR",
+        "WARFARIN"
+      ],
+      "reactions": [
+        "Palpitations",
+        "Syncope",
+        "Apallic syndrome",
+        "Insomnia",
+        "Ischaemic stroke",
+        "Cardiac disorder",
+        "Drug interaction",
+        "Drug ineffective",
+        "Electrocardiogram QT prolonged",
+        "Arrhythmia",
+        "Initial insomnia",
+        "Fatigue",
+        "Middle insomnia",
+        "Atrial tachycardia"
+      ],
+      "report_id": "13708554"
+    },
+    {
+      "drugs": [
+        "GINKGO BILOBA EXTRACT",
+        "DIGESTIVE ENZYMES",
+        "MAGNESIUM OXIDE.",
+        "SPIRONOLACTONE.",
+        "COLACE",
+        "METHYLPHENIDATE HYDROCHLORIDE.",
+        "NUEDEXTA",
+        "VITAMIN C ER",
+        "METOPROLOL SUCCINATE.",
+        "GLIMEPIRIDE.",
+        "HYDROCORTISONE ACE-PRAMOXINE",
+        "MULTIVITAMIN ADULT",
+        "OXYBUTYNIN CHLORIDE ER",
+        "TECFIDERA",
+        "TAMSULOSIN HCL"
+      ],
+      "reactions": [
+        "Urinary tract infection"
+      ],
+      "report_id": "13787937"
+    },
+    {
+      "drugs": [
+        "ELIQUIS",
+        "GINKGO BILOBA EXTRACT",
+        "AMLODIPINE BESILATE W/OLMESARTAN MEDOXOMIL",
+        "CARVEDILOL.",
+        "RANEXA",
+        "SIMVASTATIN.",
+        "PANTOPRAZOLE"
+      ],
+      "reactions": [
+        "Arrhythmia",
+        "Tinnitus",
+        "Drug interaction"
+      ],
+      "report_id": "13923417"
+    },
+    {
+      "drugs": [
+        "FLUDEX (INDAPAMIDE)",
+        "AMLODIPIN",
+        "PANTOZOL",
+        "SYMFONA N (GINKGO BILOBA EXTRACT)",
+        "REMICADE",
+        "ATORVASTATIN",
+        "ASPIRIN CARDIO 100 MG",
+        "TORASEMID SANDOZ",
+        "PLAVIX",
+        "BELOC ZOK"
+      ],
+      "reactions": [
+        "Hyphaema"
+      ],
+      "report_id": "13998859"
+    },
+    {
+      "drugs": [
+        "FRAGMIN",
+        "METFIN",
+        "ACIDUM FOLICUM",
+        "CANDESARTAN.",
+        "ASPIRIN CARDIO",
+        "XARELTO",
+        "CRESTOR",
+        "DAFALGAN",
+        "NOVALGIN",
+        "SYMFONA N (GINKGO BILOBA EXTRACT)",
+        "ZYLORIC"
+      ],
+      "reactions": [
+        "Shock haemorrhagic",
+        "Hypotonia",
+        "Upper gastrointestinal haemorrhage",
+        "Drug interaction",
+        "Renal failure",
+        "Duodenal ulcer",
+        "Atrial fibrillation",
+        "Acute myocardial infarction"
+      ],
+      "report_id": "14076176"
+    },
+    {
+      "drugs": [
+        "ESCITALOPRAM",
+        "CYPROHEPTADINE.",
+        "GINKGO BILOBA EXTRACT",
+        "IVABRADINE",
+        "TRAZODONE",
+        "METOPROLOL.",
+        "ZOLPIDEM",
+        "SERTRALINE",
+        "MOKLAR",
+        "SOTALOL.",
+        "VENLAFAXINE",
+        "WARFARIN"
+      ],
+      "reactions": [
+        "Electrocardiogram QT prolonged",
+        "Fatigue",
+        "Arrhythmia",
+        "Drug interaction",
+        "Initial insomnia",
+        "Middle insomnia",
+        "Ischaemic stroke",
+        "Apallic syndrome",
+        "Syncope",
+        "Palpitations",
+        "Cardiac disorder",
+        "Atrial tachycardia",
+        "Drug ineffective",
+        "Insomnia"
+      ],
+      "report_id": "14083049"
+    },
+    {
+      "drugs": [
+        "IBUPROFEN.",
+        "LEVOFLOXACIN.",
+        "DEXAMETHASONE.",
+        "MANNATIDE",
+        "INSULIN",
+        "LIPITOR",
+        "GLUCOBAY",
+        "BETALOC",
+        "ALFACALCIDOL",
+        "GINKGO BILOBA EXTRACT",
+        "TRAMADOL.",
+        "GLUTATHIONE",
+        "FUROSEMIDE.",
+        "LANSOPRAZOLE.",
+        "DOPAMINE",
+        "NORVASC",
+        "MEROPENEM.",
+        "OSELTAMIVIR"
+      ],
+      "reactions": [
+        "Rhabdomyolysis",
+        "Multiple organ dysfunction syndrome"
+      ],
+      "report_id": "14089017"
+    },
+    {
+      "drugs": [
+        "ALDACTONE",
+        "TAZOBAC",
+        "VESICARE",
+        "TOREM /01036501/",
+        "SYMFONA N (GINKGO BILOBA EXTRACT)",
+        "ASPIRIN CARDIO",
+        "XARELTO",
+        "PREDNISONE.",
+        "EUTHYROX",
+        "SERETIDE",
+        "NEXIUM",
+        "CORDARONE"
+      ],
+      "reactions": [
+        "Clostridium difficile colitis",
+        "Condition aggravated",
+        "Prostatitis",
+        "Upper gastrointestinal haemorrhage",
+        "Chronic obstructive pulmonary disease",
+        "Haematuria",
+        "Respiratory failure",
+        "Pancreatitis",
+        "Orchitis",
+        "Alcoholic pancreatitis",
+        "Rash maculo-papular",
+        "Bradycardia",
+        "Lung infection",
+        "Bronchitis",
+        "Haematuria"
+      ],
+      "report_id": "14240616"
+    },
+    {
+      "drugs": [
+        "ASPIRIN CARDIO 100 MG",
+        "DERMOVATE",
+        "TOREM",
+        "NEXIUM",
+        "EUTHYROX",
+        "CORDARONE",
+        "LASIX",
+        "SERETIDE",
+        "PIPERACILLIN AND TAZOBACTAM",
+        "AUGMENTIN",
+        "ACIDUM FOLICUM",
+        "VESICARE",
+        "VI-DE 3",
+        "DEXERYL [CHLORPHENAM MAL,DEXTROMET HBR,GUAIF,PHENYLEPHR HCL]",
+        "IPRATROPIUM BROMIDE W/SALBUTAMOL",
+        "SYMFONA N (GINKGO BILOBA EXTRACT)",
+        "PREDNISONE.",
+        "CETIRIZINE",
+        "ALDACTONE",
+        "TAZOBAC",
+        "XARELTO"
+      ],
+      "reactions": [
+        "Haemoglobin decreased",
+        "Scratch",
+        "Haematuria",
+        "Haemoglobin urine present",
+        "Clostridium difficile colitis",
+        "Electrocardiogram QT prolonged",
+        "Sinus bradycardia",
+        "Rash maculo-papular",
+        "Gastrointestinal haemorrhage"
+      ],
+      "report_id": "14244322"
+    },
+    {
+      "drugs": [
+        "CORDARONE",
+        "AUGMENTIN",
+        "LASIX",
+        "XARELTO",
+        "GLYCEROL\\PARAFFIN",
+        "ACIDUM FOLICUM",
+        "CETIRIZINE",
+        "ALDACTONE",
+        "NEXIUM",
+        "PIPERACILLIN AND TAZOBACTAM",
+        "TOREM",
+        "PREDNISONE.",
+        "SERETIDE",
+        "SYMFONA N (GINKGO BILOBA EXTRACT)",
+        "TAZOBAC",
+        "IPRATROPIUM BROMIDE W/SALBUTAMOL",
+        "DERMOVATE",
+        "EUTHYROX",
+        "ASPIRIN CARDIO",
+        "VI-DE 3",
+        "VESICARE"
+      ],
+      "reactions": [
+        "Electrocardiogram QT prolonged",
+        "Rash maculo-papular",
+        "Gastrointestinal haemorrhage",
+        "Scratch",
+        "Haemoglobin urine present",
+        "Haemoglobin decreased",
+        "Sinus bradycardia",
+        "Haematuria",
+        "Clostridium difficile colitis"
+      ],
+      "report_id": "14251676"
+    },
+    {
+      "drugs": [
+        "METFORMIN",
+        "ALENDRONIC ACID",
+        "PIOGLITAZONE/PIOGLITAZONE HYDROCHLORIDE",
+        "SIMVASTATIN.",
+        "GLIBENCLAMIDE",
+        "CHROMIUM",
+        "HYPERICUM PERFORATUM",
+        "CELECOXIB.",
+        "PAROXETINE.",
+        "AMITRIPTYLINE",
+        "GINKGO BILOBA/GINKGO BILOBA EXTRACT/GINKGO BILOBA LEAF EXTRACT",
+        "DILTIAZEM.",
+        "ASCORBIC ACID.",
+        "HYDROXYZINE",
+        "CINNAMOMUM VERUM BARK",
+        "METFORMIN",
+        "GLUCOSAMINE",
+        "NICOTINIC ACID"
+      ],
+      "reactions": [
+        "Cough",
+        "Fall",
+        "Dementia Alzheimer^s type",
+        "Gait disturbance",
+        "Choking",
+        "Joint stiffness",
+        "Grief reaction",
+        "Agitation",
+        "Hip fracture",
+        "Arthralgia",
+        "Dyspnoea",
+        "Delirium",
+        "Confusional state",
+        "Urinary incontinence",
+        "Pyrexia",
+        "Drug interaction",
+        "Osteoarthritis",
+        "Pneumonia aspiration",
+        "Memory impairment",
+        "Cognitive disorder",
+        "Balance disorder",
+        "Nervousness",
+        "Dementia",
+        "Lung infiltration"
+      ],
+      "report_id": "14326815"
+    },
+    {
+      "drugs": [
+        "TRAZODONE",
+        "QUETIAPINE.",
+        "QUETIAPINE.",
+        "ALPRAZOLAM.",
+        "CHLORPROMAZINE.",
+        "QUETIAPINE.",
+        "VALPROIC ACID.",
+        "PAROXETINE.",
+        "GINKGO BILOBA EXTRACT",
+        "ETHYL LOFLAZEPATE",
+        "PAROXETINE.",
+        "LORAZEPAM.",
+        "VALPROIC ACID."
+      ],
+      "reactions": [
+        "No adverse event",
+        "Drug ineffective"
+      ],
+      "report_id": "14343534"
+    },
+    {
+      "drugs": [
+        "QUETIAPINE.",
+        "TRAZODONE",
+        "ALPRAZOLAM.",
+        "QUETIAPINE.",
+        "SODIUM VALPROATE",
+        "LORAZEPAM.",
+        "SODIUM VALPROATE",
+        "TRAZODONE",
+        "GINKGO BILOBA EXTRACT",
+        "ETHYL LOFLAZEPATE",
+        "QUETIAPINE.",
+        "QUETIAPINE.",
+        "QUETIAPINE.",
+        "PAROXETINE.",
+        "CHLORPROMAZINE."
+      ],
+      "reactions": [
+        "Drug ineffective"
+      ],
+      "report_id": "14348416"
+    },
+    {
+      "drugs": [
+        "ASSAN REM",
+        "ZALDIAR",
+        "SIRDALUD",
+        "MAGNESIOCARD",
+        "PALEXIA",
+        "ZALDIAR",
+        "TOPIRAMATE SANDOZ",
+        "ARLEVERT",
+        "EFFIGEL",
+        "BETASERC",
+        "SYMFONA N (GINKGO BILOBA EXTRACT)",
+        "SYMPHYTUM OFFICINALE WHOLE",
+        "ZALDIAR",
+        "PALEXIA",
+        "MOVICOL"
+      ],
+      "reactions": [
+        "Exposure during pregnancy",
+        "Abortion spontaneous"
+      ],
+      "report_id": "14356394"
+    },
+    {
+      "drugs": [
+        "PROPAFENONE HCL",
+        "TRAMADOL.",
+        "URISPAS",
+        "RIOPAN                             /00141701/",
+        "MYSOLINE",
+        "HALDOL",
+        "AUGMENTIN",
+        "XPURSANA",
+        "ASPIRIN CARDIO",
+        "SYMFONA N (GINKGO BILOBA EXTRACT)",
+        "MORPHINE HYDROCHLORIDE",
+        "CLEXANE",
+        "METOPROLOL SUCCINATE.",
+        "OXYNORM",
+        "LAXOBERON",
+        "LISINOPRIL.",
+        "QUETIAPINE.",
+        "DANCOR",
+        "PRAVASTATIN.",
+        "VI-DE 3",
+        "OXYCODONE",
+        "DAFALGAN"
+      ],
+      "reactions": [
+        "Cerebral haemorrhage",
+        "Orthostatic hypotension"
+      ],
+      "report_id": "14380825"
+    },
+    {
+      "drugs": [
+        "ASPIRIN CARDIO 100 MG",
+        "SYMFONA N (GINKGO BILOBA EXTRACT)"
+      ],
+      "reactions": [
+        "Carotid artery disease"
+      ],
+      "report_id": "14401773"
+    },
+    {
+      "drugs": [
+        "ASSAN REM",
+        "ZALDIAR",
+        "BETASERC                           /00141801/",
+        "SYMFONA N (GINKGO BILOBA EXTRACT)",
+        "MAGNESIOCARD",
+        "TAPENTADOL HYDROCHLORIDE",
+        "ZALDIAR",
+        "ARLEVERT",
+        "SIRDALUD",
+        "TRAUMAPLANT (SYMPHYTUM UPLANDICUM)",
+        "ZALDIAR",
+        "TOPIRAMATE SANDOZ",
+        "PALEXIA",
+        "MOVICOL",
+        "EFFIGEL"
+      ],
+      "reactions": [
+        "Abortion spontaneous",
+        "Exposure during pregnancy",
+        "Maternal exposure during pregnancy"
+      ],
+      "report_id": "14527193"
+    },
+    {
+      "drugs": [
+        "XARELTO",
+        "GINKGO BILOBA EXTRACT",
+        "XARELTO",
+        "GASTRODINA",
+        "ALPROSTADIL.",
+        "OXIRACETAM",
+        "PRUNUS ARMENIACA",
+        "XARELTO",
+        "XARELTO",
+        "FLURBIPROFEN."
+      ],
+      "reactions": [
+        "Vertigo"
+      ],
+      "report_id": "14535114"
+    },
+    {
+      "drugs": [
+        "MOCLOBEMIDE",
+        "SERTRALINE",
+        "VENLAFAXINE HYDROCHLORIDE.",
+        "WARFARIN",
+        "ZOLPIDEM TARTRATE.",
+        "ESCITALOPRAM",
+        "GINKGO BILOBA EXTRACT",
+        "METOPROLOL TARTRATE.",
+        "TRAZODONE",
+        "SOTALOL."
+      ],
+      "reactions": [
+        "Syncope",
+        "Middle insomnia",
+        "Drug ineffective",
+        "Fatigue",
+        "Apallic syndrome",
+        "Atrial tachycardia",
+        "Arrhythmia",
+        "Fatigue",
+        "Electrocardiogram QT prolonged",
+        "Palpitations",
+        "Drug interaction",
+        "Initial insomnia",
+        "Insomnia",
+        "Ischaemic stroke"
+      ],
+      "report_id": "14573366"
+    },
+    {
+      "drugs": [
+        "MABTHERA",
+        "ZESTORETIC",
+        "KARDEGIC",
+        "BENDAMUSTINE HYDROCHLORIDE.",
+        "GINKGO BILOBA EXTRACT"
+      ],
+      "reactions": [
+        "General physical health deterioration",
+        "Neutropenia",
+        "Leukopenia",
+        "Lung disorder"
+      ],
+      "report_id": "14633875"
+    },
+    {
+      "drugs": [
+        "GINKGO BILOBA EXTRACT",
+        "ESCITALOPRAM",
+        "CYPROHEPTADINE.",
+        "ZOLPIDEM",
+        "METOPROLOL VP",
+        "SERTRALINE",
+        "VENLAFAXINE",
+        "TRAZODONE",
+        "SOTALOL.",
+        "MOBEMID",
+        "WARFARIN",
+        "IVABRADINE"
+      ],
+      "reactions": [
+        "Initial insomnia",
+        "Drug interaction",
+        "Middle insomnia",
+        "Electrocardiogram QT prolonged",
+        "Cardiac disorder",
+        "Apallic syndrome",
+        "Arrhythmia",
+        "Apallic syndrome",
+        "Ischaemic stroke",
+        "Atrial tachycardia",
+        "Drug ineffective",
+        "Syncope",
+        "Palpitations",
+        "Insomnia",
+        "Fatigue"
+      ],
+      "report_id": "14685232"
+    },
+    {
+      "drugs": [
+        "MOCLOBEMIDE",
+        "METOPROLOL.",
+        "ZOLPIDEM",
+        "ESCITALOPRAM",
+        "IVABRADINE",
+        "VENLAFAXINE",
+        "SOTALOL.",
+        "SERTRALINE",
+        "CYPROHEPTADINE.",
+        "WARFARIN",
+        "GINKGO BILOBA EXTRACT              /01003110/",
+        "TRAZODONE"
+      ],
+      "reactions": [
+        "Apallic syndrome",
+        "Middle insomnia",
+        "Initial insomnia",
+        "Insomnia",
+        "Drug interaction",
+        "Ischaemic stroke",
+        "Palpitations",
+        "Drug ineffective",
+        "Syncope",
+        "Arrhythmia",
+        "Fatigue",
+        "Atrial tachycardia",
+        "Electrocardiogram QT prolonged",
+        "Cardiac disorder"
+      ],
+      "report_id": "14690133"
+    },
+    {
+      "drugs": [
+        "MOCLOBEMIDE",
+        "TRAZODONE",
+        "MOKLAR",
+        "VENLAFAXINE",
+        "ESCITALOPRAM",
+        "CYPROHEPTADINE.",
+        "GINKGO BILOBA EXTRACT",
+        "IVABRADINE",
+        "SOTALOL.",
+        "METOPROLOL SUCCINATE.",
+        "ZOLPIDEM",
+        "SERTRALINE",
+        "WARFARIN"
+      ],
+      "reactions": [
+        "Ischaemic stroke",
+        "Apallic syndrome",
+        "Syncope",
+        "Arrhythmia",
+        "Drug interaction",
+        "Contraindicated product administered",
+        "Fatigue",
+        "Electrocardiogram QT prolonged",
+        "Middle insomnia",
+        "Palpitations",
+        "Cardiac disorder",
+        "Atrial tachycardia",
+        "Tachycardia",
+        "Drug ineffective",
+        "Insomnia"
+      ],
+      "report_id": "14764255"
+    },
+    {
+      "drugs": [
+        "FOLIC ACID.",
+        "QUETIAPINE.",
+        "COLECALCIFEROL",
+        "PANTOPRAZOLE",
+        "GALANTAMINE.",
+        "GINKGO BILOBA EXTRACT",
+        "METOPROLOL.",
+        "VITAMIN B12"
+      ],
+      "reactions": [
+        "Fall",
+        "Contraindicated product administered",
+        "Fracture",
+        "Product used for unknown indication",
+        "Haematoma"
+      ],
+      "report_id": "14817117"
+    },
+    {
+      "drugs": [
+        "BAYASPIRIN 100 MG",
+        "HEPARIN SODIUM.",
+        "PLAVIX",
+        "GINKGO BILOBA EXTRACT",
+        "TICAGRELOR."
+      ],
+      "reactions": [
+        "Platelet count decreased",
+        "Haemorrhage subcutaneous"
+      ],
+      "report_id": "14841340"
+    },
+    {
+      "drugs": [
+        "SOTALOL.",
+        "WARFARIN",
+        "ZOLPIDEM",
+        "GINKGO BILOBA EXTRACT",
+        "SERTRALINE"
+      ],
+      "reactions": [
+        "Ischaemic cerebral infarction",
+        "Drug interaction"
+      ],
+      "report_id": "14874559"
+    },
+    {
+      "drugs": [
+        "ZOLPIDEM",
+        "SOTALOL.",
+        "GINKGO BILOBA EXTRACT",
+        "WARFARIN",
+        "SERTRALINE"
+      ],
+      "reactions": [
+        "Drug interaction",
+        "Ischaemic cerebral infarction"
+      ],
+      "report_id": "14895603"
+    },
+    {
+      "drugs": [
+        "SERTRALINE HCL",
+        "SERTRALINE HCL",
+        "SOTALOL.",
+        "GINKGO BILOBA EXTRACT",
+        "ZOLPIDEM",
+        "ZOLPIDEM",
+        "WARFARIN"
+      ],
+      "reactions": [
+        "Drug interaction",
+        "Apallic syndrome",
+        "Ischaemic stroke"
+      ],
+      "report_id": "14923638"
+    },
+    {
+      "drugs": [
+        "COBIMETINIB.",
+        "LORATADINE.",
+        "HYDRAMINE",
+        "AMOXICILLIN;CLAVULANATE POTASSIUM",
+        "IBUPROFEN.",
+        "OMEPRAZOLE.",
+        "GINKGO BILOBA EXTRACT",
+        "MYCOSTATIN",
+        "ROSUVASTATIN.",
+        "PARACETAMOL",
+        "ACETYLCYSTEINE.",
+        "ATEZOLIZUMAB.",
+        "BETAMETHASONE DIPROPIONATE.",
+        "MEGESTROL"
+      ],
+      "reactions": [
+        "Diarrhoea",
+        "Diarrhoea",
+        "Diarrhoea infectious"
+      ],
+      "report_id": "14945899"
+    },
+    {
+      "drugs": [
+        "SERTRALINE",
+        "SERTRALINE",
+        "SOTALOL.",
+        "ZOLPIDEM",
+        "ZOLPIDEM",
+        "TANAKAN [GINKGO BILOBA EXTRACT]",
+        "WARFARIN SODIUM."
+      ],
+      "reactions": [
+        "Drug interaction",
+        "Apallic syndrome",
+        "Ischaemic stroke"
+      ],
+      "report_id": "14964045"
+    },
+    {
+      "drugs": [
+        "SOTALOL.",
+        "ZOLPIDEM",
+        "SERTRALINE HCL",
+        "GINKGO BILOBA EXTRACT",
+        "WARFARIN"
+      ],
+      "reactions": [
+        "Ischaemic cerebral infarction",
+        "Drug interaction"
+      ],
+      "report_id": "14970815"
+    },
+    {
+      "drugs": [
+        "GINKGO BILOBA EXTRACT",
+        "ELIQUIS",
+        "LISINOPRIL.",
+        "VITAMIN A",
+        "BISOPROLOL FUMARATE.",
+        "LUTEIN",
+        "VITAMIN D3",
+        "CARBAMAZEPINE.",
+        "GARLIC.",
+        "SIMVASTATIN."
+      ],
+      "reactions": [
+        "Loss of consciousness",
+        "Dyspnoea",
+        "Dizziness",
+        "Hypotension"
+      ],
+      "report_id": "15076332"
+    },
+    {
+      "drugs": [
+        "TRAZODONE",
+        "VENLAFAXINE",
+        "SERTRALINE",
+        "METOPROLOL.",
+        "MOCLOBEMIDE",
+        "SOTALOL.",
+        "ESCITALOPRAM OXALATE.",
+        "WARFARIN",
+        "GINKGO BILOBA EXTRACT",
+        "ZOLPIDEM"
+      ],
+      "reactions": [
+        "Syncope",
+        "Initial insomnia",
+        "Atrial tachycardia",
+        "Drug interaction",
+        "Electrocardiogram QT prolonged",
+        "Fatigue",
+        "Insomnia",
+        "Ischaemic stroke",
+        "Middle insomnia",
+        "Apallic syndrome",
+        "Arrhythmia",
+        "Drug ineffective",
+        "Palpitations"
+      ],
+      "report_id": "15124508"
+    },
+    {
+      "drugs": [
+        "WARFARIN",
+        "GINKGO BILOBA EXTRACT",
+        "ZOLPIDEM",
+        "WARFARIN",
+        "SERTRALINE",
+        "SERTRALINE",
+        "SOTALOL."
+      ],
+      "reactions": [
+        "Ischaemic stroke",
+        "Apallic syndrome"
+      ],
+      "report_id": "15139458"
+    },
+    {
+      "drugs": [
+        "VYVANSE",
+        "HYDROXYCHLOROQUINE PHOSPHATE",
+        "SINGULAIR",
+        "DIPHENHYDRAMINE HYDROCHLORIDE.",
+        "OMEPRAZOLE.",
+        "DILAUDID",
+        "COENZYME",
+        "FOLIC ACID.",
+        "FLUTICASONE PROPIONATE.",
+        "ALPHA LIPOIC ACID",
+        "SODIUM CHLORIDE.",
+        "TOCOPHEROL",
+        "OCEAN SALINE NASAL SPRAY",
+        "XYREM",
+        "RESTASIS",
+        "NORCO",
+        "BYSTOLIC",
+        "MAGNESIUM GLYCINATE",
+        "MIDODRINE",
+        "ONDANSETRON",
+        "RIBOFLAVIN",
+        "NAPROXEN SODIUM.",
+        "CLONAZEPAM.",
+        "GINKGO BILOBA EXTRACT",
+        "GLICLAZIDE",
+        "BACTRIM",
+        "MIRALAX",
+        "MORPHINE",
+        "EPIPEN",
+        "THIAMINE",
+        "NIZORAL",
+        "CARNITOR",
+        "CETIRIZINE",
+        "CREATINE MONOHYDRATE",
+        "LORAZEPAM.",
+        "METHYLPHENIDATE.",
+        "VITAMIN D3",
+        "XYREM",
+        "INTROVALE",
+        "METOCLOPRAMIDE.",
+        "OMEGA 3 FISH OILS",
+        "XYREM",
+        "CYANOCOBALAMIN.",
+        "TYLENOL EXTRA STRENGTH"
+      ],
+      "reactions": [
+        "Multiple allergies",
+        "Sleep apnoea syndrome",
+        "Gastric disorder",
+        "Condition aggravated"
+      ],
+      "report_id": "15161169"
+    },
+    {
+      "drugs": [
+        "METOPROLOL.",
+        "GALANTAMINE.",
+        "VITAMIN B12",
+        "PANTOPRAZOL                        /01263201/",
+        "COLECALCIFEROL",
+        "QUETIAPINE.",
+        "GINKGO BILOBA EXTRACT",
+        "FOLIC ACID."
+      ],
+      "reactions": [
+        "Fall",
+        "Fracture",
+        "Haematoma",
+        "Contraindicated product administered"
+      ],
+      "report_id": "15196455"
+    },
+    {
+      "drugs": [
+        "XYREM",
+        "VITAMIN D3",
+        "METFORMIN HCL",
+        "ARMODAFINIL.",
+        "GABAPENTIN.",
+        "LEVITRA",
+        "LISINOPRIL AND HYDROCHLOROTHIAZIDE",
+        "MELOXICAM.",
+        "AMITRIPTYLINE HCL",
+        "HYDROXYZINE PAM",
+        "ADDERALL",
+        "RITALIN",
+        "VYVANSE",
+        "XYREM",
+        "XYREM",
+        "MELATONIN",
+        "ALLOPURINOL.",
+        "TIZANIDINE HCL",
+        "VENTOLIN HFA",
+        "FISH OIL W/TOCOPHEROL",
+        "QUETIAPINE FUMARATE.",
+        "DEXAMFETAMINE",
+        "GINKGO BILOBA EXTRACT",
+        "QUETIAPINE FUMARATE."
+      ],
+      "reactions": [
+        "Drug abuse",
+        "Mania"
+      ],
+      "report_id": "15237201"
+    },
+    {
+      "drugs": [
+        "ZOLPIDEM TARTRATE.",
+        "VENLAFAXINE",
+        "GINKGO BILOBA EXTRACT",
+        "MOCLOBEMIDE",
+        "ESCITALOPRAM",
+        "WARFARIN",
+        "METOPROLOL TARTRATE.",
+        "TRAZODONE",
+        "SERTRALINE",
+        "SOTALOL."
+      ],
+      "reactions": [
+        "Apallic syndrome",
+        "Syncope",
+        "Middle insomnia",
+        "Drug ineffective",
+        "Fatigue",
+        "Arrhythmia",
+        "Initial insomnia",
+        "Insomnia",
+        "Atrial tachycardia",
+        "Drug interaction",
+        "Fatigue",
+        "Electrocardiogram QT prolonged",
+        "Palpitations",
+        "Ischaemic stroke"
+      ],
+      "report_id": "15278381"
+    },
+    {
+      "drugs": [
+        "BACLOFEN.",
+        "PROZAC",
+        "ROSUVASTATIN CALCIUM.",
+        "FISH OIL BURP-LESS",
+        "GINKGO BILOBA EXTRACT",
+        "GABAPENTIN.",
+        "FLAXSEED",
+        "CLONAZEPAM.",
+        "HYDROCODONE-ACETAMINOPHEN",
+        "GINSENG",
+        "VITAMIN D3",
+        "ATORVASTATIN CALCIUM.",
+        "CIPROFLOXACIN HCL",
+        "TECFIDERA",
+        "CALCIUM CITRATE + MAGNESIUM",
+        "VITAMIN D2",
+        "LYRICA"
+      ],
+      "reactions": [
+        "Ovarian cyst",
+        "Pain"
+      ],
+      "report_id": "15364359"
+    },
+    {
+      "drugs": [
+        "CRIZOTINIB",
+        "PRAVASTATIN.",
+        "CRIZOTINIB",
+        "NIMESULIDE",
+        "LAFUTIDINE",
+        "ASPIRIN                            /00002701/",
+        "PITAVASTATIN.",
+        "ACETYLCYSTEINE.",
+        "RALOXIFENE.",
+        "OXIRACETAM",
+        "GRANISETRON",
+        "METHYLPREDISOLONE",
+        "AMBROXOL",
+        "CRIZOTINIB",
+        "AMLODIPINE",
+        "GINKGO BILOBA EXTRACT"
+      ],
+      "reactions": [
+        "Neutrophil count decreased"
+      ],
+      "report_id": "15379527"
+    },
+    {
+      "drugs": [
+        "SPIRONOLACTONE.",
+        "GINKGO BILOBA EXTRACT",
+        "PERINDOPRIL",
+        "ALTIZIDE"
+      ],
+      "reactions": [
+        "Dermatitis psoriasiform",
+        "Superinfection"
+      ],
+      "report_id": "15406109"
+    },
+    {
+      "drugs": [
+        "ATENOL",
+        "EVOGLIPTIN",
+        "METAZIN                            /00489602/",
+        "GINKGO BILOBA EXTRACT",
+        "EDARBI",
+        "SIMVASTATIN.",
+        "KANARB"
+      ],
+      "reactions": [
+        "Arrhythmia"
+      ],
+      "report_id": "15441387"
+    },
+    {
+      "drugs": [
+        "SERTRALINE",
+        "SOTALOL.",
+        "CYPROHEPTADINE.",
+        "ESCITALOPRAM",
+        "GINKGO BILOBA EXTRACT",
+        "ZOLPIDEM",
+        "ESCITALOPRAM",
+        "TRAZODONE",
+        "ZOLPIDEM",
+        "MOKLAR",
+        "METOPROLOL.",
+        "VENLAFAXINE",
+        "VENLAFAXINE",
+        "TRAZODONE",
+        "IVABRADINE",
+        "SERTRALINE",
+        "MOCLOBEMIDE",
+        "WARFARIN"
+      ],
+      "reactions": [
+        "Apallic syndrome",
+        "Atrial tachycardia",
+        "Contraindicated product administered",
+        "Fatigue",
+        "Drug interaction",
+        "Insomnia",
+        "Fatigue",
+        "Middle insomnia",
+        "Syncope",
+        "Drug ineffective",
+        "Ischaemic stroke",
+        "Arrhythmia",
+        "Initial insomnia",
+        "Electrocardiogram QT prolonged",
+        "Syncope",
+        "Cardiac disorder",
+        "Palpitations"
+      ],
+      "report_id": "15454724"
+    },
+    {
+      "drugs": [
+        "IMBRUVICA",
+        "NIACIN.",
+        "FOLIC ACID.",
+        "FISH OIL",
+        "TAMSULOSIN",
+        "ENALAPRIL",
+        "METOPROLOL.",
+        "GINKGO BILOBA EXTRACT",
+        "CLOPIDOGREL",
+        "GARLIC.",
+        "ASPRIN",
+        "ALPRAZOLAM.",
+        "SIMVASTATIN.",
+        "IMBRUVICA",
+        "CYCLOBENZAPRINE.",
+        "TRAMADOL.",
+        "SPIRONOLACTONE."
+      ],
+      "reactions": [
+        "Initial insomnia",
+        "Abdominal discomfort",
+        "Constipation"
+      ],
+      "report_id": "15637657"
+    },
+    {
+      "drugs": [
+        "MAGIC MOUTHWASH",
+        "NORCO",
+        "VITAMIN E BLEND",
+        "ALPHA LIPOIC ACID",
+        "CRANBERRY CONCENTRATE",
+        "METFORMIN",
+        "GINKGO BILOBA EXTRACT",
+        "CITRACAL",
+        "AZELASTINE.",
+        "VERZENIO",
+        "FASLODEX",
+        "LOSARTAN.",
+        "GABAPENTIN."
+      ],
+      "reactions": [
+        "Full blood count decreased",
+        "Malignant neoplasm progression"
+      ],
+      "report_id": "15680363"
+    },
+    {
+      "drugs": [
+        "STILNOX",
+        "GINKGO BILOBA EXTRACT [GINKGO BILOBA LEAF]",
+        "DIGEPLUS [DIMETICONE;METOCLOPRAMIDE HYDROCHLORIDE;PEPSIN]"
+      ],
+      "reactions": [
+        "Wheezing",
+        "Anaphylactic shock",
+        "Exophthalmos",
+        "Pallor",
+        "Hypertension",
+        "Amnesia",
+        "Slow response to stimuli"
+      ],
+      "report_id": "15765373"
+    },
+    {
+      "drugs": [
+        "EUTHYROX",
+        "FRAGMIN",
+        "LAMICTAL",
+        "LAMICTAL",
+        "FORTECORTIN",
+        "PANTOZOL CONTROL",
+        "MORPHIN HCL",
+        "VALACICLOVIR",
+        "GINKGO BILOBA EXTRACT",
+        "MOTILIUM",
+        "TEBOKAN",
+        "VALTREX",
+        "VI D3",
+        "ELTROXIN",
+        "FORTECORTIN",
+        "DAFALGAN",
+        "IBUPROFEN.",
+        "LAXOBERON",
+        "BRIVIACT",
+        "NOVALGIN (CAFFEINE\\PARACETAMOL\\PROPYPHENAZONE)",
+        "HUMULUS LUPULUS",
+        "VALERIANA OFFICINALIS ROOT",
+        "PARAGOL",
+        "ASS CARDIO",
+        "PREDNISONE."
+      ],
+      "reactions": [
+        "Drug reaction with eosinophilia and systemic symptoms",
+        "Drug eruption"
+      ],
+      "report_id": "15835192"
+    },
+    {
+      "drugs": [
+        "XARELTO",
+        "INFLIXIMAB PFIZER (UNKNOWN)",
+        "INFLIXIMAB PFIZER (UNKNOWN)",
+        "FLECAINE",
+        "INFLIXIMAB PFIZER (UNKNOWN)",
+        "GINKOR [GINKGO BILOBA EXTRACT;TROXERUTIN]",
+        "CIFROL"
+      ],
+      "reactions": [
+        "Underdose",
+        "Overdose",
+        "Intestinal obstruction",
+        "Drug ineffective"
+      ],
+      "report_id": "15860722"
+    },
+    {
+      "drugs": [
+        "GINKGO BILOBA/GINKGO BILOBA EXTRACT/GINKGO BILOBA LEAF EXTRACT",
+        "ESCITALOPRAM"
+      ],
+      "reactions": [
+        "Drug interaction",
+        "Haemorrhage"
+      ],
+      "report_id": "15903636"
+    },
+    {
+      "drugs": [
+        "ESCITALOPRAM",
+        "GINKGO BILOBA/GINKGO BILOBA EXTRACT/GINKGO BILOBA LEAF EXTRACT"
+      ],
+      "reactions": [
+        "Drug interaction",
+        "Haemorrhage"
+      ],
+      "report_id": "15903638"
+    },
+    {
+      "drugs": [
+        "ESCITALOPRAM",
+        "GINKGO BILOBA/GINKGO BILOBA EXTRACT/GINKGO BILOBA LEAF EXTRACT"
+      ],
+      "reactions": [
+        "Drug interaction",
+        "Haemorrhage"
+      ],
+      "report_id": "15903639"
+    },
+    {
+      "drugs": [
+        "WARFARIN",
+        "GINKGO BILOBA/GINKGO BILOBA EXTRACT/GINKGO BILOBA LEAF EXTRACT",
+        "ZOLPIDEM",
+        "SERTRALINE",
+        "SOTALOL."
+      ],
+      "reactions": [
+        "Ischaemic stroke",
+        "Apallic syndrome",
+        "Drug interaction"
+      ],
+      "report_id": "15964976"
+    },
+    {
+      "drugs": [
+        "MYLERAN",
+        "LEVOCARNITINE FUMARATE",
+        "MULTIVITAMIN",
+        "GINKGO BILOBA EXTRACT",
+        "ASPIRIN 81",
+        "SAW PALMETTO",
+        "VITAMIN A",
+        "CALCIUM 500+D"
+      ],
+      "reactions": [
+        "Neutropenia",
+        "Thrombocytopenia"
+      ],
+      "report_id": "16070536"
+    },
+    {
+      "drugs": [
+        "RIVOTRIL",
+        "NOCTAMIDE",
+        "RISPERDAL",
+        "RISPERDAL CONSTA",
+        "TANAKAN [GINKGO BILOBA EXTRACT]",
+        "STILNOX",
+        "PIASCLEDINE [GLYCINE MAX SEED OIL;PERSEA AMERICANA OIL]"
+      ],
+      "reactions": [
+        "Cardiac arrest"
+      ],
+      "report_id": "16117807"
+    },
+    {
+      "drugs": [
+        "FLUOROURACIL.",
+        "FLUOROURACIL.",
+        "LERCANIDIPINE",
+        "CYANOCOBALAMIN.",
+        "GINKGO BILOBA EXTRACT",
+        "CALCIUM LEVOFOLINATE",
+        "BEVACIZUMAB.",
+        "BACLOFEN.",
+        "BEVACIZUMAB.",
+        "FLUOROURACIL.",
+        "FLUOROURACIL.",
+        "FLUOROURACIL.",
+        "OXALIPLATIN (MANUFACTURER UNKNOWN)",
+        "CALCIUM LEVOFOLINATE"
+      ],
+      "reactions": [
+        "Pulmonary embolism",
+        "Hypertension",
+        "Hypertension"
+      ],
+      "report_id": "16148276"
+    },
+    {
+      "drugs": [
+        "INIPOMP",
+        "SPECIAFOLDINE",
+        "VITAMIN C",
+        "LAMOTRIGINE.",
+        "LEVOTHYROXINE SODIUM.",
+        "ASCORBIC ACID.",
+        "LAMICTAL",
+        "INIPOMP",
+        "CYANOCOBALAMIN.",
+        "GINKGO BILOBA EXTRACT",
+        "FOLIC ACID.",
+        "VITAMIN B12",
+        "INEGY",
+        "TANAKAN"
+      ],
+      "reactions": [
+        "Biopsy bone marrow",
+        "Antinuclear antibody positive",
+        "White blood cell count decreased",
+        "Haemoglobin decreased",
+        "Red blood cell count decreased",
+        "Platelet count abnormal",
+        "Bone marrow failure"
+      ],
+      "report_id": "16148660"
+    },
+    {
+      "drugs": [
+        "ZOLPIDEM",
+        "NOCTAMIDE",
+        "CLONAZEPAM.",
+        "RISPERIDONE.",
+        "RISPERIDONE.",
+        "GINKGO BILOBA EXTRACT",
+        "PIASCLEDINE"
+      ],
+      "reactions": [
+        "Cardiac arrest"
+      ],
+      "report_id": "16161919"
+    },
+    {
+      "drugs": [
+        "GINKGO BILOBA EXTRACT",
+        "PIASCLEDINE",
+        "CLONAZEPAM.",
+        "ZOLPIDEM",
+        "RISPERDAL",
+        "NOCTAMIDE",
+        "RISPERIDONE.",
+        "NOCTAMIDE"
+      ],
+      "reactions": [
+        "Cardiac arrest"
+      ],
+      "report_id": "16171297"
+    },
+    {
+      "drugs": [
+        "FOLIC ACID.",
+        "GINKGO BILOBA EXTRACT",
+        "CYANOCOBALAMIN.",
+        "ASCORBIC ACID.",
+        "INEGY",
+        "LAMOTRIGINE.",
+        "INIPOMP",
+        "LEVOTHYROXINE SODIUM."
+      ],
+      "reactions": [
+        "Bone marrow failure"
+      ],
+      "report_id": "16176013"
+    },
+    {
+      "drugs": [
+        "GINKGO BILOBA EXTRACT",
+        "ELIQUIS",
+        "IRBESARTAN.",
+        "DOLIPRANE",
+        "ENANTONE LP",
+        "CHONDROITIN SULFATE",
+        "CALCIDOSE VITAMINE D",
+        "BICALUTAMIDE."
+      ],
+      "reactions": [
+        "Thrombocytopenia"
+      ],
+      "report_id": "16182429"
+    },
+    {
+      "drugs": [
+        "RISPERIDONE.",
+        "PIASCLEDINE",
+        "NOCTAMIDE",
+        "PIASCLEDINE",
+        "GINKGO BILOBA EXTRACT",
+        "ZOLPIDEM",
+        "RISPERDAL",
+        "CLONAZEPAM."
+      ],
+      "reactions": [
+        "Cardiac arrest"
+      ],
+      "report_id": "16201755"
+    },
+    {
+      "drugs": [
+        "TANAKAN",
+        "VITAMIN C",
+        "INEGY",
+        "SPECIAFOLDINE",
+        "WARFARIN",
+        "ATORVASTATIN",
+        "INIPOMP",
+        "VITAMIN B12",
+        "FOLIC ACID.",
+        "ASCORBIC ACID.",
+        "INIPOMP",
+        "TERBUTALINE",
+        "GINKGO BILOBA EXTRACT",
+        "LAMICTAL",
+        "LAMOTRIGINE.",
+        "LEVOTHYROX"
+      ],
+      "reactions": [
+        "Biopsy bone marrow",
+        "Bone marrow failure",
+        "Red blood cell count decreased",
+        "Haemoglobin decreased",
+        "Antinuclear antibody positive",
+        "White blood cell count decreased",
+        "Platelet count abnormal"
+      ],
+      "report_id": "16224786"
+    }
+  ],
+  "confidence": "low",
+  "note": "Co-occurrence signals only. Not a confirmed interaction source. Verify against NIH ODS, MedlinePlus, or PubMed before using."
+}

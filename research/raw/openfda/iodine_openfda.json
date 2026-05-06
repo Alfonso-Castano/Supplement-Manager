@@ -1,0 +1,8428 @@
+{
+  "canonical_name": "iodine",
+  "query_variants": [
+    "IODINE",
+    "POTASSIUM IODIDE",
+    "SODIUM IODIDE",
+    "KELP"
+  ],
+  "total_reports_fetched": 400,
+  "co_occurrence_reports": 351,
+  "co_occurrences": [
+    {
+      "drugs": [
+        "DOXYCYCLINE HYCLATE",
+        "TRAMADOL HYDROCHLORIDE",
+        "OXYCONTIN",
+        "TALWIN",
+        "CODEINE",
+        "IODINE",
+        "ASPIRIN",
+        "LORTAB",
+        "FIORINAL"
+      ],
+      "reactions": [
+        "Drug hypersensitivity"
+      ],
+      "report_id": "10003304"
+    },
+    {
+      "drugs": [
+        "RAMIPRIL",
+        "EDARBI (AZILSARTAN MEDOXOMIL)",
+        "METHYLDOPA (METHYLDOPA)",
+        "INFLUSPLIT SSW (INFLUENZA VACCINE)",
+        "FOLIO FORTE (FOLIC ACID W/ POTASSIUM IODINE/VITAMIN B12 NOS)"
+      ],
+      "reactions": [
+        "Oligohydramnios",
+        "Premature rupture of membranes",
+        "Caesarean section",
+        "Obstructed labour",
+        "Gestational diabetes",
+        "Maternal exposure during pregnancy"
+      ],
+      "report_id": "10010825"
+    },
+    {
+      "drugs": [
+        "EYELEA",
+        "IODINE (IODINE)",
+        "TAREG (VALSARTAN)",
+        "SEROPLEX (ESCITALOPRAM OXALATE)",
+        "VENTOLINE /00139501/ (SALBUTAMOL)",
+        "PREVISCAN/00261401/ (PENTOXFYLLINE)"
+      ],
+      "reactions": [
+        "Death",
+        "Cardio-respiratory arrest",
+        "Multi-organ failure",
+        "Malaise",
+        "Vomiting",
+        "Metabolic acidosis",
+        "Aspartate aminotransferase increased",
+        "Pneumonia aspiration",
+        "General physical health deterioration"
+      ],
+      "report_id": "10011277"
+    },
+    {
+      "drugs": [
+        "MORPHINE SULFATE",
+        "ASA",
+        "ERYTHROMYCIN ETHYLSUCCINATE",
+        "IODINE"
+      ],
+      "reactions": [
+        "Drug hypersensitivity"
+      ],
+      "report_id": "10015292"
+    },
+    {
+      "drugs": [
+        "DETROL",
+        "ENTEX T",
+        "ZOLOFT",
+        "PROTOSTAT",
+        "IODINE",
+        "DEMEROL",
+        "TYLENOL WITH CODEINE",
+        "DARVOCET-N 100",
+        "TUSSIN CF",
+        "MACRODANTIN",
+        "STADOL",
+        "ZANTAC",
+        "ZANAFLEX",
+        "DILANTIN",
+        "DURICEF",
+        "TERRAMYCIN",
+        "PROZAC",
+        "PYRIDIUM",
+        "LORABID",
+        "BAND AID",
+        "ERYTHROMYCIN.",
+        "VIVACTIL",
+        "TEGRETOL",
+        "SELDANE-D"
+      ],
+      "reactions": [
+        "Drug hypersensitivity"
+      ],
+      "report_id": "10015297"
+    },
+    {
+      "drugs": [
+        "NITROGLYCERIN",
+        "ASPIRIN",
+        "IODINE",
+        "REMICADE"
+      ],
+      "reactions": [
+        "Drug hypersensitivity"
+      ],
+      "report_id": "10019134"
+    },
+    {
+      "drugs": [
+        "GABAPENTIN",
+        "ADRENALINE",
+        "TETRACYCLINE HCL",
+        "MACRODANTIN",
+        "LEVAQUIN",
+        "MACROBID",
+        "TALWIN",
+        "IODINE",
+        "PENICILLIN NOS",
+        "OPTISON",
+        "BETIMOL",
+        "FLUORESCEIN"
+      ],
+      "reactions": [
+        "Drug hypersensitivity",
+        "Bronchospasm"
+      ],
+      "report_id": "10021091"
+    },
+    {
+      "drugs": [
+        "EYLEA",
+        "CHLORAMPHENICOL",
+        "POVIDONE IODINE (POVIDONE IODINE)"
+      ],
+      "reactions": [
+        "Endophthalmitis",
+        "Visual acuity reduced",
+        "Hypopyon"
+      ],
+      "report_id": "10035515"
+    },
+    {
+      "drugs": [
+        "EPINEPHRINE",
+        "BENZYLPENICILLIN POTASSIUM",
+        "TETRACYCLINE HCL",
+        "MACRODANTIN",
+        "LEVAQUIN",
+        "MACROBID",
+        "TALWIN /00052101/",
+        "IODINE",
+        "OPTISON /01601801/",
+        "BETIMOL",
+        "FLUORESCEIN"
+      ],
+      "reactions": [
+        "Bronchospasm",
+        "Drug hypersensitivity"
+      ],
+      "report_id": "10039148"
+    },
+    {
+      "drugs": [
+        "MORPHINE SULFATE",
+        "CODEINE SULFATE",
+        "MOBIC",
+        "NABUMETONE",
+        "PRILOSEC DR",
+        "SULFAMETHOXAZOLE W/TRIMETHOPRIM",
+        "PENICILLIN VK",
+        "IODINE TINCTURE"
+      ],
+      "reactions": [
+        "Drug hypersensitivity"
+      ],
+      "report_id": "10040897"
+    },
+    {
+      "drugs": [
+        "ACCUPRIL",
+        "PROTONIX",
+        "TRAMADOL HCL",
+        "ANTIVERT",
+        "ULTRAM",
+        "IMDUR",
+        "DARVOCET",
+        "ADVAIR",
+        "PERCODAN",
+        "LEVAQUIN",
+        "CODEINE",
+        "IODINE"
+      ],
+      "reactions": [
+        "Drug hypersensitivity"
+      ],
+      "report_id": "10044500"
+    },
+    {
+      "drugs": [
+        "TECHNESCAN LYO MAA",
+        "ULTRA TECHNEKOW FM",
+        "INSULINE",
+        "POVIDONE IODINE",
+        "CALCIUM",
+        "MOXIFLOXACIN"
+      ],
+      "reactions": [
+        "Microembolism"
+      ],
+      "report_id": "10047707"
+    },
+    {
+      "drugs": [
+        "CHLORAPREP",
+        "CHLORAPREP",
+        "OTHER CHLORHEXIDINE PRODUCTS USED FOR CATHETER DISINFECTION",
+        "SUXMETHONIUM",
+        "PENICLLIN",
+        "LATEX",
+        "PROVIDONE IODINE"
+      ],
+      "reactions": [
+        "Anaphylactic reaction"
+      ],
+      "report_id": "10047738"
+    },
+    {
+      "drugs": [
+        "BAYER GENUINE ASPIRIN ORIGINAL STRENGTH",
+        "AMANTADIN",
+        "AUGMENTIN",
+        "AZITHROMYCIN",
+        "CELEBREX",
+        "CODEINE",
+        "CRESTOR",
+        "ERYTHROMYCIN",
+        "IODINE",
+        "LIPITOR",
+        "NAPROSYN",
+        "PRAVASTATIN",
+        "ROSUVASTATIN",
+        "XOLAIR",
+        "LIDOCAIN",
+        "AVELOX",
+        "MEDROL",
+        "MOTRIN",
+        "LASIX"
+      ],
+      "reactions": [
+        "Rectal haemorrhage",
+        "Drug hypersensitivity",
+        "Dyspepsia"
+      ],
+      "report_id": "10048445"
+    },
+    {
+      "drugs": [
+        "MESALAZINE",
+        "AMLODIPINE BESILATE",
+        "TRAMADOL AND ACETAMINOPHEN",
+        "CLOSTRIDIUM BUTYRICUM",
+        "TPN",
+        "POVIDONE IODINE",
+        "REBAMIPIDE",
+        "HUMIRA",
+        "HUMIRA",
+        "HUMIRA",
+        "FERROUS SODIUM CITRATE",
+        "URSODEOXYCHOLIC ACID",
+        "LACTOMIN",
+        "TRAMADOL AND ACETAMINOPHEN",
+        "FERROUS SODIUM CITRATE",
+        "URSODEOXYCHOLIC ACID",
+        "HUMIRA",
+        "LANSOPRAZOLE."
+      ],
+      "reactions": [
+        "Renal pelvis fistula",
+        "Pelvic abscess",
+        "Oedema peripheral",
+        "Urine output decreased",
+        "Henoch-Schonlein purpura"
+      ],
+      "report_id": "10048998"
+    },
+    {
+      "drugs": [
+        "EYLEA",
+        "OFTAQUIX (LEVOFLOXACIN)",
+        "CYCLOPENTOLAT (CYCLOPENTOLATE HYDROCHLORIDE)",
+        "BRAUNOL (POVIDONE-IODINE)",
+        "INFLANERFRAN (PREDNISOLONE ACETATE)"
+      ],
+      "reactions": [
+        "Endophthalmitis",
+        "Anterior chamber opacity"
+      ],
+      "report_id": "10053014"
+    },
+    {
+      "drugs": [
+        "SIMVASTATIN",
+        "ABATACEPT",
+        "FOLIC ACID",
+        "HYDROXYCHLOROQUINE",
+        "METHOTREXATE",
+        "PREDNISOLONE",
+        "WARFARIN",
+        "ALENDRONATE",
+        "CALCICHEW D3",
+        "IMMUNOGLOBULIN",
+        "IODINE",
+        "QUININE SULFATE"
+      ],
+      "reactions": [
+        "Deep vein thrombosis",
+        "Wound",
+        "Vascular injury",
+        "General physical health deterioration",
+        "Fall"
+      ],
+      "report_id": "10055213"
+    },
+    {
+      "drugs": [
+        "CELEBREX",
+        "LEVAQUIN",
+        "THEOPHYLLINE",
+        "IODINE"
+      ],
+      "reactions": [
+        "Drug hypersensitivity"
+      ],
+      "report_id": "10055953"
+    },
+    {
+      "drugs": [
+        "MORPHINE SULFATE",
+        "FENTANYL",
+        "IODINE"
+      ],
+      "reactions": [
+        "Drug hypersensitivity",
+        "Rash",
+        "Swelling"
+      ],
+      "report_id": "10055961"
+    },
+    {
+      "drugs": [
+        "COUGH MEDICATION",
+        "CLOPIDOGREL",
+        "CRESTOR",
+        "BRILINTA",
+        "BRILINTA",
+        "BRILINTA",
+        "BRILINTA",
+        "BRILINTA",
+        "ANTI-HISTAMINE",
+        "IODINE",
+        "BRILINTA",
+        "ASPIRIN.",
+        "VITAMINS",
+        "HERBS",
+        "PLAVIX"
+      ],
+      "reactions": [
+        "Skin injury",
+        "Feeling abnormal",
+        "Arthralgia",
+        "Gingival bleeding",
+        "Iodine allergy",
+        "Mouth haemorrhage",
+        "Device breakage",
+        "Myalgia",
+        "Anaphylactic shock",
+        "Syncope",
+        "Memory impairment",
+        "Haemorrhage",
+        "Lung infection",
+        "Pruritus",
+        "Abasia",
+        "Epistaxis",
+        "Pain",
+        "Contusion",
+        "Petechiae",
+        "Lip haemorrhage",
+        "Chest pain",
+        "Weight decreased",
+        "Haematochezia",
+        "Thrombosis",
+        "Joint stiffness"
+      ],
+      "report_id": "10056195"
+    },
+    {
+      "drugs": [
+        "CODEINE",
+        "FESOTERODINE",
+        "GABAPENTIN.",
+        "IODINE.",
+        "NEURONTIN",
+        "LODINE"
+      ],
+      "reactions": [
+        "Drug hypersensitivity"
+      ],
+      "report_id": "10056580"
+    },
+    {
+      "drugs": [
+        "SIMVASTATIN",
+        "METHOTREXATE",
+        "PREDNISOLONE",
+        "ABATACEPT",
+        "FOLIC ACID",
+        "HYDROXYCHLOROQUINE SULFATE",
+        "WARFARIN",
+        "ALENDRONATE SODIUM",
+        "CALCICHEW D3",
+        "GLOBULIN, IMMUNE",
+        "IODINE",
+        "QUININE SULFATE"
+      ],
+      "reactions": [
+        "Deep vein thrombosis",
+        "Wound",
+        "Vascular injury",
+        "General physical health deterioration",
+        "Fall"
+      ],
+      "report_id": "10056717"
+    },
+    {
+      "drugs": [
+        "EYLEA (ALFIBERCEPT) INJECTION",
+        "IODINE (IODINE)"
+      ],
+      "reactions": [
+        "Eye allergy",
+        "Foreign body sensation in eyes",
+        "Ocular hyperaemia",
+        "Eye pain",
+        "Visual impairment",
+        "Off label use"
+      ],
+      "report_id": "10058083"
+    },
+    {
+      "drugs": [
+        "TETRACYCLINE HCL",
+        "IODINE"
+      ],
+      "reactions": [
+        "Drug hypersensitivity"
+      ],
+      "report_id": "10058183"
+    },
+    {
+      "drugs": [
+        "THYROXINE",
+        "INSULIN",
+        "IODINE",
+        "PROPYLTHIOURACIL",
+        "METHIMAZOLE"
+      ],
+      "reactions": [
+        "Gestational diabetes",
+        "Type 1 diabetes mellitus",
+        "Thyroid disorder",
+        "Caesarean section",
+        "Assisted delivery",
+        "Obesity",
+        "Hypertension",
+        "Maternal exposure during pregnancy"
+      ],
+      "report_id": "10062019"
+    },
+    {
+      "drugs": [
+        "METHOTREXATE",
+        "ABATACEPT",
+        "FOLIC ACID",
+        "HYDROXYCHLOROQUINE",
+        "PREDNISOLONE",
+        "SIMVASTATIN",
+        "WARFARIN",
+        "ALENDRONATE",
+        "CALCICHEW D3",
+        "IMMUNOGLOBULIN",
+        "IODINE",
+        "QUININE SULFATE"
+      ],
+      "reactions": [
+        "Fall",
+        "Wound",
+        "Vascular injury",
+        "General physical health deterioration",
+        "Deep vein thrombosis"
+      ],
+      "report_id": "10066920"
+    },
+    {
+      "drugs": [
+        "SIMVASTATIN",
+        "ABATACEPT",
+        "FOLIC ACID",
+        "HYDROXYCHLOROQUINE SULFATE",
+        "METHOTREXATE",
+        "PREDNISOLONE",
+        "WARFARIN",
+        "ALENDRONATE",
+        "CALACICHEW D3",
+        "IMMUNOGLOBULIN",
+        "IODINE",
+        "QUININE SULFATE"
+      ],
+      "reactions": [
+        "Deep vein thrombosis",
+        "Wound",
+        "Vascular injury",
+        "General physical health deterioration",
+        "Fall"
+      ],
+      "report_id": "10067231"
+    },
+    {
+      "drugs": [
+        "METHOTREXATE",
+        "WARFARIN",
+        "IMMUNOGLOBULIN",
+        "QUININE",
+        "HYDROXYCHLOROQUINE",
+        "SIMVASTATIN",
+        "IODINE",
+        "ABATACEPT",
+        "ALENDRONIC ACID",
+        "FOLIC ACID",
+        "CALCICHEW D3",
+        "PREDNISOLONE"
+      ],
+      "reactions": [
+        "Wound",
+        "Vascular injury",
+        "General physical health deterioration",
+        "Deep vein thrombosis",
+        "Fall"
+      ],
+      "report_id": "10067305"
+    },
+    {
+      "drugs": [
+        "PONATINIB",
+        "ISODINE (POVIDONE-IODINE)",
+        "PURSENNID (SENNOSIDE A+B CALCIUM)",
+        "LOXONIN (LOXOPROFEN SODIUM)",
+        "BISOPROLOL FUMARATE (BISOPROLOL FUMARATE)"
+      ],
+      "reactions": [
+        "Genital haemorrhage",
+        "Menstruation irregular"
+      ],
+      "report_id": "10067500"
+    },
+    {
+      "drugs": [
+        "FOLIC ACID",
+        "METHOTREXATE",
+        "SIMVASTATIN",
+        "WARFARIN",
+        "PREDNISOLONE",
+        "ABATACEPT",
+        "HYDROXYCHLOROQUINE",
+        "ALENDRONATE",
+        "CALCICHEW D3",
+        "IMMUNOGLOBULIN",
+        "IODINE",
+        "QUININE SULFATE"
+      ],
+      "reactions": [
+        "Deep vein thrombosis",
+        "Wound",
+        "Vascular injury",
+        "General physical health deterioration",
+        "Fall"
+      ],
+      "report_id": "10068808"
+    },
+    {
+      "drugs": [
+        "CALCICHEW D3",
+        "IODINE",
+        "QUININE SULFATE",
+        "FOLIC ACID (UNKNOWN)",
+        "HYDROXYCHLOROQUINE SULFATE (WATSON LABORATORIES)",
+        "METHOTREXATE (UNKNOWN)",
+        "PREDNISOLONE (UNKNOWN)",
+        "SIMVASTATIN (UNKNOWN)",
+        "WARFARIN (UNKNOWN)",
+        "ABATACEPT",
+        "ALENDRONATE"
+      ],
+      "reactions": [
+        "Deep vein thrombosis",
+        "Wound",
+        "Vascular injury",
+        "General physical health deterioration",
+        "Fall"
+      ],
+      "report_id": "10071002"
+    },
+    {
+      "drugs": [
+        "PREDNISOLONE",
+        "ABATACEPT",
+        "FOLIC ACID",
+        "HYDROXYCHLOROQUINE",
+        "METHOTREXATE",
+        "SIMVASTATIN",
+        "WARFARIN SODIUM",
+        "ALENDRONATE",
+        "CALCICHEW D3",
+        "IMMUNOGLOBULIN",
+        "IODINE",
+        "QUININE SULFATE"
+      ],
+      "reactions": [
+        "Deep vein thrombosis",
+        "General physical health deterioration",
+        "Wound",
+        "Vascular injury",
+        "Fall"
+      ],
+      "report_id": "10071047"
+    },
+    {
+      "drugs": [
+        "SIMVASTATIN",
+        "FOLIC ACID",
+        "PREDNISOLONE",
+        "ABATACEPT",
+        "HYDROXYCHLOROQUINE",
+        "METHOTREXATE",
+        "WARFARIN",
+        "ALENDRONATE",
+        "CALCICHEW D3",
+        "IMMUNOGLOBULIN",
+        "IODINE",
+        "QUININE SULFATE"
+      ],
+      "reactions": [
+        "Deep vein thrombosis",
+        "Wound",
+        "Vascular injury",
+        "General physical health deterioration",
+        "Fall"
+      ],
+      "report_id": "10071630"
+    },
+    {
+      "drugs": [
+        "TYSABRI",
+        "TECFIDERA",
+        "VITAMIN D",
+        "METFORMIN",
+        "GLYBURIDE",
+        "VYVANSE",
+        "LIPITOR",
+        "SINGULAIR",
+        "PROZAC",
+        "ALBUTEROL",
+        "PROAIR",
+        "LEVEMIR",
+        "NOVOLOG",
+        "COPAXONE",
+        "CODEINE",
+        "IODINE"
+      ],
+      "reactions": [
+        "Hypersensitivity"
+      ],
+      "report_id": "10071871"
+    },
+    {
+      "drugs": [
+        "LIDOCAINE HCL",
+        "IODINE",
+        "DYPHYLLINE"
+      ],
+      "reactions": [
+        "Anaphylactic reaction",
+        "Asthma"
+      ],
+      "report_id": "10072572"
+    },
+    {
+      "drugs": [
+        "SIMVASTATIN",
+        "ABATACEPT",
+        "FOLIC ACID",
+        "HYDROXYCHLOROQUINE",
+        "METHOTREXATE (METHOTREXATE)",
+        "PREDNISOLONE",
+        "WARFARIN",
+        "ALENDRONATE (ALENDRONATE SODIUM)",
+        "CALCICHEW D3 (LEKOVIT CA)",
+        "IMMUNOGLOBULIN (IMMUNOGLOBULIN HUMAN NORMAL)",
+        "IODINE (IODINE)",
+        "QUININE SULFATE (QUININE SULFATE)"
+      ],
+      "reactions": [
+        "Deep vein thrombosis",
+        "Fall",
+        "Wound",
+        "Laceration",
+        "Vascular rupture",
+        "General physical health deterioration"
+      ],
+      "report_id": "10072582"
+    },
+    {
+      "drugs": [
+        "FOLIC ACID",
+        "METHOTREXATE",
+        "PREDNISOLONE",
+        "SIMVASTATIN",
+        "WARFARIN",
+        "HYDROXYCHLOROQUINE",
+        "ABATACEPT",
+        "ALENDRONATE",
+        "CALCICHEW D3",
+        "IMMUNOGLOBULIN",
+        "IODINE",
+        "QUININE SULFATE"
+      ],
+      "reactions": [
+        "Deep vein thrombosis",
+        "Wound",
+        "Vascular injury",
+        "General physical health deterioration",
+        "Fall"
+      ],
+      "report_id": "10073414"
+    },
+    {
+      "drugs": [
+        "METHOTREXATE",
+        "ABATACEPT",
+        "FOLIC ACID",
+        "HYDROXYCHLOROQUINE",
+        "PREDNISOLONE",
+        "SIMVASTATIN",
+        "WARFARIN",
+        "ANTIHYPERTENSIVES",
+        "ALENDRONATE",
+        "CHOLECALCIFEROL",
+        "IMMUNOGLOBULIN",
+        "IODINE",
+        "QUININE SULFATE"
+      ],
+      "reactions": [
+        "Deep vein thrombosis",
+        "Wound",
+        "General physical health deterioration",
+        "Fall",
+        "Injury"
+      ],
+      "report_id": "10077251"
+    },
+    {
+      "drugs": [
+        "WARFARIN",
+        "ABATACEPT",
+        "FOLIC ACID",
+        "HYDROXYCHLOROQUINE",
+        "METHOTREXATE",
+        "PREDNISOLONE",
+        "SIMVASTATIN",
+        "ALENDRONATE",
+        "CALCICHEW D3 FORTE",
+        "IMMUNOGLOBULIN",
+        "IODINE",
+        "QUININE SULFATE"
+      ],
+      "reactions": [
+        "Deep vein thrombosis",
+        "Wound",
+        "Vascular injury",
+        "General physical health deterioration",
+        "Fall"
+      ],
+      "report_id": "10080754"
+    },
+    {
+      "drugs": [
+        "MORPHINE SULFATE",
+        "CODEINE",
+        "IODINE"
+      ],
+      "reactions": [
+        "Drug hypersensitivity"
+      ],
+      "report_id": "10085794"
+    },
+    {
+      "drugs": [
+        "XYLOCAINE OPHTHALMIC",
+        "POVIDONE-IODINE"
+      ],
+      "reactions": [
+        "Toxic anterior segment syndrome",
+        "Glaucoma",
+        "Keratopathy"
+      ],
+      "report_id": "10090508"
+    },
+    {
+      "drugs": [
+        "DILANTIN",
+        "ASPIRIN",
+        "SULFUR",
+        "IODINE"
+      ],
+      "reactions": [
+        "Drug hypersensitivity"
+      ],
+      "report_id": "10094744"
+    },
+    {
+      "drugs": [
+        "DETROL LA",
+        "VISTARIL",
+        "IBUPROFEN",
+        "QUININE",
+        "MACRODANTIN",
+        "CASTOR OIL",
+        "METHOCARBAMOL",
+        "CYMBALTA",
+        "IODINE",
+        "PENICILLIN"
+      ],
+      "reactions": [
+        "Drug hypersensitivity"
+      ],
+      "report_id": "10101259"
+    },
+    {
+      "drugs": [
+        "ELIQUIS",
+        "ASPIRIN",
+        "VITAMINS",
+        "IODINE",
+        "VITAMIN D3",
+        "INDERAL",
+        "FLAXSEED OIL"
+      ],
+      "reactions": [
+        "Headache",
+        "Asthenia",
+        "Musculoskeletal pain",
+        "Neck pain",
+        "Wrong technique in drug usage process"
+      ],
+      "report_id": "10102975"
+    },
+    {
+      "drugs": [
+        "DILANTIN",
+        "IODINE",
+        "TEGRETOL"
+      ],
+      "reactions": [
+        "Drug hypersensitivity"
+      ],
+      "report_id": "10130148"
+    },
+    {
+      "drugs": [
+        "ANDROGEL",
+        "AMLODIPINE",
+        "ASPIRIN",
+        "CYTOMEL",
+        "VITAMIN C",
+        "ZINC",
+        "NIACIN",
+        "DIM OTC",
+        "IODINE",
+        "PROGESTERONE"
+      ],
+      "reactions": [
+        "Upper respiratory tract infection",
+        "Abdominal distension",
+        "Weight increased",
+        "Peripheral swelling",
+        "Peripheral swelling",
+        "Weight increased"
+      ],
+      "report_id": "10137179"
+    },
+    {
+      "drugs": [
+        "DULOXETINE HCL",
+        "DULOXETINE HCL",
+        "DULOXETINE HCL",
+        "GLIMEPRIDE",
+        "JANUVIA",
+        "LOTREL",
+        "METFORMIN",
+        "ZANAFLEX",
+        "LYRICA",
+        "ULTRAM",
+        "ADVAIR DISKUS",
+        "ACIDOPHILUS",
+        "ALPHA LIPOIC ACID",
+        "ASPIRIN",
+        "BIOTIN",
+        "BOSWELLIA",
+        "CHROMIUM PICOLINATE",
+        "CINNAMON",
+        "COQ10",
+        "D-RIBOSE",
+        "FISH OIL",
+        "IODINE",
+        "MAGNESIUM",
+        "MELATONIN",
+        "MILK THISTLE",
+        "MULTIPLE VITAMIN/MINERAL",
+        "PEPCID",
+        "RESVERATROL",
+        "TURMERIC",
+        "VALERIAN",
+        "CHAMOMILE",
+        "HOPS",
+        "SKULLCAP",
+        "I-TAURINE",
+        "PASSIONFLOWER",
+        "GABA",
+        "VITAMIN B COMPLEX",
+        "VITAMIN C",
+        "VITAMIN D",
+        "ZINC",
+        "JANUVIA",
+        "NASONEX"
+      ],
+      "reactions": [
+        "Pain",
+        "Musculoskeletal stiffness",
+        "Anxiety",
+        "Product substitution issue"
+      ],
+      "report_id": "10142801"
+    },
+    {
+      "drugs": [
+        "THYROGEN",
+        "IODINE (131 I)"
+      ],
+      "reactions": [
+        "Pneumonia",
+        "Abdominal pain upper",
+        "Oral dysaesthesia"
+      ],
+      "report_id": "10146555"
+    },
+    {
+      "drugs": [
+        "SIMPONI",
+        "METHOTREXATE",
+        "IBUPROFEN",
+        "CALCIUM",
+        "RADIOACTIVE IODINE"
+      ],
+      "reactions": [
+        "Thyroid cancer metastatic"
+      ],
+      "report_id": "10149766"
+    },
+    {
+      "drugs": [
+        "METFORMIN HCL",
+        "PRILOSEC",
+        "SUTENT",
+        "POTASSIUM",
+        "MAGNESIUM",
+        "IODINE",
+        "DYAZIDE",
+        "VITAMIN B12",
+        "SIMVASTATIN."
+      ],
+      "reactions": [
+        "Abdominal discomfort",
+        "Pain",
+        "Palmar-plantar erythrodysaesthesia syndrome",
+        "Dysgeusia",
+        "Decreased appetite",
+        "Dehydration",
+        "Weight decreased",
+        "Nausea",
+        "Stomatitis"
+      ],
+      "report_id": "10150960"
+    },
+    {
+      "drugs": [
+        "NITROFURANTOIN",
+        "MSM",
+        "IODINE SUPPLEMENT"
+      ],
+      "reactions": [
+        "Headache",
+        "Nausea",
+        "Vomiting"
+      ],
+      "report_id": "10154500"
+    },
+    {
+      "drugs": [
+        "LOPID",
+        "MORPHINE SULFATE",
+        "CODEINE",
+        "IODINE"
+      ],
+      "reactions": [
+        "Drug hypersensitivity"
+      ],
+      "report_id": "10167274"
+    },
+    {
+      "drugs": [
+        "LOPID",
+        "FLECAINIDE",
+        "PRINIVIL",
+        "CRESTOR",
+        "IODINE",
+        "TETANUS"
+      ],
+      "reactions": [
+        "Drug hypersensitivity"
+      ],
+      "report_id": "10167304"
+    },
+    {
+      "drugs": [
+        "ZOLOFT",
+        "LIPITOR",
+        "EFFEXOR",
+        "INDERAL",
+        "IODINE"
+      ],
+      "reactions": [
+        "Drug hypersensitivity"
+      ],
+      "report_id": "10170038"
+    },
+    {
+      "drugs": [
+        "NEURONTIN",
+        "CORTISONE",
+        "CODEINE",
+        "IODINE",
+        "DEMEROL",
+        "VICODIN",
+        "PHENERGAN",
+        "PREDNISONE"
+      ],
+      "reactions": [
+        "Drug hypersensitivity"
+      ],
+      "report_id": "10171256"
+    },
+    {
+      "drugs": [
+        "SKELAXIN",
+        "ROBAXIN",
+        "VERSED",
+        "IODINE"
+      ],
+      "reactions": [
+        "Drug hypersensitivity"
+      ],
+      "report_id": "10173222"
+    },
+    {
+      "drugs": [
+        "FELDENE",
+        "NEOMYCIN SULFATE",
+        "TOPICAL IODINE"
+      ],
+      "reactions": [
+        "Drug hypersensitivity"
+      ],
+      "report_id": "10174841"
+    },
+    {
+      "drugs": [
+        "OBINUTUZUMAB",
+        "CYCLOPHOSPHAMIDE",
+        "DOXORUBICIN",
+        "PREDNISONE",
+        "VINCRISTINE",
+        "PANTETHINE",
+        "AMBROXOL HYDROCHLORIDE",
+        "AMBROXOL HYDROCHLORIDE",
+        "SULPIRIDE",
+        "ETIZOLAM",
+        "CETIRIZINE HYDROCHLORIDE",
+        "ESOMEPRAZOLE MAGNESIUM",
+        "MAGNESIUM OXIDE",
+        "POVIDONE-IODINE",
+        "FEBUXOSTAT",
+        "ACETAMINOPHEN",
+        "DEXCHLORPHENIRAMINE MALEATE",
+        "LEVOFLOXACIN HYDRATE",
+        "REBAMIPIDE",
+        "HEPARINOID",
+        "ENSURE.H",
+        "RASBURICASE",
+        "CHLORPHENIRAMINE MALEATE",
+        "FUROSEMIDE",
+        "OXYGEN",
+        "OXYGEN",
+        "OXYGEN",
+        "GRANISETRON HYDROCHLORIDE",
+        "SODIUM BICARBONATE",
+        "FILGRASTIM",
+        "FILGRASTIM",
+        "BAKTAR",
+        "PROCHLORPERAZINE MESILATE"
+      ],
+      "reactions": [
+        "Pleural effusion"
+      ],
+      "report_id": "10175719"
+    },
+    {
+      "drugs": [
+        "FLAGYL",
+        "AMPICILLIN",
+        "CLINDAMYCIN HCL",
+        "MORPHINE SULFATE",
+        "CIPRO",
+        "LEVAQUIN",
+        "AVELOX",
+        "IODINE"
+      ],
+      "reactions": [
+        "Drug hypersensitivity"
+      ],
+      "report_id": "10176254"
+    },
+    {
+      "drugs": [
+        "BEVACIZUMAB",
+        "RANIBIZUMAB",
+        "POVIDONE-IODINE"
+      ],
+      "reactions": [
+        "Staphylococcal infection",
+        "Endophthalmitis",
+        "Suspected transmission of an infectious agent via product",
+        "Off label use"
+      ],
+      "report_id": "10178348"
+    },
+    {
+      "drugs": [
+        "MORPHINE SULFATE.",
+        "CODEINE",
+        "TUBERCULIN NOS",
+        "NEOSPORIN",
+        "PHENOBARBITAL.",
+        "FENOFIBRATE.",
+        "TUSSIONEX PENNKINETIC",
+        "GEMFIBROZIL.",
+        "FLEXERIL",
+        "VICODIN",
+        "TAGAMET",
+        "BENZALKONIUM",
+        "LIPITOR",
+        "DARVOCET A500",
+        "ELAVIL",
+        "VERAPAMIL HCL",
+        "GABAPENTIN.",
+        "SUCRALFATE.",
+        "TITANIUM DIOXIDE.",
+        "SACCHARATED IRON OXIDE",
+        "ZOLOFT",
+        "JANUMET",
+        "IODINE.",
+        "CYCLOBENZAPRINE.",
+        "VALIUM",
+        "DARVON",
+        "MENTHOL.",
+        "FISH OIL"
+      ],
+      "reactions": [
+        "Drug hypersensitivity"
+      ],
+      "report_id": "10179693"
+    },
+    {
+      "drugs": [
+        "BUPIVACAINE (MANUFACTURER UNKNOWN) (BUPIVACAINE) (BUPIVACAINE)",
+        "BUPIVACAINE (MANUFACTURER UNKNOWN) (BUPIVACAINE) (BUPIVACAINE)",
+        "LORAZEPAM (LORAZEPAM)",
+        "MIDAZOLAM (MIDAZOLAM)",
+        "POVIDONE IODINE (POVIDONE-IODINE)",
+        "LIDOCAINE (LIDOCAINE)",
+        "NORMAL SALINE (SODIUM CHLORIDE)",
+        "PROPOFOL (PROPOFOL)",
+        "FENTANYL (FENTANYL)",
+        "CISATRACURIUM (CISATRACURIUM)"
+      ],
+      "reactions": [
+        "Horner^s syndrome",
+        "Miosis",
+        "Eyelid ptosis",
+        "Enophthalmos",
+        "Anhidrosis",
+        "Conjunctival hyperaemia"
+      ],
+      "report_id": "10180225"
+    },
+    {
+      "drugs": [
+        "HYDROCHLOROTHIAZIDE.",
+        "LEVOTHYROXINE",
+        "RADIOACTIVE IODINE THERAPY",
+        "LIOTHYROXINE",
+        "TELMISARTAN.",
+        "AMLODIPINE",
+        "LEVOTHYROXINE"
+      ],
+      "reactions": [
+        "Hyponatraemia",
+        "Vomiting",
+        "Neurological symptom",
+        "Nausea",
+        "Hypothyroidism",
+        "Altered state of consciousness"
+      ],
+      "report_id": "10184881"
+    },
+    {
+      "drugs": [
+        "IODINE CONTRAST MEDIA",
+        "IODINE CONTRAST MEDIA"
+      ],
+      "reactions": [
+        "Flushing",
+        "Burning sensation",
+        "Musculoskeletal discomfort"
+      ],
+      "report_id": "10188443"
+    },
+    {
+      "drugs": [
+        "CARBOPLATINE TEVA",
+        "ALIMTA",
+        "VISIPAQUE 320 MG OF IODINE/ML",
+        "AVASTIN"
+      ],
+      "reactions": [
+        "Vomiting",
+        "Bone marrow failure",
+        "Mucosal inflammation",
+        "Haemoptysis",
+        "Haemorrhage",
+        "Infection",
+        "Pyrexia",
+        "Anuria",
+        "Acute pulmonary oedema",
+        "Acute kidney injury",
+        "Skin lesion",
+        "Dehydration",
+        "Acute respiratory failure",
+        "Hyperkalaemia",
+        "Respiratory distress"
+      ],
+      "report_id": "10189440"
+    },
+    {
+      "drugs": [
+        "LYRICA",
+        "DAYPRO",
+        "IODINE"
+      ],
+      "reactions": [
+        "Drug hypersensitivity"
+      ],
+      "report_id": "10194879"
+    },
+    {
+      "drugs": [
+        "ZOLOFT",
+        "CRESTOR",
+        "PAXIL",
+        "VICODIN",
+        "IODINE"
+      ],
+      "reactions": [
+        "Drug hypersensitivity"
+      ],
+      "report_id": "10194909"
+    },
+    {
+      "drugs": [
+        "POVIDONE-IODINE.",
+        "VENTOLINE",
+        "LUCENTIS",
+        "AZITHROMYCIN",
+        "TAHOR",
+        "PULMICORT TURBUHALER",
+        "OMIX",
+        "KARDEGIC",
+        "OXYBUPROCAINE",
+        "CARDENSIEL"
+      ],
+      "reactions": [
+        "Rash",
+        "Eczema",
+        "Conjunctivitis"
+      ],
+      "report_id": "10195604"
+    },
+    {
+      "drugs": [
+        "ELPLAT",
+        "CALCIUM LEVOFOLINATE",
+        "5-FU",
+        "5-FU",
+        "BLOPRESS",
+        "ALOXI",
+        "DEXART",
+        "ZANTAC",
+        "POLARAMINE",
+        "EMEND",
+        "DECADRON",
+        "DAIKENTYUTO",
+        "POVIDONE IODINE",
+        "NASEA",
+        "AMITIZA",
+        "BUSCOPAN",
+        "BUSCOPAN",
+        "RIZE",
+        "BROTIZOLAM",
+        "EKSALB",
+        "POSTERISAN"
+      ],
+      "reactions": [
+        "Urinary retention"
+      ],
+      "report_id": "10202233"
+    },
+    {
+      "drugs": [
+        "BENTYLOL",
+        "BENADRYL",
+        "MEZAVANT",
+        "REMICADE",
+        "VALTREX",
+        "ZANTAC",
+        "FOLIC ACID (FOLIC ACID)",
+        "MATERNA /02266601 (ASCORBIC AACID, BIOTIN, CALCIUM, CALCIUM PANTOTHENATE, CHROMIUM, COPPER, CYANOCOBALMIN, ERGOCALCIFEROL, FOLIC ACID, IODINE, IRON, MAGNESIUM, MANGANESE, MOLYDENUM, NICOTINAMIDE, PYRIDOXINE HYDROCHLORIDE, RETINOL, RIBOFLAVIN, THIAMINE HY"
+      ],
+      "reactions": [
+        "Abortion spontaneous",
+        "Exposure during pregnancy"
+      ],
+      "report_id": "10203611"
+    },
+    {
+      "drugs": [
+        "REMODULIN",
+        "TRACLEER  (BOSENTAN)",
+        "REVATIO",
+        "ACETYLCYSTEINE",
+        "AMOXICILLIN",
+        "DEPLIN (CALCIUM LEVOMEFOLATE)",
+        "DESLORATADINE",
+        "DONEPEZIL",
+        "ESZOPICLONE",
+        "FUROSEMIDE",
+        "GLEEVEC (IMATINIB MESILATE)",
+        "LEVALBUTEROL (LEVOSALBUTAMOL)",
+        "MULTIVITAMIN (ASCORBIC ACID, CALCIUM PANTOTHENATE, ERGOCALCIFEROL, NICOTINAMIDE, PYRIDOXINE HYDROCHLORIDE, RETINOL, RIBOFLAVIN, THIAMINE HYDROCHLORIDE)",
+        "PANTOPRAZOLE",
+        "IRON COMPLEX (IRON)",
+        "POVIDONE IODINE (POVIDONE-IODINE)",
+        "SACCHAROMYCES BOULARDII (SACCHAROMYCES BOULARDII)",
+        "SERTRALINE (SERTRALINE)",
+        "SUCRALFATE (SUCRALFATE) UNKNOWN"
+      ],
+      "reactions": [
+        "Gastrointestinal haemorrhage",
+        "Gastrointestinal infection",
+        "Portal hypertension",
+        "Anaemia",
+        "Intestinal polyp",
+        "Pyrexia",
+        "Chills",
+        "Pain in extremity",
+        "Arthralgia",
+        "Diarrhoea",
+        "Rectal haemorrhage",
+        "Bacteraemia",
+        "Gastric disorder",
+        "Pulmonary oedema"
+      ],
+      "report_id": "10203939"
+    },
+    {
+      "drugs": [
+        "EYLEA (AFLIBERCEPT) INJECTION)AFLIBERCEPT)",
+        "BISEPTINE (BENZALKONIUM CHLORIDE, BENZYL ALCOHOL, CHLORHEXIDINE)",
+        "BETADINE (POVIDONE-IODINE)",
+        "APROVEL (IRBESARTAN)",
+        "BEFIZAL (BEZAFIBRATE)",
+        "CERIS (TROSPIUM CHLORIDE)",
+        "DIALIPTIN M (METHORMIN HYDROCHLORIDE, VILDAGLIPTIN)"
+      ],
+      "reactions": [
+        "Eye pain",
+        "Ocular hyperaemia",
+        "Migraine",
+        "Inappropriate schedule of drug administration"
+      ],
+      "report_id": "10213441"
+    },
+    {
+      "drugs": [
+        "TORASEMID",
+        "MICARDIS",
+        "PRADAXA",
+        "THYRONAJOD",
+        "ALLOPURINOL.",
+        "PRADAXA",
+        "TORASEMID",
+        "MAGNESIUM",
+        "PRADAXA",
+        "IODINE",
+        "DILATREND"
+      ],
+      "reactions": [
+        "Rash",
+        "Haematoma",
+        "Pigmentation disorder",
+        "Fall",
+        "Contusion",
+        "Haematoma",
+        "Dizziness",
+        "Deafness",
+        "Peripheral swelling",
+        "Contusion",
+        "Fall"
+      ],
+      "report_id": "10222168"
+    },
+    {
+      "drugs": [
+        "MIRENA",
+        "BETADINE [POVIDONE-IODINE]"
+      ],
+      "reactions": [
+        "Embedded device"
+      ],
+      "report_id": "10226146"
+    },
+    {
+      "drugs": [
+        "IODINE",
+        "TYSABRI",
+        "L-THYROXIN"
+      ],
+      "reactions": [
+        "Immune reconstitution inflammatory syndrome",
+        "JC virus infection",
+        "Progressive multifocal leukoencephalopathy"
+      ],
+      "report_id": "10226815"
+    },
+    {
+      "drugs": [
+        "SITAGLIPTIN PHOSPHATE",
+        "LYRICA",
+        "DEXAMETHASONE.",
+        "METOPROLOL",
+        "TAVANIC",
+        "REVLIMID",
+        "ACETYLSALCYLSAURE",
+        "POVIDONE IODINE",
+        "PANTOZOL",
+        "DOXYCYCLINE."
+      ],
+      "reactions": [
+        "Lymphocele",
+        "Seroma",
+        "Urinary tract obstruction"
+      ],
+      "report_id": "10230012"
+    },
+    {
+      "drugs": [
+        "POVIDONE-IODINE.",
+        "SIROLIMUS.",
+        "ALLELOCK",
+        "EVISTA",
+        "SYMBICORT",
+        "SIROLIMUS.",
+        "GLAKAY",
+        "ASPARA-CA",
+        "ALFAROL",
+        "BONALON",
+        "MUCODYNE",
+        "VOLTAREN",
+        "MAGNESIUM OXIDE.",
+        "DAI-KENCHU-TO",
+        "CINAL",
+        "METHYCOBAL",
+        "TRANSAMIN",
+        "THEOLONG"
+      ],
+      "reactions": [
+        "Ileus"
+      ],
+      "report_id": "10238761"
+    },
+    {
+      "drugs": [
+        "DIFLUCAN",
+        "GYNO-PEVARYL",
+        "ALL OTHER THERAPEUTIC PRODUCTS",
+        "HORMONE REPLACEMENT THERAPY",
+        "DIFLUCAN",
+        "RADIOACTIVE IODINE SOLUTION"
+      ],
+      "reactions": [
+        "Pathogen resistance"
+      ],
+      "report_id": "10240020"
+    },
+    {
+      "drugs": [
+        "DOXYCYCLINE",
+        "OXYCODONE HYDROCHLORIDE",
+        "PENTAZOCINE LACTATE",
+        "CODEINE",
+        "IODINE",
+        "PENICILLINE /00000901/",
+        "ACETYLSALICYLIC ACID",
+        "VICODIN",
+        "FIORINAL /00090401/",
+        "TRAMADOL HCL"
+      ],
+      "reactions": [
+        "Drug hypersensitivity"
+      ],
+      "report_id": "10240056"
+    },
+    {
+      "drugs": [
+        "PHYSIO 140",
+        "FENTANYL.",
+        "EPHEDRINE",
+        "EPHEDRINE",
+        "SOLYUGEN F",
+        "PHYSIO 140",
+        "PHYSIO 140",
+        "FENTANYL.",
+        "REMIFENTANYL",
+        "REMIFENTANYL",
+        "EPHEDRINE",
+        "CEFAZOLIN",
+        "CEFAZOLIN",
+        "RIASTAP",
+        "HUMAN RED BLOOD CELL CONCENTRATES",
+        "SENNOSIDE",
+        "FENTANYL.",
+        "SOLYUGEN F",
+        "CEFAZOLIN",
+        "CEFAZOLIN",
+        "HEPARIN",
+        "HEPARIN",
+        "MIOTECTER",
+        "CONTRACEPTIVES NOS",
+        "MEYLON (7% 1.4G/20ML)",
+        "ALL OTHER THERAPEUTIC PRODUCTS",
+        "BROTIZOLAM",
+        "POVIDONE-IODINE GEL (10%)",
+        "REMIFENTANYL",
+        "ROCURONIUM",
+        "PROPOFOL.",
+        "EPHEDRINE",
+        "CEFAZOLIN",
+        "MEYLON (7% 1.4G/20ML)",
+        "RIASTAP",
+        "HUMAN ALBUMIN 5 %",
+        "HUMAN RED BLOOD CELL CONCENTRATES",
+        "PHYSIO 140",
+        "FENTANYL.",
+        "FENTANYL.",
+        "REMIFENTANYL",
+        "MANNITOL 20%",
+        "MANNITOL 20%",
+        "CONTRACEPTIVES NOS",
+        "MEYLON (7% 1.4G/20ML)",
+        "SIVELESTAT SODIUM HYDRATE",
+        "HUMAN ALBUMIN 5 %",
+        "METHYLPREDNISOLONE SODIUM SUCCINATE (500)",
+        "HUMAN RED BLOOD CELL CONCENTRATES",
+        "REMIFENTANYL",
+        "ROCURONIUM",
+        "EPHEDRINE",
+        "HEPARIN",
+        "CONTRACEPTIVES NOS",
+        "HUMAN RED BLOOD CELL CONCENTRATES",
+        "LANSOPRAZOLE.",
+        "VALSARTAN.",
+        "FENTANYL.",
+        "ROCURONIUM",
+        "PROPOFOL.",
+        "SOLYUGEN F",
+        "CEFAZOLIN",
+        "MANNITOL 20%",
+        "RIASTAP",
+        "TRANEXAMIC ACID 10 %",
+        "PROTAMINE SULFATE (1%)",
+        "PROPOFOL.",
+        "PROPOFOL.",
+        "ALL OTHER THERAPEUTIC PRODUCTS"
+      ],
+      "reactions": [
+        "Aspartate aminotransferase increased"
+      ],
+      "report_id": "10240508"
+    },
+    {
+      "drugs": [
+        "MULTIVITAMINS",
+        "THYROGEN",
+        "VITAMIN D",
+        "IODINE (131 I)"
+      ],
+      "reactions": [
+        "Nausea",
+        "Subarachnoid haemorrhage",
+        "Cerebrovascular accident",
+        "Loss of consciousness",
+        "Headache"
+      ],
+      "report_id": "10244342"
+    },
+    {
+      "drugs": [
+        "FELDENE",
+        "IODINE",
+        "KEFLEX",
+        "ROCEPHIN"
+      ],
+      "reactions": [
+        "Drug hypersensitivity"
+      ],
+      "report_id": "10246401"
+    },
+    {
+      "drugs": [
+        "VELETRI",
+        "TRACLEER",
+        "IODINE.",
+        "OXYGEN.",
+        "VITAMIN E",
+        "REVATIO",
+        "ADCIRCA",
+        "COUMADIN",
+        "COUMADIN",
+        "ASPIRIN.",
+        "MULTIVITAMIN",
+        "IRON",
+        "LETAIRIS",
+        "VELETRI",
+        "CHLORHEXIDINE",
+        "VITAMIN D"
+      ],
+      "reactions": [
+        "Device related thrombosis",
+        "Anticoagulation drug level increased",
+        "Catheter site infection",
+        "Malaise",
+        "Catheter site erythema",
+        "Device occlusion",
+        "Catheter placement",
+        "Decreased appetite",
+        "Weight decreased",
+        "Catheter site discharge",
+        "Central venous catheterisation",
+        "Dyspnoea",
+        "Device alarm issue",
+        "Haemorrhage",
+        "Hip fracture",
+        "Skin irritation",
+        "Arthralgia"
+      ],
+      "report_id": "10247435"
+    },
+    {
+      "drugs": [
+        "ZOLOFT",
+        "IODINE"
+      ],
+      "reactions": [
+        "Drug hypersensitivity"
+      ],
+      "report_id": "10249553"
+    },
+    {
+      "drugs": [
+        "CHLOMY (CHLORAMPHENICOL)",
+        "THIATON (TIQUIZIUM BROMIDE)",
+        "NEOLAMIN 3B /00520001/ (HYDROXOCOBALAMIN ACETATE, PYRIDOXAL PHOSPHATE, THIAMINE DISULFIDE)",
+        "FESIN (SACCHARATED IRON OXIDE)",
+        "ZANTAC",
+        "EVOXAC (CEVIMELINE HYDROCHLORIDE)",
+        "MIYA BM (CLOSTRIDIUM BUTYRICUM)",
+        "VEEN D (CALCIUM CHLORIDE DIHYDRATE, GLUCOSE, POTASSIUM CHLORIDE, SODIUM ACETATE, SODIUM CHLORIDE)",
+        "ALBUMINAR (ALBUMIN HUMAN)",
+        "PENTCILLIN (PIPERACILLIN SODIUM)",
+        "GLUCOSE (GLUCOSE)",
+        "UROMITEXAN (MESNA)",
+        "SENNOSIDE (SENNOSIDE A+B)",
+        "WYTENS (GUANABENZ ACETATE)",
+        "DIQUAS (DIQUAFOSOL TETRASODIUM)",
+        "PL GRAN. (CAFFEINE, PARACETAMOL, PROMETHAZINE METHYLENE DISALICYLATE, SALICYLAMIDE)",
+        "HYALEIN MINI (HYALURONATE SODIUM)",
+        "GLYCEREB (FRUCTOSE, GLYCEROL)",
+        "CEFAMEZIN (CEFAZOLIN)",
+        "HANP (CARPERITIDE)",
+        "GLOVENIN (IMMUNOGLOBULIN HUMAN NORMAL)",
+        "PANTOSIN (PANTETHINE)",
+        "ALFAROL",
+        "VENOGLOBULIN (IMMUNOGLOBULIN HUMAN NORMAL)",
+        "MUCOSOLVAN (AMBROXOL HYDROCHLORIDE)",
+        "ALLEGRA (FEXOFENADINE HYDROCHLORIDE)",
+        "FEBURIC (FEBUXOSTAT)",
+        "BONOTEO (MINODRONIC ACID)",
+        "DIART (AZOSEMIDE)",
+        "PRIMPERAN (METOCLOPRAMIDE)",
+        "OMEPRAZOL /00661202/ (OMEPRAZOLE SODIUM)",
+        "NEOAMIYU (ALANINE, ARGININE, ASPARTIC ACID, GLUTAMIC ACID, GLYCINE, HISTIDINE, ISOLEUCINE, LEUCINE, LYSINE ACETATE, METHIONINE, PHENYLALANINE, PROLINE, SERINE, THREONINE, TRYPTOPHAN, TYROSINE VALINE)",
+        "AMLODIN (AMLODIPINE BESILATE)",
+        "TAKEPRON (LANSOPRAZOLE)",
+        "TRANSAMIN (TRANEXAMIC ACID)",
+        "DIOVAN",
+        "FOSAMAC (ALENDRONATE SODIUM)",
+        "FLOMAX (CEFCAPENE PIVOXIL HYDROCHLORIDE)",
+        "GASLON",
+        "BREDININ (MIZORIBINE)",
+        "GASTER",
+        "NU-LOTAN (LOSARTAN POTASSIUM)",
+        "LIPITOR",
+        "FLUITRAN (TRICHLORMETHIAZIDE)",
+        "PROGRAF",
+        "PREDNISOLONE SODIUM SUCCINATE",
+        "PERSANTIN",
+        "FERROMIA (FERROUS SODIUM CITRATE)",
+        "LOXONIN (LOXOPROFEN SODIUM)",
+        "RINDERON (BETAMETHASONE SODIUM PHOSPHATE)",
+        "VEEN-F (CALCIUM CHLORIDE, MAGNESIUM CHLORIDE, POTASSIUM CHLORIDE, SODIUM ACETATE, SODIUM CHLORIDE)",
+        "ALDACTONE",
+        "BAKTAR (SULFAMETHOXAZOLE, TRIMETHOPRIM) TABLET",
+        "METHYLPREDNISOLONE SODIUM SUCCINATE.",
+        "KAKKON-TO (HERBAL EXTRACTS NOS)",
+        "HYALEIN (HYALURONATE SODIUM)",
+        "PENTAGIN (PENTAZOCINE LACTATE)",
+        "MIDAZOLAM",
+        "PHYSIO (CALCIUM GLUCONATE, GLUCOSE, MAGNESIUM CHLORIDE, POTASSIUM CHLORIDE, POTASSIUM PHOSPHATE MONOBASIC, SODIUM ACETATE, SODIUM CHLORIDE)",
+        "LASIX",
+        "NEXIUM",
+        "ASPARA K (POTASSIUM ASPARTATE)",
+        "ADONA (CARBAZOCHROME SODIUM SULFONATE)",
+        "TANATRIL (IMIDAPRIL HYDROCHLORIDE)",
+        "PERSANTIN-L (DIPYRIDAMOLE) MODIFIED-RELEASE CAPSULE, HARD",
+        "PREDNISOLONE.",
+        "TARIVID (OFLOXACIN)",
+        "ENDOXAN (CYCLOPHOSPHAMIDE MONOHYDRATE)",
+        "MYTEAR  (BORIC ACID)",
+        "PERDIPINE (NICARDIPINE)",
+        "METILON (METAMIZOLE SODIUM)",
+        "CATABON (DOPAMINE HYDROCHLORIDE)",
+        "ASPARA POTASSIUM (POTASSIUM ASPARTATE)",
+        "EDIROL (ELDECALCITOL)",
+        "ISODINE (POVIDONE-IODINE)"
+      ],
+      "reactions": [
+        "Hyperlipidaemia",
+        "Hyperuricaemia",
+        "Gastroenteritis",
+        "Otitis externa",
+        "Menorrhagia",
+        "Immunosuppressant drug level decreased",
+        "Purpura",
+        "Blood creatine phosphokinase increased",
+        "Osteonecrosis",
+        "Lupus nephritis",
+        "Cerebral infarction",
+        "Rhinitis allergic",
+        "Iron deficiency anaemia",
+        "Hypoalbuminaemia",
+        "Condition aggravated",
+        "Subarachnoid haemorrhage",
+        "Pleural effusion",
+        "Ear injury",
+        "Nasopharyngitis",
+        "Ascites",
+        "Urine output decreased"
+      ],
+      "report_id": "10251949"
+    },
+    {
+      "drugs": [
+        "PROGRAF (TACROLIMUS) CAPSULE",
+        "PREDNISOLONE (PREDNISOLONE) PER ORAL NOS",
+        "METHYLPREDNISOLONE SODIUM SUCCINATE (METHYLPREDNISOLONE SODIUM SUCCINATE)",
+        "BREDININ (MIZORIBINE)",
+        "MARZULENE-S (SODIUM AZULENE SULFONATE_L-GLUTAMINE)",
+        "BAKTAR (SULFAMETHOXAZOLE_TRIMETHOPRIM)",
+        "ISODINE GARGLE (POVIDONE-IODINE)",
+        "PERSANTIN (DIPYRIDAMOLE)",
+        "BLOPRESS (CANDESARTAN CILEXETIL)"
+      ],
+      "reactions": [
+        "Lupus pleurisy",
+        "Hypertension",
+        "Intentional product misuse",
+        "Urticaria"
+      ],
+      "report_id": "10251955"
+    },
+    {
+      "drugs": [
+        "IODINE",
+        "BENZATHINE BENZYLPENICILLIN"
+      ],
+      "reactions": [
+        "Drug hypersensitivity"
+      ],
+      "report_id": "10257953"
+    },
+    {
+      "drugs": [
+        "DULOXETINE HYDROCHLORIDE.",
+        "MAXALT",
+        "NYSTATIN DIHYDRATE",
+        "VITAMIN D3",
+        "MVI [VITAMINS NOS]",
+        "LYRICA",
+        "GILENYA",
+        "TERIFLUNOMIDE",
+        "REBIF",
+        "TYLENOL",
+        "FISH OIL",
+        "DULOXETINE HYDROCHLORIDE.",
+        "MORPHINE SULFATE ANHYDROUS",
+        "LYRICA",
+        "IODINE.",
+        "BACLOFEN.",
+        "VITAMIN C-500 COMPLEX",
+        "MAGNESIUM CHELATE;ZINC",
+        "TERIFLUNOMIDE",
+        "ARMODAFINIL.",
+        "IMITREX [SUMATRIPTAN SUCCINATE]",
+        "TYLENOL",
+        "TOPIRAMATE.",
+        "COPAXONE",
+        "BUSPIRONE HCL",
+        "METHYLPHENIDATE.",
+        "IRON"
+      ],
+      "reactions": [
+        "Uterine disorder",
+        "Mood altered",
+        "Condition aggravated",
+        "Dental caries",
+        "Tooth injury",
+        "Back pain",
+        "Dry mouth",
+        "Fatigue",
+        "Thinking abnormal",
+        "Memory impairment",
+        "Insomnia",
+        "Cough",
+        "Nasopharyngitis",
+        "Alopecia",
+        "Sensory disturbance",
+        "Nausea"
+      ],
+      "report_id": "10258591"
+    },
+    {
+      "drugs": [
+        "SULFUR HEXAFLUORIDE",
+        "TETRACAINE",
+        "POVIDONE-IODINE.",
+        "ALTEPLASE"
+      ],
+      "reactions": [
+        "Non-infectious endophthalmitis"
+      ],
+      "report_id": "10264390"
+    },
+    {
+      "drugs": [
+        "LIPITOR",
+        "CYMBALTA",
+        "MELOXICAM.",
+        "CELEBREX",
+        "SAVELLA",
+        "IODINE.",
+        "METHOTREXATE SODIUM."
+      ],
+      "reactions": [
+        "Drug hypersensitivity"
+      ],
+      "report_id": "10264973"
+    },
+    {
+      "drugs": [
+        "FOLIC ACID/IODINE",
+        "DIAZEPAM 5 MG"
+      ],
+      "reactions": [
+        "Disseminated intravascular coagulation",
+        "Hysterectomy",
+        "Maternal exposure during pregnancy",
+        "Fall"
+      ],
+      "report_id": "10265854"
+    },
+    {
+      "drugs": [
+        "ATENOLOL",
+        "AUGMENTIN",
+        "CARDIZEM",
+        "CARDURA",
+        "CIPRO",
+        "CLINDAMYCIN",
+        "CODEINE PHOSPHATE",
+        "DIOVAN",
+        "DOXYCYCLINE HYCLATE",
+        "FLOXIN",
+        "HYDROCHLOROTHIAZIDE",
+        "IODINE",
+        "LEVAQUIN",
+        "LIPITOR",
+        "PRAVASTATIN",
+        "TORADOL",
+        "TRIAMTERENE",
+        "VIBRAMYCIN",
+        "ZANTAC",
+        "ZETIA",
+        "ZOCOR"
+      ],
+      "reactions": [
+        "Drug hypersensitivity"
+      ],
+      "report_id": "10267848"
+    },
+    {
+      "drugs": [
+        "SINGULAIR",
+        "ATACAND",
+        "KARDEGIC",
+        "IODINE.",
+        "SECTRAL",
+        "LASILIX",
+        "CARBIMAZOLE",
+        "AZOPT",
+        "DESLORATADINE.",
+        "SOTALEX"
+      ],
+      "reactions": [
+        "Dyspnoea",
+        "Pyrexia",
+        "Organising pneumonia"
+      ],
+      "report_id": "10268153"
+    },
+    {
+      "drugs": [
+        "CLEXANE",
+        "AMIODARONE",
+        "MACITENTAN",
+        "L-THYROXIN",
+        "OXYCODONE",
+        "MOVICOL",
+        "IODINE",
+        "TADALAFIL"
+      ],
+      "reactions": [
+        "Encephalopathy",
+        "Anaemia",
+        "Coagulopathy",
+        "Liver function test abnormal",
+        "Multi-organ failure",
+        "Somnolence",
+        "Ischaemic hepatitis",
+        "Alanine aminotransferase increased",
+        "Aspartate aminotransferase increased",
+        "Blood alkaline phosphatase increased",
+        "Atrial fibrillation",
+        "Right ventricular failure",
+        "Hepatic failure",
+        "Renal failure",
+        "Hypoperfusion",
+        "Blood bilirubin increased",
+        "Confusional state"
+      ],
+      "report_id": "10268164"
+    },
+    {
+      "drugs": [
+        "ELTROXIN",
+        "RABEPRAZOLE",
+        "LASIX",
+        "EXJADE",
+        "LEVOTHYROXINE",
+        "SYNTHROID",
+        "VITAMIN B12",
+        "EXJADE",
+        "EXJADE",
+        "RADIOACTIVE IODINE TREATMENT",
+        "VITAMIN D",
+        "AVODART"
+      ],
+      "reactions": [
+        "Renal failure",
+        "Secretion discharge",
+        "Skin injury",
+        "Skin disorder",
+        "Abdominal discomfort",
+        "Rash",
+        "Erythema",
+        "Diarrhoea",
+        "Pruritus",
+        "General physical health deterioration",
+        "Feeling abnormal",
+        "Platelet count decreased",
+        "Blister",
+        "Peripheral swelling"
+      ],
+      "report_id": "10272647"
+    },
+    {
+      "drugs": [
+        "AROMASIN",
+        "TETRACYCLINE HCL",
+        "CODEINE",
+        "ASPIRIN.",
+        "IODINE",
+        "NAPROSYN"
+      ],
+      "reactions": [
+        "Drug hypersensitivity"
+      ],
+      "report_id": "10287134"
+    },
+    {
+      "drugs": [
+        "WHOLE LIFE ENERGY",
+        "HUMIRA",
+        "FOCUS FORMULA",
+        "VITAMIN D",
+        "ESTRADIOL.",
+        "MULTIVITAMIN",
+        "DHEA",
+        "LIOTHYRONINE",
+        "CITRICAL D",
+        "ASACOL",
+        "HUMIRA",
+        "IODINE",
+        "VITAMIN C",
+        "HUMIRA",
+        "ZYRTEC",
+        "PROBIOTICS",
+        "HUMIRA",
+        "CALCIUM WITH VITAMIN D",
+        "DEXTROAMPHETAMINE",
+        "DEXADRINE",
+        "PRIMAL DEFENSE",
+        "PROGESTERONE.",
+        "T3"
+      ],
+      "reactions": [
+        "Colitis ulcerative",
+        "Rectal haemorrhage",
+        "Diarrhoea",
+        "Abdominal pain",
+        "Weight decreased",
+        "Dehydration",
+        "Nausea",
+        "Dehydration"
+      ],
+      "report_id": "10289495"
+    },
+    {
+      "drugs": [
+        "RANIBIZUMAB",
+        "LATANOPROST.",
+        "INFLUENZA VACCINE",
+        "RANIBIZUMAB",
+        "AFLIBERCEPT",
+        "BEVACIZUMAB",
+        "LATANOPROST.",
+        "POVIDONE IODINE",
+        "LIGNOCAINE",
+        "CHLORAMPHENICOL"
+      ],
+      "reactions": [
+        "Vitritis",
+        "Non-infectious endophthalmitis",
+        "Eye irritation",
+        "Pupillary reflex impaired",
+        "Eye pain",
+        "Photopsia",
+        "Off label use",
+        "Hypopyon",
+        "Uveitis",
+        "Condition aggravated",
+        "Visual acuity reduced"
+      ],
+      "report_id": "10297990"
+    },
+    {
+      "drugs": [
+        "NILOTINIB",
+        "HYDROCHLOROTHIAZIDE\\IRBESARTAN",
+        "LEVOTHYROXINE SODIUM\\POTASSIUM IODIDE",
+        "TORSEMIDE",
+        "GLUCOPHAGE",
+        "MOLSIDOMINE",
+        "INSULIN NOS"
+      ],
+      "reactions": [
+        "Coronary artery disease"
+      ],
+      "report_id": "10005972"
+    },
+    {
+      "drugs": [
+        "RAMIPRIL",
+        "EDARBI",
+        "METHYLDOPA (METHYLDOPA)",
+        "INFLUSPLIT SSW (INFLUENZA VACCINE)",
+        "FOLIO FORTE (FOLIC ACID W/POTASSIUM IODIDE/VITAMIN B12 NOS)"
+      ],
+      "reactions": [
+        "Foetal heart rate deceleration abnormality",
+        "Maternal drugs affecting foetus",
+        "Oligohydramnios",
+        "Foetal death"
+      ],
+      "report_id": "10010826"
+    },
+    {
+      "drugs": [
+        "REVLIMID",
+        "REVLIMID",
+        "LISINOPRIL",
+        "ALLEGRA",
+        "PRILOSEC",
+        "COUMADIN",
+        "CALCIUM GLUCONATE",
+        "PEPCID",
+        "MAGNESIUM",
+        "MULTIVITAMINS",
+        "PRAVASTATIN",
+        "SINGULAIR",
+        "LASIX",
+        "POTASSIUM IODIDE",
+        "DALIRESP",
+        "REQUIP",
+        "REGLAN",
+        "NITROGLYCERIN",
+        "SYMBICORT",
+        "SPIRIVA",
+        "XOPENEX HFA",
+        "ULTRACET"
+      ],
+      "reactions": [
+        "Death"
+      ],
+      "report_id": "10065001"
+    },
+    {
+      "drugs": [
+        "VIDAZA",
+        "VIDAZA",
+        "VIDAZA",
+        "VIDAZA",
+        "VIDAZA",
+        "VIDAZA",
+        "MAGMITT",
+        "MAGMITT",
+        "TRAMAL",
+        "TRAMAL",
+        "AZUNOL",
+        "MYSLEE",
+        "PREDONINE",
+        "PREDONINE",
+        "REFLEX",
+        "REFLEX",
+        "WYPAX",
+        "WYPAX",
+        "NOVORAPID",
+        "NOVORAPID",
+        "TAKEPRON",
+        "TAKEPRON",
+        "ADALAT",
+        "ADALAT",
+        "MICARDIS",
+        "MICARDIS",
+        "ALLEGRA",
+        "ALLEGRA",
+        "HERBESSER",
+        "HERBESSER",
+        "CELECOX",
+        "CELECOX",
+        "MOHRUS TAPE",
+        "MOHRUS TAPE",
+        "CALONAL",
+        "CALONAL",
+        "FLOMOX",
+        "FLOMOX",
+        "HACHIAZULE",
+        "HACHIAZULE",
+        "ZOLPIDEM TARTRATE",
+        "ZOLPIDEM TARTRATE",
+        "BENET",
+        "BENET",
+        "FLAVITAN",
+        "HYALEIN",
+        "HYALEIN",
+        "BRONUCK",
+        "SENNOSIDE",
+        "MS ONSHIPPU",
+        "MS ONSHIPPU",
+        "WHITE PETROLATUM",
+        "CEFZON",
+        "SODIUM PICOSULFATE",
+        "SODIUM PICOSULFATE",
+        "LANTUS",
+        "LANTUS",
+        "LECICARBON",
+        "LECICARBON",
+        "CEFAZOLIN",
+        "HYDROCORTONE",
+        "HYDROCORTONE",
+        "FINIBAX",
+        "FINIBAX",
+        "VANCOMYCIN",
+        "VANCOMYCIN",
+        "VITAMEDIN",
+        "VITAMEDIN",
+        "NASEA -OD",
+        "LOXONIN",
+        "FENTOS",
+        "OXINORM",
+        "VFEND",
+        "GENTACIN",
+        "CRAVIT",
+        "DEZOLAM",
+        "FLUCONAZOLE",
+        "CADEX",
+        "POTASSIUM IODIDE",
+        "ARGAMATE",
+        "GRAMALIL",
+        "LASIX",
+        "MEROPEN",
+        "GASTER",
+        "ATARAX-P",
+        "ZOSYN",
+        "APOMORPHINE HYDROCHLORIDE HYDRATE"
+      ],
+      "reactions": [
+        "Myelodysplastic syndrome",
+        "Hemiplegia",
+        "Hypoxia",
+        "Sepsis",
+        "Blood pressure decreased",
+        "Bacterial infection",
+        "C-reactive protein increased",
+        "Fibrin degradation products increased",
+        "Blood potassium increased",
+        "Pyrexia",
+        "Blood creatinine increased",
+        "White blood cell count decreased",
+        "Neutrophil count decreased",
+        "Pneumonia"
+      ],
+      "report_id": "10100619"
+    },
+    {
+      "drugs": [
+        "IOBENGUANE (131 I)",
+        "BUSULFAN",
+        "MELPHALAN",
+        "MELPHALAN",
+        "POTASSIUM IODIDE",
+        "POTASSIUM PERCHLORATE",
+        "URSODIOL"
+      ],
+      "reactions": [
+        "Haematotoxicity",
+        "Venoocclusive liver disease",
+        "Respiratory failure",
+        "Mucosal inflammation"
+      ],
+      "report_id": "10104411"
+    },
+    {
+      "drugs": [
+        "IOBENGUANE",
+        "BUSULFAN",
+        "MELPHALAN",
+        "MELPHALAN",
+        "POTASSIUM IODIDE",
+        "POTASSIUM PERCHLORATE",
+        "URSODIOL"
+      ],
+      "reactions": [
+        "Haematotoxicity",
+        "Mucosal inflammation"
+      ],
+      "report_id": "10104513"
+    },
+    {
+      "drugs": [
+        "IOBENGUANE (131 I)",
+        "BUSULFAN",
+        "MELPHALAN",
+        "MELPHALAN",
+        "POTASSIUM IODIDE",
+        "POTASSIUM PERCHLORATE",
+        "URSODIOL"
+      ],
+      "reactions": [
+        "Haematotoxicity",
+        "Mucosal inflammation"
+      ],
+      "report_id": "10108969"
+    },
+    {
+      "drugs": [
+        "IOBENGUANE (131 I)",
+        "BUSULFAN",
+        "MELPHALAN",
+        "MELPHALAN",
+        "POTASSIUM IODIDE",
+        "POTASSIUM PERCHLORATE",
+        "URSODIOL"
+      ],
+      "reactions": [
+        "Haematotoxicity",
+        "Bacterial sepsis"
+      ],
+      "report_id": "10108980"
+    },
+    {
+      "drugs": [
+        "IOBENGUANE (131 I)",
+        "BUSULFAN",
+        "MELPHALAN",
+        "MELPHALAN",
+        "POTASSIUM IODIDE",
+        "POTASSIUM PERCHLORATE",
+        "URSODIOL"
+      ],
+      "reactions": [
+        "Haematotoxicity",
+        "Mucosal inflammation"
+      ],
+      "report_id": "10109001"
+    },
+    {
+      "drugs": [
+        "IOBENGUANE (131 I)",
+        "BUSULFAN",
+        "MELPHALAN",
+        "MELPHALAN",
+        "POTASSIUM IODIDE",
+        "POTASSIUM PERCHLORATE",
+        "URSODIOL"
+      ],
+      "reactions": [
+        "Haematotoxicity",
+        "Mucosal inflammation"
+      ],
+      "report_id": "10109008"
+    },
+    {
+      "drugs": [
+        "IOBENGUANE (131 I)",
+        "BUSULFAN",
+        "MELPHALAN",
+        "MELPHALAN",
+        "POTASSIUM IODIDE",
+        "POTASSIUM PERCHLORATE",
+        "URSODIOL"
+      ],
+      "reactions": [
+        "Haematotoxicity",
+        "Mucosal inflammation"
+      ],
+      "report_id": "10109074"
+    },
+    {
+      "drugs": [
+        "BYETTA PEN DISPOSABLE",
+        "GLYBURIDE",
+        "PRASUGREL",
+        "LANTUS",
+        "METFORMIN",
+        "GLIMEPIRIDE",
+        "NIASPAN",
+        "SIMVASTATIN",
+        "POTASSIUM IODIDE",
+        "LISINOPRIL",
+        "COQ10",
+        "FISH OIL",
+        "ISOSORBIDE MONONITRATE",
+        "ASPIRIN",
+        "METOPROLOL TARTRATE",
+        "PANTOPRAZOLE",
+        "HYDROCHLOROTHIAZIDE",
+        "ARMOUR THYROID",
+        "DHEA",
+        "VITAMIN D",
+        "MULTIVITAMIN",
+        "VITAMIN B COMPLEX",
+        "PRILOSEC"
+      ],
+      "reactions": [
+        "Injection site haemorrhage",
+        "Product quality issue",
+        "Dyspepsia"
+      ],
+      "report_id": "10164115"
+    },
+    {
+      "drugs": [
+        "GABAPENTIN.",
+        "POTASSIUM IODIDE",
+        "CYMBALTA",
+        "TOLPERISONE",
+        "TECFIDERA",
+        "TECFIDERA",
+        "L-THYROXINE",
+        "AMITRIPTYLINE",
+        "IBUPROFREN",
+        "TECFIDERA",
+        "PANTOZOL",
+        "FAMPYRA",
+        "AMLODIPINE",
+        "VOLTAREN"
+      ],
+      "reactions": [
+        "Enterocolitis",
+        "Urinary tract infection"
+      ],
+      "report_id": "10205882"
+    },
+    {
+      "drugs": [
+        "RIVAROXABAN",
+        "POTASSIUM IODIDE",
+        "DESOGESTREL"
+      ],
+      "reactions": [
+        "Deep vein thrombosis"
+      ],
+      "report_id": "10206506"
+    },
+    {
+      "drugs": [
+        "SYNTHROID",
+        "MODAFINIL.",
+        "NAPROXEN SODIUM.",
+        "NATALIZUMAB",
+        "AMPYRA",
+        "BUPROPION",
+        "CHOLECALCIFEROL",
+        "IBUPROFEN.",
+        "AMPYRA",
+        "ZONISAMIDE.",
+        "ACETAMINOPHEN.",
+        "ALPRAZOLAM.",
+        "POTASSIUM IODIDE",
+        "BACLOFEN.",
+        "PROPANOLOL",
+        "ZONISAMIDE."
+      ],
+      "reactions": [
+        "Convulsion"
+      ],
+      "report_id": "10229050"
+    },
+    {
+      "drugs": [
+        "POTASSIUM IODIDE",
+        "CORTISONE",
+        "TRIMETON",
+        "TIROSINT",
+        "VPRIV",
+        "CORTISONE",
+        "TIROSINT"
+      ],
+      "reactions": [
+        "Infusion related reaction",
+        "Angina pectoris",
+        "Throat tightness",
+        "Tachycardia"
+      ],
+      "report_id": "10247033"
+    },
+    {
+      "drugs": [
+        "QUETIAPINE (QUETIAPINE) UNKNOWN, UNKNOWN",
+        "FOLIO (FOLIC ACID, POTASSIUM IODIDE)"
+      ],
+      "reactions": [
+        "Hyperbilirubinaemia neonatal",
+        "Foetal exposure during pregnancy"
+      ],
+      "report_id": "10273478"
+    },
+    {
+      "drugs": [
+        "FOLIO (FOLIC ACID, POTASSIUM IODIDE)",
+        "QUETIAPINE"
+      ],
+      "reactions": [
+        "Gestational diabetes",
+        "Exposure during pregnancy"
+      ],
+      "report_id": "10273491"
+    },
+    {
+      "drugs": [
+        "POTASSIUM IODIDE",
+        "RIBAVIRIN.",
+        "LEVOTHYROXINE SODIUM.",
+        "EMTRICITABINE",
+        "TELAVIC",
+        "TENOFOVIR DISOPROXIL FUMARATE",
+        "RALTEGRAVIR",
+        "PEGINTERFERON ALFA-2B"
+      ],
+      "reactions": [
+        "Anaemia",
+        "Basedow^s disease",
+        "Headache",
+        "Haemoglobin decreased"
+      ],
+      "report_id": "10354678"
+    },
+    {
+      "drugs": [
+        "METHOXY POLYETHYLENE GLYCOL-EPOETIN BETA",
+        "KREMEZIN",
+        "MEILAX",
+        "SODIUM BICARBONATE.",
+        "RIZE",
+        "MUCOSOLVAN",
+        "FLUITRAN",
+        "ROCORNAL",
+        "OLMETEC",
+        "ALLOPURINOL.",
+        "ALDOMET",
+        "PRECIPITATED CALCIUM CARBONATE",
+        "ALFAROL",
+        "MERCAZOLE",
+        "MAINTATE",
+        "ROZEREM",
+        "METHOXY POLYETHYLENE GLYCOL-EPOETIN BETA",
+        "LENDORMIN",
+        "LASIX",
+        "WARFARIN",
+        "POTASSIUM IODIDE"
+      ],
+      "reactions": [
+        "Hyperthyroidism",
+        "Blood albumin decreased",
+        "Cardiac failure",
+        "Anaemia",
+        "Basedow^s disease",
+        "Femur fracture"
+      ],
+      "report_id": "10374150"
+    },
+    {
+      "drugs": [
+        "FUROSEMIDE.",
+        "ALDACTONE A",
+        "WARFARIN",
+        "FUROSEMIDE.",
+        "AMBRISENTAN",
+        "FLOLAN",
+        "WARFARIN",
+        "ADCIRCA",
+        "GASMOTIN",
+        "POTASSIUM IODIDE",
+        "AMBRISENTAN",
+        "ALDACTONE A",
+        "FUROSEMIDE.",
+        "GASMOTIN",
+        "MIYA-BM",
+        "MIYA-BM",
+        "AMBRISENTAN",
+        "FLOLAN",
+        "WARFARIN",
+        "ADCIRCA",
+        "TAKEPRON",
+        "CARELOAD",
+        "AMBRISENTAN",
+        "TAKEPRON"
+      ],
+      "reactions": [
+        "Hyperthyroidism",
+        "Hyperthyroidism",
+        "Device related infection",
+        "Off label use",
+        "Device related infection"
+      ],
+      "report_id": "10385123"
+    },
+    {
+      "drugs": [
+        "ZOFRAN",
+        "IOBENGUANE I 131",
+        "MORPHINE",
+        "VORINOSTAT",
+        "SEPTRA",
+        "SCOPOLAMINE",
+        "CHOLECALCIFEROL",
+        "COLACE",
+        "OXYBUTIN",
+        "POTASSIUM IODIDE",
+        "SEPTRA",
+        "ENULOSE"
+      ],
+      "reactions": [
+        "Optic nerve disorder"
+      ],
+      "report_id": "10403804"
+    },
+    {
+      "drugs": [
+        "METOPROLOL",
+        "FOLIO FORTE (FOLIC ACID, POTASSIUM IODIDE, VITAMIN B12 NOS)"
+      ],
+      "reactions": [
+        "Exposure during pregnancy",
+        "Foetal growth restriction",
+        "Maternal exposure during pregnancy"
+      ],
+      "report_id": "10418966"
+    },
+    {
+      "drugs": [
+        "DUREZOL",
+        "TESTOSTERONE (TESTOSTERONE)",
+        "LEVOTHYROXINE SODIUM+ POTASSIUM IODID (NGX) (LEVOTHYROXINE SODIUM, POTASSIUM IODIDE) UNKNOWN",
+        "ESTROGEN (ESTROGENS) UNKNOWN",
+        "BESIVANCE//BESIFLOXACIN HYDROCHLORIDE",
+        "PROGESTERONE (PROGESTERONE)",
+        "BROMFENAC (BROMFENAC) UNKNOWN",
+        "DUREZOL"
+      ],
+      "reactions": [
+        "Eye pain",
+        "Visual acuity reduced",
+        "Vision blurred",
+        "Cystoid macular oedema",
+        "Eye irritation"
+      ],
+      "report_id": "10456047"
+    },
+    {
+      "drugs": [
+        "POTASSIUM IODIDE",
+        "LEVOTHYROXINE (UNKNOWN)",
+        "POTASSIUM IODIDE",
+        "LEVOTHYROXINE (UNKNOWN)",
+        "PROPYLTHIOURACIL."
+      ],
+      "reactions": [
+        "Foetal exposure during pregnancy",
+        "Cardiac failure",
+        "Foetal growth restriction",
+        "Gross motor delay",
+        "Hyperthyroidism",
+        "Hypothyroidism"
+      ],
+      "report_id": "10552347"
+    },
+    {
+      "drugs": [
+        "LEVOTHYROXINE (UNKNOWN)",
+        "PROPYLTHIOURACIL.",
+        "LEVOTHYROXINE (UNKNOWN)",
+        "POTASSIUM IODIDE",
+        "PROPYLTHIOURACIL."
+      ],
+      "reactions": [
+        "Neonatal tachycardia",
+        "Hypothyroidism",
+        "Foetal exposure during pregnancy",
+        "Maternal drugs affecting foetus",
+        "Developmental delay",
+        "Tachycardia foetal",
+        "Periorbital oedema",
+        "Hyperthyroidism",
+        "Foetal growth restriction",
+        "Exophthalmos"
+      ],
+      "report_id": "10552747"
+    },
+    {
+      "drugs": [
+        "212PB TCMC-TRASTUZUMAB",
+        "POTASSIUM IODIDE.",
+        "212PB TCMC-TRASTUZUMAB",
+        "TRASTUZUMAB",
+        "SPIRONOLACTONE.",
+        "SALINE",
+        "TRASTUZUMAB",
+        "FUROSEMIDE."
+      ],
+      "reactions": [
+        "Dyspnoea",
+        "Small intestinal obstruction",
+        "Infection",
+        "Rash",
+        "Thermal burn",
+        "Fistula"
+      ],
+      "report_id": "10554803"
+    },
+    {
+      "drugs": [
+        "TRASTUZUMAB",
+        "TRASTUZUMAB",
+        "212PB TCMC-TRASTUZUMAB",
+        "FUROSEMIDE.",
+        "212PB TCMC-TRASTUZUMAB",
+        "POTASSIUM IODIDE."
+      ],
+      "reactions": [
+        "Intestinal perforation",
+        "Peritonitis"
+      ],
+      "report_id": "10557016"
+    },
+    {
+      "drugs": [
+        "PEPCID AC (FAMOTIDINE)",
+        "MAKENA",
+        "CLARITIN /00413701/ (GLICILAZIDE)",
+        "SINGULAIR (MONTELUKAST SODIUM)",
+        "PREFERA OB (BIOTIN, CALCIUM PANTOTHENATE, COLECALCIFEROL, COPPER SULFATE, CYANOCOBALAMIN, FOLIC ACID, NICOTINAMIDE, POLYSACCHARIDE-IRON COMPLEX, POTASSIUM IODIDE, PYRIDOXINE HYDROCHLORIDE, RIBOFLAVIN, SODIUM SELENATE, THIAMINE MONONITRATE, TOCOPHERYL ACID SUCCINATE, ZINC OXIDE"
+      ],
+      "reactions": [
+        "Injection site swelling",
+        "Injection site mass",
+        "Injection site urticaria",
+        "Injection site nodule",
+        "Exposure during pregnancy",
+        "Headache",
+        "Injection site pruritus",
+        "Migraine"
+      ],
+      "report_id": "10557281"
+    },
+    {
+      "drugs": [
+        "KLONOPIN",
+        "POTASSIUM IODIDE",
+        "ZOLOFT",
+        "LUMIGEN EYE DROPS",
+        "LOSARTIN",
+        "NEUROPTIN",
+        "CPAP MACHINE",
+        "METFORMIN",
+        "ACIPHER",
+        "LOVAZA"
+      ],
+      "reactions": [
+        "Photophobia",
+        "Vision blurred",
+        "Visual impairment"
+      ],
+      "report_id": "10567746"
+    },
+    {
+      "drugs": [
+        "ZOLOFT",
+        "GLACOMA LUMIGAN EYEDROPS",
+        "LOVAZA",
+        "KLONOPIN",
+        "CPAP MACHINE",
+        "ACIPLEX",
+        "METFORMIN",
+        "POTASSIUM IODIDE",
+        "LOSARTIN",
+        "NEUROPTIN"
+      ],
+      "reactions": [
+        "Procedural complication",
+        "Vision blurred"
+      ],
+      "report_id": "10578195"
+    },
+    {
+      "drugs": [
+        "VIDAZA",
+        "ISCOTIN",
+        "ATARAX-P",
+        "TRANSAMIN",
+        "HABEKACIN",
+        "MINOMYCIN",
+        "CUBICIN",
+        "AUGMENTIN",
+        "AUGMENTIN",
+        "PANSPORIN T",
+        "FLOMAX",
+        "WARFARIN",
+        "AMBISOME",
+        "KAYTWO N",
+        "HOKUNALIN TAPE",
+        "GRANISETRON HYDROCHLORIDE.",
+        "SUCRALFATE HYDRATE",
+        "DEXTROMETHORPHAN HYDROBROMIDE HYDRATE",
+        "VENILON 1",
+        "MORPHINE HYDROCHLORIDE HYDRATE",
+        "PYDOXAL",
+        "BIOFERMIN R",
+        "CRAVIT",
+        "AUGMENTIN",
+        "AUGMENTIN",
+        "FLOMAX",
+        "KLARICID",
+        "BANAN",
+        "GLUCOSE",
+        "MICONAZOLE",
+        "AMOXICILLIN HYDRATE",
+        "HEPARIN SODIUM.",
+        "VIDAZA",
+        "VIDAZA",
+        "GRANISETRON",
+        "CEFTRIAXONE SODIUM.",
+        "DIFLUCAN",
+        "VALTREX",
+        "MUCODYNE",
+        "MUCOSOLVAN",
+        "GRAN",
+        "CUBICIN",
+        "AUGMENTIN",
+        "FLOMAX",
+        "RED BLOOD CELLS",
+        "FAROM",
+        "SAWACILLIN",
+        "BENAMBAX",
+        "VIDAZA",
+        "TAKEPRON",
+        "GRANISETRON",
+        "BACTRIM",
+        "CRAVIT",
+        "VANCOMYCIN",
+        "CUBICIN",
+        "AUGMENTIN",
+        "RINDERON VG",
+        "SM",
+        "FLORID",
+        "MEDICON",
+        "ZANTAC",
+        "NOVO HEPARIN",
+        "VFEND",
+        "CLARITHROMYCIN.",
+        "AMPHOTERICIN B.",
+        "TULOBUTEROL",
+        "VIDAZA",
+        "VIDAZA",
+        "VIDAZA",
+        "GRANISETRON",
+        "CALONAL",
+        "CRAVIT",
+        "CRAVIT",
+        "ATARAX-P",
+        "PETHILORFAN WEAK",
+        "CEFEPIME HYDROCHLORIDE.",
+        "MINOMYCIN",
+        "CUBICIN",
+        "AUGMENTIN",
+        "AUGMENTIN",
+        "AUGMENTIN",
+        "SM",
+        "ANTEBATE",
+        "OMEPRAZOLE.",
+        "WARFARIN POTASSIUM",
+        "CALCIUM GLUCONATE HYDRATE",
+        "OMEPRAZOLE SODIUM",
+        "LANSOPRAZOLE.",
+        "VIDAZA",
+        "VIDAZA",
+        "GRANISETRON",
+        "MEIACT",
+        "NASEA-OD",
+        "CEFTRIAXONE SODIUM.",
+        "CEFTRIAXONE SODIUM.",
+        "ADONA",
+        "TRANSAMIN",
+        "VANCOMYCIN",
+        "ALESION",
+        "POTASSIUM IODIDE",
+        "KYTRIL",
+        "VICCILLIN",
+        "FUNGUARD",
+        "VENILON-1",
+        "AZULENE SULFONATE SODIUM",
+        "FAROPENEM SODIUM HYDRATE",
+        "RANITIDINE HYDROCHLORIDE.",
+        "AMPICILLIN SODIUM.",
+        "CEFPODOXIME PROXETIL.",
+        "VORICONAZOLE.",
+        "INSULIN HUMAN",
+        "CALONAL",
+        "ISCOTIN",
+        "ITRIZOLE",
+        "MUCODYNE",
+        "ASTOMIN",
+        "MINOMYCIN",
+        "FIRSTCIN",
+        "PANSPORIN",
+        "AZUNOL",
+        "CALCICOL",
+        "LANSOPRAZOLE OD",
+        "MICAFUNGIN SODIUM",
+        "PENTAMIDINE ISETIONATE",
+        "MEROPENEM HYDRATE",
+        "TRAMADOL HYDROCHLORIDE ACETAMINOPHEN COMBINED DRUG",
+        "VIDAZA",
+        "VIDAZA",
+        "VIDAZA",
+        "AMLODIPINE BESILATE",
+        "GRANISETRON",
+        "BIOFERMIN R",
+        "CRAVIT",
+        "CRAVIT",
+        "EBUTOL",
+        "MUCOSTA",
+        "PREDONINE",
+        "PANSPORIN T",
+        "FLOMAX",
+        "PLATELETS",
+        "ULCERLMIN",
+        "MEROPENEM.",
+        "TRAMCET",
+        "TRANEXAMIC ACID.",
+        "BETAMETHASONE BUTYRATE PROPIONATE",
+        "MENATETRENONE"
+      ],
+      "reactions": [
+        "Portal vein thrombosis",
+        "Cellulitis",
+        "Pneumonia",
+        "Cellulitis",
+        "Cellulitis",
+        "Acute febrile neutrophilic dermatosis",
+        "Palatal dysplasia",
+        "Cellulitis",
+        "White blood cell count decreased",
+        "Bronchopulmonary aspergillosis",
+        "Platelet count decreased",
+        "Platelet count decreased",
+        "Pyrexia",
+        "Skin induration",
+        "Erythema"
+      ],
+      "report_id": "10649930"
+    },
+    {
+      "drugs": [
+        "FOLIO (FOLIC ACID, POTASSIUM IODIDE)",
+        "VALSARTAN (VALSARTAN)",
+        "METHYLDOPA (METHYLDOPA)",
+        "DIHYDRALAZINE (DIHYDRALAZINE)",
+        "METOPROLOL TARTRATE.",
+        "HYDROCHLOROTHIAZIDE (HYDROCHLOROTHIAZIDE)",
+        "NOVORAPID",
+        "THYROXIN (LEVOTHYROXINE SODIUM)",
+        "DIAZEPAM (DIAZEPAM)"
+      ],
+      "reactions": [
+        "Acute respiratory distress syndrome",
+        "Pre-eclampsia",
+        "Lactation disorder",
+        "Nephrotic syndrome",
+        "Maternal exposure during pregnancy"
+      ],
+      "report_id": "10664418"
+    },
+    {
+      "drugs": [
+        "ASPIRIN.",
+        "PHAZYME",
+        "VESICARE",
+        "WELCHOL",
+        "VITAMIN B12",
+        "ALPRAZOLAM ER",
+        "COENZYME Q10",
+        "AVONEX",
+        "MULTIVITAMIN",
+        "BUPROPRION HCL ER",
+        "FISH OIL",
+        "NUGIGIL",
+        "OMEPRAZOLE.",
+        "CHOLESTYRAMINE LIGHT",
+        "VITAMIN D",
+        "OMEGA 3",
+        "POTASSIUM IODIDE",
+        "ARMOUR THYROID"
+      ],
+      "reactions": [
+        "Gait disturbance",
+        "Headache"
+      ],
+      "report_id": "10666948"
+    },
+    {
+      "drugs": [
+        "DOGMATYL",
+        "NORVASC",
+        "MAGMITT",
+        "AVELOX",
+        "TARGOCID",
+        "AMBISOME",
+        "LASIX",
+        "GASTER",
+        "CALONAL",
+        "FUNGIZONE",
+        "BIOFERMIN",
+        "PASIL",
+        "ADONA",
+        "REFLEX",
+        "CRAVIT",
+        "CRAVIT",
+        "LYRICA",
+        "TAKEPRON",
+        "MEIACT",
+        "MICAFUNGIN",
+        "MEROPEN",
+        "VIDAZA",
+        "AMOBAN",
+        "AMOBAN",
+        "PANTETHINE",
+        "METHYCOBAL",
+        "ZYLORIC",
+        "ALBUMIN",
+        "DOGMATYL",
+        "CRAVIT",
+        "POLYMIXIN B SULFATE",
+        "ASUNOL",
+        "MAGMITT",
+        "ZITHROMAC",
+        "ZITHROMAC",
+        "VIDAZA",
+        "VIDAZA",
+        "VFEND",
+        "FLOMOX",
+        "LAXOBERON",
+        "AUGMENTIN",
+        "POTASSIUM IODIDE",
+        "OXYCONTIN",
+        "ALLELOCK",
+        "VANCOMYCIN",
+        "ALOSITOL",
+        "BAKTAR",
+        "MOHRUS",
+        "CALONAL",
+        "BAKTAR",
+        "GASTER",
+        "EXJADE",
+        "TRANSAMIN",
+        "REFLEX",
+        "BANAN",
+        "MAGLAX",
+        "CRAVIT",
+        "FLOMOX",
+        "MAXIPIME",
+        "MINOMYCIN"
+      ],
+      "reactions": [
+        "Infection",
+        "Platelet count decreased",
+        "Acarodermatitis",
+        "Pulmonary oedema",
+        "White blood cell count decreased",
+        "Staphylococcal sepsis",
+        "Pneumonia",
+        "Pleural effusion",
+        "Lymphocyte count decreased",
+        "Infection",
+        "Abscess"
+      ],
+      "report_id": "10688279"
+    },
+    {
+      "drugs": [
+        "ALCOHOL.",
+        "AERIUS",
+        "POTASSIUM IODIDE"
+      ],
+      "reactions": [
+        "Tachycardia",
+        "Stupor",
+        "Overdose",
+        "Nausea",
+        "Suicide attempt",
+        "Vomiting"
+      ],
+      "report_id": "10722464"
+    },
+    {
+      "drugs": [
+        "EYLEA",
+        "ASPIRIN /00002701/ (ACETYLSALICYLIC ACID)",
+        "LIPITOR",
+        "METOPROLOL",
+        "LOTREL (AMLODIPINE BESILATE, BENAZEPRIL HYDROCHLORIDE)",
+        "TRICOR /00090101/ (ADENOSINE)",
+        "MEN^S MULTI (ASCORBIC ACID, BETACAROTENE, CALCIUM, CHROMIC CHLORIDE, COLECALCIFEROL, CYANOCOBALAMIN, DL-ALPHA TOCOPHERYL ACETATE, FERROUS FUMARATE, FOLIC ACID, MAGNESIUM OXIDE, MANGANESE, NICOTINIC ACID, PANAX GINSENG ROOT, PANTOTHENIC ACID, POTASSIUM IODIDE, POTASSIUM SULFATE, PYRIDOXINE, RIBOFLAVIN, SELENIUM, SILYBUM MARIANUM DRY FRUIT, THIAMINE, ZINC)"
+      ],
+      "reactions": [
+        "Blindness transient",
+        "Uveitis",
+        "Dry age-related macular degeneration",
+        "Vitritis",
+        "Retinal haemorrhage"
+      ],
+      "report_id": "10725068"
+    },
+    {
+      "drugs": [
+        "CITALOPRAM  (CITALOPRAM HYDROCHLORIDE)",
+        "MIRALAX (MACROGOL)",
+        "VENTOLIN",
+        "DILAUDID",
+        "FENTANYL.",
+        "ENSURE (ASCORBIC ACID, BIOTIN, CALCIUM CARBONATE, CALCIUM PANTOTHENATE, CARBOHYDRATES NOS, COPPER SULFATE, CYANOCOBALAMIN, ERGOCALCIFEROL, FATS NOS,  FERROUS SULFATE, FOLIC ACID, LINOLEIC ACID, MAGNESIUM CHLORIDE ANHYDROUS, MANGANASE CHLORIDE, NICOTINAMIDE, PHYTOMENADIONE, POTASSIUM CHLORIDE, POTAQSSIUM CITRATE, POTASSIUM IODIDE, PROTEIN, PYRIDOXINE HYDROCHLORIDE, RETINOL PALMITATE, RIBOFLAVIN, SODIUM POLYMETAPHOSPHATE, THIAMINE HYDROCHLORIDE, TOCOPHERYL ACETATE,  ZINC SULFATE)",
+        "FERAHEME",
+        "ALBUTEROL W/IPRATROPIUM",
+        "PERCOCET (OXYCODONE HYDROCHLORIDE, PARACETAMOL)"
+      ],
+      "reactions": [
+        "Dyspnoea",
+        "Unresponsive to stimuli",
+        "Haematemesis",
+        "Cardio-respiratory arrest",
+        "Anaphylactic reaction",
+        "Chest discomfort",
+        "Pulse absent"
+      ],
+      "report_id": "10744161"
+    },
+    {
+      "drugs": [
+        "CLOPIDOGREL",
+        "CENTRUM (CENTRUM /02217401/) (ERGOCALCIFEROL, ASCORBIC ACID, PYRIDOXINE HYDROCHLORIDE, BIOTIN, FOLIC ACID, COLECALCIFEROL, CYANOCOBALAMIN, PANTOTHENIC ACID, RIBOFLAVIN, NICOTINAMIDE, RETINOL ACETATE, CALCIUM PANTOTHENATE, FERROUS FUMARATE, THIAMINE MONONITRATE, MAGNESIUM OXIDE, CUPRIC OXIDE, IRON, MAGNESIUM, MANGANESE, POTASSIUM, COPPER, ZINC, CALCIUM, IODINE, POTASSIUM IODIDE, DL-ALPHA TOCOPHERYL ACETATE, PHOSPHORUS, ZINC SULFATE, POTASSIUM SULFATE, MANGANESE SULFATE)",
+        "NITROGLYCERIN (GLYCERYL TRINITRATE)",
+        "RANITIDINE",
+        "CANGRELOR",
+        "ASPIRIN (ACETYLSALICYCLIC ACID)",
+        "NEBIVOLOL",
+        "PRAVASTATIN",
+        "LISINOPRIL.",
+        "SAW PALMETTO (SERENOA REPENS)",
+        "FISH OIL",
+        "ISOVUE 370",
+        "FLUOXETINE",
+        "ANGIOMAX",
+        "VITAMIN E",
+        "HEPARIN",
+        "FOLIC ACID.",
+        "HYDROCHLOROTHIAZIDE."
+      ],
+      "reactions": [
+        "Anaphylactic reaction"
+      ],
+      "report_id": "10759194"
+    },
+    {
+      "drugs": [
+        "CELEBREX",
+        "VENLAFAXINE",
+        "ASPIRIN.",
+        "MD-76R",
+        "POTASSIUM IODIDE",
+        "TOVIAZ",
+        "IBUPROFEN.",
+        "GILENYA",
+        "AMPYRA",
+        "PROVIDONE IODINE",
+        "ATENOLOL.",
+        "BLEPH-10",
+        "SODIUM IODIDE",
+        "TAMOXIFEN"
+      ],
+      "reactions": [
+        "Drug ineffective"
+      ],
+      "report_id": "10767815"
+    },
+    {
+      "drugs": [
+        "VITAMIN B12",
+        "RAVICTI",
+        "LISINOPRIL.",
+        "ASCORBIC ACID\\CHONDROITIN SULFATE (BOVINE)\\GLUCOSAMINE SULFATE\\MANGANESE",
+        "FUROSEMIDE.",
+        "CALCIUM CARBONATE.",
+        "MULTIVITAMIN AND MINERAL (ASCORBIC ACID, CALCIUM PANTOTHENATE, CALCIUM PHOSPHATE DIBASIC, COLECALCIFEROL, COPPER SULFATE, CYANOCOBALAMIN, DL-ALPHA TOCOPHERYL ACETATE, FERROUS FUMARATE, MAGNESIUM OXIDE, MANGANESE SULFATE, NICOTINAMIDE, POTASSIUM IODIDE, POTASSIUM SULFATE, PYRIDOXINE HYDROCHLORIDE, RETINOL ACETATE, RIBOFLAVIN, THIAMINE MONONITRATE, ZINC OXIDE)",
+        "VITAMIN C",
+        "CITRULLINE",
+        "ASPIRIN (ACETYLSALICYLIC ACID)",
+        "TYLENOL"
+      ],
+      "reactions": [
+        "Fungal infection",
+        "Ear infection",
+        "Confusional state",
+        "Hyperammonaemic crisis"
+      ],
+      "report_id": "10774842"
+    },
+    {
+      "drugs": [
+        "REVLIMID",
+        "REVLIMID",
+        "COQ10",
+        "VITAMIN A",
+        "VITAMIN B12",
+        "REVLIMID",
+        "REVLIMID",
+        "DEXAMETHASONE.",
+        "FINASTERIDE.",
+        "NEXIUM",
+        "UROXATRAL",
+        "AUGMENTIN",
+        "CAT^S CLAW",
+        "REVLIMID",
+        "MULTIVITAMINS",
+        "ZYRTEC",
+        "POTASSIUM IODIDE",
+        "REVLIMID",
+        "METOPROLOL SUCCINATE.",
+        "SUPER MILK THISTLE",
+        "FERROUS GLUCONATE",
+        "WARFARIN SODIUM.",
+        "CHONDROITIN SULFATE (BOVINE)\\GLUCOSAMINE SULFATE"
+      ],
+      "reactions": [
+        "Nasopharyngitis",
+        "Skin haemorrhage",
+        "Protein total increased"
+      ],
+      "report_id": "10849830"
+    },
+    {
+      "drugs": [
+        "COMPAZINE",
+        "DIPHENHYDRAMINE HCL",
+        "VITAMIN B12",
+        "ERGOCALCIFEROL.",
+        "PROCHLORPERAZINE.",
+        "HYDROCODONE/ACETAMINOPHEN",
+        "METHYLPREDNISOLONE.",
+        "RANITIDINE HCL",
+        "VITAMIN C",
+        "AMOXICILLIN.",
+        "DAPSONE.",
+        "ENOXAPARIN",
+        "GEMFIBROZIL.",
+        "CIPROFLOXACIN.",
+        "CIPROFLOXACIN.",
+        "METOPROLOL SUCCINATE.",
+        "COENZYME Q10",
+        "ONDANSETRON HCL",
+        "PSEUDOEPHEDRINE HCL",
+        "VITAMIN B12",
+        "ENOXAPARIN",
+        "GLIMEPIRIDE.",
+        "GUAIFENESIN.",
+        "POTASSIUM BICARB-CITRIC ACID",
+        "CIPROFLOXACIN.",
+        "ALENDRONATE",
+        "LOPERAMIDE",
+        "METHYLPREDNISOLONE.",
+        "POTASSIUM CHLORIDE.",
+        "FILGRASTIM",
+        "LEVOFLOXACIN.",
+        "LISINOPRIL.",
+        "REVLIMID",
+        "REVLIMID",
+        "REVLIMID",
+        "REVLIMID",
+        "COUMADIN",
+        "ACYCLOVIR.",
+        "LASIX",
+        "HYDROCODONE/ACETAMINOPHEN",
+        "METHYLPREDNISOLONE.",
+        "OMEPRAZOLE.",
+        "POTASSIUM CHLORIDE.",
+        "CLINDAMYCIN",
+        "METFORMIN",
+        "MOXIFLOXACIN",
+        "POTASSIUM IODIDE",
+        "CIPROFLOXACIN.",
+        "DEXTROMETHORPHAN-GUAIFENESIN",
+        "DIPHENHYDRAMINE HCL",
+        "FINASTERIDE.",
+        "HYDROCODONE/ACETAMINOPHEN",
+        "ONDANSETRON HCL",
+        "POTASSIUM CHLORIDE.",
+        "TAMSULOSIN",
+        "VITAMIN C",
+        "AZITHROMYCIN",
+        "LORAZEPAM.",
+        "LORAZEPAM.",
+        "WARFARIN",
+        "WARFARIN",
+        "CIPROFLOXACIN.",
+        "POTASSIUM",
+        "METOPROLOL SUCCINATE.",
+        "ACIDOPHILUS/PECTIN",
+        "LIDOCAINE/PRILOCAINE",
+        "METHYLPREDNISOLONE.",
+        "MONTELUKAST",
+        "RANITIDINE HCL",
+        "TESTOSTERONE.",
+        "DIGOXIN.",
+        "GUAIFENESIN.",
+        "LEVOFLOXACIN.",
+        "LEVOFLOXACIN.",
+        "POTASSIUM",
+        "ALBUTEROL.",
+        "LIDOCAINE/PRILOCAINE",
+        "OM-3-DHA-EPA-FISH OIL-VIT D3",
+        "POTASSIUM CHLORIDE.",
+        "LEVOFLOXACIN.",
+        "LEVOFLOXACIN.",
+        "SUCRALFATE.",
+        "VITAMIN D"
+      ],
+      "reactions": [
+        "Pancytopenia",
+        "Thrombocytopenia",
+        "Neutropenia"
+      ],
+      "report_id": "10853881"
+    },
+    {
+      "drugs": [
+        "ALIVIAPRES (DORZOLAMIDE HYDROCHLORIDE, TIMOLOL MALEATE)",
+        "EFEROX JOD (LEVOTHYROXINE SODIUM, POTASSIUM IODIDE)",
+        "OMEPRAZOL",
+        "LATANOPROST.",
+        "EYLEA",
+        "IRBESARTAN (IRBESARTAN)"
+      ],
+      "reactions": [
+        "Platelet count decreased",
+        "Inappropriate schedule of drug administration"
+      ],
+      "report_id": "10885081"
+    },
+    {
+      "drugs": [
+        "HYDROCORTISONE SODIUM SUCCINATE",
+        "HYDROCORTISONE SODIUM SUCCINATE",
+        "HYDROCORTISONE SODIUM SUCCINATE",
+        "PROPYLTHIOURACIL.",
+        "POTASSIUM IODIDE"
+      ],
+      "reactions": [
+        "Paralysis flaccid"
+      ],
+      "report_id": "10901218"
+    },
+    {
+      "drugs": [
+        "POTASSIUM IODIDE",
+        "INSULIN",
+        "HYDROCORTISONE SODIUM SUCCINATE",
+        "HYDROCORTISONE SODIUM SUCCINATE",
+        "HYDROCORTISONE SODIUM SUCCINATE",
+        "METHIMAZOLE."
+      ],
+      "reactions": [
+        "Paralysis flaccid"
+      ],
+      "report_id": "10902232"
+    },
+    {
+      "drugs": [
+        "LYRICA",
+        "SUCROSE",
+        "MALTODEXTRIN",
+        "POTASSIUM CITRATE.",
+        "SODIUM SELENITE",
+        "SODIUM FLUORIDE.",
+        "DEXERYL /01579901/",
+        "ZINC SULFATE",
+        "CHOLINE CHLORIDE",
+        "LAMALINE",
+        "TOCOPHERYL ACETATE",
+        "RIBOFLAVIN",
+        "COOLMETEC",
+        "MAGNESIUM HYDROXIDE.",
+        "NICOTINAMIDE",
+        "MANGANESE SULFATE.",
+        "CHROMIC CHLORIDE.",
+        "FOLIC ACID.",
+        "AERIUS",
+        "CITRIC ACID",
+        "SODIUM CITRATE.",
+        "SODIUM L-ASCORBATE",
+        "POTASSIUM HYDROXIDE.",
+        "FERROUS LACTATE",
+        "RETINYL ACETATE",
+        "COPPER GLUCONATE",
+        "CALCIUM PANTOTHENATE",
+        "THIAMINE HYDROCHLORIDE.",
+        "POTASSIUM IODIDE",
+        "FORTIMEL",
+        "GLUCOPHAGE",
+        "LIPANTHYL",
+        "CHOLECALCIFEROL",
+        "PYRIDOXINE HYDROCHLORIDE."
+      ],
+      "reactions": [
+        "Fall"
+      ],
+      "report_id": "10930156"
+    },
+    {
+      "drugs": [
+        "ABATACEPT",
+        "ABATACEPT",
+        "METFORMIN HYDROCHLORIDE",
+        "IBUPROFEN",
+        "NOVALGIN (METAMIZOLE SODIUM)",
+        "PREDNISOLONE",
+        "LEVOTHYROXINE SODIUM\\POTASSIUM IODIDE",
+        "LEVOTHYROXINE SODIUM",
+        "VICTOZA",
+        "SPASMEX                            /00376202/",
+        "CHOLECALCIFEROL",
+        "CITALOPRAM",
+        "CINNARIZINE\\DIMENHYDRINATE"
+      ],
+      "reactions": [
+        "Breast cancer",
+        "Spinal fracture",
+        "Spinal instability",
+        "Wound",
+        "Basal cell carcinoma",
+        "Skin neoplasm excision",
+        "Cancer surgery",
+        "Thrombosis",
+        "Fall",
+        "Cervicobrachial syndrome",
+        "Neuropathy peripheral"
+      ],
+      "report_id": "10946591"
+    },
+    {
+      "drugs": [
+        "ULORIC",
+        "UNSPECIFIED ASTHMA MEDICATON (PHENOBARBITAL, EPHEDRINE HYDROCHLORIDE, CAFFEINE, AMINOPHYLLINE, POTASSIUM IODIDE)",
+        "UNPSECIFIED ANTIHYPERTENSIVE (ANTIHYPERTENSIVES)"
+      ],
+      "reactions": [
+        "Erectile dysfunction",
+        "Urine analysis abnormal"
+      ],
+      "report_id": "10967834"
+    },
+    {
+      "drugs": [
+        "THIAMAZOLE",
+        "PROPRANOLOL",
+        "DECADRON",
+        "POTASSIUM IODIDE"
+      ],
+      "reactions": [
+        "Dyspnoea",
+        "Angioedema"
+      ],
+      "report_id": "10993098"
+    },
+    {
+      "drugs": [
+        "NOVORAPID",
+        "PROMAC D",
+        "AZUNOL",
+        "MYSLEE",
+        "CALONAL",
+        "BAKTAR",
+        "POTASSIUM IODIDE",
+        "CRAVIT",
+        "NEORAL",
+        "MAGNESIUM OXIDE.",
+        "MAXIPIME",
+        "ITRIZOLE",
+        "DIOVAN",
+        "RESTAMIN",
+        "LANTUS",
+        "LASIX",
+        "PRIMOBOLAN-DEPOT",
+        "NEXIUM",
+        "PREDNISOLONE.",
+        "GRAN",
+        "SELARA",
+        "THYMOGLOBULINE",
+        "VALTREX",
+        "GASMOTIN",
+        "JANUVIA",
+        "METHYLPREDNISOLONE.",
+        "AMLODIN",
+        "EXJADE",
+        "MAGMITT"
+      ],
+      "reactions": [
+        "Cytomegalovirus infection",
+        "Angina unstable"
+      ],
+      "report_id": "11004644"
+    },
+    {
+      "drugs": [
+        "PROPYLTHIOURACIL.",
+        "POTASSIUM IODIDE",
+        "HYDROCORTISONE (HYDROCORTISONE)",
+        "METHIMAZOLE.",
+        "METOPROLOL TARTRATE (METOPROLOL TARTRATE) UNKNOWN",
+        "METOPROLOL TARTRATE (METOPROLOL TARTRATE) UNKNOWN",
+        "CHOLESTYRAMINE."
+      ],
+      "reactions": [
+        "Hepatotoxicity",
+        "Maternal exposure during pregnancy"
+      ],
+      "report_id": "11081327"
+    },
+    {
+      "drugs": [
+        "POTASSIUM IODIDE",
+        "HYDROCORTISONE.",
+        "METHIMAZOLE.",
+        "INSULIN"
+      ],
+      "reactions": [
+        "Critical illness myopathy",
+        "Rhabdomyolysis",
+        "Quadriplegia"
+      ],
+      "report_id": "11090032"
+    },
+    {
+      "drugs": [
+        "METHIMAZOLE (METHIMAZOLE)",
+        "PROPYLTHIOURACIL( PROPYLTHIOURACIL)",
+        "HYDROCORTISONE.",
+        "POTASSIUM IODIDE (POTASSIUM IODIDE)"
+      ],
+      "reactions": [
+        "Critical illness myopathy",
+        "Disseminated intravascular coagulation",
+        "Respiratory muscle weakness",
+        "Blood bilirubin increased",
+        "Quadriplegia",
+        "Haematemesis",
+        "Ileal perforation",
+        "Hyperglycaemia",
+        "Liver injury"
+      ],
+      "report_id": "11090051"
+    },
+    {
+      "drugs": [
+        "MYORISAN",
+        "POTASSIUM IODIDE",
+        "VITAMIN C",
+        "MULTIVITAMIN",
+        "MYORISAN",
+        "ASACOL",
+        "PROPECIAL",
+        "VITAMIN D"
+      ],
+      "reactions": [
+        "Aspartate aminotransferase increased",
+        "Alanine aminotransferase increased"
+      ],
+      "report_id": "11092992"
+    },
+    {
+      "drugs": [
+        "HYDROCORTISONE (HYDROCORTISONE)",
+        "PROPYLTHIOURACIL.",
+        "METOPROLOL (METOPROLOL) (UNKNOWN) (METOPROLOL)",
+        "SSKI (POTASSIUM IODIDE)",
+        "METHIMAZOLE.",
+        "CHOLESTYRAMINE (COLESTYRAMINE)"
+      ],
+      "reactions": [
+        "Hepatotoxicity",
+        "Maternal exposure during pregnancy"
+      ],
+      "report_id": "11102309"
+    },
+    {
+      "drugs": [
+        "RIMATIL",
+        "ALENDRONATE",
+        "MERCAZOLE",
+        "PREDONINE",
+        "RIMATIL",
+        "CELECOX",
+        "ISCOTIN",
+        "PROGRAF",
+        "SULFAMETHOXAZOLE AND TRIMETHOPRIM",
+        "POTASSIUM IODIDE",
+        "PREDONINE",
+        "REBAMIPIDE",
+        "PYDOXAL",
+        "PREDONINE",
+        "LANSOPRAZOLE.",
+        "ACTEMRA",
+        "PREDONINE",
+        "PREDONINE",
+        "PREDONINE",
+        "PREDONINE",
+        "PREDONINE",
+        "PREDONINE",
+        "PREDONINE"
+      ],
+      "reactions": [
+        "Hyperlipidaemia",
+        "Cerebral infarction"
+      ],
+      "report_id": "11121003"
+    },
+    {
+      "drugs": [
+        "RIBAVIRIN.",
+        "AMLODIPINE",
+        "TRIAMTERENE (TRIAMTERENE)",
+        "VIEKIRAX (OMBITASVIR, PARITAPREVIR, RITONAVIR)",
+        "EXVIERA (DASABUVIR)",
+        "RIBAVIRIN.",
+        "VIEKIRAX (OMBITASVIR, PARITAPREVIR, RITONAVIR)",
+        "EXVIERA (DASABUVIR)",
+        "JODTHYROX (LEVOTHYROXINE SODIUM, POTASSIUM IODIDE)",
+        "RAMIPRIL (RAMIPRIL)",
+        "NORSPAN (BUPRENORPHINE)"
+      ],
+      "reactions": [
+        "Dyspepsia",
+        "Pruritus",
+        "Blood bilirubin increased",
+        "Blood alkaline phosphatase increased",
+        "Aspartate aminotransferase increased",
+        "General physical health deterioration",
+        "Jaundice",
+        "Alanine aminotransferase increased"
+      ],
+      "report_id": "11131722"
+    },
+    {
+      "drugs": [
+        "EMLA",
+        "ZOFRAN",
+        "ZOFRAN",
+        "BENADRYL",
+        "MIRALAX",
+        "MELATONIN",
+        "PEMBROLIZUMAB.",
+        "PEMBROLIZUMAB.",
+        "BENADRYL",
+        "ZYRTEC",
+        "DAPSONE.",
+        "ROXICODONE",
+        "POTASSIUM IODIDE",
+        "PEMBROLIZUMAB."
+      ],
+      "reactions": [
+        "Hypertension"
+      ],
+      "report_id": "11138131"
+    },
+    {
+      "drugs": [
+        "PROPYLTHIOURACIL.",
+        "POTASSIUM IODIDE",
+        "HYDROCORTISONE.",
+        "GABEXATE",
+        "THIAMAZOLE",
+        "HYDROCORTISONE.",
+        "INSULIN"
+      ],
+      "reactions": [
+        "Quadriplegia"
+      ],
+      "report_id": "11189267"
+    },
+    {
+      "drugs": [
+        "HYDROCORTISONE.",
+        "HYDROCORTISONE.",
+        "THIAMAZOLE",
+        "INSULIN",
+        "POTASSIUM IODIDE"
+      ],
+      "reactions": [
+        "Quadriplegia"
+      ],
+      "report_id": "11189340"
+    },
+    {
+      "drugs": [
+        "SELOZOK (METOPROLOL SUCCINATE) (METOPROLOL SUCCINATE)",
+        "EUTHYROX (LEVOTHYROXINE SODIUM) (LEVOTHYROXINE SODIUM)",
+        "NATIFAR (YODOCEFO) (FOLIC ACID, CYANOCOBALAMIN, POTASSIUM IODIDE)"
+      ],
+      "reactions": [
+        "Blood thyroid stimulating hormone increased",
+        "Weight increased",
+        "Hyperhidrosis",
+        "Fatigue",
+        "Malaise",
+        "Feeling hot",
+        "Drug ineffective"
+      ],
+      "report_id": "11191708"
+    },
+    {
+      "drugs": [
+        "MAGNESIUM OXIDE.",
+        "TOPAMAX",
+        "ELETRIPTAN HYDROBROMIDE",
+        "POTASSIUM IODIDE"
+      ],
+      "reactions": [
+        "Somnolence",
+        "Nausea",
+        "Cachexia",
+        "Palpitations",
+        "Insomnia",
+        "Weight decreased",
+        "Disturbance in attention",
+        "Anxiety",
+        "Decreased appetite",
+        "Apathy",
+        "Vertigo",
+        "Fatigue",
+        "Enteritis"
+      ],
+      "report_id": "11212125"
+    },
+    {
+      "drugs": [
+        "AMPHOTERICIN B.",
+        "AMPHOTERICIN B.",
+        "ITRACONAZOLE.",
+        "POTASSIUM IODIDE",
+        "COTRIMOXAZOLE"
+      ],
+      "reactions": [
+        "Multiple-drug resistance"
+      ],
+      "report_id": "11212564"
+    },
+    {
+      "drugs": [
+        "HYDROCORTISONE.",
+        "SUPER-SATURATED POTASSIUM IODIDE",
+        "PROPYLTHIOURACIL."
+      ],
+      "reactions": [
+        "Premature separation of placenta",
+        "Umbilical cord prolapse"
+      ],
+      "report_id": "11223221"
+    },
+    {
+      "drugs": [
+        "TRACLEER",
+        "FERROMIA",
+        "TRANSAMIN",
+        "SAMSCA",
+        "HICEE                              /00008001/",
+        "ALDACTONE",
+        "XYZAL",
+        "REMODULIN",
+        "REMODULIN",
+        "LASIX",
+        "NEXIUM",
+        "FEBURIC",
+        "MIYA-BM",
+        "ADCIRCA",
+        "ASPARA POTASSIUM",
+        "ALFAROL",
+        "REMODULIN",
+        "MUCODYNE",
+        "TRICHLORMETHIAZIDE",
+        "FLOMOX                             /01418603/",
+        "DIAMOX                             /00016901/",
+        "REMODULIN",
+        "POTASSIUM IODIDE."
+      ],
+      "reactions": [
+        "Diarrhoea",
+        "Oedema peripheral",
+        "Hypoalbuminaemia",
+        "Malaise",
+        "Platelet count decreased",
+        "Pneumonia",
+        "Haemorrhage",
+        "Decreased appetite",
+        "Epistaxis",
+        "Hypoproteinaemia",
+        "Clostridial infection",
+        "Dehydration",
+        "Acute kidney injury",
+        "Hypotension"
+      ],
+      "report_id": "11229165"
+    },
+    {
+      "drugs": [
+        "ITRACONAZOLE.",
+        "POTASSIUM IODIDE",
+        "TERBINAFINE"
+      ],
+      "reactions": [
+        "Renal impairment",
+        "Influenza like illness"
+      ],
+      "report_id": "11229465"
+    },
+    {
+      "drugs": [
+        "POTASSIUM IODIDE",
+        "TERBINAFINE 250MG",
+        "ITRACONAZOLE."
+      ],
+      "reactions": [
+        "Influenza like illness",
+        "Scab",
+        "Renal impairment",
+        "Peripheral swelling",
+        "Erythema"
+      ],
+      "report_id": "11255903"
+    },
+    {
+      "drugs": [
+        "DATSCAN",
+        "DATSCAN",
+        "POTASSIUM IODIDE"
+      ],
+      "reactions": [
+        "Dizziness",
+        "Sneezing",
+        "Sinus disorder",
+        "Dysgeusia"
+      ],
+      "report_id": "11404792"
+    },
+    {
+      "drugs": [
+        "METPROLOL",
+        "JODTHYROX(LEVOTHYROXINE, POTASSIUM IODIDE)",
+        "DOTAREM",
+        "RAMIPRIL."
+      ],
+      "reactions": [
+        "Throat tightness",
+        "Nausea",
+        "Dysphagia",
+        "Urticaria",
+        "Stridor"
+      ],
+      "report_id": "11406415"
+    },
+    {
+      "drugs": [
+        "HYDROXYZINE HYDROCHLORIDE.",
+        "MIDAZOLAM",
+        "UNITUXIN",
+        "SPIRONOLACTONE.",
+        "MIRIMOSTIM",
+        "ACETAMINOPHEN.",
+        "FUROSEMIDE.",
+        "MORPHINE HYDROCHLORIDE TRIHYDRATE",
+        "POTASSIUM IODIDE"
+      ],
+      "reactions": [
+        "Device related infection"
+      ],
+      "report_id": "11434317"
+    },
+    {
+      "drugs": [
+        "ARIPIPRAZOLE",
+        "FLUOXETINE",
+        "FLUOXETINE",
+        "TOPIRAMATE",
+        "TEMAZEPAM",
+        "LITHIUM",
+        "TAVOR",
+        "CETIRIZINE",
+        "CETIRIZINE",
+        "LEVOTHYROXINE SODIUM\\POTASSIUM IODIDE",
+        "LORAZEPAM"
+      ],
+      "reactions": [
+        "Mania",
+        "Drug interaction",
+        "Underdose"
+      ],
+      "report_id": "11471637"
+    },
+    {
+      "drugs": [
+        "GLIPIZIDE.",
+        "POTASSIUM IODIDE",
+        "HUMALOG MIX75/25",
+        "IODINE"
+      ],
+      "reactions": [
+        "Blood glucose increased",
+        "Nervousness",
+        "Blood glucose decreased",
+        "Vitamin D decreased",
+        "Confusional state"
+      ],
+      "report_id": "11534627"
+    },
+    {
+      "drugs": [
+        "AMINOBENZOIC ACID",
+        "MANGANESE SULFATE.",
+        "SODIUM CHROMATE (51 CR)",
+        "PROCHLORPERAZINE EDISYLATE.",
+        "CYANOCOBALAMIN.",
+        "FOLIC ACID.",
+        "INOSITOL",
+        "RUTOSIDE SODIUM SULFATE",
+        "POLYSACCHARIDE IRON COMPLEX",
+        "METOPROLOL SUCCINATE.",
+        "BIOTIN",
+        "CALCIUM PHOSPHATE",
+        "HESPERIDIN",
+        "MAGNESIUM GLYCEROPHOSPHATE",
+        "NICOTINAMIDE",
+        "POTASSIUM CHLORIDE.",
+        "NORFLOXACIN",
+        "CALCIUM PANTOTHENATE",
+        "PANGAMIC ACID",
+        "THIAMINE HYDROCHLORIDE.",
+        "COPPER SULFATE",
+        "PYRIDOXINE HYDROCHLORIDE.",
+        "RIBOFLAVIN",
+        "ACETYLSALICYLIC ACID",
+        "ATORVASTATIN",
+        "COLECALCIFEROL",
+        "DL-ALPHA TOCOPHERYL ACETATE",
+        "SODIUM SELENITE",
+        "ZINC SULFATE",
+        "CITALOPRAM HYDROBROMIDE.",
+        "XARELTO",
+        "ASCORBIC ACID.",
+        "POTASSIUM-ASPARTATE",
+        "SALBUTAMOL",
+        "CHOLINE BITARTRATE",
+        "CONJUGATED LINOLEIC ACID",
+        "FERROUS SULFATE",
+        "OROTIC ACID",
+        "POTASSIUM IODIDE",
+        "RETINOL PALMITATE"
+      ],
+      "reactions": [
+        "Gastrointestinal haemorrhage"
+      ],
+      "report_id": "11619362"
+    },
+    {
+      "drugs": [
+        "XARELTO",
+        "FOLIC ACID.",
+        "MANGANESE SULFATE.",
+        "SODIUM SELENITE",
+        "THIAMINE HYDROCHLORIDE.",
+        "SALBUTAMOL",
+        "CALCIUM PANTOTHENATE",
+        "COLECALCIFEROL",
+        "DL-ALPHA TOCOPHERYL ACETATE",
+        "CONJUGATED LINOLEIC ACID",
+        "ZINC SULFATE",
+        "NORFLOXACIN",
+        "ATORVASTATIN",
+        "AMINOBENZOIC ACID",
+        "CALCIUM PHOSPHATE",
+        "MAGNESIUM GLYCEROPHOSPHATE",
+        "OROTIC ACID",
+        "PANGAMIC ACID",
+        "PROCHLORPERAZINE EDISYLATE.",
+        "POLYSACCHARIDE-IRON COMPLEX",
+        "CHOLINE BITARTRATE",
+        "FERROUS SULFATE",
+        "HESPERIDIN",
+        "ASPARTATE POTASSIUM",
+        "RETINOL PALMITATE",
+        "RUTOSIDE SODIUM SULFATE",
+        "SODIUM CHROMATE (51 CR)",
+        "ACETYLSALICYLIC ACID({=100 MG)",
+        "METOPROLOL SUCCINATE.",
+        "BIOTIN",
+        "CYANOCOBALAMIN.",
+        "POTASSIUM IODIDE",
+        "ASCORBIC ACID.",
+        "INOSITOL",
+        "PYRIDOXINE HYDROCHLORIDE.",
+        "RIBOFLAVIN",
+        "COPPER SULFATE",
+        "NICOTINAMIDE",
+        "POTASSIUM CHLORIDE.",
+        "CITALOPRAM HYDROBROMIDE."
+      ],
+      "reactions": [
+        "Gastrointestinal haemorrhage"
+      ],
+      "report_id": "11638543"
+    },
+    {
+      "drugs": [
+        "POMALYST",
+        "DEXAMETHASONE.",
+        "RASBURICASE",
+        "INDIUM.",
+        "POMALYST",
+        "ZOMETA",
+        "ROBITUSSIN DM",
+        "COLACE",
+        "XYLOCAINE W/ EPINEPHRINE",
+        "K-DUR",
+        "TESSALON",
+        "DEXAMETHASONE.",
+        "DEXAMETHASONE.",
+        "DEXAMETHASONE.",
+        "POTASSIUM IODIDE",
+        "TYLENOL",
+        "PROTOCEL",
+        "ARMOUR THYROID",
+        "POTASSIUM CHLORIDE.",
+        "CALCIUM CARBONATE.",
+        "SODIUM CHLORIDE.",
+        "FLEXERIL",
+        "POMALYST",
+        "DEXAMETHASONE.",
+        "GABAPENTIN.",
+        "ZITHROMAX",
+        "DHEA",
+        "PSYLLIUM",
+        "POMALYST",
+        "DEXAMETHASONE.",
+        "DEXAMETHASONE.",
+        "PROCRIT",
+        "ASA",
+        "BENADRYL",
+        "ACYCLOVIR.",
+        "IMODIUM",
+        "HEPARIN LOCK FLUSH",
+        "NEUPOGEN",
+        "MOZOBIL",
+        "CESIUM CHLORIDE.",
+        "K-DUR"
+      ],
+      "reactions": [
+        "Death"
+      ],
+      "report_id": "11647608"
+    },
+    {
+      "drugs": [
+        "RANEXA",
+        "TRIATEC",
+        "POTASSIUM IODIDE",
+        "LOSARTAN.",
+        "CORLENTOR",
+        "METFORMIN",
+        "GLICLAZIDE",
+        "INSULIN",
+        "LASITONE",
+        "FRONTAL",
+        "SIMVASTATIN.",
+        "CITALOPRAM"
+      ],
+      "reactions": [
+        "Hyperkalaemia",
+        "Hypoglycaemia"
+      ],
+      "report_id": "11687239"
+    },
+    {
+      "drugs": [
+        "TRAMADOL.",
+        "LORMETAZEPAM",
+        "RIOPAN",
+        "NAPROXEN.",
+        "BECOZYME (MAGNESIUM CARBONATE\\POTASSIUM IODIDE\\SILICIC ACID\\VITAMINS NOS)",
+        "PARACETAMOL",
+        "XARELTO",
+        "PANTOPRAZOLE",
+        "MEDROL",
+        "SYMBICORT",
+        "LEVOTHYROX",
+        "TILDIEM",
+        "CORDARONE"
+      ],
+      "reactions": [
+        "Anaemia",
+        "Haematemesis"
+      ],
+      "report_id": "11698348"
+    },
+    {
+      "drugs": [
+        "NAPROXEN.",
+        "XARELTO",
+        "BECOZYME (MAGNESIUM CARBONATE\\POTASSIUM IODIDE\\SILICIC ACID\\VITAMINS NOS)",
+        "TILDIEM",
+        "MEDROL",
+        "MEDROL",
+        "LEVOTHYROX",
+        "TRAMADOL.",
+        "LORMETAZEPAM",
+        "PARACETAMOL",
+        "SYMBICORT",
+        "RIOPAN",
+        "CORDARONE",
+        "PANTOPRAZOLE"
+      ],
+      "reactions": [
+        "Haematemesis",
+        "Anaemia"
+      ],
+      "report_id": "11701396"
+    },
+    {
+      "drugs": [
+        "CLOPIDOGREL",
+        "VALSARTAN.",
+        "FORMOTEROL",
+        "ELIQUIS",
+        "OMEPRAZOLE.",
+        "LEVOTHYROXINE SODIUM W/POTASSIUM IODIDE",
+        "OPIPRAMOL",
+        "ASPIRIN.",
+        "RAMIPRIL.",
+        "ATORVASTATINE                      /01326101/",
+        "TORASEMIDE",
+        "BISOPROLOL"
+      ],
+      "reactions": [
+        "Overdose",
+        "Intestinal haemorrhage"
+      ],
+      "report_id": "11718313"
+    },
+    {
+      "drugs": [
+        "SOLU-MEDROL",
+        "PREDONINE",
+        "TEPRENONE",
+        "TAKEPRON OD TABLETS 30",
+        "CALCIUM",
+        "RINDERON                           /00008501/",
+        "FLUITRAN",
+        "THYRADIN-S",
+        "INDERAL",
+        "RINDERON                           /00008501/",
+        "AIMIX",
+        "LOXOPROFEN EMEC",
+        "ASVERIN                            /00465502/",
+        "POTASSIUM IODIDE",
+        "SOLU-MEDROL",
+        "NITRAZEPAM",
+        "CARBOCISTEINE",
+        "LAC B",
+        "SOLU-MEDROL",
+        "RINDERON                           /00008501/",
+        "EPINASTINE                         /01288402/",
+        "PREDONINE",
+        "PREDONINE"
+      ],
+      "reactions": [
+        "Drug-induced liver injury"
+      ],
+      "report_id": "11732997"
+    },
+    {
+      "drugs": [
+        "MAGNESIUM CARBONATE W/POTASSIUM IODIDE/SILICI",
+        "MEDROL",
+        "LORMETAZEPAM",
+        "CORDARONE",
+        "PANTOPRAZOLE",
+        "MAGALDRATE",
+        "XARELTO",
+        "LEVOTHYROX",
+        "MEDROL",
+        "TILDIEM",
+        "NAPROXEN.",
+        "PARACETAMOL",
+        "TRAMADOL HYDROCHLORIDE.",
+        "SYMBICORT"
+      ],
+      "reactions": [
+        "Haematemesis",
+        "Anaemia"
+      ],
+      "report_id": "11746177"
+    },
+    {
+      "drugs": [
+        "SOLU-MEDROL",
+        "RINDERON /00008501/",
+        "POTASSIUM IODIDE",
+        "NITRAZEPAM",
+        "CALCIUM",
+        "LOXOPROFEN EMEC",
+        "ASVERIN /00465502/",
+        "PREDONINE",
+        "SOLU-MEDROL",
+        "TAKEPRON OD",
+        "SOLU-MEDROL",
+        "CARBOCISTEINE",
+        "LAC B",
+        "FLUITRAN",
+        "TEPRENONE",
+        "THYRADIN S",
+        "INDERAL",
+        "AIMIX",
+        "EPINASTINE /01288402/"
+      ],
+      "reactions": [
+        "Drug-induced liver injury"
+      ],
+      "report_id": "11751091"
+    },
+    {
+      "drugs": [
+        "IOBENGUANE I 131",
+        "POTASSIUM IODIDE.",
+        "ZOLINZA",
+        "POTASSIUM IODIDE.",
+        "POLYETHYLENE GLYCOL",
+        "POTASSIUM IODIDE.",
+        "SULFAMETHOXAZOLE (+) TRIMETHOPRIM",
+        "POTASSIUM IODIDE."
+      ],
+      "reactions": [
+        "Pyrexia",
+        "Vomiting",
+        "Platelet count decreased",
+        "Fatigue",
+        "Enterobacter infection"
+      ],
+      "report_id": "11781108"
+    },
+    {
+      "drugs": [
+        "PROPANOLOL HCL",
+        "METHIMAZOLE.",
+        "PROPANOLOL HCL",
+        "POTASSIUM IODIDE"
+      ],
+      "reactions": [
+        "Multi-organ failure",
+        "Cardiac arrest",
+        "Bradycardia"
+      ],
+      "report_id": "11786350"
+    },
+    {
+      "drugs": [
+        "POTASSIUM IODIDE",
+        "DOLUTEGRAVIR",
+        "KIVEXA",
+        "TRIUMEQ",
+        "BUSCOPAN",
+        "FOSFOMYCIN",
+        "IODINE",
+        "FOLIC ACID.",
+        "DEXAMETHASONE.",
+        "DIAZEPAM.",
+        "ISOTONIC SALINE",
+        "ZOLPIDEM",
+        "VITAMIN B12",
+        "CEFUROXIME.",
+        "ACETAMINOPHEN.",
+        "DEXCHLORPHENIRAMINE",
+        "URSODEOXYCHOLIC ACID",
+        "PROGESTERONE."
+      ],
+      "reactions": [
+        "Exposure during pregnancy",
+        "Foetal death"
+      ],
+      "report_id": "11796519"
+    },
+    {
+      "drugs": [
+        "ARAVA",
+        "PREDNISOLONE",
+        "PREDNISONE",
+        "ACTIVATED CHARCOAL",
+        "CHOLESTYRAMINE",
+        "CYANOCOBALAMIN;FOLIC ACID;POTASSIUM IODIDE",
+        "FOLIC ACID"
+      ],
+      "reactions": [
+        "Oesophageal atresia",
+        "Foetal exposure during pregnancy",
+        "Tracheo-oesophageal fistula",
+        "Intraventricular haemorrhage neonatal",
+        "Small for dates baby",
+        "Premature baby"
+      ],
+      "report_id": "11797402"
+    },
+    {
+      "drugs": [
+        "DAPSONE.",
+        "POTASSIUM IODIDE.",
+        "PRAVASTATIN.",
+        "LISINOPRIL.",
+        "GABAPENTIN.",
+        "IMBRUVICA",
+        "PREDNISONE."
+      ],
+      "reactions": [
+        "Thyroid function test abnormal",
+        "Dyspepsia",
+        "Tenderness",
+        "Palpitations",
+        "Sinusitis"
+      ],
+      "report_id": "11821689"
+    },
+    {
+      "drugs": [
+        "FERROUS SULFATE.",
+        "VITAMIN D",
+        "ZOLOFT",
+        "CORDARONE",
+        "POTASSIUM IODIDE.",
+        "TAPAZOLE",
+        "PLAQUENIL",
+        "ZANTAC",
+        "CYTOMEL",
+        "THYROGEN",
+        "PANTHENOL/RETINOL/THIAMINE HYDROCHLORIDE/ASCORBIC ACID/ERGOCALCIFEROL/FOLIC ACID/RIBOFLAVIN/NICOTINA"
+      ],
+      "reactions": [
+        "Influenza",
+        "Blood thyroid stimulating hormone decreased"
+      ],
+      "report_id": "11838627"
+    },
+    {
+      "drugs": [
+        "XARELTO",
+        "XARELTO",
+        "BISOPROLOL",
+        "POTASSIUM IODIDE",
+        "GLIMEPIRIDE.",
+        "VITAMIN D3"
+      ],
+      "reactions": [
+        "Haemorrhagic transformation stroke",
+        "Cerebrovascular accident",
+        "Haematuria",
+        "Endocarditis",
+        "Septic embolus",
+        "Cerebral infarction"
+      ],
+      "report_id": "11844984"
+    },
+    {
+      "drugs": [
+        "PROPRANOLOL HYDROCHLORIDE (MANUFACTURER UNKNOWN)",
+        "THIMAZOLE",
+        "POTASSIUM IODIDE",
+        "PROPRANOLOL HYDROCHLORIDE (MANUFACTURER UNKNOWN)",
+        "THIAMAZOLE",
+        "STEROIDS NOS"
+      ],
+      "reactions": [
+        "Bradycardia",
+        "Circulatory collapse",
+        "Multi-organ failure",
+        "Cardiac arrest"
+      ],
+      "report_id": "11880294"
+    },
+    {
+      "drugs": [
+        "PROPRANOLOL",
+        "POTASSIUM IODIDE",
+        "METHIMAZOLE.",
+        "PROPRANOLOL"
+      ],
+      "reactions": [
+        "Multiple organ dysfunction syndrome",
+        "Cardiac arrest"
+      ],
+      "report_id": "11887485"
+    },
+    {
+      "drugs": [
+        "PROPRANOLOL",
+        "PROPRANOLOL",
+        "THIAMAZOLE",
+        "POTASSIUM IODIDE",
+        "METHYLPREDNISOLONE.",
+        "NITROGLYCERIN."
+      ],
+      "reactions": [
+        "Cardiac arrest"
+      ],
+      "report_id": "11888479"
+    },
+    {
+      "drugs": [
+        "PROPRANOLOL",
+        "THIAMAZOLE",
+        "POTASSIUM IODIDE",
+        "PROPRANOLOL"
+      ],
+      "reactions": [
+        "Multiple organ dysfunction syndrome",
+        "Cardiac arrest"
+      ],
+      "report_id": "11905551"
+    },
+    {
+      "drugs": [
+        "SHORT-ACTING BETA-AGONIST",
+        "SHORT-ACTING BETA-AGONIST",
+        "SHORT-ACTING BETA-AGONIST",
+        "NITROGLYCERINE",
+        "CORTICOSTEROIDS",
+        "METHIMAZOLE.",
+        "BRONCHODILATORS",
+        "DIURETICS",
+        "HIGH DOSE INTRAVENOUS STEROIDS",
+        "EPINEPHRINE.",
+        "PROPRANOLOL",
+        "SUPPLEMENTAL O2",
+        "SATURATED SOLUTION OF POTASSIUM IODIDE",
+        "METHYLPREDNISOLONE.",
+        "PROPRANOLOL"
+      ],
+      "reactions": [
+        "Agitation",
+        "Multiple organ dysfunction syndrome",
+        "Coma",
+        "Bradycardia",
+        "Cardiac arrest",
+        "Circulatory collapse",
+        "Metabolic function test abnormal",
+        "Hyperthyroidism"
+      ],
+      "report_id": "11911471"
+    },
+    {
+      "drugs": [
+        "TECFIDERA",
+        "OMEPRAZOLE.",
+        "GINGKO BILOBA",
+        "OMEGA 3",
+        "ZYRTEC",
+        "METHENAM",
+        "LUTEIN",
+        "SUCRALFATE.",
+        "LISINOPRIL.",
+        "GABAPENTIN.",
+        "MECLIZINE",
+        "VITAMIN E",
+        "CRANBERRY SUPPLEMENT",
+        "ATENOLOL.",
+        "POTASSIUM IODIDE",
+        "LECITHIN",
+        "VITAMIN D",
+        "NORVASC",
+        "RAPAFLO",
+        "PROBIOTIC",
+        "ZOCOR",
+        "MYRBETRIQ",
+        "MULTIPLE VITAMIN"
+      ],
+      "reactions": [
+        "White blood cell count abnormal"
+      ],
+      "report_id": "11964489"
+    },
+    {
+      "drugs": [
+        "ALLOPURINOL.",
+        "HUMIRA",
+        "POTASSIUM CHLORIDE.",
+        "OMEPRAZOLE.",
+        "POTASSIUM IODIDE",
+        "LISINOPRIL.",
+        "METFORMIN"
+      ],
+      "reactions": [
+        "Wrong technique in product usage process",
+        "Injection site pain"
+      ],
+      "report_id": "12009141"
+    },
+    {
+      "drugs": [
+        "PROPRANOLOL HYDROCHLORIDE (NON-SPECIFIC)",
+        "UNSPECIFIED STEROIDS",
+        "METHIMAZOLE.",
+        "POTASSIUM IODIDE"
+      ],
+      "reactions": [
+        "Cardiac arrest",
+        "Multiple organ dysfunction syndrome"
+      ],
+      "report_id": "12110542"
+    },
+    {
+      "drugs": [
+        "FENTANYL.",
+        "BISOPROLOL",
+        "PANTOPRAZOLE",
+        "TETRAZEPAM",
+        "TETRAZEPAM",
+        "CEFIXIM",
+        "COTRIMOXAZOLE",
+        "FENTANYL.",
+        "MOVICOL",
+        "FUROSEMIDE.",
+        "THEOPHYLLINE",
+        "HALOPERIDOL.",
+        "FENTANYL.",
+        "FENTANYL.",
+        "FENTANYL.",
+        "ENOXAPARIN",
+        "NADROPARIN",
+        "DIAZEPAM.",
+        "COTRIMOXAZOLE",
+        "COTRIMOXAZOLE",
+        "CEFTRIAXON",
+        "CEFTRIAXON",
+        "FENTANYL.",
+        "IODIDE",
+        "PANTOPRAZOLE",
+        "CORTISON",
+        "SODIUM PICOSULFATE",
+        "BISOPROLOL",
+        "REPROTEROL",
+        "NADROPARIN",
+        "PREDNISOLONE.",
+        "COTRIMOXAZOLE",
+        "POTASSIUM IODIDE",
+        "DIMENHYDRINATE.",
+        "DIMENHYDRINATE.",
+        "TORASEMIDE",
+        "REVLIMID",
+        "FENTANYL.",
+        "FENTANYL.",
+        "IODIDE",
+        "NADROPARIN",
+        "METOCLOPRAMIDE.",
+        "DIMENHYDRINATE.",
+        "LENOGRASTIM",
+        "HALOPERIDOL.",
+        "BISOPROLOL",
+        "MOVICOL",
+        "CORTISON",
+        "FUROSEMIDE.",
+        "TERBUTALINE",
+        "PREDNISOLONE.",
+        "DIAZEPAM.",
+        "COTRIMOXAZOLE",
+        "DIMENHYDRINATE.",
+        "REVLIMID",
+        "FENTANYL.",
+        "FENTANYL.",
+        "PANTOPRAZOLE",
+        "MOVICOL",
+        "ACETYLCYSTEINE.",
+        "METAMIZOLE",
+        "HUMAN^S SANDOGLOBULIN"
+      ],
+      "reactions": [
+        "General physical health deterioration",
+        "Mastoiditis",
+        "Hypokalaemia",
+        "Pancytopenia",
+        "Dyspnoea",
+        "Bronchitis",
+        "Sepsis",
+        "Bronchitis"
+      ],
+      "report_id": "12112952"
+    },
+    {
+      "drugs": [
+        "OXYBUTYNIN",
+        "TRIAMTERENE.",
+        "AMLODIPINE",
+        "LUPRON DEPOT",
+        "ATORVASTATIN",
+        "IBUPROFEN.",
+        "POTASSIUM IODIDE",
+        "CYCLOBENZAPRINE",
+        "HYDROCHLOROTHIAZIDE."
+      ],
+      "reactions": [
+        "Vaginal haemorrhage",
+        "Muscle spasms",
+        "Menstruation irregular"
+      ],
+      "report_id": "12164916"
+    },
+    {
+      "drugs": [
+        "SODIUM IODIDE (I 131)",
+        "METHIMAZOLE",
+        "PRANOLOL"
+      ],
+      "reactions": [
+        "Hungry bone syndrome",
+        "Hypothyroidism",
+        "Hypocalcaemia",
+        "Blood 25-hydroxycholecalciferol decreased"
+      ],
+      "report_id": "10074025"
+    },
+    {
+      "drugs": [
+        "SODIUM IODIDE (I 131)",
+        "LIOTHYRONINE",
+        "LEVOTHYROXINE",
+        "VALSARTAN"
+      ],
+      "reactions": [
+        "Hyponatraemia",
+        "Hypothyroidism"
+      ],
+      "report_id": "10182897"
+    },
+    {
+      "drugs": [
+        "SODIUM IODIDE (I 131)",
+        "LEVOTHYROXINE",
+        "LIOTHYRONINE",
+        "AMLODIPINE",
+        "TELMISARTAN",
+        "HYDROCHLOROTHIAZIDE"
+      ],
+      "reactions": [
+        "Hyponatraemia",
+        "Hypothyroidism"
+      ],
+      "report_id": "10182918"
+    },
+    {
+      "drugs": [
+        "SODIUM IODIDE I 131",
+        "SODIUM IODIDE I 131"
+      ],
+      "reactions": [
+        "Convulsion",
+        "Tumour haemorrhage",
+        "Hemiparesis"
+      ],
+      "report_id": "10356625"
+    },
+    {
+      "drugs": [
+        "THYROXINE",
+        "MINERAL",
+        "RADIOACTIVE IODINE TREATMENT",
+        "DRISDOL",
+        "SYNTHROID",
+        "SYNTHROID",
+        "THYROXINE",
+        "MULTIVITAMIN                       /00097801/",
+        "SODIUM IODIDE I-131",
+        "SYNTHROID",
+        "SYNTHROID",
+        "THYROXINE",
+        "RECLAST",
+        "THYROXINE",
+        "CALCIUM CITRATE",
+        "TYLENOL",
+        "SODIUM IODIDE I-131",
+        "THYROXINE",
+        "THYROXINE",
+        "THYROXINE",
+        "IRON",
+        "RECLAST",
+        "SYNTHROID",
+        "CYTOMEL"
+      ],
+      "reactions": [
+        "Thirst",
+        "Hypoaesthesia",
+        "Neuropathy peripheral",
+        "Heart rate increased",
+        "Neck pain",
+        "Insomnia",
+        "Hyperhidrosis",
+        "Sialoadenitis",
+        "Mass",
+        "Weight decreased",
+        "Muscular weakness",
+        "Fatigue",
+        "Small fibre neuropathy",
+        "Dry mouth",
+        "Onychoclasis",
+        "Nausea",
+        "Thyroglobulin increased",
+        "Myalgia"
+      ],
+      "report_id": "10356883"
+    },
+    {
+      "drugs": [
+        "SODIUM IODIDE I 131",
+        "PROPRANOLOL",
+        "SODIUM IODIDE I 131",
+        "SODIUM IODIDE I 131",
+        "METHIMAZOLE.",
+        "LEVOTHYROXINE"
+      ],
+      "reactions": [
+        "Encephalopathy",
+        "Treatment failure",
+        "Thyrotoxic crisis",
+        "Off label use"
+      ],
+      "report_id": "10399013"
+    },
+    {
+      "drugs": [
+        "SODIUM IODIDE (131 I)",
+        "THYROTROPIN ALFA",
+        "PITAVASTATIN CALCIUM",
+        "MILNACIPRAN HYDROCHLORIDE.",
+        "IODINE (131 I)",
+        "FLUDIAZEPAM",
+        "LEVOTHYROXINE SODIUM."
+      ],
+      "reactions": [
+        "Atrial fibrillation",
+        "Pleural effusion",
+        "Pyrexia"
+      ],
+      "report_id": "10733135"
+    },
+    {
+      "drugs": [
+        "SODIUM IODIDE I 131",
+        "THALLOUS CHLORIDE TL 201",
+        "SODIUM IODIDE (123 I)",
+        "ULTRA-TECHNEKOW FM"
+      ],
+      "reactions": [
+        "Foetal exposure during pregnancy",
+        "Multiple congenital abnormalities",
+        "Foetal growth restriction",
+        "Foetal death"
+      ],
+      "report_id": "10742356"
+    },
+    {
+      "drugs": [
+        "THALLOUS CHLORIDE TL 201",
+        "SODIUM IODIDE (123 I)",
+        "SODIUM IODIDE I 131",
+        "ULTRA-TECHNEKOW FM"
+      ],
+      "reactions": [
+        "Exposure during pregnancy",
+        "Abortion induced",
+        "Occupational exposure to product",
+        "Maternal exposure during pregnancy"
+      ],
+      "report_id": "10742358"
+    },
+    {
+      "drugs": [
+        "CELEBREX",
+        "VENLAFAXINE",
+        "ASPIRIN.",
+        "MD-76R",
+        "POTASSIUM IODIDE",
+        "TOVIAZ",
+        "IBUPROFEN.",
+        "GILENYA",
+        "AMPYRA",
+        "PROVIDONE IODINE",
+        "ATENOLOL.",
+        "BLEPH-10",
+        "SODIUM IODIDE",
+        "TAMOXIFEN"
+      ],
+      "reactions": [
+        "Drug ineffective"
+      ],
+      "report_id": "10767815"
+    },
+    {
+      "drugs": [
+        "METHIMAZOLE.",
+        "SODIUM IODIDE I 131",
+        "AMLODIPINE"
+      ],
+      "reactions": [
+        "Thyroid dermatopathy"
+      ],
+      "report_id": "10889122"
+    },
+    {
+      "drugs": [
+        "SODIUM IODIDE I 131",
+        "TELMISARTAN.",
+        "HYDROCHLOROTHIAZIDE.",
+        "AMLODIPINE"
+      ],
+      "reactions": [
+        "Heart rate increased",
+        "Hyponatraemia",
+        "Blood pressure systolic increased"
+      ],
+      "report_id": "10957022"
+    },
+    {
+      "drugs": [
+        "SODIUM IODIDE I-131 THERAPEUTIC",
+        "VALSARTAN."
+      ],
+      "reactions": [
+        "Fatigue",
+        "Hyponatraemia",
+        "Nausea",
+        "Dizziness"
+      ],
+      "report_id": "10957068"
+    },
+    {
+      "drugs": [
+        "SODIUM IODIDE I 131",
+        "SODIUM IODIDE I 131"
+      ],
+      "reactions": [
+        "Synovial sarcoma",
+        "Treatment failure"
+      ],
+      "report_id": "11010082"
+    },
+    {
+      "drugs": [
+        "SODIUM IODIDE (I 131) CAPSULES T",
+        "SODIUM IODIDE (I 131) CAPSULES T"
+      ],
+      "reactions": [
+        "Aplastic anaemia"
+      ],
+      "report_id": "11221112"
+    },
+    {
+      "drugs": [
+        "SODIUM IODIDE I 131",
+        "HYDROCHLOROTHIAZIDE."
+      ],
+      "reactions": [
+        "Hyponatraemia",
+        "Vomiting",
+        "Nausea"
+      ],
+      "report_id": "11327308"
+    },
+    {
+      "drugs": [
+        "SODIUM IODIDE I 131",
+        "HYDROCHLOROTHIAZIDE."
+      ],
+      "reactions": [
+        "Hyponatraemia",
+        "Nausea",
+        "Vomiting"
+      ],
+      "report_id": "11327309"
+    },
+    {
+      "drugs": [
+        "SODIUM IODIDE I 131",
+        "HYDROCHLOROTHIAZIDE."
+      ],
+      "reactions": [
+        "Nausea",
+        "Vomiting",
+        "Hyponatraemia"
+      ],
+      "report_id": "11327318"
+    },
+    {
+      "drugs": [
+        "TRIIODOTHYRONINE",
+        "SODIUM IODIDE I 131",
+        "LEVOTHYROXINE."
+      ],
+      "reactions": [
+        "Oesophagitis"
+      ],
+      "report_id": "11376233"
+    },
+    {
+      "drugs": [
+        "SODIUM IODIDE (I 131) CAPSULES T",
+        "CARBIMAZOLE"
+      ],
+      "reactions": [
+        "Hepatitis acute",
+        "Thyrotoxic crisis"
+      ],
+      "report_id": "11451896"
+    },
+    {
+      "drugs": [
+        "CLOPIDOGREL",
+        "ENOXAPARIN",
+        "LANTUS",
+        "FONDAPARINUX",
+        "LANSOPRAZOLE.",
+        "NOVORAPID",
+        "FUROSEMIDE.",
+        "ATORVASTATIN",
+        "CALCICHEW D3",
+        "NEBIVOLOL.",
+        "TICAGRELOR",
+        "[I-123] SODIUM IODIDE INJECTION",
+        "ASPIRIN.",
+        "[I-123] SODIUM IODIDE INJECTION",
+        "NICORANDIL"
+      ],
+      "reactions": [
+        "Confusional state",
+        "Acute kidney injury"
+      ],
+      "report_id": "11491636"
+    },
+    {
+      "drugs": [
+        "SODIUM IODIDE (I 131) CAPSULES T",
+        "CARBIMAZOLE"
+      ],
+      "reactions": [
+        "Stress cardiomyopathy",
+        "Radiation thyroiditis"
+      ],
+      "report_id": "11555792"
+    },
+    {
+      "drugs": [
+        "NIFEDIPINE.",
+        "PROPANOLOL",
+        "METOPROLOL",
+        "SODIUM IODIDE I 131"
+      ],
+      "reactions": [
+        "Post procedural hypothyroidism",
+        "Primary hyperaldosteronism",
+        "Hypertension",
+        "Hyperadrenalism",
+        "Paranoia",
+        "Acute psychosis",
+        "Psychotic behaviour",
+        "Myxoedema",
+        "Heart rate increased",
+        "Hypokalaemia",
+        "Anxiety",
+        "Hyperthyroidism"
+      ],
+      "report_id": "11757923"
+    },
+    {
+      "drugs": [
+        "SODIUM IODIDE (I 131) CAPSULES T",
+        "PROPYLTHIOURACIL.",
+        "PROPYLTHIOURACIL.",
+        "PROPYLTHIOURACIL.",
+        "PROPYLTHIOURACIL."
+      ],
+      "reactions": [
+        "Hypothyroidism",
+        "Acute psychosis"
+      ],
+      "report_id": "11757924"
+    },
+    {
+      "drugs": [
+        "HUMIRA",
+        "LEXAPRO",
+        "LIPITOR",
+        "MULTIVITAMIN",
+        "HUMIRA",
+        "IMURAN",
+        "CALCIUM",
+        "CALCIUM",
+        "SODIUM IODIDE I 131",
+        "HUMIRA",
+        "MULTIVITAMIN"
+      ],
+      "reactions": [
+        "Fatigue",
+        "Rash erythematous",
+        "Squamous cell carcinoma",
+        "Basal cell carcinoma",
+        "Hyperthyroidism",
+        "Tremor",
+        "Nervousness",
+        "Onycholysis",
+        "Arthritis",
+        "Immunosuppression"
+      ],
+      "report_id": "12018060"
+    },
+    {
+      "drugs": [
+        "CLONAZEPAM.",
+        "META I-3-C",
+        "SODIUM IODIDE",
+        "SYNTHROID",
+        "CRANBERRY.",
+        "VITAMIN D",
+        "ASA",
+        "MULTIVITAMINE (S)",
+        "LEVOTHYROXINE SODIUM FOR INJECTION (MANUFACTURER UNKNOWN)",
+        "OMEGA 3-6-9",
+        "PROBIOTIC",
+        "VITAMIN B12"
+      ],
+      "reactions": [
+        "Palpitations",
+        "Hot flush",
+        "Blood pressure increased",
+        "Nausea",
+        "Diarrhoea"
+      ],
+      "report_id": "12371360"
+    },
+    {
+      "drugs": [
+        "[I-131] SODIUM IODIDE",
+        "THALLOUS CHLORIDE TL201",
+        "[I-123] SODIUM IODIDE SOLUTION",
+        "[I-123] SODIUM IODIDE SOLUTION",
+        "THALLOUS CHLORIDE TL201",
+        "[I-131] SODIUM IODIDE",
+        "TECHNETIUM TC-99M GENERATOR",
+        "TECHNETIUM TC-99M GENERATOR"
+      ],
+      "reactions": [
+        "Abortion induced",
+        "Occupational exposure to product",
+        "Exposure during pregnancy"
+      ],
+      "report_id": "12429882"
+    },
+    {
+      "drugs": [
+        "[I-123] SODIUM IODIDE SOLUTION",
+        "TECHNETIUM TC-99M GENERATOR",
+        "[I-131] SODIUM IODIDE",
+        "THALLOUS CHLORIDE TL201",
+        "[I-123] SODIUM IODIDE SOLUTION",
+        "THALLOUS CHLORIDE TL201",
+        "[I-131] SODIUM IODIDE",
+        "TECHNETIUM TC-99M GENERATOR"
+      ],
+      "reactions": [
+        "Foetal malformation",
+        "Foetal growth restriction",
+        "Foetal exposure during pregnancy"
+      ],
+      "report_id": "12432865"
+    },
+    {
+      "drugs": [
+        "CALCIUM CARBONATE.",
+        "CALCITRIOL.",
+        "LEVOTHYROXINE.",
+        "SODIUM IODIDE I-131"
+      ],
+      "reactions": [
+        "Drug-induced liver injury",
+        "Vomiting",
+        "Rash generalised",
+        "Jaundice",
+        "Nausea",
+        "Abdominal pain",
+        "Hepatic enzyme increased",
+        "Hepatomegaly",
+        "Asthenia"
+      ],
+      "report_id": "12465002"
+    },
+    {
+      "drugs": [
+        "SODIUM IODIDE I-131 THERAPEUTIC",
+        "SODIUM IODIDE I 123"
+      ],
+      "reactions": [
+        "Urticaria"
+      ],
+      "report_id": "12528411"
+    },
+    {
+      "drugs": [
+        "SODIUM IODIDE I 123",
+        "TECHNETIUM TC-99M GENERATOR"
+      ],
+      "reactions": [
+        "Drug ineffective"
+      ],
+      "report_id": "12528726"
+    },
+    {
+      "drugs": [
+        "SODIUM IODIDE I 123",
+        "TECHNETIUM TC-99M GENERATOR"
+      ],
+      "reactions": [
+        "Drug ineffective"
+      ],
+      "report_id": "12528798"
+    },
+    {
+      "drugs": [
+        "PREDNISONE.",
+        "SODIUM IODIDE I 123",
+        "ZANTAC"
+      ],
+      "reactions": [
+        "Rash generalised",
+        "Oral candidiasis"
+      ],
+      "report_id": "12528860"
+    },
+    {
+      "drugs": [
+        "XYREM",
+        "EVISTA",
+        "MIDODRINE HCL",
+        "VENLAFAXINE HCL",
+        "VITAMIN C TR",
+        "LAMOTRIGINE EXTENDED RELEASE",
+        "OMEGA 3",
+        "MAGNESIUM OXIDE.",
+        "XYREM",
+        "MULTIVITAMINS",
+        "RELPAX",
+        "TEMAZEPAM.",
+        "VITAMIN E",
+        "CALCIUM + D",
+        "GABAPENTIN.",
+        "VITAMIN D3",
+        "XYREM",
+        "SODIUM IODIDE",
+        "TOPAMAX"
+      ],
+      "reactions": [
+        "Hypotension",
+        "Cardiac murmur"
+      ],
+      "report_id": "12763193"
+    },
+    {
+      "drugs": [
+        "LEVOTHYROXINE.",
+        "[I-131] SODIUM IODIDE",
+        "CHOLECALCIFEROL",
+        "[I-131] SODIUM IODIDE"
+      ],
+      "reactions": [
+        "Epistaxis",
+        "Rhinalgia",
+        "Sinusitis",
+        "Nasal dryness"
+      ],
+      "report_id": "12780292"
+    },
+    {
+      "drugs": [
+        "SODIUM IODIDE I-131",
+        "THYROXINE SUBSTITUTION",
+        "THYROXINE SUBSTITUTION",
+        "TC99M PERTECHNETATE",
+        "SODIUM IODIDE I-131",
+        "THIAMAZOL",
+        "SODIUM IODIDE I-131"
+      ],
+      "reactions": [
+        "Disturbance of thermoregulation of newborn",
+        "Memory impairment",
+        "Disturbance in attention",
+        "Foetal exposure during pregnancy",
+        "Congenital thyroid disorder"
+      ],
+      "report_id": "12975712"
+    },
+    {
+      "drugs": [
+        "SODIUM IODIDE I-131",
+        "THYROXINE REPLACEMENT THERAPY"
+      ],
+      "reactions": [
+        "Clinodactyly",
+        "Toxic goitre",
+        "Foetal growth restriction",
+        "Atrophy",
+        "Foetal exposure during pregnancy"
+      ],
+      "report_id": "12975718"
+    },
+    {
+      "drugs": [
+        "[I-131] SODIUM IODIDE",
+        "[I-131] SODIUM IODIDE",
+        "SORAFENIB",
+        "LEVOTHYROXINE.",
+        "[I-131] SODIUM IODIDE",
+        "[I-131] SODIUM IODIDE"
+      ],
+      "reactions": [
+        "Drug ineffective",
+        "False negative investigation result",
+        "Off label use"
+      ],
+      "report_id": "12994867"
+    },
+    {
+      "drugs": [
+        "SODIUM IODIDE I 131",
+        "LEVOTHYROXINE."
+      ],
+      "reactions": [
+        "Dacryostenosis acquired",
+        "Lacrimation increased"
+      ],
+      "report_id": "13027189"
+    },
+    {
+      "drugs": [
+        "PROPANOLOL                         /00030001/",
+        "NIFEDIPINE XL",
+        "METOPROLOL.",
+        "SODIUM IODIDE I-131"
+      ],
+      "reactions": [
+        "Acute psychosis",
+        "Myxoedema"
+      ],
+      "report_id": "13125127"
+    },
+    {
+      "drugs": [
+        "PROPYLTHIOURACIL.",
+        "SODIUM IODIDE I-131",
+        "PREDNISOLONE.",
+        "PROPYLTHIOURACIL."
+      ],
+      "reactions": [
+        "Acute psychosis",
+        "Hypothyroidism"
+      ],
+      "report_id": "13125911"
+    },
+    {
+      "drugs": [
+        "PREDNISONE.",
+        "MOMETASONE",
+        "SODIUM IODIDE (123I)",
+        "FORMOTEROL",
+        "AMOXICILLIN CLAVULANIC ACID",
+        "LEVOTHYROXINE."
+      ],
+      "reactions": [
+        "No adverse event",
+        "False positive investigation result"
+      ],
+      "report_id": "13356466"
+    },
+    {
+      "drugs": [
+        "DIAZEPAM.",
+        "COTRIMOXAZOLE",
+        "FRAXIPARINE",
+        "COPAXONE",
+        "CLARITINE",
+        "SOLU-MEDROL",
+        "PREDNISONE.",
+        "NEURONTIN (CZECH REPUBLIC)",
+        "ZYRTEC",
+        "KALNORMIN",
+        "LETROX",
+        "OCRELIZUMAB",
+        "OCRELIZUMAB",
+        "PREDNISONE.",
+        "DIFLUCAN",
+        "IBALGIN",
+        "MACMIROR COMPLEX",
+        "ORTANOL",
+        "AMOKSIKLAV",
+        "CLARITINE",
+        "SOLU-MEDROL",
+        "SOLU-MEDROL",
+        "PREDNISONE.",
+        "DIAZEPAM.",
+        "VIGANTOL",
+        "OCRELIZUMAB",
+        "OCRELIZUMAB",
+        "PLACEBO",
+        "OCRELIZUMAB",
+        "DIAZEPAM.",
+        "SINUPRET FORTE",
+        "LETROX",
+        "ZINNAT",
+        "CIPRINOL",
+        "PREDNISONE.",
+        "NEURONTIN (CZECH REPUBLIC)",
+        "DOXYBENE",
+        "THYROGEN",
+        "SODIUM IODIDE I-131",
+        "AKTIFERRIN (CZECH REPUBLIC)",
+        "OCRELIZUMAB",
+        "SOLU-MEDROL",
+        "SOLU-MEDROL",
+        "SOLU-MEDROL",
+        "SOLU-MEDROL",
+        "PREDNISONE.",
+        "DIFLUCAN",
+        "FRAMYKOIN (BACITRACIN ZINC/NEOMYCIN SULFATE)",
+        "ACYLPYRIN",
+        "OCRELIZUMAB",
+        "PARALEN (CZECH REPUBLIC)",
+        "ZODAC",
+        "METHYLPREDNISOLONE.",
+        "PREDNISONE.",
+        "PREDNISONE.",
+        "PREDNISONE.",
+        "OCRELIZUMAB"
+      ],
+      "reactions": [
+        "Cystitis"
+      ],
+      "report_id": "13451537"
+    },
+    {
+      "drugs": [
+        "LASIX",
+        "SODIUM IODIDE I 131"
+      ],
+      "reactions": [
+        "Hypothyroidism",
+        "Supraventricular tachycardia",
+        "Metastases to bone",
+        "Lung neoplasm malignant"
+      ],
+      "report_id": "13791294"
+    },
+    {
+      "drugs": [
+        "CLINOLEIC, EMULSION FOR INFUSION",
+        "WATER FOR INJECTION",
+        "POTASSIUM DI-H PHOSPHATE 1MMOL/ML",
+        "COPPER 100 MICROGRAM/ML",
+        "SODIUM IODIDE 51 MICROGRAM/ML",
+        "SODUM ACETATE",
+        "ZINC 2.5MG/ML",
+        "IRON SYRINGE 10 MICROMOL/ML",
+        "MANGANESE",
+        "CERNEVIT",
+        "SODIUM CHLORIDE 4MMOL/ML",
+        "MAGNESIUM SULFATE 2MMOL/ML",
+        "[PSS GPN] SELENIUM 30MCG/ML",
+        "GLUCOSE 70%",
+        "SYNTHAMIN",
+        "POTASSIUM ACETATE 5MMOL/ML",
+        "[PSS GPN]CHROMIUM 3.2MCG/ML",
+        "CALCIUM GLUCONATE 0.15MMOL/ML",
+        "THYROXINE"
+      ],
+      "reactions": [
+        "Manganese increased"
+      ],
+      "report_id": "13792590"
+    },
+    {
+      "drugs": [
+        "PROTONIX                           /00661201/",
+        "PRENATAL VITAMINS                  /02014401/",
+        "EXCEDRIN MIGRAINE",
+        "ZYRTEC",
+        "SODIUM IODIDE (123I)",
+        "PROBIOTIC                          /06395501/"
+      ],
+      "reactions": [
+        "Throat irritation",
+        "Anxiety",
+        "Pharyngeal oedema",
+        "Oropharyngeal pain",
+        "Radioisotope scan abnormal"
+      ],
+      "report_id": "13873255"
+    },
+    {
+      "drugs": [
+        "SODUM ACETATE",
+        "SODUM ACETATE",
+        "COPPER 100MCG/ML",
+        "CHROMIUM",
+        "SELENIUM 30MCG/ML",
+        "SODIUM IODIDE 51 MICROGRAM/ML",
+        "SODIUM IODIDE 51 MICROGRAM/ML",
+        "SODIUM CHLORIDE 4MMOL/ML",
+        "MAGNESIUM SULFATE 2MMOL/ML",
+        "WATER FOR INJECTION",
+        "SELENIUM 30MCG/ML",
+        "CLINOLEIC, EMULSION FOR INFUSION",
+        "GLUCOSE 70%",
+        "SOLUVIT N",
+        "VITALIPID ADULT",
+        "POTASSIUM ACETATE 5MMOL/ML",
+        "MAGNESIUM SULFATE 2MMOL/ML",
+        "COPPER 100MCG/ML",
+        "CERNEVIT",
+        "VITALIPID ADULT",
+        "CHROMIUM",
+        "CALCIUM GLUCONATE 0.15MMOL/ML",
+        "WATER FOR INJECTION",
+        "SOLUVIT N",
+        "POTASSIUM ACETATE 5MMOL/ML",
+        "IRON SYRINGE 10MICROMOL/ML",
+        "SYNTHAMIN",
+        "CERNEVIT",
+        "POTASSIUM DI-H PHOSPHATE 1MMOL/ML",
+        "IRON SYRINGE 10MICROMOL/ML",
+        "ZINC 2.5MG/ML",
+        "CALCIUM GLUCONATE 0.15MMOL/ML",
+        "SODIUM CHLORIDE 4MMOL/ML",
+        "CLINOLEIC, EMULSION FOR INFUSION",
+        "SYNTHAMIN",
+        "GLUCOSE 70%",
+        "POTASSIUM DI-H PHOSPHATE 1MMOL/ML",
+        "ZINC 2.5MG/ML"
+      ],
+      "reactions": [
+        "Bile output increased",
+        "Dyspnoea",
+        "Energy increased",
+        "Headache",
+        "Gastrooesophageal reflux disease",
+        "Vitamin B6 increased",
+        "Arthralgia"
+      ],
+      "report_id": "13893239"
+    },
+    {
+      "drugs": [
+        "CISPLATIN.",
+        "MIRIPLATIN",
+        "SITAGLIPTIN PHOSPHATE",
+        "ISOLEUCINE",
+        "SORAFENIB (RAF KINASE INHIBITOR)",
+        "SORAFENIB (RAF KINASE INHIBITOR)",
+        "DOXAZOSIN",
+        "SORAFENIB (RAF KINASE INHIBITOR)",
+        "DILTIAZEM HYDROCHLORIDE.",
+        "LANSOPRAZOLE.",
+        "SORAFENIB (RAF KINASE INHIBITOR)",
+        "SORAFENIB (RAF KINASE INHIBITOR)",
+        "URSODIOL.",
+        "GLICLAZIDE",
+        "MAGNESIUM OXIDE.",
+        "OLMESARTAN",
+        "SORAFENIB (RAF KINASE INHIBITOR)",
+        "IODINE [IODINE,SODIUM IODIDE]"
+      ],
+      "reactions": [
+        "Tremor",
+        "Gait disturbance",
+        "Liver function test decreased",
+        "Hepatic encephalopathy",
+        "Communication disorder",
+        "Somnolence"
+      ],
+      "report_id": "14156744"
+    },
+    {
+      "drugs": [
+        "SODIUM IODIDE (I131) CAPSULE T",
+        "SODIUM IODIDE (I131) CAPSULE T"
+      ],
+      "reactions": [
+        "Radiation overdose",
+        "Drug administration error",
+        "Drug monitoring procedure not performed",
+        "Incorrect dose administered"
+      ],
+      "report_id": "14914823"
+    },
+    {
+      "drugs": [
+        "SODIUM IODIDE I 123",
+        "ACETAMINOPHEN.",
+        "SODIUM PERTECHNETATE TC 99M",
+        "METHYLPHENIDATE."
+      ],
+      "reactions": [
+        "Skin tightness",
+        "Throat tightness",
+        "Rash",
+        "Rash",
+        "Dyspnoea",
+        "Rash erythematous",
+        "Flushing"
+      ],
+      "report_id": "15050360"
+    },
+    {
+      "drugs": [
+        "SODIUM IODIDE I-131.",
+        "SODIUM IODIDE I-131.",
+        "SODIUM IODIDE I-131.",
+        "SODIUM IODIDE I-131."
+      ],
+      "reactions": [
+        "Bone marrow failure",
+        "Febrile neutropenia",
+        "Hypotension",
+        "Pancytopenia"
+      ],
+      "report_id": "15057078"
+    },
+    {
+      "drugs": [
+        "LEVOTHYROXINE.",
+        "SODIUM IODIDE I 131"
+      ],
+      "reactions": [
+        "Keratoconus"
+      ],
+      "report_id": "15089654"
+    },
+    {
+      "drugs": [
+        "CALCIUM CHANNEL BLOCKERS",
+        "?-ADRENERGIC RECEPTOR ANTAGONIST",
+        "SODIUM IODIDE I-131."
+      ],
+      "reactions": [
+        "Bradycardia",
+        "Vomiting",
+        "Tremor",
+        "Hypotension",
+        "Nodal rhythm",
+        "Thyrotoxic crisis",
+        "Abdominal pain",
+        "Tachycardia",
+        "Atrioventricular block complete",
+        "Pyrexia"
+      ],
+      "report_id": "15211021"
+    },
+    {
+      "drugs": [
+        "TOFACITINIB CITRATE",
+        "TOFACITINIB CITRATE",
+        "METHOTREXATE",
+        "SEA KELP",
+        "ARMOUR THYROID",
+        "LOSARTAN",
+        "METFORMIN",
+        "VITAMIN E",
+        "OMEGA 3-6-9",
+        "JANUVIA",
+        "FOLIC ACID"
+      ],
+      "reactions": [
+        "Osteomyelitis"
+      ],
+      "report_id": "10003642"
+    },
+    {
+      "drugs": [
+        "FOLIC ACID.",
+        "CLOVE OIL",
+        "CHROMIUM/CINNAMON",
+        "HYDROCODONE W/ACETAMINOPHEN",
+        "ESTROVEN MAX STRENGTH",
+        "XANAX",
+        "ARMOUR THYROID",
+        "PREMARIN",
+        "KELP",
+        "HYDROCODONE W/ACETAMINOPHEN",
+        "XANAX",
+        "FLEXERIL",
+        "ASPIRIN."
+      ],
+      "reactions": [
+        "Weight decreased"
+      ],
+      "report_id": "10098481"
+    },
+    {
+      "drugs": [
+        "ARMOUR THYROID",
+        "XANAX",
+        "ASPIRIN.",
+        "XANAX",
+        "LYRICA",
+        "HYDROCODONE BIT/APAP",
+        "FOLIC ACID.",
+        "CINNAMON PLUS CHROMIUM",
+        "HYDROCODONE BIT/APAP",
+        "FLEXERIL",
+        "PREMARIN",
+        "LYRICA",
+        "GABAPENTIN.",
+        "ESTROVEN MAX STRENGTH",
+        "CLOVE OIL",
+        "GABAPENTIN.",
+        "KELP"
+      ],
+      "reactions": [
+        "Exercise tolerance decreased",
+        "Alopecia",
+        "Insomnia",
+        "Decreased activity"
+      ],
+      "report_id": "10101264"
+    },
+    {
+      "drugs": [
+        "PRIVIGEN",
+        "RAMIPRIL",
+        "FOSAMAX",
+        "SYNTHROID",
+        "VITAMINS",
+        "MAGNESIUM",
+        "VITAMIN D",
+        "FISH OIL",
+        "KELP"
+      ],
+      "reactions": [
+        "Wheezing",
+        "Blood pressure increased",
+        "Flushing",
+        "Dyspnoea",
+        "Chest discomfort"
+      ],
+      "report_id": "10135984"
+    },
+    {
+      "drugs": [
+        "SPIRIVA",
+        "SPIRIVA",
+        "CHANTIX",
+        "ALLEGRA",
+        "PROTONIX",
+        "PROTONIX",
+        "METOPROLOL TARTRATE",
+        "SINGULAIR",
+        "CLOBETASOL WITH CERVAE",
+        "VITAMIN D",
+        "KELP",
+        "CIDER VINEGAR",
+        "B6",
+        "COMBIVENT"
+      ],
+      "reactions": [
+        "Vision blurred",
+        "Amnesia",
+        "Off label use"
+      ],
+      "report_id": "10171898"
+    },
+    {
+      "drugs": [
+        "CALCIUM-VITAMIN D",
+        "POLYETHYLENE GLUCOL POWDER",
+        "CYANOCOLABALMIN",
+        "NIFEDIPINE",
+        "POLYVINYL ALCOHOL-POVIDONE",
+        "SODIUM CHLORIDE",
+        "AVAPRO",
+        "MAPAP (ACETAMINOPHEN)",
+        "DOCUSATE SODIUM (COLACE)",
+        "RED YEAST RICE",
+        "MENTHOL (TOPICALANALGESIC)",
+        "VALSARTAN (DIOVAN)",
+        "METOPROLOL (TOPROL-XL)",
+        "ASPIRIN",
+        "GABAPENTIN",
+        "KELP PO",
+        "ACETIC ACID"
+      ],
+      "reactions": [
+        "Visual impairment",
+        "Ill-defined disorder"
+      ],
+      "report_id": "10214022"
+    },
+    {
+      "drugs": [
+        "BENICAR",
+        "MAPAP  (ACETAMINOPHEN)",
+        "DOCUSATE SODIUM (COLACE)",
+        "RED YEAST RICE",
+        "MENTHOL (TOPICAL ANALGESIC)",
+        "VALSARTAN",
+        "METOPROLOL",
+        "ASPIRIN",
+        "GABAPENTIN",
+        "KELP",
+        "ACETIC ACID",
+        "CALCIUM-VITAMIN D",
+        "POLYETHYLENE GLYCOL",
+        "CYANOCOBALAMIN",
+        "NIFEDIPINE",
+        "POLYVINYL ALCOHOL-POVIDONE",
+        "SODIUM CHLORIDE"
+      ],
+      "reactions": [
+        "Arthralgia",
+        "Unevaluable event"
+      ],
+      "report_id": "10214046"
+    },
+    {
+      "drugs": [
+        "BENZOTROPINE",
+        "CALCIUM/ MAGNESIUM",
+        "VENTOLIN",
+        "BENZTROPINE",
+        "ZOLOFT",
+        "KELP WITH FOLIC ACID",
+        "QUINAPRIL",
+        "BRONKAID",
+        "TRAMADOL",
+        "VITAMIN B COMPLEX",
+        "LATUDA",
+        "TRAZODONE",
+        "PROBIOTIC",
+        "GLUCOSIMINE"
+      ],
+      "reactions": [
+        "Muscular weakness",
+        "Dyskinesia",
+        "Dizziness",
+        "Dysstasia",
+        "Impaired work ability",
+        "Hallucination, visual",
+        "Tremor",
+        "Activities of daily living impaired",
+        "Paraesthesia"
+      ],
+      "report_id": "10301214"
+    },
+    {
+      "drugs": [
+        "KELP /01045501/",
+        "LEVOTHYROXINE SODIUM TABLETS, USP",
+        "VITAMIN D",
+        "MELATONIN",
+        "MULTI DAY MULTIVITAMIN PLUS IRON"
+      ],
+      "reactions": [
+        "Abnormal behaviour"
+      ],
+      "report_id": "10340909"
+    },
+    {
+      "drugs": [
+        "GARLIC EXTRACT",
+        "ERGOCALCIFEROL.",
+        "UBIQUINOL",
+        "FEXOFENADINE/FEXOFENADINE HYDROCHLORIDE",
+        "MAGNESIUM HYDROXIDE.",
+        "OXITRIPTAN",
+        "COD-LIVER OIL",
+        "KELP",
+        "GABAPENTIN.",
+        "SAGE.",
+        "MENOPACE",
+        "CYANOCOBALAMIN.",
+        "CARNITINE/CARNITINE HYDROCHLORIDE",
+        "NALTREXONE/NALTREXONE HYDROCHLORIDE",
+        "SULFASALAZINE."
+      ],
+      "reactions": [
+        "Dry eye",
+        "Pharyngeal oedema",
+        "Condition aggravated",
+        "Oral discomfort",
+        "Lip swelling",
+        "Abdominal distension",
+        "Photosensitivity reaction",
+        "Eye irritation",
+        "Spondylitis",
+        "Drug ineffective",
+        "Post viral fatigue syndrome"
+      ],
+      "report_id": "10359015"
+    },
+    {
+      "drugs": [
+        "COQ10",
+        "OMEGA 3",
+        "COPAXONE",
+        "KELP",
+        "COPAXONE",
+        "VITAMIN D"
+      ],
+      "reactions": [
+        "Alopecia"
+      ],
+      "report_id": "10487724"
+    },
+    {
+      "drugs": [
+        "ALEVE",
+        "FISH OIL",
+        "ALLOPURINOL.",
+        "MULTIVITAMIN                       /07504101/",
+        "KELP                               /01214901/",
+        "LISINOPRIL.",
+        "JAKAFI",
+        "HYDREA"
+      ],
+      "reactions": [
+        "Death"
+      ],
+      "report_id": "10509008"
+    },
+    {
+      "drugs": [
+        "RITUXIMAB",
+        "HYDROCHLOROTHIAZIDE.",
+        "KELP /01045501/",
+        "OMEPRAZOLE.",
+        "TELMISARTAN.",
+        "NASONEX",
+        "BENDAMUSTINE HYDOCHLORIDE",
+        "BENDAMUSTINE HYDOCHLORIDE",
+        "WELCHOL",
+        "ALOXI",
+        "ACETAMINOPHEN.",
+        "ASPIRIN.",
+        "SELENIUM",
+        "DIPHENHYDRAMINE",
+        "RITUXIMAB"
+      ],
+      "reactions": [
+        "Sepsis",
+        "Central nervous system lymphoma",
+        "Tooth abscess"
+      ],
+      "report_id": "10555460"
+    },
+    {
+      "drugs": [
+        "SUMAVEL DOSEPRO",
+        "LIDOCAINE TOPICAL",
+        "SPIRONOLACTONE.",
+        "TRAZODONE",
+        "XANAX",
+        "ESTRADIOL PATCH",
+        "IODINE (SEA KELP)",
+        "PHENERGAN",
+        "VITAMIN B COMPLEX",
+        "BOTOX",
+        "VITAMIN B12",
+        "LIDODERM (LIDOCAINE PATCH)",
+        "MULTIVITAMIN WITH MINERALS:",
+        "VITAMIN D3",
+        "ZOMIG (SOLMITRIPTAN)",
+        "(ZOVIRAX) ACYCLOVIR",
+        "NORCO (HYDROCONDONE-APA)"
+      ],
+      "reactions": [
+        "Trismus",
+        "Pain in jaw",
+        "Headache"
+      ],
+      "report_id": "10745628"
+    },
+    {
+      "drugs": [
+        "KELP",
+        "FUROSEMIDE.",
+        "LEVOTHYROXINE SODIUM.",
+        "POTASSIUM CHLORIDE."
+      ],
+      "reactions": [
+        "Iodine overload",
+        "Chest pain",
+        "Pain in extremity"
+      ],
+      "report_id": "10753281"
+    },
+    {
+      "drugs": [
+        "KELP",
+        "VALACYCLOVIR",
+        "METOPROLOL",
+        "PACERONE",
+        "BABY ASPIRIN"
+      ],
+      "reactions": [
+        "Vision blurred",
+        "Visual acuity reduced"
+      ],
+      "report_id": "10783398"
+    },
+    {
+      "drugs": [
+        "VITAMIN B",
+        "PROBIOTICS NOS",
+        "MULTIVITAMIN",
+        "HUMIRA",
+        "KELP",
+        "VITAMIN D",
+        "HUMIRA"
+      ],
+      "reactions": [
+        "Drug ineffective",
+        "Gastrointestinal haemorrhage",
+        "Gastric ulcer",
+        "Intestinal polyp"
+      ],
+      "report_id": "10813841"
+    },
+    {
+      "drugs": [
+        "VITAMIN E",
+        "HUMIRA",
+        "HUMIRA",
+        "ATENOLOL.",
+        "HCTZ",
+        "POTASSIUM",
+        "DIPHENOXYLATE/ATROPINE",
+        "LOSARTAN",
+        "VITAMIN D",
+        "FIBERCON",
+        "MAGNESIUM",
+        "OMEGA 3",
+        "KELP",
+        "HUMIRA",
+        "BIOTIN",
+        "FERROUS SULFATE",
+        "OMEPRAZOLE.",
+        "COQ 10"
+      ],
+      "reactions": [
+        "Injection site bruising",
+        "Injection site pain",
+        "Injection site swelling"
+      ],
+      "report_id": "10831399"
+    },
+    {
+      "drugs": [
+        "IRON",
+        "BOTOX COSMETIC",
+        "KELP",
+        "BOTOX COSMETIC",
+        "BOTOX COSMETIC",
+        "SUMATRIPTAN.",
+        "VITAMIN D3"
+      ],
+      "reactions": [
+        "Photosensitivity reaction",
+        "Injection site pain",
+        "Temporomandibular joint syndrome",
+        "Facial pain",
+        "Migraine",
+        "Periorbital oedema",
+        "Eye pain",
+        "Eyelid oedema"
+      ],
+      "report_id": "10852628"
+    },
+    {
+      "drugs": [
+        "VITAMIN D3",
+        "GABAPENTIN 300MG",
+        "GINKGO BILOBA",
+        "KELP                               /01214901/",
+        "COENZYME Q10",
+        "VITAMIN B12",
+        "MAGNESIUM",
+        "MULTIVITAMIN                       /07504101/"
+      ],
+      "reactions": [
+        "Chest pain",
+        "Skin atrophy",
+        "Paraesthesia",
+        "Alopecia",
+        "Feeling abnormal",
+        "Insomnia",
+        "Drug withdrawal syndrome",
+        "Anxiety",
+        "Decreased interest",
+        "Mood altered",
+        "Abdominal distension",
+        "Headache",
+        "Wheezing",
+        "Palpitations",
+        "Depression",
+        "Nausea"
+      ],
+      "report_id": "10852855"
+    },
+    {
+      "drugs": [
+        "GEMFIBROZIL.",
+        "SPIRULINA (GNC)",
+        "WOMEN^S ULTRA MEGA (GNC)",
+        "SIMVASTATIN.",
+        "HYDROCHLOROTHIAZIDE.",
+        "KELP (GNC)",
+        "LISINOPRIL 20 MG",
+        "LISINOPRIL 20 MG",
+        "CARVEDILOL."
+      ],
+      "reactions": [
+        "Insomnia",
+        "Depression",
+        "Burning sensation",
+        "Cough",
+        "Chest pain"
+      ],
+      "report_id": "10866186"
+    },
+    {
+      "drugs": [
+        "COENZYME Q10",
+        "MAGNESIUM",
+        "MULTIVITAMINUM",
+        "GINKGO BILOBA",
+        "KELP                               /01214901/",
+        "VITAMIN D3",
+        "GABAPENTIN.",
+        "VITAMIN B12"
+      ],
+      "reactions": [
+        "Mood altered",
+        "Alopecia",
+        "Chest pain",
+        "Drug withdrawal syndrome",
+        "Abdominal distension",
+        "Decreased interest",
+        "Headache",
+        "Nausea",
+        "Wheezing",
+        "Palpitations",
+        "Product use issue",
+        "Feeling abnormal",
+        "Skin atrophy",
+        "Depression",
+        "Paraesthesia",
+        "Anxiety",
+        "Insomnia"
+      ],
+      "report_id": "10869666"
+    },
+    {
+      "drugs": [
+        "GABAPENTIN.",
+        "COENZYME Q10",
+        "GINKGO BILOBA",
+        "KELP",
+        "MAGNESIUM",
+        "VITAMIN B12",
+        "MULTIVITAMIN",
+        "VITAMIN D3"
+      ],
+      "reactions": [
+        "Anxiety",
+        "Nausea",
+        "Chest pain",
+        "Decreased interest",
+        "Alopecia",
+        "Paraesthesia",
+        "Feeling abnormal",
+        "Headache",
+        "Abdominal distension",
+        "Skin atrophy",
+        "Mood altered",
+        "Insomnia",
+        "Depression",
+        "Wheezing",
+        "Palpitations",
+        "Drug withdrawal syndrome"
+      ],
+      "report_id": "10870234"
+    },
+    {
+      "drugs": [
+        "VITAMIN B12",
+        "GABAPENTIN.",
+        "VITAMIN D3",
+        "GINKGO BILOBA",
+        "KELP",
+        "MULTIVITAMINS",
+        "COENZYME Q10",
+        "MAGNESIUM"
+      ],
+      "reactions": [
+        "Skin atrophy",
+        "Drug withdrawal syndrome",
+        "Anxiety",
+        "Abdominal distension",
+        "Alopecia",
+        "Wheezing",
+        "Paraesthesia",
+        "Feeling abnormal",
+        "Nausea",
+        "Palpitations",
+        "Insomnia",
+        "Decreased interest",
+        "Mood altered",
+        "Chest pain",
+        "Headache",
+        "Depression"
+      ],
+      "report_id": "10871431"
+    },
+    {
+      "drugs": [
+        "MAGNESIUM",
+        "COENZYME Q10",
+        "VITAMIN B12",
+        "KELP",
+        "GABAPENTIN.",
+        "GINKGO BILOBA",
+        "VITAMIN D3"
+      ],
+      "reactions": [
+        "Skin atrophy",
+        "Decreased interest",
+        "Mood altered",
+        "Palpitations",
+        "Anxiety",
+        "Nausea",
+        "Paraesthesia",
+        "Chest pain",
+        "Abdominal distension",
+        "Alopecia",
+        "Depression",
+        "Headache",
+        "Feeling abnormal",
+        "Wheezing",
+        "Drug withdrawal syndrome",
+        "Insomnia"
+      ],
+      "report_id": "10874321"
+    },
+    {
+      "drugs": [
+        "PRAVISATIN",
+        "ASPIRIN.",
+        "UABRTALOL",
+        "KELP",
+        "CALCIUM",
+        "AMITRIPTYLINE",
+        "CENTUM SILVER",
+        "VITAMIN D",
+        "CHLORHEXIDINE RINSE",
+        "PROLIA",
+        "FUROSEMIDE.",
+        "TRIAMCINOLONE"
+      ],
+      "reactions": [
+        "Pain in jaw",
+        "Noninfective gingivitis",
+        "Pain",
+        "Weight decreased"
+      ],
+      "report_id": "10881654"
+    },
+    {
+      "drugs": [
+        "VITAMIN B12",
+        "COENZYME Q10",
+        "GABAPENTIN (UNKNOWN)",
+        "GINKGO BILOBA",
+        "VITAMIN D3",
+        "KELP                               /01214901/",
+        "MAGNESIUM"
+      ],
+      "reactions": [
+        "Headache",
+        "Abdominal distension",
+        "Alopecia",
+        "Insomnia",
+        "Decreased interest",
+        "Chest pain",
+        "Depression",
+        "Skin atrophy",
+        "Feeling abnormal",
+        "Drug withdrawal syndrome",
+        "Palpitations",
+        "Paraesthesia",
+        "Mood altered",
+        "Anxiety",
+        "Nausea",
+        "Wheezing"
+      ],
+      "report_id": "10885710"
+    },
+    {
+      "drugs": [
+        "KELP                               /01045501/",
+        "MAGNESIUM",
+        "MULTIVITAMIN                       /00097801/",
+        "GINKGO BILOBA",
+        "COENZYME Q10",
+        "GABAPENTIN.",
+        "VITAMIN B12",
+        "VITAMIN D3"
+      ],
+      "reactions": [
+        "Depression",
+        "Chest pain",
+        "Drug withdrawal syndrome",
+        "Wheezing",
+        "Abdominal distension",
+        "Decreased interest",
+        "Palpitations",
+        "Feeling abnormal",
+        "Insomnia",
+        "Alopecia",
+        "Headache",
+        "Mood altered",
+        "Anxiety",
+        "Skin atrophy",
+        "Nausea",
+        "Paraesthesia"
+      ],
+      "report_id": "10888259"
+    },
+    {
+      "drugs": [
+        "VITAMIN D3",
+        "KELP",
+        "MAGNESIUM",
+        "MULTIVITAMIN",
+        "GABAPENTIN.",
+        "GINKGO BILOBA",
+        "COENZYME Q10",
+        "VITAMIN B12"
+      ],
+      "reactions": [
+        "Depression",
+        "Insomnia",
+        "Palpitations",
+        "Paraesthesia",
+        "Anxiety",
+        "Abdominal distension",
+        "Chest pain",
+        "Headache",
+        "Feeling abnormal",
+        "Nausea",
+        "Alopecia",
+        "Decreased interest",
+        "Wheezing",
+        "Skin atrophy",
+        "Drug withdrawal syndrome",
+        "Mood altered"
+      ],
+      "report_id": "10890386"
+    },
+    {
+      "drugs": [
+        "CHLORHEXIDINE GLUCONATE.",
+        "CITALOPRAM",
+        "ALKA SELTXER FOR COLDS",
+        "TUSSIN DM MAX NON DROWSY",
+        "CHLORHEXIDINE GLUCONATE.",
+        "ALKA-SELTZER PLUS NOS",
+        "KELP",
+        "MULTI VITAMIN",
+        "BUSPIRONE",
+        "VICKS MEDICATED CHEST RUB",
+        "COUGH DROPS",
+        "CHLORELLA VULGARIS",
+        "SPIRILINI"
+      ],
+      "reactions": [
+        "Ear congestion",
+        "Rhinorrhoea",
+        "Oropharyngeal pain",
+        "Tongue disorder",
+        "Sinus disorder",
+        "Cough",
+        "Increased upper airway secretion",
+        "Ear discomfort",
+        "Hypersensitivity"
+      ],
+      "report_id": "10897588"
+    },
+    {
+      "drugs": [
+        "LISINOPRIL.",
+        "TOPROL XL",
+        "TOPROL XL",
+        "TOPROL XL",
+        "TOPROL XL",
+        "TOPROL XL",
+        "LISINOPRIL.",
+        "TOPROL XL",
+        "TOPROL XL",
+        "VITAMIN D",
+        "ASPIRIN.",
+        "KELP",
+        "TOPROL XL",
+        "VITAMIN B12",
+        "MULTIVITAMIN"
+      ],
+      "reactions": [
+        "Intentional product misuse",
+        "Off label use",
+        "Tooth erosion",
+        "Abdominal discomfort",
+        "Gastrooesophageal reflux disease",
+        "Dyspepsia"
+      ],
+      "report_id": "10897816"
+    },
+    {
+      "drugs": [
+        "MORPHINE",
+        "MONTELUKAST",
+        "KELP",
+        "ALBUTEROL.",
+        "VITAMIN C",
+        "OMEPRAZOLE.",
+        "PROPRANOLOL",
+        "SERTRALINE",
+        "TYLENOL",
+        "SAPHRIS",
+        "LACTULOSE.",
+        "HYDROXYZINE",
+        "METHOTREXATE",
+        "SPIRONOLACTONE.",
+        "LORAZEPAM.",
+        "MVI",
+        "LASIX",
+        "NEURONTIN",
+        "K+",
+        "ESTRADIOL.",
+        "NTG",
+        "MEDROXYPROGESTERONE",
+        "TRAZODONE",
+        "ALBUTEROL."
+      ],
+      "reactions": [
+        "Pruritus",
+        "Product physical issue",
+        "Vomiting",
+        "Respiratory distress",
+        "Hallucination",
+        "Neuralgia",
+        "Rash",
+        "Nausea",
+        "Tongue biting",
+        "Illusion",
+        "Tremor",
+        "Bruxism"
+      ],
+      "report_id": "10915666"
+    },
+    {
+      "drugs": [
+        "STRATTERA",
+        "STRATTERA",
+        "FIBER",
+        "STRATTERA",
+        "FIBER",
+        "CHONDROITIN SULFATE (BOVINE)\\GLUCOSAMINE SULFATE",
+        "STRATTERA",
+        "MSM",
+        "ASPIRIN                            /00002701/",
+        "FISH OIL",
+        "STRATTERA",
+        "VITAMIN C",
+        "VITAMIN E 2000 IU PLUS SELENIUM",
+        "KELP                               /01214901/",
+        "CURCUMIN",
+        "B COMPLEX                          /00322001/"
+      ],
+      "reactions": [
+        "Incontinence",
+        "Libido decreased",
+        "Constipation",
+        "Polyuria"
+      ],
+      "report_id": "10926226"
+    },
+    {
+      "drugs": [
+        "NATURE-THROID",
+        "VITAMIN A",
+        "VITAMIN B",
+        "BYETTA",
+        "BYDUREON",
+        "GLUCOPHAGE",
+        "KELP",
+        "CLEANSMORE",
+        "VITAMIN D",
+        "ADRENAL"
+      ],
+      "reactions": [
+        "Nausea",
+        "Dizziness",
+        "Constipation",
+        "Decreased appetite",
+        "Asthenia",
+        "Device use error",
+        "Abdominal distension",
+        "Weight fluctuation",
+        "Alopecia",
+        "Needle issue",
+        "Headache",
+        "Malaise",
+        "Underdose"
+      ],
+      "report_id": "10975347"
+    },
+    {
+      "drugs": [
+        "METOPROLOL",
+        "DIGOX",
+        "XARELTO",
+        "MAGNESIUM",
+        "LISINOPRIL.",
+        "XARELTO",
+        "ARMOUR THYROID",
+        "XARELTO",
+        "XARELTO",
+        "KELP",
+        "COQ10",
+        "MAGNESIUM",
+        "CARTIA XT",
+        "ARMOUR THYROID"
+      ],
+      "reactions": [
+        "Paraesthesia",
+        "Peripheral swelling",
+        "Asthenia"
+      ],
+      "report_id": "11032508"
+    },
+    {
+      "drugs": [
+        "DUREZOL",
+        "BUPROPION.",
+        "ZINC",
+        "CELECOXIB.",
+        "FLUCONAZOLE.",
+        "DEXAMETHASONE.",
+        "IODINE",
+        "KELP",
+        "MELATONIN",
+        "VIGAMOX",
+        "COENZYME Q10",
+        "GINSENG",
+        "ILEVRO",
+        "ILEVRO",
+        "MOVIPREP",
+        "AZITHROMYCIN",
+        "TRAZODONE",
+        "TETRACAINE",
+        "TEA",
+        "REVLIMID",
+        "REVLIMID",
+        "REVLIMID",
+        "MILK THISTLE",
+        "REVLIMID",
+        "VITAMIN D",
+        "GARLIC."
+      ],
+      "reactions": [
+        "Memory impairment",
+        "Hypoaesthesia",
+        "Cataract",
+        "Pain in extremity"
+      ],
+      "report_id": "11039972"
+    },
+    {
+      "drugs": [
+        "JAKAFI",
+        "FOLIC ACID.",
+        "KELP                               /01214901/",
+        "SILICA",
+        "QUERCETIN",
+        "JAKAFI",
+        "PREDNISONE.",
+        "ALDACTONE",
+        "MULTIVITAMIN                       /00097801/",
+        "VITAMIN B COMPLEX",
+        "COENZYME Q10",
+        "JAKAFI",
+        "PREDNISONE.",
+        "FLUZONE                            /00780601/",
+        "ZINC",
+        "CARNITINE",
+        "DOXYCYCLINE.",
+        "LASIX",
+        "ALLOPURINOL.",
+        "FLUZONE                            /00780601/",
+        "MUCINEX",
+        "OMEGA 3 FISH OIL                   /01334101/",
+        "PROCRIT",
+        "CURCUMIN",
+        "THALOMID",
+        "ALBUTEROL                          /00139501/",
+        "LUMIGAN",
+        "METHYLSULFONYLMETHANE",
+        "NEURONTIN",
+        "TURMERIC                           /01079602/",
+        "VITAMIN D                          /00107901/",
+        "LASIX",
+        "ASPIRIN.",
+        "OMEPRAZOLE.",
+        "PROBIOTIC                          /06395501/",
+        "SILVADENE",
+        "XANAX",
+        "CRANBERRY                          /01512301/",
+        "IODINE",
+        "HAWTHORN                           /01349301/",
+        "LASIX",
+        "ALPHA LIPOIC ACID",
+        "MAGNESIUM",
+        "METOPROLOL TARTRATE.",
+        "LASIX",
+        "VITAMIN C"
+      ],
+      "reactions": [
+        "Skin lesion",
+        "Fatigue",
+        "Rash",
+        "Cellulitis",
+        "Cough",
+        "Upper respiratory tract infection",
+        "Asthenia",
+        "Skin abrasion",
+        "Pulmonary hypertension",
+        "Mood altered",
+        "Lipoma",
+        "Hyperkalaemia",
+        "Wheezing",
+        "Waist circumference increased",
+        "Splenomegaly",
+        "Urinary incontinence",
+        "Musculoskeletal pain",
+        "Cardiac failure congestive",
+        "Dyspnoea",
+        "Visual impairment",
+        "Ecchymosis",
+        "Iron overload",
+        "Anaemia",
+        "Nasopharyngitis",
+        "Limb discomfort",
+        "Decreased appetite",
+        "Purpura"
+      ],
+      "report_id": "11045294"
+    },
+    {
+      "drugs": [
+        "ESTRADIOL.",
+        "CALCIUM",
+        "LOVASTATIN.",
+        "CARBIDOPA AND LEVODOPA",
+        "BENADRYL",
+        "VENTOLIN HFA",
+        "ALBUTEROL INHALATIONAL POWDER",
+        "LOBELIA",
+        "GUAIFENESIN.",
+        "KELP",
+        "MORPHINE",
+        "LORAZEPAM.",
+        "PREDNISONE.",
+        "ALLEGRA"
+      ],
+      "reactions": [
+        "Cough",
+        "Arthralgia",
+        "Dyspnoea",
+        "Drug hypersensitivity"
+      ],
+      "report_id": "11053129"
+    },
+    {
+      "drugs": [
+        "JANUVIA",
+        "METFORMIN",
+        "INVOKANA",
+        "S-ADENOSYLMETHIONINE SULFATE P-TOLUENESULFONATE",
+        "KELP",
+        "MULTIVITAMINS",
+        "LITHIUM OROTATE",
+        "ENALAPRIL"
+      ],
+      "reactions": [
+        "Dehydration",
+        "Antipsychotic drug level below therapeutic",
+        "Restlessness",
+        "Initial insomnia"
+      ],
+      "report_id": "11124611"
+    },
+    {
+      "drugs": [
+        "LOSARTAN",
+        "KELP",
+        "SOFOSBUVIR",
+        "ATORVASTATIN",
+        "OLYSIO",
+        "VITAMIN C",
+        "SILYMARIN",
+        "LOW DOSE ASPIRIN",
+        "LANTUS",
+        "VITAMIN D",
+        "VITAMIN B"
+      ],
+      "reactions": [
+        "Memory impairment",
+        "Tachyphrenia",
+        "Ammonia decreased",
+        "Glycosylated haemoglobin increased"
+      ],
+      "report_id": "11165581"
+    },
+    {
+      "drugs": [
+        "LYRICA",
+        "ARMOUR THYROID",
+        "KELP",
+        "D3",
+        "LYRICA",
+        "FLEXERIL",
+        "OXYCODONE",
+        "KRILL OIL",
+        "CINNAMON.",
+        "FOLIC ACID.",
+        "PERCOCET",
+        "COCONUT OIL",
+        "LYRICA",
+        "PREMARIN",
+        "XANAX",
+        "FLEXERIL",
+        "XANAX",
+        "CHROMIUM"
+      ],
+      "reactions": [
+        "Headache",
+        "Back disorder",
+        "Diarrhoea",
+        "Nausea"
+      ],
+      "report_id": "11174463"
+    },
+    {
+      "drugs": [
+        "PREDNISONE.",
+        "KENALOG",
+        "NORVASC",
+        "ASPIRIN.",
+        "MINERALS NOS",
+        "SUPER KELP",
+        "XTANDI",
+        "AVODART",
+        "LUPRON",
+        "VITAMINS                           /00067501/",
+        "ESTRACE"
+      ],
+      "reactions": [
+        "Dyspnoea"
+      ],
+      "report_id": "11181976"
+    },
+    {
+      "drugs": [
+        "PIOLITAZONE",
+        "USP KELP",
+        "BYDUREON",
+        "METFORMIN",
+        "LISINOPRIL."
+      ],
+      "reactions": [
+        "Injection site extravasation",
+        "Blood glucose increased",
+        "Underdose",
+        "Drug dose omission",
+        "Injection site nodule",
+        "Injection site haemorrhage"
+      ],
+      "report_id": "11191348"
+    },
+    {
+      "drugs": [
+        "VITAMIN D",
+        "GARLIC.",
+        "KELP",
+        "FLAXSEED",
+        "NUTRITIONAL SUPPLEMENTS",
+        "VITAMIN E",
+        "CAPSICUM",
+        "KENALOG",
+        "POTASSIUM",
+        "OMEGA-3 ACIDS",
+        "MAGNESIUM",
+        "VITAMIN A",
+        "VITAMINS WITH MINERALS",
+        "VITAMIN B COMPLEX",
+        "VITAMIN C",
+        "PROBIOTICS",
+        "VITAMIN B12",
+        "HERBS",
+        "VANADYL SULFATE",
+        "PSYLLIUM"
+      ],
+      "reactions": [
+        "Anorectal discomfort",
+        "Paraesthesia",
+        "Gastritis",
+        "Tachycardia",
+        "Blood pressure increased",
+        "Infection"
+      ],
+      "report_id": "11220829"
+    },
+    {
+      "drugs": [
+        "MAGNESIUM OXIDE.",
+        "LOVAZA",
+        "VITAMIN D 3",
+        "KELP",
+        "VITAMIN B COMPLEX"
+      ],
+      "reactions": [
+        "Therapeutic response unexpected",
+        "Off label use"
+      ],
+      "report_id": "11231846"
+    },
+    {
+      "drugs": [
+        "KELP",
+        "VITAMIN C COMPLEX",
+        "JUXTAPID",
+        "JUXTAPID",
+        "VITAMIN E",
+        "CHROMIUM",
+        "FARXIGA",
+        "LISINOPRIL.",
+        "LANTUS",
+        "VITAMIN B COMPLEX",
+        "OMEGA",
+        "HUMALOG",
+        "BILBERRY",
+        "ASPIRIN.",
+        "OMEGA 3-6-9",
+        "CALCIUM +D"
+      ],
+      "reactions": [
+        "Influenza",
+        "Kidney infection",
+        "Sinusitis",
+        "Weight decreased",
+        "Therapy cessation",
+        "Inappropriate schedule of drug administration"
+      ],
+      "report_id": "11253216"
+    },
+    {
+      "drugs": [
+        "ORACEA",
+        "GROWBONE SUPPLEMENT",
+        "STRONTIUM",
+        "ULTRA G.L.A. (BORAGE OIL)",
+        "CALCIUM",
+        "FIORICET",
+        "SELENIUM",
+        "VITAMIN D3",
+        "FIORICET",
+        "KELP",
+        "ACIDOPHILUS (LACTOBACILLUS ACIDOPHILUS)",
+        "ZINC WITH COPPER",
+        "ALEVE (NAPROXEN)",
+        "VITAMIN K2",
+        "VITAMIN C",
+        "MAGNESIUM"
+      ],
+      "reactions": [
+        "Arthralgia",
+        "Pain"
+      ],
+      "report_id": "11289471"
+    },
+    {
+      "drugs": [
+        "LEVOTHYROXINE.",
+        "VITAMIN C",
+        "GLUCOSAMINE",
+        "KELP",
+        "GARLIC.",
+        "MAGNESIUM",
+        "VITAMIN B12",
+        "OREGANOL",
+        "ACIDOPHILUS",
+        "TRI-IODINE",
+        "VITAMIN D",
+        "L-CARNITINE",
+        "ULTIMATE FLORA",
+        "RESVERATROL",
+        "COQ10",
+        "GINKGO",
+        "XIFAXAN",
+        "OLIVE LEAF",
+        "COD LIVER OIL"
+      ],
+      "reactions": [
+        "Drug ineffective",
+        "Abnormal sensation in eye",
+        "Urinary incontinence",
+        "Joint swelling"
+      ],
+      "report_id": "11306271"
+    },
+    {
+      "drugs": [
+        "LINZESS",
+        "DETROL LA",
+        "VITAMIN B12",
+        "NEXIUM",
+        "VITAMIN B3",
+        "KELP",
+        "NEXIUM",
+        "BABY ASPIRIN",
+        "DETROL LA"
+      ],
+      "reactions": [
+        "Connective tissue disorder",
+        "Influenza",
+        "Body height decreased",
+        "Memory impairment",
+        "Vertigo",
+        "Fatigue",
+        "Condition aggravated",
+        "Thyroid disorder",
+        "Gastric disorder"
+      ],
+      "report_id": "11316485"
+    },
+    {
+      "drugs": [
+        "BTDS PATCH",
+        "METOPROLOL TARTRATE.",
+        "VITAMIN A                          /00056001/",
+        "VITAMIN D                          /00107901/",
+        "CALCIUM/VITAMIN D                  /01204201/",
+        "ZOLPIDEM TARTRATE.",
+        "B12-VITAMIIN",
+        "COPPER",
+        "BTDS PATCH",
+        "LOSARTAN.",
+        "RABEPRAZOLE",
+        "WARFARIN",
+        "XALATAN",
+        "MULTIVITAMINS",
+        "KELP                               /01214901/",
+        "DIGOXIN.",
+        "LIPITOR",
+        "AMLODIPINE",
+        "FOLIC ACID.",
+        "DOXYCYCLINE.",
+        "VITAMIN C"
+      ],
+      "reactions": [
+        "Activities of daily living impaired",
+        "Dysgraphia",
+        "Reading disorder",
+        "Memory impairment",
+        "Catatonia"
+      ],
+      "report_id": "11331571"
+    },
+    {
+      "drugs": [
+        "CELECOXIB 200 MG TEVA USA",
+        "CELECOXIB 200 MG TEVA USA",
+        "SODIUM NAPROXEN",
+        "ZOLPIDEM (AMBIEN GENERIC)",
+        "VITAMIN B COMPLEX",
+        "FISH OR FLAX SEED OIL",
+        "CALCIUM GEL",
+        "ONE-A-DAY NOS",
+        "LUTEIN",
+        "VITAMIN D3",
+        "ACETOMETOPHEN",
+        "CYMBALTA",
+        "VITAMIN C",
+        "SEA KELP (IODINE)",
+        "BLACK CHERRY CAPSULES",
+        "NORCO",
+        "BIOTIN",
+        "ASPIRIN."
+      ],
+      "reactions": [
+        "Balance disorder",
+        "Blood pressure increased",
+        "General physical health deterioration",
+        "Respiratory tract congestion",
+        "Chest discomfort"
+      ],
+      "report_id": "11416064"
+    },
+    {
+      "drugs": [
+        "Z-PACK",
+        "CHROMIUM",
+        "D-COMPLEX",
+        "KELP",
+        "VITAMIN D3",
+        "VITAMIN B COMPLEX",
+        "B 12 DROPS",
+        "GREEN TEA FAT BURNER",
+        "DESOXIMETASONE OINTMENT USP 0.05%",
+        "POTASSIUM",
+        "SUPER ENZYMES",
+        "MULTIVITAMINS",
+        "CLOBETASOL OINTMENT",
+        "MAGNESIUM",
+        "VITAMIN E",
+        "COENZYME Q10"
+      ],
+      "reactions": [
+        "Skin exfoliation",
+        "Scab",
+        "Erythema",
+        "Skin fissures",
+        "Skin discolouration",
+        "Skin hypertrophy",
+        "Pruritus",
+        "Tenderness"
+      ],
+      "report_id": "11417586"
+    },
+    {
+      "drugs": [
+        "VITAMIN C",
+        "VITAMIN E",
+        "VITAMIN B COMPLEX",
+        "VITAMIN A",
+        "GARLIC.",
+        "TAURINE",
+        "CO-Q10",
+        "DIFICID",
+        "PRADAXA",
+        "BLOOD THINNER",
+        "VITAMIN D3",
+        "OMEGA 3",
+        "KELP",
+        "OREGANOL"
+      ],
+      "reactions": [
+        "Nausea",
+        "Abasia",
+        "Gait disturbance",
+        "Dizziness",
+        "Balance disorder",
+        "Vomiting"
+      ],
+      "report_id": "11445349"
+    },
+    {
+      "drugs": [
+        "SAW PALMETTO",
+        "MOTRIN IB",
+        "GARLIC CAPSULES",
+        "GARLIC CAPSULES",
+        "KELP",
+        "BIOTIN"
+      ],
+      "reactions": [
+        "Pruritus generalised",
+        "Incorrect dose administered"
+      ],
+      "report_id": "11509887"
+    },
+    {
+      "drugs": [
+        "DEXILANT",
+        "DEXILANT",
+        "DEXILANT",
+        "CALCIUM",
+        "TOCOPHEROL",
+        "KELP                               /00082201/"
+      ],
+      "reactions": [
+        "Diarrhoea",
+        "Abdominal discomfort"
+      ],
+      "report_id": "11523330"
+    },
+    {
+      "drugs": [
+        "OPSUMIT",
+        "CARVEDILOL.",
+        "LASIX",
+        "KELP",
+        "ZANTAC",
+        "HYDROCHLOROTHIAZIDE.",
+        "CHROMIUM GTF",
+        "LEVOTHYROXINE."
+      ],
+      "reactions": [
+        "Flushing"
+      ],
+      "report_id": "11569849"
+    },
+    {
+      "drugs": [
+        "VIDAZA",
+        "KELP TABLETS"
+      ],
+      "reactions": [
+        "Hypothyroidism",
+        "Treatment failure",
+        "Haemochromatosis"
+      ],
+      "report_id": "11638548"
+    },
+    {
+      "drugs": [
+        "METFORMIN",
+        "DULERA",
+        "TAMSULOSIN",
+        "LEVOTHYROXINE.",
+        "LISINOPRIL.",
+        "CHLORPHENIRAMINE.",
+        "KELP",
+        "VITAMIN C (WITH ROSEHIPS)",
+        "CHLORPHENIRAMINE.",
+        "FLUNISOLIDE.",
+        "MIRTAZAPINE.",
+        "SIMVASTATIN."
+      ],
+      "reactions": [
+        "Bladder pain",
+        "Dysuria",
+        "Cystitis interstitial"
+      ],
+      "report_id": "11640287"
+    },
+    {
+      "drugs": [
+        "KELP",
+        "EFFEXOR XR",
+        "TRAZODONE",
+        "COENZYME Q10",
+        "EFFEXOR XR",
+        "VITAMIN E",
+        "MULTIVITAMIN",
+        "VITAMIN B COMPLEX",
+        "KLONOPIN",
+        "DHA WITH ETA 250 MG/100 MG",
+        "ACIDOPHILUS",
+        "PHENYTOIN SODIUM EXTENDED",
+        "TORIN"
+      ],
+      "reactions": [
+        "Dysarthria",
+        "Dizziness",
+        "Myalgia",
+        "Hair growth abnormal",
+        "Depression",
+        "Anxiety",
+        "Somnolence",
+        "Post-traumatic stress disorder",
+        "Rhinorrhoea",
+        "Insomnia",
+        "Sinus disorder",
+        "Tremor",
+        "Weight decreased",
+        "Ear congestion",
+        "Fatigue"
+      ],
+      "report_id": "11649368"
+    },
+    {
+      "drugs": [
+        "OLANZAPINE.",
+        "K",
+        "VITAMIN E",
+        "BIOTIN",
+        "LEMON TEA",
+        "HORESTAIL",
+        "VITAMIN B COMPLEX",
+        "NIACIN.",
+        "VITAM A",
+        "FLAXSEED",
+        "FISH OIL",
+        "CYSTEINE",
+        "GINGER TEA",
+        "IRON",
+        "SELENIUM",
+        "ENSURE (LACTOSE TOLERANT)",
+        "KELP",
+        "CHOLINE CHLORIDE",
+        "RIBOFLAVIN",
+        "CHAMOMILE",
+        "EARL GREY AND MILK THISTLE",
+        "SULFAMED/TRIMETHOPRIM",
+        "SADENOSYL-L-METHIONINE",
+        "B6",
+        "BLACKBERRY POMEGRANATE TEA",
+        "D3",
+        "GINKGO TEA"
+      ],
+      "reactions": [
+        "Diarrhoea",
+        "Liver disorder"
+      ],
+      "report_id": "11681652"
+    },
+    {
+      "drugs": [
+        "TRIE31E2.75E1.25 CREAM",
+        "OREGANO OIL",
+        "OMEGA-3 ACIDS",
+        "D3",
+        "ALINIA",
+        "CINNAMON.",
+        "GARLIC.",
+        "PROGESTERONE SR",
+        "TESTOS CREAM",
+        "METFORMIN",
+        "ALINIA",
+        "METRONIDAZOLE.",
+        "KELP"
+      ],
+      "reactions": [
+        "Gait disturbance",
+        "Fall",
+        "Middle insomnia",
+        "Arthralgia",
+        "Nasal congestion",
+        "Muscle strain",
+        "Disorientation",
+        "Head injury",
+        "Feeling abnormal",
+        "Syncope"
+      ],
+      "report_id": "11688929"
+    },
+    {
+      "drugs": [
+        "CALCIUM HYDROXYAPATITE CAPS",
+        "CIPROFLOXACIN.",
+        "HAWTHORN",
+        "KELP",
+        "GELATIN"
+      ],
+      "reactions": [
+        "Haemorrhage urinary tract",
+        "Drug ineffective",
+        "Bladder prolapse"
+      ],
+      "report_id": "11693099"
+    },
+    {
+      "drugs": [
+        "CLONAZEPAM (AELLC)",
+        "DILANTIN",
+        "EFFEXOR",
+        "CLONAZEPAM (AELLC)",
+        "DHA",
+        "TRAZODONE",
+        "MULTIVITAMIN                       /00097801/",
+        "VITAMIN B COMPLEX",
+        "VITAMIN E",
+        "COENZYME Q10",
+        "TORIN",
+        "KELP                               /01214901/",
+        "TRAZODONE",
+        "ACIDOPHILUS"
+      ],
+      "reactions": [
+        "Fatigue",
+        "Dizziness",
+        "Myalgia",
+        "Hypertrichosis",
+        "Insomnia",
+        "Sinus disorder",
+        "Dysarthria",
+        "Tremor",
+        "Unevaluable event"
+      ],
+      "report_id": "11702382"
+    },
+    {
+      "drugs": [
+        "FORTEO",
+        "DICYCLOMINE                        /00068601/",
+        "KELP",
+        "MORPHINE",
+        "VITAMIN B COMPLEX",
+        "VITAMIN E",
+        "FOLIC ACID.",
+        "LORATADINE.",
+        "IBUPROFEN                          /00109205/",
+        "FORTEO",
+        "LISINOPRIL.",
+        "MAGNESIUM",
+        "FORTEO",
+        "NITROFURANTOIN.",
+        "MUSCLE RELAXANTS",
+        "LYSINE",
+        "VITAMIN B12",
+        "LEXATIN",
+        "VITAMIN B1",
+        "LASIX",
+        "POTASSIUM CHLORIDE.",
+        "OMEPRAZOLE.",
+        "VITAMINS WITH MINERALS",
+        "OMEGA 3",
+        "CALCIUM",
+        "VITAMIN B6",
+        "PAIN RELIEF NOS"
+      ],
+      "reactions": [
+        "Back pain",
+        "Off label use",
+        "Drug hypersensitivity",
+        "Nausea"
+      ],
+      "report_id": "11709554"
+    },
+    {
+      "drugs": [
+        "KELP",
+        "FISH OIL",
+        "AMITRIPTYLINE",
+        "LEVOFLOXACIN 500MG JANSSEN",
+        "ZINC"
+      ],
+      "reactions": [
+        "Generalised anxiety disorder",
+        "Muscle contractions involuntary",
+        "Pain in extremity",
+        "Quality of life decreased",
+        "Neuropathy peripheral",
+        "Tremor"
+      ],
+      "report_id": "11723170"
+    },
+    {
+      "drugs": [
+        "TYLENOL",
+        "KELP",
+        "LISINOPRIL.",
+        "TAMSULOSIN 0.4MG",
+        "FINASTERIDE.",
+        "FOLIC ACID.",
+        "MYRBETRIQ",
+        "TAMSULOSIN",
+        "MELATONIN",
+        "FINASTERIDE 5MG",
+        "NACL TOOTHPASTE"
+      ],
+      "reactions": [
+        "Fear",
+        "Dry mouth",
+        "Dizziness",
+        "Activities of daily living impaired"
+      ],
+      "report_id": "11771856"
+    },
+    {
+      "drugs": [
+        "NASAL D",
+        "DAILY VITAMIN",
+        "LEVOTHYROXINE.",
+        "KELP (IODINE)"
+      ],
+      "reactions": [
+        "Ageusia",
+        "Anosmia"
+      ],
+      "report_id": "11798064"
+    },
+    {
+      "drugs": [
+        "VITAMIN D3",
+        "METANX",
+        "BYETTA",
+        "LANTUS",
+        "KELP"
+      ],
+      "reactions": [
+        "Drug ineffective",
+        "Anxiety",
+        "Blood glucose increased"
+      ],
+      "report_id": "11803980"
+    },
+    {
+      "drugs": [
+        "PROAIR HFA",
+        "MAGNESIUM",
+        "CINNAMON.",
+        "L-LYSINE",
+        "MSM",
+        "MONTELUKAST SODIUM TABLETS 10 MG",
+        "POTASSIUM",
+        "GLUCOSAMINE/CHONDROITIN",
+        "KELP",
+        "VIT K",
+        "SYNTHROID",
+        "SIMVASTATIN.",
+        "CRANBERRY EXTRACT"
+      ],
+      "reactions": [
+        "Pain",
+        "Drug ineffective",
+        "Headache",
+        "Asthenia",
+        "Product substitution issue"
+      ],
+      "report_id": "11835512"
+    },
+    {
+      "drugs": [
+        "VITAMIN B COMPLEX",
+        "VITAMIN C",
+        "BREATH FREE (ANGELICA, BUCKTHORN, CELANDINE, ROSEMARY, CENTUARY, SPEEDWELL, WILD PLUM)",
+        "CAYENNE",
+        "FISH OIL",
+        "HAWTHORN",
+        "SAW PALMETTO",
+        "SUPREP BOWEL PREP",
+        "DOLOMITE (CALCIUM/MAGNESIUM)",
+        "D3",
+        "COQ10",
+        "TURMERIC/CURCUMIN",
+        "VIT. A",
+        "SUPREP BOWEL PREP",
+        "CAT^S CLAW BARK",
+        "ELECAMPANE ROOT",
+        "YERBA SANTA LEAVES",
+        "FLAX OIL",
+        "VITAMIN B12",
+        "MACA ROOT",
+        "GTF CHROMIUM",
+        "TRACE MINERALS (CALCIUM, CHLORIDE, SODIUM, POTASSIUM, LOW-SODIUM CONCENTRACE (72 MINERALS) ALFALFA LEAF, KELP, SULFATE, BORON)",
+        "GLUCOSAMINE CHONDROITIN MSN",
+        "BOSWELLA",
+        "DEVIL^S CLAW ROOT",
+        "FENUGREEK SEED",
+        "PROSTAID PLUS (FLAX, SAW PALMETTO, ST. JOHN^S WORT, ELDER, CALENDULA",
+        "VITAMIN E",
+        "FOLIC ACID.",
+        "OIL OF OREGANO"
+      ],
+      "reactions": [
+        "Abdominal distension",
+        "Pyrexia",
+        "Malaise",
+        "Dysbacteriosis",
+        "Feeding disorder",
+        "Abnormal faeces",
+        "Asthenia",
+        "Weight decreased"
+      ],
+      "report_id": "11849153"
+    },
+    {
+      "drugs": [
+        "PARAGARD T 380A",
+        "ALOE JUICE",
+        "BLACK CURRANT OIL",
+        "MILK THISTLE",
+        "LYSINE",
+        "VITAMIN D",
+        "TURMERIC",
+        "OMEGA OILS (FISH OIL)",
+        "TAURINE",
+        "TMG",
+        "PAXIL",
+        "KELP"
+      ],
+      "reactions": [
+        "Polymenorrhoea",
+        "Pruritus",
+        "Headache",
+        "Stress",
+        "Alopecia",
+        "Fatigue",
+        "Menorrhagia",
+        "Anxiety disorder",
+        "Restless legs syndrome",
+        "Frustration",
+        "Indifference",
+        "Agoraphobia",
+        "Tachyphrenia",
+        "Parosmia",
+        "Irritability",
+        "Depression",
+        "Anxiety",
+        "Insomnia",
+        "Weight decreased",
+        "Tinnitus"
+      ],
+      "report_id": "11849596"
+    },
+    {
+      "drugs": [
+        "OMEGA 3-6-9",
+        "VITAMIN B-COMPLEX",
+        "HUMALOG",
+        "VITAMIN E",
+        "CHROMIUM",
+        "JUXTAPID",
+        "LISINOPRIL.",
+        "ASPIRIN.",
+        "LANTUS",
+        "JUXTAPID",
+        "JUXTAPID",
+        "FARXIGA",
+        "KELP",
+        "BILBERRY",
+        "CALCIUM +D"
+      ],
+      "reactions": [
+        "Inappropriate schedule of drug administration",
+        "Therapy cessation",
+        "Malaise",
+        "Diarrhoea"
+      ],
+      "report_id": "11879715"
+    },
+    {
+      "drugs": [
+        "VIEKIRA PAK",
+        "LECITHIN KELP/B 6",
+        "MULTIVITAMIN",
+        "OMEGA-3 ACIDS",
+        "AMLODIPINE",
+        "VITAMIN D3",
+        "SPIRULINA",
+        "COENZYME Q10"
+      ],
+      "reactions": [
+        "Somnolence",
+        "Tremor",
+        "Fatigue"
+      ],
+      "report_id": "11901298"
+    },
+    {
+      "drugs": [
+        "PROTONIX",
+        "ATORVASTATIN",
+        "FISH OIL",
+        "VITAMIN B12",
+        "ASPIRIN.",
+        "VITAMIN D3",
+        "KETACONAZOLE",
+        "SORIATANE",
+        "METFORMIN",
+        "RESTASIS",
+        "BIOTIN",
+        "LUTEIN + ZEAXANTHIN",
+        "^MATURE^ MULTIVITAMIN",
+        "SYNTHROID",
+        "BENTYL",
+        "CLOBEX",
+        "BETAMETHASONE VALERATE.",
+        "KELP IODINE",
+        "HYDROCORTISONE.",
+        "OTEZLA",
+        "LISINOPRIL.",
+        "RAPAFLO",
+        "UBIQUINOL (COQ10)",
+        "FLUOXETINE",
+        "CLOBEX",
+        "LANTUS",
+        "BETAMETHASONE DIPROPIONATE CREAM"
+      ],
+      "reactions": [
+        "Suicidal ideation"
+      ],
+      "report_id": "11906195"
+    },
+    {
+      "drugs": [
+        "MULTI-VIATMINS",
+        "KELP FOR IODINE",
+        "DULOXETINE 30 MG APOTEX CORP.",
+        "MAGNESIUM",
+        "LEVOTHYROXINE.",
+        "D",
+        "HYALURONIC ACID",
+        "GLUCOSAMINE/CHONDRITIN",
+        "FLAXSEED",
+        "VITAMIN B12"
+      ],
+      "reactions": [
+        "Cardiac disorder",
+        "Chest discomfort"
+      ],
+      "report_id": "11934372"
+    },
+    {
+      "drugs": [
+        "ENDOXAN 1G",
+        "ENDOXAN 1G",
+        "L-TYROSINE",
+        "ENDOXAN 1G",
+        "DECORTIN",
+        "PREDNISOLON",
+        "DEKRISTOL",
+        "BUFFERED VITAMINE C",
+        "ACC AKUT",
+        "COTRIM",
+        "MESNA FOR INJECTION - 3 GRAM",
+        "ENDOXAN 1G",
+        "VITAMIN D",
+        "L-CARNITIN",
+        "SELEN",
+        "PANTOZOL",
+        "VITAMIN D3",
+        "ENDOXAN 1G",
+        "ENDOXAN 1G",
+        "OMEPRAZOL",
+        "OMEPRAZOL",
+        "PREDNISOLON",
+        "PREDNISOLON",
+        "KELP",
+        "MSM",
+        "L-THYROXIN"
+      ],
+      "reactions": [
+        "Sensory disturbance",
+        "Night sweats",
+        "Musculoskeletal stiffness",
+        "Peripheral swelling",
+        "Cardiac discomfort",
+        "Arthropathy",
+        "Oropharyngeal pain",
+        "Palpitations",
+        "Headache",
+        "Fatigue",
+        "Arthralgia",
+        "Sensory disturbance",
+        "Cardiac disorder",
+        "Respiratory rate increased",
+        "Feeling abnormal",
+        "Gingival bleeding",
+        "Pain in extremity",
+        "Hypoaesthesia",
+        "Alopecia",
+        "Amenorrhoea",
+        "Abdominal pain upper",
+        "Muscular weakness",
+        "Bladder pain",
+        "Skin hypertrophy",
+        "Infusion site hypoaesthesia",
+        "Paraesthesia",
+        "Swelling face",
+        "Polyneuropathy",
+        "Limb discomfort",
+        "Restlessness",
+        "Skin fissures",
+        "Muscular weakness",
+        "Dysgeusia",
+        "Diarrhoea",
+        "Feeling hot",
+        "Aphthous ulcer",
+        "Erythema",
+        "Asthenia",
+        "Hyperhidrosis",
+        "Chest pain",
+        "Angina pectoris",
+        "Ear pain",
+        "Drug tolerance decreased",
+        "Heart rate abnormal",
+        "Pruritus",
+        "Nausea"
+      ],
+      "report_id": "12007348"
+    },
+    {
+      "drugs": [
+        "CINNAMON.",
+        "ASPIRIN.",
+        "PLAQUENIL",
+        "VITAMIN D3",
+        "MILK THISTLE",
+        "FISH OIL",
+        "KELP",
+        "MAGNESIUM",
+        "HUMIRA",
+        "FOLIC ACID."
+      ],
+      "reactions": [
+        "Rheumatoid arthritis",
+        "Wrong technique in product usage process"
+      ],
+      "report_id": "12028320"
+    },
+    {
+      "drugs": [
+        "IRON",
+        "HYDROCHLOROTHIAZIDE.",
+        "CAYENNE PEPPER",
+        "MILK THISTLE",
+        "CYCLOBENZAPRINE",
+        "ORLISTAT",
+        "ASPIRIN.",
+        "CALCIUM 500MG/VIT D",
+        "JANUVIA",
+        "CRANBERRY.",
+        "GLUCOSE METABOLIC SUPPORT",
+        "KELP",
+        "LIVER TONE",
+        "RAW PITUITARY GLAND (BOVINE)",
+        "ERYTHROMYCIN.",
+        "POLYETHYL GLYCOL 3350 (MIRALAX)",
+        "CINNAMON.",
+        "TURMERIC, ASTRAGUS, + GOTU KOLA COMPLEX",
+        "POTASSIUM PLUS IODINE",
+        "INOSITOL",
+        "FENUGREEK SEED",
+        "GUAIFENESIN (MUCINEX)",
+        "TRAMADOL.",
+        "DOCUSAT SODIUM",
+        "PHOSPHATIDYLSERINE",
+        "JANUVIA",
+        "LIDODERM-LIDOCAINE",
+        "FOLIC ACID.",
+        "GLUCOSAMINE CHONDROITIN MSM /W 5-LOXIN",
+        "FEXOFENADINE (ALLEGRA)",
+        "GERITOL",
+        "BILBERRY + LUTEIN",
+        "GINKGO",
+        "MUSHROOM BLEND + ASTRAGALUS ROOT EXT",
+        "VITAMIN D3",
+        "THYROXIN - FREE, THYROID GLANDULAR",
+        "VITAMIN K-12",
+        "LATANOPROST.",
+        "BLADDERWRECK LEAVES",
+        "ZINC"
+      ],
+      "reactions": [
+        "Bone pain",
+        "Diarrhoea",
+        "Constipation",
+        "Headache",
+        "Suicidal ideation",
+        "Asthenia",
+        "Renal pain",
+        "Gastritis",
+        "Internal haemorrhage",
+        "Dehydration"
+      ],
+      "report_id": "12058537"
+    },
+    {
+      "drugs": [
+        "KELP",
+        "VITAMIN D",
+        "ZANTAC",
+        "OPSUMIT",
+        "LASIX",
+        "CARVEDILOL.",
+        "LEVOTHYROXINE.",
+        "CHROMIUM GTF",
+        "HYDROCHLOROTHIAZIDE."
+      ],
+      "reactions": [
+        "Cough",
+        "Pyrexia",
+        "Depressed mood"
+      ],
+      "report_id": "12094164"
+    },
+    {
+      "drugs": [
+        "BUCKWHEAT.",
+        "GARLIC EXTRACT",
+        "POTASSIUM",
+        "STARFLOWER OIL",
+        "FLAX SEED",
+        "QUININE",
+        "ZINC",
+        "OMEGA-3-ACID ETHYL ESTERS.",
+        "KELP",
+        "LECITHIN",
+        "OSTEOCARE",
+        "CRANBERRY.",
+        "CHARCOAL",
+        "COENZYME Q10",
+        "VITAMIN C",
+        "CELERY SEED",
+        "FOLIC ACID.",
+        "NAPROXEN.",
+        "MAGNESIUM",
+        "COD LIVER OIL",
+        "TURMERIC"
+      ],
+      "reactions": [
+        "Left ventricular dysfunction",
+        "Cardiac failure"
+      ],
+      "report_id": "12095258"
+    },
+    {
+      "drugs": [
+        "MAGNESIUM",
+        "ASPIRIN.",
+        "KELP",
+        "VITAMIN C",
+        "CRANBERRY.",
+        "VITAMIN B12",
+        "VITAMIN D3",
+        "LEVOTHYROXINE SODIUM.",
+        "AMPYRA"
+      ],
+      "reactions": [
+        "Drug ineffective"
+      ],
+      "report_id": "12097399"
+    },
+    {
+      "drugs": [
+        "OMEGA-3 ACIDS",
+        "FOLIC ACID.",
+        "GARLIC EXTRACT",
+        "VITAMIN C",
+        "MAGNESIUM",
+        "POTASSIUM",
+        "STARFLOWER OIL",
+        "GALZIN",
+        "OSTEOCARE",
+        "NAPROXEN.",
+        "KELP",
+        "LECITHIN",
+        "CRANBERRY.",
+        "CHARCOAL",
+        "BUCKWHEAT.",
+        "CELERY SEED",
+        "QUININE SULFATE.",
+        "COD LIVER OIL",
+        "TURMERIC",
+        "COENZYME Q10"
+      ],
+      "reactions": [
+        "Left ventricular dysfunction",
+        "Cardiac failure"
+      ],
+      "report_id": "12102187"
+    },
+    {
+      "drugs": [
+        "MAGNESIUM",
+        "COENZYME Q10",
+        "VITAMIN C",
+        "FOLIC ACID.",
+        "STARFLOWER OIL",
+        "BUCKWHEAT.",
+        "COD LIVER OIL",
+        "FLAX SEED",
+        "TURMERIC",
+        "CELERY SEED",
+        "CRANBERRY.",
+        "LECITHIN",
+        "CHARCOAL",
+        "KELP",
+        "OSTEOCARE",
+        "POTASSIUM",
+        "QUININE ACID SULPHATE",
+        "GARLIC EXTRACT",
+        "GENERICS UK NAPROXEN",
+        "OMEGA-3 ACIDS",
+        "ZINC"
+      ],
+      "reactions": [
+        "Left ventricular dysfunction",
+        "Cardiac failure"
+      ],
+      "report_id": "12105285"
+    },
+    {
+      "drugs": [
+        "MYLAN NAPROXEN 250",
+        "ZINC",
+        "MAGNESIUM",
+        "CRANBERRY                          /01512301/",
+        "VITAMIN C",
+        "COENZYME Q10",
+        "GARLIC EXTRACT",
+        "TURMERIC                           /01079601/",
+        "CELERY SEED",
+        "OMEGA-3 /06852001/",
+        "POTASSIUM",
+        "ACTIVATED CHARCOAL",
+        "QUININE",
+        "BUCKWHEAT.",
+        "COD LIVER OIL",
+        "LECITHIN",
+        "OSTEOCARE",
+        "FOLIC ACID.",
+        "FLAXSEED",
+        "STARFLOWER OIL /01354602/",
+        "KELP /00082201/"
+      ],
+      "reactions": [
+        "Left ventricular dysfunction",
+        "Cardiac failure"
+      ],
+      "report_id": "12119842"
+    },
+    {
+      "drugs": [
+        "CRANBERRY                          /01512301/",
+        "COENZYME Q10",
+        "OMEGA-3 FATTY ACIDS",
+        "FOLIC ACID (UNKNOWN)",
+        "QUININE SULPHATE (UNKNOWN)",
+        "KELP /01214901/",
+        "TURMERIC /01079602/",
+        "MAGNESIUM (UNKNOWN)",
+        "CHARCOAL",
+        "COD LIVER OIL",
+        "LECITHIN",
+        "STARFLOWER OIL",
+        "VITAMIN C",
+        "ZINC",
+        "POTASSIUM CITRATE (UNKNOWN)",
+        "CELERY SEED EXTRACT",
+        "GARLIC /01570501/",
+        "OSTEOCARE",
+        "NAPROXEN (UNKNOWN)"
+      ],
+      "reactions": [
+        "Cardiac failure",
+        "Left ventricular dysfunction"
+      ],
+      "report_id": "12127412"
+    },
+    {
+      "drugs": [
+        "LUTEIN/ZEAXANTHIN",
+        "KELP",
+        "MULLEIN",
+        "TRAZADONE HCL",
+        "METHYL B-12",
+        "ALLEGRA",
+        "GLUTENAID",
+        "MULTI-VITAMIN MINERAL SUPPLEMENT",
+        "MILK THISTLE"
+      ],
+      "reactions": [
+        "Loss of consciousness",
+        "Nausea",
+        "Head injury",
+        "Fall",
+        "Presyncope",
+        "Seizure",
+        "Tremor",
+        "Haemorrhage intracranial",
+        "Concussion"
+      ],
+      "report_id": "12154653"
+    },
+    {
+      "drugs": [
+        "OXYCODONE",
+        "LEXAPRO",
+        "CALCIUM CITRATE",
+        "INULIN",
+        "CURCUMA LONGA",
+        "PROBIOTIC",
+        "FISH OIL",
+        "KELP",
+        "SELENIUM",
+        "N-ACETYLCYSTEINE",
+        "RITUXAN",
+        "IMMUNOGLOBULIN HUMAN NORMAL",
+        "ARMOUR THYROID",
+        "HYDROCORTISONE.",
+        "HYDROCORTISONE.",
+        "METHADONE",
+        "CYPROHEPTADINE.",
+        "CYCLOSPORINE.",
+        "THIAMINE.",
+        "QUERCETIN",
+        "TOCOTRIENOLS NOS",
+        "ALPHA LIPOIC ACID",
+        "HYDROCORTISONE.",
+        "RESVERATROL",
+        "CYANOCOBALAMIN.",
+        "FOLIC ACID.",
+        "VITAMIN K2",
+        "B-50",
+        "PAPAYA.",
+        "DOXYCLINE",
+        "HYDROCORTISONE.",
+        "UBIQUINOL",
+        "5-HTP",
+        "MELATONIN",
+        "IMBRUVICA",
+        "DURAGESIC (ORPHENADRINE CITRATE/PARACETAMOL)",
+        "ABSTRAL",
+        "VITAMIN D3",
+        "TOCOPHEROL",
+        "GINSENG",
+        "GRAPE SEED",
+        "PYRIDOXINE",
+        "VITAMIN K1",
+        "BROMELAIN",
+        "MANGANESE",
+        "THREONINE",
+        "PREDNISONE.",
+        "ALL OTHER THERAPEUTIC PRODUCTS",
+        "VITAMIN C WITH ROSE HIPS",
+        "EXTRACT GINGKO BILOBA"
+      ],
+      "reactions": [
+        "Blood alkaline phosphatase increased",
+        "Peripheral swelling",
+        "Alanine aminotransferase increased",
+        "Localised infection"
+      ],
+      "report_id": "12157777"
+    },
+    {
+      "drugs": [
+        "MILK THISTLE",
+        "BILBERRY",
+        "VITAMIN C",
+        "SELENIUM",
+        "LEVOTHYROXINE.",
+        "VITAMINS/MINERALS/SUPPLEMENTS",
+        "MAGNESIUM",
+        "CHOLINE",
+        "TRAZODONE",
+        "LIOTHYRONINE",
+        "COQ10",
+        "MULTIVITAMIN",
+        "TAURINE",
+        "BORAGE OIL",
+        "VITAMIN K",
+        "APPLE CIDER VINEGAR",
+        "SEA KELP",
+        "NATURE-THROID",
+        "VITAMIN D",
+        "ZINC",
+        "LAMOTRIGINE 200 MG ZYDUS",
+        "FISH OIL",
+        "VITAMIN E",
+        "VITAMIN B COMPLEX",
+        "MSM"
+      ],
+      "reactions": [
+        "Urine output decreased",
+        "Protein total decreased",
+        "Hepatic enzyme increased",
+        "Blood creatinine decreased",
+        "Blood albumin decreased",
+        "Fluid retention"
+      ],
+      "report_id": "12168287"
+    },
+    {
+      "drugs": [
+        "LICORICE ROOT",
+        "GABAPENTIN.",
+        "KELP",
+        "CORTISONE"
+      ],
+      "reactions": [
+        "Dizziness",
+        "Unevaluable event",
+        "Pain",
+        "Visual acuity reduced",
+        "Food allergy"
+      ],
+      "report_id": "12221326"
+    },
+    {
+      "drugs": [
+        "ENBREL",
+        "VITAMIN C",
+        "METHOTREXATE",
+        "TRAMADOL HCL",
+        "RITALIN",
+        "VITAMIN D3",
+        "KELP                               /00082201/"
+      ],
+      "reactions": [
+        "Condition aggravated",
+        "Gait disturbance",
+        "Disturbance in attention",
+        "Pain",
+        "Menstruation irregular",
+        "Increased tendency to bruise",
+        "Heart rate increased",
+        "Depression",
+        "Injection site reaction"
+      ],
+      "report_id": "12233122"
+    },
+    {
+      "drugs": [
+        "RIVAROXABAN",
+        "CARVEDILOL (COREG)",
+        "FLOMAX",
+        "ACETAMINOPHEN (TYLENOL ARTHRITIS PAIN)",
+        "VITAMIN B12",
+        "SPIRONOLACTONE (ALDACTONE)",
+        "QUININE SULFATE.",
+        "PRAMIPEXOLE (MIRAPEX)",
+        "PANTOPRAZOLE (PROTONIX)",
+        "GREEN TEA, CAMILLIA SINENSIS",
+        "BLACK CUMIN SEED OIL",
+        "CYCLOBENZAPRINE (FLEXERIL)",
+        "GLIMEPIRIDE (AMARYL)",
+        "POTASSIUM",
+        "ALLOPURINOL (ZYLOPRIM)",
+        "COLCHICINE (COLCRYS)",
+        "LEVOTHYROXINE (SYNTHROID, LEVOTHROID)",
+        "NORCO",
+        "FLEXDERMAL (TOPICAL WITH CAMPHOR + MENTHOL)",
+        "CHOLECALCIFEROL",
+        "KELP",
+        "ASPIRIN.",
+        "CINNAMON.",
+        "OMEGA-3 FATTY ACIDS (FISH OIL)",
+        "TART CHERRY ADVANCED CAPS",
+        "MULTIPLE VITAMIN",
+        "CLOPIDOGREL",
+        "MENTHOL, TOPICAL ANALGESIC (BENGAY EX)",
+        "LASIX",
+        "SILDENAFIL (REVATIO)",
+        "IODINE."
+      ],
+      "reactions": [
+        "Epistaxis",
+        "Gastrointestinal haemorrhage",
+        "Productive cough"
+      ],
+      "report_id": "12238709"
+    },
+    {
+      "drugs": [
+        "VITAMIN D3",
+        "DIAZEPAM.",
+        "CORSODYL",
+        "NORTRIPTYLINE",
+        "ANUSOL                             /01604901/",
+        "ZINC",
+        "DALTEPARIN",
+        "CYCLIZINE",
+        "NORTRIPTYLINE",
+        "VITAMIN C",
+        "PERINDOPRIL",
+        "CALCICHEW D3 FORTE",
+        "MIRTAZAPINE.",
+        "FLEXITOL",
+        "DEXAMETHASONE.",
+        "CYCLIZINE",
+        "PERTUZUMAB",
+        "KELP                               /00082201/",
+        "IRON",
+        "HYDROCORTISONE.",
+        "LAXIDO                             /06401201/",
+        "NORTRIPTYLINE",
+        "AMOXICILLIN.",
+        "COCODAMOL",
+        "LANSOPRAZOLE.",
+        "SILYBUM MARIANUM",
+        "MIRTAZAPINE.",
+        "HERCEPTIN",
+        "DERMOVATE",
+        "SELENIUM W/VITAMINS NOS",
+        "COCODAMOL",
+        "DEXAMETHASONE.",
+        "DOCETAXEL.",
+        "PERTUZUMAB",
+        "HERCEPTIN",
+        "DEXAMETHASONE.",
+        "LAXIDO                             /06401201/",
+        "LANSOPRAZOLE.",
+        "NEULASTA",
+        "AMOXICILLIN.",
+        "PERTUZUMAB"
+      ],
+      "reactions": [
+        "Lung consolidation",
+        "Sepsis",
+        "Pneumonia",
+        "Pneumonia",
+        "Pleural effusion",
+        "Infectious pleural effusion",
+        "Lower respiratory tract infection"
+      ],
+      "report_id": "12251883"
+    },
+    {
+      "drugs": [
+        "VELCADE",
+        "ZINC",
+        "PROCHLORPERAZINE.",
+        "POTASSIUM",
+        "VITAMIN C",
+        "VITAMIN D",
+        "ACYCLOVIR.",
+        "ECOTRIN",
+        "KELP LECITHIN",
+        "HAIR, SKIN + NAILS",
+        "REVLIMID",
+        "TUMERIC",
+        "MAGNESIUM",
+        "ASHWAGANDHA EXTRACT",
+        "CAPRYLIC CAPRIC TRIGLYCERIDE",
+        "TYLENOL",
+        "VITAMIN B12",
+        "DEXAMETHASONE.",
+        "CALCIUM",
+        "FISH OIL",
+        "L-TYROSINE"
+      ],
+      "reactions": [
+        "Peripheral swelling",
+        "Feeling jittery",
+        "Asthenia",
+        "Insomnia"
+      ],
+      "report_id": "12305228"
+    },
+    {
+      "drugs": [
+        "NATURAL THYROID COMPOUND",
+        "NEBULIZER WITH ALBUTEROL",
+        "ATIVAN",
+        "MIDRIN",
+        "SLIPPERY ELM ULMS RUBRA",
+        "CEPHALEXIN 500MG CAPSULE, 500MG",
+        "ZOVIRAX",
+        "ALPRAZOLAM.",
+        "XANAX",
+        "OSTERA BONE REMODELING SUPPLEMENT",
+        "RESVERATROL",
+        "VENTOLIN HFA ALBUTEROL INHALER",
+        "NEBULIZER WITH IPRATROPIUM BROMIDE",
+        "PROAIR HFA",
+        "PATANOL OPTH",
+        "L-LYSINE",
+        "METAGENICS ULTRAFLORA BALANCE",
+        "IODINE KELP DROPS",
+        "ALIGN",
+        "MSM",
+        "ASTAXANTHIN",
+        "ZINC",
+        "ALPHA-LOPIC ACID",
+        "CRANBERRY.",
+        "ORGANIC COCONUT OIL",
+        "OSTEOFORCE SUPREME SUPPLEMENT",
+        "ADVACLEAR DETOXIFICATION",
+        "HOLY BASIL",
+        "UBIQUINOL COQ12",
+        "REDUCED GLUTHATHIONE",
+        "CAT^S CALW BARK",
+        "CATECHOLACALM",
+        "PRIMROSE EXTRACT.",
+        "MAGNESIUM",
+        "L-GLUTAMINE /00503401/",
+        "GRAPE SEED EXTRACT",
+        "D-MANNOSE",
+        "GABA",
+        "NALTREXONE",
+        "BIOSIL",
+        "ASHWAGANDHA EXTRACT",
+        "TURMERIC SPCIES",
+        "RETIN-A",
+        "SEROSYN",
+        "PROBIOTIC CULTURELLE",
+        "TRUNATURE",
+        "SELENIUM",
+        "MARSHMALLOW",
+        "GINGER TEAS"
+      ],
+      "reactions": [
+        "Renal pain",
+        "Ear pain",
+        "Hypersensitivity",
+        "Ear discomfort",
+        "Pain"
+      ],
+      "report_id": "12308793"
+    },
+    {
+      "drugs": [
+        "LEVAQUIN",
+        "NORCO^S",
+        "FISH OIL",
+        "ZOFRAN",
+        "KELP",
+        "B16",
+        "ZOLOFT",
+        "POTASSIUM",
+        "VALIUM",
+        "GENTLE IRON",
+        "PROBIOTICS",
+        "MULTIVITIAM"
+      ],
+      "reactions": [
+        "Fatigue",
+        "Arthralgia",
+        "Malaise",
+        "Gastrointestinal infection",
+        "Vomiting",
+        "Asthenia",
+        "Musculoskeletal pain",
+        "Back pain",
+        "Mobility decreased",
+        "Tendon pain",
+        "Neck pain",
+        "Impaired work ability"
+      ],
+      "report_id": "12317378"
+    },
+    {
+      "drugs": [
+        "VITAMIN B12",
+        "LEXAPRO",
+        "PROTONIX",
+        "VITAMIN B6",
+        "IRON",
+        "GILENYA",
+        "KELP",
+        "VITAMIN E",
+        "CALTRATE",
+        "VITAMIN D"
+      ],
+      "reactions": [
+        "Alopecia",
+        "Blood pressure decreased",
+        "Hepatic enzyme increased",
+        "White blood cell count decreased",
+        "Heart rate decreased"
+      ],
+      "report_id": "12383727"
+    },
+    {
+      "drugs": [
+        "ASCORBIC ACID.",
+        "OMEGA-3 ACIDS",
+        "VITAMIN B COMPLEX",
+        "PRADAXA",
+        "TAURINE",
+        "VITAMIN A",
+        "DIFICID",
+        "KELP",
+        "GARLIC.",
+        "UBIQUINONES (UNSPECIFIED)",
+        "CHOLECALCIFEROL",
+        "VITAMIN E",
+        "BLOOD THINNER (UNSPECIFIED)"
+      ],
+      "reactions": [
+        "Nausea",
+        "Dizziness",
+        "Vomiting",
+        "Balance disorder",
+        "Gait disturbance",
+        "Abasia"
+      ],
+      "report_id": "12387948"
+    },
+    {
+      "drugs": [
+        "METHOTREXATE",
+        "VITAMIN C",
+        "RITALIN",
+        "ENBREL",
+        "VITAMIN D3",
+        "KELP",
+        "TRAMADOL HCL"
+      ],
+      "reactions": [
+        "Unevaluable event"
+      ],
+      "report_id": "12415791"
+    },
+    {
+      "drugs": [
+        "XYREM",
+        "XYREM",
+        "COPPER",
+        "EYE DROPS",
+        "CHARCOAL",
+        "DIPHENHYDRAMINE.",
+        "IRON",
+        "OMEPRAZOLE.",
+        "HUMALOG",
+        "VITAMIN B12",
+        "FINASTERIDE.",
+        "FUROSEMIDE.",
+        "LEVEMIR",
+        "VITAMIN D3",
+        "POTASSIUM CHLORIDE.",
+        "ESTER-C",
+        "TESTOSTERONE.",
+        "SUPER B COMPLEX",
+        "TAMSULOSIN HCL",
+        "SOTALOL AF",
+        "ASPIRIN.",
+        "COENZYME Q10",
+        "CRESTOR",
+        "METFORMIN HCL",
+        "ZINC GLUCONATE",
+        "EDTA",
+        "XYREM",
+        "CALDEROL",
+        "HUMULIN N",
+        "IMODIUM A-D",
+        "KELP",
+        "LEVOTHYROXINE SODIUM.",
+        "FOLATE"
+      ],
+      "reactions": [
+        "Sinus congestion",
+        "Neuropathy peripheral",
+        "Condition aggravated",
+        "Dizziness"
+      ],
+      "report_id": "12431311"
+    },
+    {
+      "drugs": [
+        "KELP",
+        "BENADRYL",
+        "DAILY VITAMIN",
+        "FISH OIL",
+        "MAGNESIUM"
+      ],
+      "reactions": [
+        "Asthenia",
+        "Nausea",
+        "Dizziness",
+        "Somnolence"
+      ],
+      "report_id": "12442564"
+    }
+  ],
+  "confidence": "low",
+  "note": "Co-occurrence signals only. Not a confirmed interaction source. Verify against NIH ODS, MedlinePlus, or PubMed before using."
+}

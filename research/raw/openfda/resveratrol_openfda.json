@@ -1,0 +1,3119 @@
+{
+  "canonical_name": "resveratrol",
+  "query_variants": [
+    "RESVERATROL",
+    "TRANS-RESVERATROL",
+    "RESVERATROL EXTRACT",
+    "POLYGONUM CUSPIDATUM"
+  ],
+  "total_reports_fetched": 105,
+  "co_occurrence_reports": 105,
+  "co_occurrences": [
+    {
+      "drugs": [
+        "AVASTIN",
+        "ZOFRAN",
+        "VITAMIN D3",
+        "RESVERATROL",
+        "FISH OIL",
+        "MELATONIN",
+        "CURCUMIN",
+        "POTASSIUM CHLORIDE",
+        "HYPERICUM",
+        "VITAMIN E"
+      ],
+      "reactions": [
+        "Visual impairment",
+        "Weight fluctuation",
+        "Hypoaesthesia",
+        "Dysphonia"
+      ],
+      "report_id": "10013552"
+    },
+    {
+      "drugs": [
+        "ERBITUX",
+        "ERBITUX",
+        "RESVERATROL",
+        "BIOTIN"
+      ],
+      "reactions": [
+        "Rash",
+        "Functional gastrointestinal disorder"
+      ],
+      "report_id": "10017790"
+    },
+    {
+      "drugs": [
+        "XELJANZ",
+        "PLAQUENIL",
+        "ZANTAC",
+        "NEXIUM",
+        "HYDROCHLOROTHIAZIDE",
+        "LEVOTHYROXINE",
+        "MICARDIS",
+        "METOPROLOL",
+        "TURMERIC",
+        "CALCIUM",
+        "VITAMIN D",
+        "VITAMIN B12",
+        "CO-Q-10",
+        "ACIDOPHILUS",
+        "CHONDROITIN/GLUCOSAMINE",
+        "FLAXSEED OIL",
+        "FISH OIL",
+        "RESVERATROL",
+        "ALPHA LIPOIC ACID"
+      ],
+      "reactions": [
+        "Diarrhoea",
+        "Blood pressure increased"
+      ],
+      "report_id": "10035470"
+    },
+    {
+      "drugs": [
+        "LEVOTHYROXINE.",
+        "LUCENTIS",
+        "OMEGA 3",
+        "LUCENTIS",
+        "DEXAMETHASONE.",
+        "ADDERALL XR",
+        "LANTUS",
+        "RESVERATROL",
+        "LANTUS",
+        "PRAVASTATIN",
+        "VITAMIN B12",
+        "CARBAMAZEPINE.",
+        "CHANTIX",
+        "COENZYME Q10",
+        "OMEPRAZOLE.",
+        "LUCENTIS",
+        "OMEPRAZOLE.",
+        "LOSARTAN.",
+        "NOVOLOG"
+      ],
+      "reactions": [
+        "Haemorrhage",
+        "Eye disorder",
+        "Cerebrovascular accident",
+        "Anxiety",
+        "Fear",
+        "Vitreous floaters",
+        "Hearing impaired"
+      ],
+      "report_id": "10077969"
+    },
+    {
+      "drugs": [
+        "DULOXETINE HCL",
+        "DULOXETINE HCL",
+        "DULOXETINE HCL",
+        "GLIMEPRIDE",
+        "JANUVIA",
+        "LOTREL",
+        "METFORMIN",
+        "ZANAFLEX",
+        "LYRICA",
+        "ULTRAM",
+        "ADVAIR DISKUS",
+        "ACIDOPHILUS",
+        "ALPHA LIPOIC ACID",
+        "ASPIRIN",
+        "BIOTIN",
+        "BOSWELLIA",
+        "CHROMIUM PICOLINATE",
+        "CINNAMON",
+        "COQ10",
+        "D-RIBOSE",
+        "FISH OIL",
+        "IODINE",
+        "MAGNESIUM",
+        "MELATONIN",
+        "MILK THISTLE",
+        "MULTIPLE VITAMIN/MINERAL",
+        "PEPCID",
+        "RESVERATROL",
+        "TURMERIC",
+        "VALERIAN",
+        "CHAMOMILE",
+        "HOPS",
+        "SKULLCAP",
+        "I-TAURINE",
+        "PASSIONFLOWER",
+        "GABA",
+        "VITAMIN B COMPLEX",
+        "VITAMIN C",
+        "VITAMIN D",
+        "ZINC",
+        "JANUVIA",
+        "NASONEX"
+      ],
+      "reactions": [
+        "Pain",
+        "Musculoskeletal stiffness",
+        "Anxiety",
+        "Product substitution issue"
+      ],
+      "report_id": "10142801"
+    },
+    {
+      "drugs": [
+        "CARBAMAZEPINE EXTENDED RELEASE TABLETS USP 400MG",
+        "CARBAMAZEPINE EXTENDED RELEASE 400 MG (SANDOZ)",
+        "METFORMIN",
+        "NABUMETONE",
+        "TRIAMTERENE",
+        "LEVOTHYROXINE",
+        "LISINOPRIL",
+        "GLUCOSAMINE SULFATE",
+        "CALCIUM",
+        "LECITHIN",
+        "HYALURONIC ACID",
+        "FOLIC ACID",
+        "POTASSIUM",
+        "VITAMIN D3",
+        "VITAMIN B12",
+        "COQ10",
+        "GRAPESEED",
+        "TURMERIC",
+        "CHROMIUM",
+        "RESVERATROL",
+        "VITAMIN C",
+        "CINNAMON",
+        "MAGNESIUM"
+      ],
+      "reactions": [
+        "Medication residue present",
+        "Drug ineffective for unapproved indication",
+        "Neuropathy peripheral",
+        "Drug dispensing error"
+      ],
+      "report_id": "10149197"
+    },
+    {
+      "drugs": [
+        "PANTOPRAZOLE SODIUM",
+        "AZELASTINE HCL",
+        "TRIMEBUTINE",
+        "COQ10",
+        "SPIRULINA",
+        "LACTULOSE.",
+        "MAXAIR",
+        "VITAMIN C",
+        "FARXIGA",
+        "ONGLYZA",
+        "FLUOROURACIL.",
+        "NIFEDIPINE ER",
+        "IRBESARTAN.",
+        "FLEXERIL",
+        "NYSTATIN.",
+        "OMEGA-3 ACIDS",
+        "ZOLPIDEM TARTRATE.",
+        "CALCIUM",
+        "VITAMIN D",
+        "VALIUM",
+        "POTASSIUM CHLORIDE.",
+        "CYANOCOBALAMIN.",
+        "LASIX",
+        "CICLOPIROX.",
+        "RESVERATROL",
+        "TRAZODONE HCL TABS"
+      ],
+      "reactions": [
+        "Urticaria",
+        "Blood glucose increased",
+        "Swollen tongue"
+      ],
+      "report_id": "10152095"
+    },
+    {
+      "drugs": [
+        "TEKTURNA",
+        "WATER PILLS",
+        "NORTRIPTYLINE",
+        "LASIX",
+        "ASPIRIN.",
+        "VITAMIN D",
+        "CLONIDINE.",
+        "TEKTURNA",
+        "ISOSORBIDE MONONITRATE.",
+        "RESVERATROL",
+        "CATAPRES",
+        "ALPRAZOLAM.",
+        "GLUMETZA",
+        "HYDROCHLOROTHIAZIDE."
+      ],
+      "reactions": [
+        "Neck pain",
+        "Muscle rigidity",
+        "Arthritis",
+        "Pain in extremity",
+        "Back pain",
+        "Urticaria",
+        "Pain",
+        "Dry mouth",
+        "Pigmentation disorder",
+        "Feeling abnormal",
+        "Lacrimation increased",
+        "Ocular hyperaemia",
+        "Limb discomfort",
+        "Burning sensation",
+        "Musculoskeletal stiffness",
+        "Blood pressure abnormal",
+        "Diabetes mellitus",
+        "Low density lipoprotein increased",
+        "Blood pressure inadequately controlled",
+        "Drug hypersensitivity",
+        "Drug dependence",
+        "Oedema peripheral"
+      ],
+      "report_id": "10201054"
+    },
+    {
+      "drugs": [
+        "METHYLPREDNISOLONE",
+        "NEXIUM 40 MG",
+        "TRAMADOL 50 MG",
+        "PROAIR HFA",
+        "D3",
+        "B12",
+        "CO Q10 50 MG",
+        "GLCO + CHONDROTIN",
+        "RESVERATROL 100 + EGCG",
+        "CHOLESTACARE",
+        "OMEGA - 3",
+        "PHOSPHATIDYZCHOLINE",
+        "CALCIUM 500 MG",
+        "D3 400 IU",
+        "BORON 1000 MC",
+        "VIT C 30 MG"
+      ],
+      "reactions": [
+        "Face oedema",
+        "Feeling hot",
+        "Erythema",
+        "Erythema of eyelid",
+        "Oedema peripheral",
+        "Erythema",
+        "Muscle spasms",
+        "Respiratory disorder"
+      ],
+      "report_id": "10211136"
+    },
+    {
+      "drugs": [
+        "ZYTIGA",
+        "XANAX",
+        "PRILOSEC DR",
+        "XGEVA",
+        "RAPAFLO",
+        "VITAMIN D3",
+        "ZOVIRAX",
+        "LUPRON DEPOT",
+        "LEVOQUIN",
+        "LIPITOR",
+        "ACBA III",
+        "ARCTICBLOX OMEGA 3",
+        "B6",
+        "B12",
+        "COQ10",
+        "CURCU-ESSENTIALS",
+        "ISOFLAVONE-250",
+        "L-GLUTAMINE POWDER",
+        "LYCO-MAX",
+        "MAXIMUM C",
+        "MELATONIN P.R.",
+        "N-ACETYL CYSTEINE II",
+        "NUTRI-ESSENTIALS II",
+        "OPTI-CELL PLUS",
+        "MODIFIED CITRUS PECTIN POWDER",
+        "PROCAL III",
+        "RESVERATROL",
+        "SCUTELLARIA",
+        "ULTRA-LIPOIC FORTE",
+        "ULTRA REISHI",
+        "JEVTANA"
+      ],
+      "reactions": [
+        "Urinary bladder haemorrhage",
+        "Gallbladder disorder"
+      ],
+      "report_id": "10215700"
+    },
+    {
+      "drugs": [
+        "VORICONAZOLE",
+        "VORICONAZOLE",
+        "SYNTHROID",
+        "ESTRACE",
+        "BENICAR",
+        "NEXIUM",
+        "EFFEXOR",
+        "LOMOTIL (GENERIC)",
+        "LACRISERT",
+        "UBIQUINOL",
+        "VIT. C",
+        "CRANACTIN (CRANBERRY EXTRACT)",
+        "GLUCOSAMINE WITH MSM",
+        "CALCIUM, MAGNESIUM, + ZINC",
+        "ALLEGRA - GENERIC",
+        "VIT B12",
+        "VIT D + K",
+        "RESVERATROL"
+      ],
+      "reactions": [
+        "Dry eye",
+        "Madarosis",
+        "Constipation"
+      ],
+      "report_id": "10232374"
+    },
+    {
+      "drugs": [
+        "OXYTROL FOR WOMEN",
+        "LEVOTHYROXINE SODIUM.",
+        "RESVERATROL",
+        "OMEGA-3 MARINE TRIGLYCERIDES",
+        "OXYTROL FOR WOMEN",
+        "CYSTEX (BENZOIC ACID (+) METHENAMINE (+) SODIUM SALICYLATE)"
+      ],
+      "reactions": [
+        "Application site pruritus",
+        "Application site erythema",
+        "Off label use"
+      ],
+      "report_id": "10235854"
+    },
+    {
+      "drugs": [
+        "VASTAREL",
+        "ROSUVASTATIN",
+        "MONOCORDIL",
+        "VALSARTAN.",
+        "GALVUS MET",
+        "ASPIRINA PREVENT",
+        "ESCITALOPRAM",
+        "METFORMIN",
+        "PROCORALAN",
+        "ESCITALOPRAM",
+        "ESCITALOPRAM",
+        "PURAN",
+        "HUMALOG",
+        "OMEPRAZOLE.",
+        "LANTUS",
+        "HUMALOG",
+        "ALDACTONE",
+        "DOXAZOSIN MESILATE",
+        "DOXAZOSIN MESILATE",
+        "RESVERATROL"
+      ],
+      "reactions": [
+        "Arterial occlusive disease",
+        "Nervousness",
+        "Movement disorder",
+        "Infarction",
+        "Coma",
+        "Cardiac disorder",
+        "Ventricular dysfunction",
+        "Wound",
+        "Speech disorder",
+        "Diabetes mellitus",
+        "Angina pectoris",
+        "Pneumonia",
+        "Muscle atrophy",
+        "Malaise",
+        "Scar"
+      ],
+      "report_id": "10242776"
+    },
+    {
+      "drugs": [
+        "ATORVASTATIN",
+        "OMEPRAZOLE",
+        "DIOVAN HCL",
+        "RESVERATROL",
+        "PHENOBARBITAL"
+      ],
+      "reactions": [
+        "Ophthalmoplegia"
+      ],
+      "report_id": "10258287"
+    },
+    {
+      "drugs": [
+        "B-50",
+        "AMIODARONE",
+        "NORVASC",
+        "LIPITOR",
+        "TEA",
+        "MILK THISTLE",
+        "FERROUS SULFATE",
+        "TUMS",
+        "VITAMIN C",
+        "MULTIPLE VITAMINS",
+        "FOLVITE",
+        "IMDUR",
+        "COQ10",
+        "VITAMIN D3",
+        "CRANBERRY.",
+        "RESVERATROL",
+        "TYLENOL",
+        "PROVENGE",
+        "PROVENGE",
+        "PROSTATE HEALTH COMPLEX",
+        "NITROSTAT",
+        "PROVENGE"
+      ],
+      "reactions": [
+        "Atrial fibrillation",
+        "Systemic inflammatory response syndrome",
+        "Bacteraemia",
+        "Atrioventricular block second degree",
+        "Device malfunction",
+        "Renal failure acute",
+        "Systemic inflammatory response syndrome",
+        "Dizziness",
+        "Dysarthria",
+        "Atrioventricular block complete",
+        "Bradycardia"
+      ],
+      "report_id": "10258346"
+    },
+    {
+      "drugs": [
+        "LEVOTHYROXINE SODIUM.",
+        "OMEGA Q PLUS RESVERATROL",
+        "MAGNESIUM OXIDE.",
+        "DIMETHYL SULFONE\\GLUCOSAMINE SULFATE",
+        "COENZYME Q10",
+        "XARELTO",
+        "ATORVASTATIN",
+        "RANEXA",
+        "COZAAR",
+        "OMEGA Q PLUS RESVERATROL"
+      ],
+      "reactions": [
+        "Cardiac pacemaker insertion",
+        "Sick sinus syndrome",
+        "Intentional product misuse"
+      ],
+      "report_id": "10269010"
+    },
+    {
+      "drugs": [
+        "FOLIC ACID.",
+        "VITAMIN D3",
+        "COUMADIN",
+        "BABY ASPIRIN",
+        "DULCOLAX (BISACODYL)",
+        "RESVERATROL",
+        "FLUTICASONE",
+        "GABAPENTIN.",
+        "KLONOPIN",
+        "MULTIVITAMIN                       /00097801/",
+        "PREDNISONE.",
+        "RESTASIS",
+        "PROBIOTICS",
+        "VITAMIN B12",
+        "BUTALBITAL W/CAFFEINE/PARACETAMOL",
+        "GABAPENTIN.",
+        "IBUPROFEN.",
+        "MELOXICAM.",
+        "RANITIDINE",
+        "ZOFRAN                             /00955301/",
+        "SOLIRIS",
+        "POTASSIUM",
+        "GLUCOSE",
+        "SOLIRIS",
+        "AMBIEN",
+        "CALCIUM",
+        "IBUPROFEN.",
+        "VITAMIN C",
+        "ANTI-GAS FOOD ENZYME",
+        "CITALOPRAM",
+        "KLONOPIN",
+        "PROCTOSOL",
+        "AMOXICILLIN."
+      ],
+      "reactions": [
+        "Anaemia",
+        "Red blood cell analysis abnormal",
+        "Menorrhagia"
+      ],
+      "report_id": "10271803"
+    },
+    {
+      "drugs": [
+        "ARMOUR THYROID",
+        "CRANBERRY                          /01512301/",
+        "TURMERIC",
+        "SELENIUM",
+        "CAYENNE",
+        "GYMNEMA",
+        "FLAX SEED",
+        "ALOE VERA",
+        "CINNAMON AND GREEN TEA",
+        "SYLVESTRE",
+        "BOSWELLIA",
+        "B12                                /00056201/",
+        "B COMPLEX                          /00212701/",
+        "ORAQIX",
+        "RESVERATROL",
+        "ACIDOPHILUS",
+        "COCONUT OIL",
+        "VITAMIN E                          /00110501/",
+        "FISH OIL W/VITAMIN D NOS",
+        "BANABA LEAF",
+        "ARESTIN",
+        "MILK THISTLE",
+        "ACV PLUS WITH GREEN TEA",
+        "COQ10                              /00517201/"
+      ],
+      "reactions": [
+        "Burning sensation",
+        "Chemical burn of gastrointestinal tract",
+        "Ageusia",
+        "Pain",
+        "Tongue discolouration"
+      ],
+      "report_id": "10279592"
+    },
+    {
+      "drugs": [
+        "HUMIRA",
+        "COQ10",
+        "LEUCOVORIN CALCIUM.",
+        "CYMBALTA",
+        "GLUCOSAMINE + CHONDROITIN",
+        "MAGNESIUM",
+        "VITAMIN B12",
+        "PRIMIZIDE",
+        "MULTIVITAMIN",
+        "ASPIRIN.",
+        "LISINOPRIL.",
+        "RESVERATROL",
+        "SAW PALMETO",
+        "HUMIRA",
+        "HYDROCHLOROTHIAZIDE.",
+        "METHOTREXATE"
+      ],
+      "reactions": [
+        "Myelitis transverse",
+        "Arthralgia",
+        "Neuropathy peripheral",
+        "Platelet count decreased",
+        "Anxiety",
+        "Hypoaesthesia",
+        "Drug effect decreased",
+        "Muscular weakness",
+        "Peripheral sensory neuropathy",
+        "Spinal cord injury cervical",
+        "Condition aggravated",
+        "Psoriatic arthropathy",
+        "Paraesthesia",
+        "Cyst",
+        "Demyelinating polyneuropathy",
+        "Psoriasis",
+        "Fine motor delay"
+      ],
+      "report_id": "10288709"
+    },
+    {
+      "drugs": [
+        "AMANTADINE",
+        "AMPYRA",
+        "LEVOTHYROXINE",
+        "AMPYRA",
+        "MACRODATIN",
+        "RESVERATROL",
+        "AZITHROMYCIN",
+        "DETROL",
+        "TOPROL XL",
+        "AMPYRA",
+        "LEVSIN",
+        "KRILL OIL",
+        "GENERIC OF BONIVA"
+      ],
+      "reactions": [
+        "Blood pressure fluctuation",
+        "Heart rate increased",
+        "Feeling abnormal",
+        "Blood pressure decreased",
+        "Hypotension",
+        "Blood pressure increased",
+        "Palpitations",
+        "Aggression",
+        "Therapeutic response unexpected",
+        "Drug interaction",
+        "Malaise",
+        "Sleep disorder"
+      ],
+      "report_id": "10329646"
+    },
+    {
+      "drugs": [
+        "ZOFRAN",
+        "LEVETIRACETAM.",
+        "BACTRIM",
+        "TURMERIC",
+        "VITAMINS (UNSPECIFIED)",
+        "PROBIOTICS (UNSPECIFIED)",
+        "TEMODAR",
+        "CANNABINOL",
+        "RESVERATROL",
+        "LORTAB",
+        "REISHI",
+        "ARMOUR THYROID"
+      ],
+      "reactions": [
+        "Weight decreased",
+        "Vomiting",
+        "Nausea",
+        "Feeling abnormal"
+      ],
+      "report_id": "10341985"
+    },
+    {
+      "drugs": [
+        "GINGKO BILOBA EXTR",
+        "PROGESTERONE W/ESTROGENS",
+        "MULTIVITAMIN",
+        "RESVERATROL",
+        "COENZYME Q10",
+        "LIPITOR",
+        "PROTONIX",
+        "SYNTHROID",
+        "FISH OIL",
+        "BABY ASPIRIN"
+      ],
+      "reactions": [
+        "Weight increased"
+      ],
+      "report_id": "10352344"
+    },
+    {
+      "drugs": [
+        "LIPITOR",
+        "PROGESTERONE W/ESTROGENS",
+        "GINKO",
+        "COENZYME Q10",
+        "SYNTHROID",
+        "RESVERATROL",
+        "PROTONIX",
+        "FISH OIL",
+        "BABY ASPIRIN",
+        "MULTIVITAMIN"
+      ],
+      "reactions": [
+        "Throat irritation",
+        "Dysphagia",
+        "Oropharyngeal pain"
+      ],
+      "report_id": "10352484"
+    },
+    {
+      "drugs": [
+        "METOPROLOL TARTRATE.",
+        "METFORMIN",
+        "ASPIRIN 81 MG",
+        "MVI",
+        "OMEGA 3",
+        "INSULIN FLEX PEN",
+        "COENZYME Q10",
+        "EFFIENT",
+        "PRASUGREL",
+        "LOSARTAN",
+        "RANEXA",
+        "SIMVASTATIN.",
+        "IRON",
+        "FOLATE",
+        "ASPIRIN.",
+        "RESVERATROL"
+      ],
+      "reactions": [
+        "Cerebral haemorrhage"
+      ],
+      "report_id": "10408460"
+    },
+    {
+      "drugs": [
+        "CLARITIN",
+        "MOTRIN",
+        "RESVERATROL",
+        "MULTI VITAMIN + MINERAL",
+        "MULTI-VIT",
+        "VITAMIN B COMPLEX",
+        "GLEEVEC"
+      ],
+      "reactions": [
+        "Alopecia",
+        "Vulvovaginal pain",
+        "Myalgia",
+        "Mass",
+        "Arthralgia",
+        "Rash"
+      ],
+      "report_id": "10413653"
+    },
+    {
+      "drugs": [
+        "LEVOXYL",
+        "RESVERATROL",
+        "SALMON OIL",
+        "MYRBETRIQ",
+        "CRESTOR",
+        "OLANZAPINE.",
+        "LANOXIN",
+        "ZYRTEC",
+        "PROBIOTIC                          /06395501/",
+        "WARFARIN"
+      ],
+      "reactions": [
+        "Hypersensitivity",
+        "Headache"
+      ],
+      "report_id": "10423089"
+    },
+    {
+      "drugs": [
+        "NEXIUM",
+        "SPIRIVA",
+        "ADVIL",
+        "ASMANEX",
+        "TRAZODONE",
+        "PLAQUENIL",
+        "AMBIEN",
+        "ARADIA",
+        "VITAMIN B12",
+        "ALEVE",
+        "XARELTO",
+        "ALLEGRA-D",
+        "TRIAMCINOLONE",
+        "RESVERATROL",
+        "REVLIMID",
+        "VITAMIN D3"
+      ],
+      "reactions": [
+        "Eye pain",
+        "Vision blurred",
+        "Urinary tract infection",
+        "Palpitations",
+        "Rash"
+      ],
+      "report_id": "10424569"
+    },
+    {
+      "drugs": [
+        "RESVERATROL",
+        "CALCIUM(PROTOCOL BONE SUPPORT)",
+        "DEXAMETHASONE.",
+        "MULTI VITAMIN",
+        "MELATONIN"
+      ],
+      "reactions": [
+        "Gait disturbance",
+        "Off label use",
+        "Headache",
+        "Dizziness"
+      ],
+      "report_id": "10429918"
+    },
+    {
+      "drugs": [
+        "COQ 10",
+        "REVLIMID",
+        "REVLIMID",
+        "REVLIMID",
+        "REVLIMID",
+        "ASTAXANTHIN",
+        "RESVERATROL",
+        "TURMERIC"
+      ],
+      "reactions": [
+        "Oedema peripheral",
+        "Visual impairment",
+        "Muscular weakness",
+        "Dry eye",
+        "Aura",
+        "Dysgeusia",
+        "Dysphonia",
+        "Diarrhoea",
+        "Neuropathy peripheral",
+        "Cardiac fibrillation",
+        "Pain"
+      ],
+      "report_id": "10433072"
+    },
+    {
+      "drugs": [
+        "VITAMIN D",
+        "POMEGRANATE                        /05817101/",
+        "XTANDI",
+        "CELEBREX",
+        "METFORMIN",
+        "RESVERATROL",
+        "LOSARTAN",
+        "AVODART"
+      ],
+      "reactions": [
+        "Insomnia"
+      ],
+      "report_id": "10454788"
+    },
+    {
+      "drugs": [
+        "B12                                /00056201/",
+        "B COMPLEX                          /00212701/",
+        "COQ10                              /00517201/",
+        "VITAMIN E                          /00110501/",
+        "FISH OIL W/VITAMIN D NOS",
+        "BANABA LEAF",
+        "SYLVESTRE",
+        "ACV PLUS WITH GREEN TEA",
+        "SELENIUM",
+        "ALOE VERA",
+        "FLAX SEED",
+        "CRANBERRY                          /01512301/",
+        "ARESTIN",
+        "BOSWELLIA",
+        "ACIDOPHILUS",
+        "TURMERIC",
+        "CINNAMON AND GREEN TEA",
+        "MILK THISTLE",
+        "ARMOUR THYROID",
+        "RESVERATROL",
+        "ORAQIX",
+        "COCONUT OIL",
+        "CAYENNE",
+        "GYMNEMA"
+      ],
+      "reactions": [
+        "Pain",
+        "Tongue discolouration",
+        "Chemical burn of gastrointestinal tract",
+        "Burning sensation",
+        "Ageusia"
+      ],
+      "report_id": "10463680"
+    },
+    {
+      "drugs": [
+        "MYRBETRIQ",
+        "VESICARE",
+        "LEVOXYL",
+        "RESVERATROL",
+        "CRESTOR",
+        "OLANZAPINE.",
+        "ATLANTIC SALMON OIL",
+        "PROBIOTIC                          /06395501/",
+        "ZYRTEC"
+      ],
+      "reactions": [
+        "Hypersensitivity"
+      ],
+      "report_id": "10508046"
+    },
+    {
+      "drugs": [
+        "RITUXAN",
+        "RESVERATROL",
+        "VITAMIN B12",
+        "OMEGA 3",
+        "FILGRASTIM",
+        "GRAPE SEED",
+        "GARLIC.",
+        "RITUXAN",
+        "LIPITOR",
+        "BENDAMUSTINE",
+        "ASPIRIN.",
+        "ATENOLOL."
+      ],
+      "reactions": [
+        "Infusion related reaction",
+        "Fungal infection",
+        "Infection",
+        "Pyrexia",
+        "Urticaria"
+      ],
+      "report_id": "10509856"
+    },
+    {
+      "drugs": [
+        "ASPIRIN.",
+        "MULTIVITAMIN",
+        "INVOKANA",
+        "LUTEIN",
+        "COQ10",
+        "PANTOPRAZOLE",
+        "PLAVIX",
+        "NIFEDIPINE.",
+        "ZOLOFT",
+        "BREO ELLIPTA",
+        "LEVOTHYROXINE",
+        "VITAMIN D",
+        "RESVERATROL",
+        "POTASSIUM",
+        "PROBIOTIC",
+        "FISH OIL",
+        "BREO ELLIPTA",
+        "METAMUCIL",
+        "LASIX",
+        "VITAMIN B COMPLEX",
+        "IRON",
+        "NIFEDIPINE XL",
+        "WELCHOL",
+        "VITAMIN B12",
+        "STOOL SOFTENER",
+        "RES-Q 1250",
+        "METOPROLOL XL",
+        "GLIMEPIRIDE.",
+        "XARELTO"
+      ],
+      "reactions": [
+        "Micturition urgency",
+        "Urine output decreased",
+        "Therapeutic response unexpected"
+      ],
+      "report_id": "10520405"
+    },
+    {
+      "drugs": [
+        "HYDROCHLOROTHIAZIDE.",
+        "COENZYME Q10",
+        "RESVERATROL",
+        "IRBESARTAN TABLETS USP 300 MG",
+        "CURCUMIN",
+        "OMEGA-3 ACIDS"
+      ],
+      "reactions": [
+        "Myalgia",
+        "Pruritus",
+        "Deafness",
+        "Sinus disorder",
+        "Gait disturbance",
+        "Urticaria",
+        "Burning sensation",
+        "Upper-airway cough syndrome",
+        "Muscle strain",
+        "Lacrimation increased",
+        "Impaired driving ability",
+        "Cataract",
+        "Product substitution issue"
+      ],
+      "report_id": "10553633"
+    },
+    {
+      "drugs": [
+        "BELVIQ",
+        "HERBAL",
+        "MAGNESIUM",
+        "RESVERATROL",
+        "HERBAL"
+      ],
+      "reactions": [
+        "Dry mouth",
+        "Thirst"
+      ],
+      "report_id": "10579099"
+    },
+    {
+      "drugs": [
+        "PREVACID",
+        "MSM",
+        "POTASSIUM",
+        "VITAMIN K",
+        "VITAMIN D",
+        "VICODIN",
+        "AMITRIPTYLINE",
+        "CALCIUM CITRATE",
+        "RANITIDINE",
+        "VITAMIN B12",
+        "GLUCOSAMINE",
+        "CHONDROITIN",
+        "RESVERATROL",
+        "FLEXERIL",
+        "DOCUSATE SODIUM.",
+        "CHANTIX",
+        "VITAMIN C",
+        "MELOXICAM.",
+        "CENTRUM SILVER"
+      ],
+      "reactions": [
+        "Drug ineffective"
+      ],
+      "report_id": "10579911"
+    },
+    {
+      "drugs": [
+        "VIAGRA",
+        "NIASPAN",
+        "L-ARGININE",
+        "MULTIVITAMIN",
+        "TARGRETIN",
+        "TARGRETIN",
+        "LEVOTHYROXIN",
+        "KOREAN GINSENG",
+        "CO-Q10-CHLORELLA",
+        "RESVERATROL",
+        "VALCHLOR",
+        "FISH OIL",
+        "TRIAMCINOLONE",
+        "LIPITOR",
+        "VALERIAN ROOT"
+      ],
+      "reactions": [
+        "Skin exfoliation",
+        "Atrial fibrillation",
+        "Intertrigo"
+      ],
+      "report_id": "10588785"
+    },
+    {
+      "drugs": [
+        "PREDNISONE ACETATE",
+        "CHOLECALCIFEROL",
+        "DEXAMETHASONE SODIUM SUCCINATE",
+        "FAMOTIDINE.",
+        "AMMONIUM CHLORIDE/DIPHENHYDRAMINE HYDROCHLORIDE/SODIUM CITRATE",
+        "ACETAMINOPHEN.",
+        "OMEGA FISH OIL",
+        "OBINUTUZUMAB",
+        "ALLOPURINOL.",
+        "TRU-016",
+        "COENZYME Q-10",
+        "RESVERATROL",
+        "ACICLOVIR SODIUM",
+        "DIAZEPAM."
+      ],
+      "reactions": [
+        "Cytokine release syndrome"
+      ],
+      "report_id": "10588957"
+    },
+    {
+      "drugs": [
+        "FOLIC ACID.",
+        "UBIDECARENONE",
+        "COLECALCIFEROL",
+        "PROVENGE",
+        "PROVENGE",
+        "ASCORBIC ACID.",
+        "CAMELLIA SINENSIS",
+        "MILK THISTLE",
+        "FERROUS SULFATE",
+        "AMIODARONE",
+        "RESVERATROL",
+        "PROSTATE HEALTH COMPLEX",
+        "CALCIUM CARBONATE.",
+        "ATORVASTATIN CALCIUM.",
+        "VACCINIUM MACROCARPON",
+        "B-50",
+        "PROVENGE",
+        "MULTIPLE VITAMINS",
+        "GLYCERYL TRINITRATE",
+        "PARACETAMOL"
+      ],
+      "reactions": [
+        "Atrioventricular block second degree",
+        "Atrioventricular block complete",
+        "Bradycardia"
+      ],
+      "report_id": "10594682"
+    },
+    {
+      "drugs": [
+        "VITAMIN D                          /00107901/",
+        "SUCRALFATE.",
+        "RESVERATROL",
+        "URSODIOL.",
+        "POMEGRANATE                        /05817101/",
+        "METFORMIN",
+        "SIMVASTATIN.",
+        "CLARITIN",
+        "LEUKINE",
+        "XTANDI",
+        "FISH OIL",
+        "PENTOXIFYLLINE.",
+        "CITRACAL                           /00751520/",
+        "PROVIGIL"
+      ],
+      "reactions": [
+        "Disease progression"
+      ],
+      "report_id": "10634022"
+    },
+    {
+      "drugs": [
+        "AMLODIPINE",
+        "RAPAFLO",
+        "LIPITOR",
+        "MULTIVITAMIN",
+        "TOPROL XL",
+        "MINERALS NOS",
+        "LUPRON DEPOT",
+        "AVODART",
+        "UNKNOWN SUPPLEMENT FOR VISION",
+        "BENAZEPRIL",
+        "RESVERATROL"
+      ],
+      "reactions": [
+        "Testicular pain",
+        "Neuralgia",
+        "Hot flush"
+      ],
+      "report_id": "10679452"
+    },
+    {
+      "drugs": [
+        "LIPITOR",
+        "ASPIRIN.",
+        "VITAMIN D3",
+        "CALCIUM/MAGNESIUM/VITAMIN D",
+        "LIPITOR",
+        "COQ10",
+        "VITAMIN B12",
+        "LIPITOR",
+        "LIPITOR",
+        "RESVERATROL",
+        "LIPITOR"
+      ],
+      "reactions": [
+        "Type 2 diabetes mellitus",
+        "Neuropathy peripheral"
+      ],
+      "report_id": "10695625"
+    },
+    {
+      "drugs": [
+        "Q10",
+        "ZYRTEC",
+        "LOVAZA",
+        "LOVAZA",
+        "ROYAL JELLY",
+        "RESVERATROL",
+        "COLCHICINE.",
+        "ALLOPURINOL."
+      ],
+      "reactions": [
+        "Urticaria",
+        "Pruritus",
+        "Swelling",
+        "Food allergy"
+      ],
+      "report_id": "10695997"
+    },
+    {
+      "drugs": [
+        "GLUCOPHAGE",
+        "LANTUS",
+        "GLUCADOL//GLUCOSAMINE SULFATE",
+        "RESVERATROL",
+        "VESICARE",
+        "LANTUS",
+        "VASEXTEN",
+        "BEFACT FORTE",
+        "CARDIOASPIRIN",
+        "OMNIBIONTA",
+        "COVERSYL PLUS",
+        "MOXONIDINE",
+        "MAGNUM",
+        "SOM230",
+        "INEGY",
+        "VESICARE",
+        "SOM230",
+        "APIDRA",
+        "INEGY",
+        "LIPANTHYLNANO",
+        "CARDIOASPIRIN",
+        "GLUCADOL//GLUCOSAMINE SULFATE",
+        "OMNIBIONTA",
+        "METFORMAX",
+        "APIDRA",
+        "COVERSYL PLUS",
+        "BEFACT FORTE",
+        "RESVERATROL"
+      ],
+      "reactions": [
+        "Adrenal insufficiency",
+        "Adrenal insufficiency",
+        "Malaise",
+        "Acute kidney injury",
+        "Gastric ulcer"
+      ],
+      "report_id": "10710557"
+    },
+    {
+      "drugs": [
+        "NEURONTIN",
+        "FLOMAX",
+        "FERROUS SULFATE",
+        "PROVENGE",
+        "CINNAMON.",
+        "MULTIVITAMIN (VITAMINS NOS)",
+        "VITAMIN C",
+        "PRILOSEC (OMEPRAZOLE)",
+        "OS-CAL (CALCIUM CARBONATE)",
+        "LOVENOX",
+        "SYNTHROID",
+        "KLONOPIN",
+        "RESVERATROL",
+        "NIZORAL",
+        "VITAMIN D3",
+        "FLAXSEED",
+        "CIPROFLOXACIN (CIPROFLOXACIN HYDROCHLORIDE)"
+      ],
+      "reactions": [
+        "Pyrexia",
+        "Urinary tract infection"
+      ],
+      "report_id": "10715952"
+    },
+    {
+      "drugs": [
+        "AMOXICILLIN.",
+        "GRAPE SEED",
+        "VITAMIN K",
+        "RESVERATROL",
+        "MUPIROCIN.",
+        "REVLIMID",
+        "REVLIMID",
+        "GREEN TEA EXTRACT",
+        "DEXAMETHASONE.",
+        "KRILL OIL",
+        "SPIRULINA",
+        "CURCUMIN",
+        "VITAMIN B",
+        "REVLIMID",
+        "COENZYME Q10",
+        "VITAMIN A",
+        "LEVOTHYROXINE",
+        "POTASSIUM",
+        "VITAMIN C",
+        "CHLORELLA",
+        "ASPIRIN.",
+        "BACTRIM",
+        "VITAMIN E"
+      ],
+      "reactions": [
+        "Drug dose omission",
+        "Memory impairment"
+      ],
+      "report_id": "10736209"
+    },
+    {
+      "drugs": [
+        "REVLIMID",
+        "FLUTICASONE PROPIONATE.",
+        "AMIODARONE",
+        "TURMERIC",
+        "RESVERATROL",
+        "DRONABINOL.",
+        "COENZYME Q10",
+        "SYNTHROID",
+        "DORZOLAMIDE-TIMOLOL",
+        "LUMIGAN",
+        "ASTAXANTHIN"
+      ],
+      "reactions": [
+        "Oedema peripheral"
+      ],
+      "report_id": "10737793"
+    },
+    {
+      "drugs": [
+        "RESVERATROL",
+        "PROBIOTICS (UNSPECIFIED)",
+        "OXYTROL FOR WOMEN",
+        "OMEGA-3 ACIDS",
+        "Q-10"
+      ],
+      "reactions": [
+        "Product adhesion issue",
+        "Application site pain",
+        "Application site exfoliation"
+      ],
+      "report_id": "10738925"
+    },
+    {
+      "drugs": [
+        "VITAMIN D",
+        "PHENERGAN",
+        "TRANEXAMIC ACID.",
+        "EFFEXOR XR",
+        "ADDERALL XR",
+        "KLONOPIN",
+        "PROBIOTIC",
+        "TOPAMAX",
+        "ADDERALL XR",
+        "WELLBUTRIN XL",
+        "CHILDRENS BENADRYL",
+        "LIDODERM",
+        "ATIVAN",
+        "TOPAMAX",
+        "SINGULAIR",
+        "MULTIVITAMIN",
+        "COMPAZINE",
+        "ZEGERID",
+        "PHENERGAN",
+        "KALBITOR",
+        "ZYRTEC",
+        "EPIPEN",
+        "RESVERATROL",
+        "LEVAQUIN",
+        "ULTRAM",
+        "KALBITOR",
+        "TYLENOL WITH CODEINE",
+        "SCOPOLAMINE",
+        "CICLESONIDE",
+        "COMPAZINE"
+      ],
+      "reactions": [
+        "Nephrolithiasis"
+      ],
+      "report_id": "10742452"
+    },
+    {
+      "drugs": [
+        "AMPYRA",
+        "AMPYRA",
+        "LEVOTHYROXINE",
+        "MACRODANTIN",
+        "TOPROL XL",
+        "AZITHROMYCIN",
+        "RESVERATROL",
+        "LEVSIN",
+        "LEVOTHYROXINE",
+        "KRILL OIL",
+        "GENERIC FOR BONIVA",
+        "AMPYRA",
+        "AMANTADINE",
+        "DETROL"
+      ],
+      "reactions": [
+        "Blood pressure decreased",
+        "Heart rate increased",
+        "Sleep disorder",
+        "Blood pressure increased",
+        "Therapeutic response unexpected",
+        "Aggression",
+        "Palpitations",
+        "Feeling abnormal",
+        "Drug interaction",
+        "Blood pressure fluctuation",
+        "Mood altered",
+        "Malaise"
+      ],
+      "report_id": "10767796"
+    },
+    {
+      "drugs": [
+        "OXYBUTYNIN",
+        "VITAMIN D3",
+        "TECFIDERA",
+        "NAPROXEN.",
+        "UBIQUINOL",
+        "BACLOFEN.",
+        "CYMBALTA",
+        "AMPYRA",
+        "MULTIVITAMIN",
+        "OXYCODONE",
+        "CAPSAICIN.",
+        "RESVERATROL",
+        "CALCIUM",
+        "VALIUM",
+        "ADVIL",
+        "AMPYRA"
+      ],
+      "reactions": [
+        "Peroneal nerve palsy",
+        "Suicidal ideation",
+        "Secondary progressive multiple sclerosis",
+        "Depression",
+        "Myalgia",
+        "Presbyopia",
+        "Off label use",
+        "Multiple sclerosis relapse",
+        "Dysstasia",
+        "Polyarthritis",
+        "Drug ineffective",
+        "Myopia",
+        "Anxiety"
+      ],
+      "report_id": "10770806"
+    },
+    {
+      "drugs": [
+        "RESVERATROL",
+        "PREGNENOLONE",
+        "LORCET",
+        "DEHYDROEPIANDROSTERONE",
+        "MELATONIN",
+        "ANDROSTENEDIONE",
+        "FISH OIL",
+        "DIGESTIVE ENZYMES                  /02161301/",
+        "VITAMIN B12",
+        "VITAMIN C",
+        "MYLANTA                            /00036701/",
+        "RANITIDINE",
+        "CIMETIDINE",
+        "FUCOIDAN",
+        "ERLOTINIB",
+        "ENSURE",
+        "5-FLUOROURACIL                     /00098801/",
+        "TESTOSTERONE.",
+        "XELODA",
+        "VERAPAMIL",
+        "BENICAR",
+        "XELODA",
+        "MYCOSTATIN",
+        "PHENERGAN"
+      ],
+      "reactions": [
+        "Death",
+        "Heart rate increased",
+        "Off label use",
+        "Blood pressure decreased",
+        "Nasopharyngitis",
+        "Decreased appetite",
+        "Abdominal pain upper",
+        "Dyspnoea",
+        "Cough",
+        "Nausea",
+        "Rash"
+      ],
+      "report_id": "10776152"
+    },
+    {
+      "drugs": [
+        "VITAMIN C",
+        "COUMADIN",
+        "ERLOTINIB",
+        "XELODA",
+        "PALMERS SHEA BUTTER",
+        "MINOCYCLINE",
+        "RESVERATROL",
+        "VITAMIN A                          /00056001/"
+      ],
+      "reactions": [
+        "Death",
+        "Rash pruritic",
+        "Back pain",
+        "Arthralgia",
+        "Dyspnoea",
+        "Musculoskeletal pain",
+        "Asthenia",
+        "Burning sensation",
+        "Depression"
+      ],
+      "report_id": "10793610"
+    },
+    {
+      "drugs": [
+        "FISH OIL",
+        "ASPIRIN.",
+        "IRON",
+        "HUMIRA",
+        "MAGNESIUM CITRATE.",
+        "CITRACAL + D",
+        "CINNAMON.",
+        "GARLIC.",
+        "BEET ROOT",
+        "GREEN TEA EXTRACT",
+        "MVI",
+        "RESVERATROL"
+      ],
+      "reactions": [
+        "Headache",
+        "Injection site bruising",
+        "Fall",
+        "Impaired healing",
+        "Injection site discolouration",
+        "Contusion",
+        "Injection site haemorrhage"
+      ],
+      "report_id": "10799442"
+    },
+    {
+      "drugs": [
+        "XALKORI",
+        "RESVERATROL",
+        "ASPIRIN.",
+        "FOSAMAX",
+        "ASTAXANTHIN/OMEGA-3 FATTY ACIDS",
+        "VISION WITH LUTEIN",
+        "XALKORI",
+        "FOSAMAX",
+        "PROCERA AVH",
+        "DERMEX P",
+        "XALKORI",
+        "XALKORI",
+        "PRODHA EYE",
+        "CITRACAL + D"
+      ],
+      "reactions": [
+        "Tinnitus",
+        "Swelling",
+        "Intervertebral disc protrusion",
+        "Visual impairment",
+        "Hypoacusis",
+        "Body height decreased",
+        "Neoplasm progression"
+      ],
+      "report_id": "10802856"
+    },
+    {
+      "drugs": [
+        "VITAMIN C",
+        "VITAMIN D",
+        "FOLIC ACID.",
+        "BIOTIN",
+        "RESVERATROL",
+        "METHOTREXATE",
+        "PROGESTERONE.",
+        "VITAMIN B COMPLEX",
+        "HUMIRA",
+        "DHEA",
+        "RESVERATROL",
+        "ADVIL",
+        "HERBAL EXTRACT NOS"
+      ],
+      "reactions": [
+        "Rheumatoid arthritis",
+        "Drug ineffective",
+        "Dehydration"
+      ],
+      "report_id": "10822745"
+    },
+    {
+      "drugs": [
+        "VITAMIN D",
+        "MULTIVITAMINS",
+        "VITAMIN C",
+        "REVLIMID",
+        "FISH OIL",
+        "FERROUS SULFATE",
+        "DEXAMETHASONE.",
+        "POTASSIUM BICARBONATE.",
+        "RESVERATROL",
+        "VELCADE"
+      ],
+      "reactions": [
+        "Blood potassium decreased",
+        "Blood iron decreased"
+      ],
+      "report_id": "10849108"
+    },
+    {
+      "drugs": [
+        "ELOTUZUMAB",
+        "PANTOPRAZOLE",
+        "METOPROLOL",
+        "ACETAMINOPHEN.",
+        "ACETAMINOPHEN.",
+        "PROBIOTIC",
+        "FILGRASTIM",
+        "FILGRASTIM",
+        "ALLOPURINOL.",
+        "DIPHENHYDRAMINE",
+        "CORTISPORIN",
+        "FILGRASTIM",
+        "DEXAMETHASONE.",
+        "VERAPAMIL",
+        "ACETAMINOPHEN.",
+        "FUROSEMIDE.",
+        "RESVERATROL",
+        "ENOXAPARIN",
+        "ENOXAPARIN",
+        "TOBRADEX",
+        "MULTIVITAMINS",
+        "REVLIMID",
+        "DEXAMETHASONE.",
+        "ELOTUZUMAB",
+        "NUTRIFERON",
+        "MEPERIDINE",
+        "ENOXAPARIN",
+        "DIPHENHYDRAMINE",
+        "L-ARGININE",
+        "VITAMIN D",
+        "VITAMIN B 6",
+        "FUROSEMIDE.",
+        "HYDROCORTISONE.",
+        "ASPIRIN.",
+        "LOVENOX",
+        "AMOXICILLIN.",
+        "REVLIMID",
+        "DEXAMETHASONE.",
+        "OSCAL",
+        "ACETAMINOPHEN.",
+        "ACETAMINOPHEN.",
+        "PROCHLORPERAZINE.",
+        "ASPIRIN.",
+        "MEPERIDINE",
+        "HEPARIN",
+        "ENOXAPARIN",
+        "DIPHENHYDRAMINE",
+        "FILGRASTIM",
+        "WARFARIN",
+        "BABY ASPIRIN",
+        "DEXAMETHASONE.",
+        "VITAMIN B12",
+        "PRAVASTATIN",
+        "BACTRIM DS",
+        "LATANOPROST.",
+        "SOLU-CORTEF",
+        "DIPHENHYDRAMINE",
+        "FILGRASTIM",
+        "FILGRASTIM",
+        "UBIQUINOL",
+        "OMEGA 3",
+        "VITAMIN C",
+        "DIPHENHYDRAMINE",
+        "FILGRASTIM",
+        "FILGRASTIM",
+        "FILGRASTIM",
+        "ASTAXANTHIN"
+      ],
+      "reactions": [
+        "Deep vein thrombosis"
+      ],
+      "report_id": "10857807"
+    },
+    {
+      "drugs": [
+        "SULFAMETHOXAZOLE AND TRIMETHOPRIM",
+        "MULTIVITAMINS",
+        "NUTRIFERON",
+        "PRAVASTATIN",
+        "REVLIMID",
+        "OSCAL",
+        "IVIG",
+        "ALLOPURINOL.",
+        "LATANOPROST.",
+        "VITAMIN D",
+        "OMEPRAZOLE.",
+        "LASIX",
+        "VITAMIN C",
+        "VERAPAMIL",
+        "PROTONIX",
+        "METOPROLOL",
+        "VITAMIN B6",
+        "VITAMIN B12",
+        "OMEGA 3",
+        "REVLIMID",
+        "DEXAMETHASONE.",
+        "RESVERATROL",
+        "PRO-BIOTICS",
+        "WARFARIN"
+      ],
+      "reactions": [
+        "Deep vein thrombosis",
+        "Haematuria"
+      ],
+      "report_id": "10859800"
+    },
+    {
+      "drugs": [
+        "REVLIMID",
+        "REVLIMID",
+        "COQ 10",
+        "REVLIMID",
+        "ASTAXANTHIN",
+        "TURMERIC",
+        "REVLIMID",
+        "RESVERATROL"
+      ],
+      "reactions": [
+        "Cardiac fibrillation",
+        "Neuropathy peripheral",
+        "Pain",
+        "Oedema peripheral",
+        "Muscular weakness",
+        "Dysphonia",
+        "Visual impairment",
+        "Dry eye",
+        "Aura",
+        "Diarrhoea",
+        "Dysgeusia"
+      ],
+      "report_id": "10871332"
+    },
+    {
+      "drugs": [
+        "DECADRON",
+        "ASTAXANTHIN",
+        "ZOVIRAX",
+        "HUMALOG KWIKPEN",
+        "DILAUDID",
+        "ASTAXANTHIN",
+        "GLUCOPHAGE",
+        "VITAMIN D3",
+        "ACIDOPHILUS",
+        "OCEAN SALINE NASAL SPRAY",
+        "MULTIVITAMINS",
+        "CC-4047",
+        "NEUPOGEN",
+        "GLUCOTROL",
+        "ZOMETA",
+        "TYLENOL",
+        "LOVENOX",
+        "VITAMIN B COMPLEX",
+        "LIPITOR",
+        "PRILOSEC",
+        "TURMERIC ROOT EXTRACT",
+        "CC-4047",
+        "CYCLOPHOSPHAMIDE.",
+        "SAW PALMETTO",
+        "SIMETHICONE",
+        "LUMIGAN",
+        "RESVERATROL"
+      ],
+      "reactions": [
+        "Syncope"
+      ],
+      "report_id": "10901552"
+    },
+    {
+      "drugs": [
+        "RESVERATROL",
+        "METOLAZONE.",
+        "CENTRUM SENIOR FOR WOMEN",
+        "SCHIFF MOVE-FREE",
+        "METROGEL",
+        "TRIAMCINALONE",
+        "CALCIUM CITRATE",
+        "MIRVASO",
+        "VITAMIN B COMPLEX",
+        "GRAPE SEED EXTRACT",
+        "PROBIOTICS",
+        "POTASSIUM CHORIDE"
+      ],
+      "reactions": [
+        "Social problem",
+        "Rosacea",
+        "Pain",
+        "Deformity",
+        "Rebound effect",
+        "Sleep disorder due to general medical condition, insomnia type",
+        "Erythema",
+        "Impaired work ability"
+      ],
+      "report_id": "10905028"
+    },
+    {
+      "drugs": [
+        "ENTOCORT EC",
+        "OXYCONTIN",
+        "DIAZEPAM.",
+        "ATENOLOL.",
+        "L-CYSTEINE",
+        "ALPRAZOLAM.",
+        "ZITHROMAX",
+        "PRILOSEC",
+        "ALBUTEROL.",
+        "ADDERALL",
+        "XYREM",
+        "SPIRONOLACTONE.",
+        "LIALDA",
+        "XYREM",
+        "AUGMENTIN",
+        "LOTRONEX",
+        "CLARITIN",
+        "XYREM",
+        "TIZANIDINE.",
+        "OXYCODONE",
+        "RESVERATROL"
+      ],
+      "reactions": [
+        "Animal bite",
+        "Infection",
+        "Condition aggravated",
+        "Colitis microscopic",
+        "Fungal infection"
+      ],
+      "report_id": "10905823"
+    },
+    {
+      "drugs": [
+        "LAMOTRIGINE PROLONGED-RELEASE TABLET",
+        "POTASSIUM",
+        "AMITRIPTYLIN",
+        "B12 INJECTION",
+        "EPIPEN",
+        "ALPRAZOLAM.",
+        "LORATIDINE",
+        "RANITIDINE",
+        "FUROSEMIDE.",
+        "IBUPROFEN.",
+        "LORAZEPAM INJECTION",
+        "MONTELUKAST",
+        "NUBAINE",
+        "PHENTERMINE",
+        "RELPAX",
+        "LAMOTRIGINE PROLONGED-RELEASE TABLET",
+        "FLUOXETINE",
+        "HYDROCODONE",
+        "OLANZAPINE.",
+        "ONDANSETRON",
+        "RESVERATROL",
+        "SIMVASTATIN.",
+        "TIZANIDINE (TIZANIDINE)",
+        "LAMICTAL XR",
+        "PHENERGAN INJECTION",
+        "TORADOL"
+      ],
+      "reactions": [
+        "Asthenopia",
+        "Infection",
+        "Head injury",
+        "Skin ulcer",
+        "Headache",
+        "Memory impairment",
+        "Cognitive disorder",
+        "Eye pain",
+        "Diplopia",
+        "Fall"
+      ],
+      "report_id": "10917776"
+    },
+    {
+      "drugs": [
+        "GRAPE SEED EXTRACT",
+        "L DOPA",
+        "METHYLPHEN",
+        "OXYBUTINYN",
+        "VITAMIN D",
+        "RESVERATROL",
+        "VITAMIN B COMPLEX",
+        "VOLTAREN",
+        "FISH OIL",
+        "ZYRTEC",
+        "METHYLPHEN",
+        "K-DUR",
+        "COQ10",
+        "MELATONIN",
+        "LEVTHYROXINE",
+        "MELOXICAM.",
+        "METHYLPHENIDATE",
+        "ASPIRIN.",
+        "MULTI-VITAMIN",
+        "LASIX",
+        "METHYPHEN",
+        "DICLOFENAC"
+      ],
+      "reactions": [
+        "Loss of consciousness",
+        "Narcolepsy",
+        "Fall",
+        "Fatigue",
+        "Injury",
+        "Product substitution issue"
+      ],
+      "report_id": "10932639"
+    },
+    {
+      "drugs": [
+        "ZEAXANTHIN",
+        "LUTEIN",
+        "ADVAIR HFA",
+        "VENTOLIN",
+        "NEXIUM",
+        "POTASSIUM",
+        "RIBOFLAVIN",
+        "TREXIMET",
+        "PULMICORT TURBUHALER",
+        "PROCHLORPERAZINE.",
+        "FOLIC ACID.",
+        "VITAMIN D3",
+        "PROBIOTICS",
+        "UBIQUINOL",
+        "SUCRALFATE.",
+        "PROMETHAZINE",
+        "HYDROCORTISONE.",
+        "VITAMIN C",
+        "TOPAMAX",
+        "MONTELUKAST",
+        "LUNESTA",
+        "MAGNESIUM",
+        "OMEGA-3 FATTY ACIDS",
+        "BIOTIN",
+        "LEVAQUIN",
+        "ONDANSETRON",
+        "VITAMIN E",
+        "ENTERRA GASTRIC NEUROSTIMULATOR",
+        "CALCIUM",
+        "RESVERATROL",
+        "B100 (VITAMIN B COMPLEX)",
+        "CETIRIZINE",
+        "LEVOCARNITINE.",
+        "MULTIVITAMIN"
+      ],
+      "reactions": [
+        "Impaired work ability",
+        "Mitochondrial myopathy",
+        "Economic problem"
+      ],
+      "report_id": "10949876"
+    },
+    {
+      "drugs": [
+        "RESVERATROL",
+        "KRILL OIL",
+        "MELOXICAM.",
+        "CIALIS",
+        "TESTOSTERONE.",
+        "ASPIRIN                            /00002701/",
+        "COQ 10",
+        "MVI                                /01825701/",
+        "LORATADINE."
+      ],
+      "reactions": [
+        "Drug ineffective",
+        "Muscle spasms",
+        "Wrong technique in drug usage process"
+      ],
+      "report_id": "10954493"
+    },
+    {
+      "drugs": [
+        "CELECOXIB 200MG TEVA",
+        "CLERENEX",
+        "VITAMIN E",
+        "GINKO",
+        "LIPITOR",
+        "BUDESONIDE.",
+        "FLUTICASONE",
+        "ULTIMATE OMEGA",
+        "RESVERATROL",
+        "VITAMIN D"
+      ],
+      "reactions": [
+        "Movement disorder",
+        "Product substitution issue",
+        "Arthritis",
+        "Mobility decreased"
+      ],
+      "report_id": "11012530"
+    },
+    {
+      "drugs": [
+        "HCTZ",
+        "SPIRONOLACTONE.",
+        "TAMSULOSIN",
+        "LEVOTHYROXINE",
+        "ADVAIR DISKUS",
+        "OMEPRAZOLE.",
+        "FOSAMAX",
+        "ARTIFICAL TEARS",
+        "PRAVASTATIN",
+        "HYDROCODONE",
+        "ALPHAGEN-P",
+        "SLOW-MAG",
+        "CALCIUM",
+        "MS CONTIN",
+        "BACLOFEN.",
+        "PROCRIT EYE INJECTION",
+        "RESVERATROL (LONGEVINEX)",
+        "VITAMIN D3",
+        "DOXEPIN",
+        "LUMIGAN",
+        "COQ10",
+        "HYDRALAZINE"
+      ],
+      "reactions": [
+        "Aptyalism",
+        "Dry mouth",
+        "Drug ineffective"
+      ],
+      "report_id": "11029568"
+    },
+    {
+      "drugs": [
+        "TYLENOL",
+        "PANTETHINE",
+        "UBIQUINOL",
+        "QNASL",
+        "ADVAIR HFA",
+        "ALBUTEROL.",
+        "LYCOPENE",
+        "CRESTOR",
+        "RESVERATROL",
+        "CRESTOR",
+        "CLONAZEPAM.",
+        "MAGNESIUM GLYCINATE",
+        "FISH OIL CAPSULE"
+      ],
+      "reactions": [
+        "Decreased activity",
+        "Fatigue",
+        "Vertigo",
+        "Gait disturbance"
+      ],
+      "report_id": "11030138"
+    },
+    {
+      "drugs": [
+        "FOLIC ACID.",
+        "VAGIFEM",
+        "GLIMEPIRIDE.",
+        "MAGNESIUM",
+        "KRILL OIL",
+        "LINZESS",
+        "PREDNISONE.",
+        "ESTROGEN",
+        "RESVERATROL",
+        "XELJANZ",
+        "METFORMIN",
+        "METHOTREXATE",
+        "VITAMIN D",
+        "TURMERIC"
+      ],
+      "reactions": [
+        "Dizziness",
+        "Blood pressure decreased",
+        "Heart rate irregular",
+        "Feeling abnormal",
+        "Asthenia",
+        "Extrasystoles",
+        "Rash",
+        "Dehydration",
+        "Micturition frequency decreased"
+      ],
+      "report_id": "11048026"
+    },
+    {
+      "drugs": [
+        "BENDAMUSTINE HYDROCHLORIDE",
+        "RITUXAN",
+        "RITUXAN",
+        "ASPIRIN                            /00002701/",
+        "VITAMIN B12",
+        "OMEGA 3                            /06852001/",
+        "FILGRASTIM",
+        "ATENOLOL.",
+        "ATORVASTATIN CALCIUM.",
+        "RESVERATROL"
+      ],
+      "reactions": [
+        "Urticaria",
+        "Fungal infection",
+        "Infection",
+        "Infusion related reaction",
+        "Pyrexia"
+      ],
+      "report_id": "11057981"
+    },
+    {
+      "drugs": [
+        "METFORMIN",
+        "DIAZEPAM.",
+        "VITAMIN D",
+        "SIMVASTATIN.",
+        "INVOKANA",
+        "ANDROGEL",
+        "ATENOLOL.",
+        "QUINAPRIL",
+        "VITAMIN E",
+        "RESVERATROL",
+        "ASPIRIN.",
+        "LANTUS",
+        "TAMSULOSIN"
+      ],
+      "reactions": [
+        "Weight decreased",
+        "Drug administered at inappropriate site"
+      ],
+      "report_id": "11082890"
+    },
+    {
+      "drugs": [
+        "CALCIUM CITRATE + VITAMIN D",
+        "RESVERATROL",
+        "UBIQUINON",
+        "COREG",
+        "ZYTIGA",
+        "PYRIDIUM",
+        "GLUCOSAMINE W/CHONDROITIN SULF./MANGAN./VIT C",
+        "LUPRON",
+        "OMEGA 3",
+        "PREDNISONE.",
+        "LIPITOR",
+        "ASPIRIN.",
+        "CRANBERRY EXTRACT",
+        "LEVAQUIN",
+        "ULTRAM",
+        "COZAAR",
+        "CENTRUM SILVER"
+      ],
+      "reactions": [
+        "Urosepsis",
+        "Drug ineffective"
+      ],
+      "report_id": "11112455"
+    },
+    {
+      "drugs": [
+        "NIVOLUMAB",
+        "NIVOLUMAB",
+        "ALPHA LIPOIC ACID",
+        "VITAMIN B12",
+        "RESVERATROL",
+        "IPILIMUMAB",
+        "TURMERIC                           /01079602/",
+        "IPILIMUMAB",
+        "VITAMIN D3",
+        "PRASTERONE",
+        "OMEGA 3                            /01333901/",
+        "OMEPRAZOLE.",
+        "NIVOLUMAB",
+        "IPILIMUMAB",
+        "COENZYME Q10",
+        "LORAZEPAM.",
+        "PROCHLORPERAZINE."
+      ],
+      "reactions": [
+        "Hyponatraemia"
+      ],
+      "report_id": "11125308"
+    },
+    {
+      "drugs": [
+        "RESVERATROL",
+        "CALCIUM CITRATE 500 MG WITH MAGNESIUM 80MG ZINC 10MG WITH VITAMIN D3",
+        "LISINOPRIL.",
+        "ALLOPURINOL.",
+        "FLAXSEED",
+        "VITAMIN B12",
+        "ESTER-C",
+        "GLIMEPIRIDE.",
+        "COQ10",
+        "NIFEDIPINE ER",
+        "FENOFIBRATE.",
+        "CENTRUM SILVER-WOMEN^S",
+        "FISH OIL",
+        "GLUCOSAMINE1500 MG WITH CHONDROITIN",
+        "BROMFED DM"
+      ],
+      "reactions": [
+        "Dyspnoea",
+        "Dizziness postural"
+      ],
+      "report_id": "11127242"
+    },
+    {
+      "drugs": [
+        "LYRICA",
+        "ANORO ELLIPTA",
+        "LYRICA",
+        "XANAX",
+        "XANAX",
+        "BUSPAR",
+        "MELATONIN",
+        "ECHINACEA",
+        "ULTRA",
+        "BUSPIRONE HCL",
+        "CITALOPRAM HYDROBROMIDE.",
+        "LYRICA",
+        "LYRICA",
+        "LYRICA",
+        "CITALOPRAM",
+        "BUSPIRONE",
+        "MAGNESIUM",
+        "RESVERATROL",
+        "LYRICA",
+        "CELEBREX",
+        "ALPRAZOLAM.",
+        "VITAMIN D",
+        "RESVERATROL",
+        "VITAMIN E",
+        "CALCIUM",
+        "LYRICA",
+        "BUSPAR",
+        "ALPRAZOLAM.",
+        "CITALOPRAM",
+        "TURMERIC",
+        "LYRICA",
+        "LYRICA",
+        "LYRICA",
+        "CELEBREX",
+        "FLOVENT DISKUS",
+        "PROAIR HFA"
+      ],
+      "reactions": [
+        "Memory impairment",
+        "Increased appetite",
+        "Drug withdrawal syndrome",
+        "Denture wearer",
+        "Pre-existing condition improved",
+        "Tobacco user",
+        "Bedridden",
+        "Weight increased",
+        "Pain",
+        "Anxiety",
+        "Weight decreased",
+        "Disturbance in attention",
+        "Drug ineffective",
+        "Malaise",
+        "Panic attack",
+        "Condition aggravated",
+        "Nuclear magnetic resonance imaging brain abnormal",
+        "Therapeutic response unexpected",
+        "Tremor",
+        "Disease recurrence",
+        "Decreased appetite",
+        "Feeling abnormal",
+        "Depression",
+        "Overdose",
+        "Nightmare",
+        "Insomnia",
+        "Asthenia"
+      ],
+      "report_id": "11133023"
+    },
+    {
+      "drugs": [
+        "VITAMIN B3",
+        "ATORVASTATIN",
+        "FISH OIL",
+        "ZYTIGA",
+        "AVODART",
+        "ESTROGEN",
+        "ASTATIN /01326102/",
+        "POMEGRANATE                        /05817101/",
+        "URSODIOL.",
+        "XTANDI",
+        "CASODEX",
+        "CITRACAL                           /00751520/",
+        "RESVERATROL"
+      ],
+      "reactions": [
+        "Fatigue",
+        "Bone pain",
+        "Drug ineffective"
+      ],
+      "report_id": "11182284"
+    },
+    {
+      "drugs": [
+        "CYMBALTA",
+        "LOVAZA",
+        "NEXIUM",
+        "L-GLUTAMINE TABLET",
+        "TECFIDERA",
+        "STOOL SOFTNER-LAXATIVE",
+        "VITAMIN B12",
+        "ACIDOPHILUS-PECTIN CAPSULE",
+        "VITAMIN B COMPLEX",
+        "RESVERATROL CAPSULE",
+        "BACLOFEN TABLET",
+        "KEPPRA",
+        "CRANBERRY TABLET",
+        "TURMERIC CAPSULE",
+        "CURCUMIN POWDER",
+        "CINNAMON.",
+        "KRILL OIL",
+        "HYALURONIC ACID"
+      ],
+      "reactions": [
+        "Gastrointestinal viral infection"
+      ],
+      "report_id": "11195747"
+    },
+    {
+      "drugs": [
+        "VYVANSE",
+        "CINRYZE",
+        "CINRYZE",
+        "BERINERT",
+        "SEASONIQUE",
+        "RESVERATROL",
+        "GLUTATHIONE"
+      ],
+      "reactions": [
+        "Inappropriate schedule of drug administration",
+        "No adverse event"
+      ],
+      "report_id": "11196665"
+    },
+    {
+      "drugs": [
+        "MIRVASO",
+        "ACAI OIL",
+        "RESVERATROL",
+        "MIRVASO",
+        "BIOTIN",
+        "UNKNOWN CREAM CLEANSER",
+        "UNKNOWN MOISTURIZER",
+        "EMINENCE ORGANIC FACE WASH",
+        "UNKNOWN TONER",
+        "MULTIVITAMINS",
+        "VITAMIN D"
+      ],
+      "reactions": [
+        "Pallor",
+        "Erythema",
+        "Skin burning sensation",
+        "Condition aggravated",
+        "Feeling hot"
+      ],
+      "report_id": "11197905"
+    },
+    {
+      "drugs": [
+        "MAGNESIUM",
+        "SELINIUM",
+        "ACETY-L CARNITINE",
+        "ZINC",
+        "COQ10",
+        "VITAMIN E",
+        "PROBIOTICS",
+        "CIPRO",
+        "BIOTIN",
+        "METHYL FOLATE",
+        "VITAMIN D",
+        "METHYL B-12",
+        "ALPHA LIPOIC ACID",
+        "VITAMIN B3",
+        "RESVERATROL TURMERIC",
+        "VITAMIN B6",
+        "VITAMIN C"
+      ],
+      "reactions": [
+        "Food intolerance",
+        "Deafness unilateral",
+        "Tinnitus",
+        "Bedridden",
+        "Impaired work ability",
+        "Gastrointestinal disorder",
+        "Antinuclear antibody increased",
+        "Psoriatic arthropathy",
+        "Fatigue",
+        "Psoriasis"
+      ],
+      "report_id": "11221657"
+    },
+    {
+      "drugs": [
+        "THALOMID",
+        "TURMERIC",
+        "THALOMID",
+        "CAT^S CLAW",
+        "FISH OIL",
+        "VITAMIN E",
+        "VITAMIN B COMPLEX",
+        "RESVERATROL",
+        "VITAMIN C",
+        "SELENIUM",
+        "ECOTRIN"
+      ],
+      "reactions": [
+        "Confusional state",
+        "Oedema peripheral",
+        "Syncope",
+        "Urinary tract infection",
+        "Hypotension",
+        "Incontinence"
+      ],
+      "report_id": "11229087"
+    },
+    {
+      "drugs": [
+        "THALOMID",
+        "TURMERIC",
+        "RESVERATROL",
+        "THALOMID",
+        "CAT^S CLAW",
+        "ECOTRIN",
+        "FISH OIL",
+        "THALOMID",
+        "VITAMIN B COMPLEX",
+        "VITAMIN C",
+        "VITAMIN E",
+        "SELENIUM"
+      ],
+      "reactions": [
+        "Hypotension",
+        "Oedema peripheral",
+        "Syncope",
+        "Urinary tract infection",
+        "Incontinence",
+        "Confusional state"
+      ],
+      "report_id": "11229296"
+    },
+    {
+      "drugs": [
+        "INLYTA",
+        "XGEVA",
+        "LEVOTHYROXINE.",
+        "OXYCODONE HYDROCHLORIDE.",
+        "NITROSTAT",
+        "INLYTA",
+        "AMARYL",
+        "NORVASC",
+        "COLACE",
+        "INLYTA",
+        "FISH OIL",
+        "IMODIUM",
+        "RESVERATROL",
+        "VITAMIN D3",
+        "CENTRUM SILVER /02363801/",
+        "LANTUS",
+        "METOPROLOL SUCCINATE.",
+        "ASPIRIN.",
+        "COUMADINE",
+        "CALTRATE WITH VITAMIN D",
+        "COUMADINE",
+        "LIPITOR",
+        "IMDUR"
+      ],
+      "reactions": [
+        "Diarrhoea",
+        "Lymphadenopathy",
+        "Nausea",
+        "Decreased appetite",
+        "Glossodynia"
+      ],
+      "report_id": "11234154"
+    },
+    {
+      "drugs": [
+        "HOMATROPIN",
+        "LEVOFLOXACIN.",
+        "CURCUMIN",
+        "BUPROPION HYDROCHLORIDE.",
+        "ESCITALOPRAM OXALATE.",
+        "INFLUENZA VACCINE",
+        "RESVERATROL",
+        "PROBIOTIC 10",
+        "VOTRIENT",
+        "COLOSTRUM",
+        "DRONABINOL.",
+        "GLUCOSAMINE CHONDROITIN",
+        "GLUTATHIONE",
+        "MIRTAZAPINE.",
+        "MORPHINE SULFATE.",
+        "PNEUMOVAX 23",
+        "ANTIOXIDANT",
+        "GREEN TEA EXTRACT",
+        "VITAMIN D",
+        "MUSHROOM (NOS)",
+        "SERTRALINE HYDROCHLORIDE.",
+        "PANTOPRAZOLE SODIUM.",
+        "FISH OIL"
+      ],
+      "reactions": [
+        "Dyspnoea",
+        "Death",
+        "Decreased appetite",
+        "Drug dose omission",
+        "Cough"
+      ],
+      "report_id": "11270000"
+    },
+    {
+      "drugs": [
+        "LUPRON DEPOT",
+        "VITAMIN C",
+        "PROMETHAZINE",
+        "ZOFRAN",
+        "METFORMIN",
+        "OMEGA 3",
+        "FERROUS FUMARATE",
+        "CO-CUMIN",
+        "VITAMIN D",
+        "CELEBREX",
+        "CRANBERRY EXTRACT",
+        "UBIQUINOL",
+        "LEXAPRO",
+        "CRESTOR",
+        "ZETIA",
+        "RESVERATROL",
+        "ZEAXANTHIN",
+        "XTANDI",
+        "TAXOTERE",
+        "HYDROCORTISONE."
+      ],
+      "reactions": [
+        "Fall",
+        "Muscle swelling",
+        "Groin pain",
+        "Muscle atrophy",
+        "Weight decreased",
+        "Tachycardia",
+        "Decreased appetite",
+        "Pain in extremity",
+        "Back pain",
+        "Drug administered at inappropriate site",
+        "Compression fracture"
+      ],
+      "report_id": "11279343"
+    },
+    {
+      "drugs": [
+        "LEVOTHYROXINE.",
+        "VITAMIN C",
+        "GLUCOSAMINE",
+        "KELP",
+        "GARLIC.",
+        "MAGNESIUM",
+        "VITAMIN B12",
+        "OREGANOL",
+        "ACIDOPHILUS",
+        "TRI-IODINE",
+        "VITAMIN D",
+        "L-CARNITINE",
+        "ULTIMATE FLORA",
+        "RESVERATROL",
+        "COQ10",
+        "GINKGO",
+        "XIFAXAN",
+        "OLIVE LEAF",
+        "COD LIVER OIL"
+      ],
+      "reactions": [
+        "Drug ineffective",
+        "Abnormal sensation in eye",
+        "Urinary incontinence",
+        "Joint swelling"
+      ],
+      "report_id": "11306271"
+    },
+    {
+      "drugs": [
+        "NASOCORT",
+        "MACRODANTIN",
+        "IMODIUM",
+        "CALCIUM WITH VITAMIN D",
+        "RESVERATROL",
+        "CINNAMON.",
+        "XOPENEX",
+        "GINKO BILOBA",
+        "HERBAL FIBER",
+        "PREVACID",
+        "XOPENEX",
+        "PREMARIN",
+        "XIFAXAN",
+        "MULTIVITAMIN",
+        "GRAPEFRUIT SEE EXTRACT",
+        "BENADRYL",
+        "TERAZOL",
+        "VITAMIN B12",
+        "BENADRYL",
+        "VITAMIN B AND C",
+        "GLUCOSAMINE",
+        "OMEGA 369"
+      ],
+      "reactions": [
+        "Throat tightness",
+        "Dysphonia"
+      ],
+      "report_id": "11307448"
+    },
+    {
+      "drugs": [
+        "ASPIRIN.",
+        "ZINC",
+        "OMEPRAZOLE.",
+        "CRESTOR",
+        "MULTIVITAMINS",
+        "FISH OIL",
+        "POTASSIUM",
+        "BRIMONIDINE",
+        "LATANAPROST",
+        "IBUPROFEN.",
+        "RANEXA",
+        "ISOSORBIDE.",
+        "TEMAZEPINE",
+        "EODOLZE",
+        "COQ10",
+        "RESVERATROL",
+        "CLOPIDOGREL",
+        "ENALAPRIL",
+        "CARVEDILOL.",
+        "NITROSTAT",
+        "CPAP MACHINE",
+        "VITAMIN C"
+      ],
+      "reactions": [
+        "Urine output increased",
+        "Constipation",
+        "Intestinal obstruction"
+      ],
+      "report_id": "11312442"
+    },
+    {
+      "drugs": [
+        "CALCIUM",
+        "TAMOXIFEN",
+        "TAMOXIFEN",
+        "SYNTHROID",
+        "PRAVASTATIN",
+        "MAGNESIUM",
+        "RESVERATROL",
+        "SPIRONOLACTONE.",
+        "CO-Q10",
+        "SELENIUM",
+        "CYTOMEL",
+        "MULTI-VITE",
+        "VIT D.",
+        "TAMOXIFEN"
+      ],
+      "reactions": [
+        "Muscle spasms",
+        "Pain in extremity"
+      ],
+      "report_id": "11330655"
+    },
+    {
+      "drugs": [
+        "WOMENS ROGAINE EXTRA STRENGTH",
+        "VITAMIN C",
+        "RESVERATROL",
+        "SYNTHROID",
+        "WOMENS ROGAINE EXTRA STRENGTH",
+        "LIPITOR",
+        "CO-Q10",
+        "CO-Q10",
+        "RESVERATROL",
+        "TURMERIC",
+        "ATENOLOL.",
+        "TURMERIC"
+      ],
+      "reactions": [
+        "Product formulation issue",
+        "Hair texture abnormal",
+        "Hair disorder",
+        "Incorrect dose administered",
+        "Inappropriate schedule of drug administration"
+      ],
+      "report_id": "11351281"
+    },
+    {
+      "drugs": [
+        "ACETYLCYSTEINE.",
+        "HYDROXYZINE",
+        "LABETALOL",
+        "BAYER GENUINE ASPIRIN",
+        "HYDROMORPHONE HCL",
+        "RESVERATROL",
+        "FAMOTIDINE.",
+        "COENZYME Q-10",
+        "VITAMIN B COMPLEX",
+        "HYDROMORPHONE HCL",
+        "MAGNESIUM",
+        "CALCIUM CARBONATE W/COLECALCIFEROL",
+        "MAXZIDE",
+        "ASCORBIC ACID.",
+        "COD LIVER OIL",
+        "FOLIC ACID.",
+        "GRAPE SEED EXTRACT",
+        "POTASSIUM CHLORIDE.",
+        "HAWTHORN",
+        "NITROGLYCERINE"
+      ],
+      "reactions": [
+        "Haematemesis",
+        "Drug hypersensitivity",
+        "Rectal haemorrhage"
+      ],
+      "report_id": "11382829"
+    },
+    {
+      "drugs": [
+        "HYDROCODONE",
+        "POTASSIUM",
+        "PSYLLIUM",
+        "RESVERATROL",
+        "XARELTO",
+        "PATANOL",
+        "VITAMIN D3",
+        "MAGNESIUM",
+        "CALCIUM",
+        "CALCIUM CARBONATE.",
+        "FISH OIL",
+        "GINGER.",
+        "ZINC",
+        "TURMERIC"
+      ],
+      "reactions": [
+        "Haematoma",
+        "Internal haemorrhage",
+        "Haemorrhagic anaemia"
+      ],
+      "report_id": "11395922"
+    },
+    {
+      "drugs": [
+        "PROVENTIL HFA",
+        "ZOMETA",
+        "AHCC PLUS VITAMIN D",
+        "REVLIMID",
+        "AMOXICILLIN.",
+        "RESVERATROL",
+        "REVLIMID",
+        "REVLIMID",
+        "DYAZIDE",
+        "VITAMIN B COMPLETE",
+        "ATENOLOL."
+      ],
+      "reactions": [
+        "Bone disorder"
+      ],
+      "report_id": "11400957"
+    },
+    {
+      "drugs": [
+        "VITAMIN E",
+        "CALCIUM",
+        "WARFARIN",
+        "VITAMIN D3",
+        "AMLODIPINE",
+        "PRESERVISION",
+        "LOSARTAN.",
+        "POTASSIUM CHLORIDE.",
+        "ASPIRIN.",
+        "RESVERATROL",
+        "TIKOSYN",
+        "METOPROLOL.",
+        "NOVALOX",
+        "FUROSEMIDE.",
+        "VITAMIN B12",
+        "ATORVASTATIN",
+        "LANTUS",
+        "METOPROLOL.",
+        "AMLODIPINE",
+        "INSULIN INJECTION",
+        "VIT B COMPLEX",
+        "LOSARTAN."
+      ],
+      "reactions": [
+        "Cardiac flutter",
+        "Drug administration error",
+        "Product closure removal difficult",
+        "Pneumonia",
+        "Cardiac failure"
+      ],
+      "report_id": "11459875"
+    },
+    {
+      "drugs": [
+        "XYREM",
+        "HUMATROPE",
+        "NYSTATIN/TRIAMCINOLONE",
+        "FISH OIL",
+        "XYREM",
+        "RESVERATROL",
+        "D-RIBOSE",
+        "VITAMIN C WITH ROSE HIPS",
+        "VITAMIN B12",
+        "METROGEL",
+        "HYDROCHLOROTHIAZIDE.",
+        "XYREM",
+        "KLOR-CON M10",
+        "XYREM",
+        "7-KETO-DEHYDROEPIANDROSTERONE",
+        "MAGNESIUM",
+        "XYREM",
+        "XYREM",
+        "ARMOUR THYROID",
+        "VITAMIN D3",
+        "CALCIUM",
+        "CREATINE",
+        "COENZYME Q10",
+        "SELENIUM",
+        "ASPIRIN.",
+        "NUVARING",
+        "MULTIVITAMIN",
+        "DHEA",
+        "PROBIOTIC",
+        "KLOR-CON M"
+      ],
+      "reactions": [
+        "Weight increased",
+        "Paraesthesia",
+        "Coordination abnormal",
+        "Disturbance in attention",
+        "Snoring",
+        "Tremor",
+        "Drug administration error",
+        "Feeling of body temperature change",
+        "Tongue disorder",
+        "Chills"
+      ],
+      "report_id": "11474629"
+    },
+    {
+      "drugs": [
+        "XYREM",
+        "ZYRTEC-D",
+        "PROGESTERONE.",
+        "VITAMIN K",
+        "KLONOPIN",
+        "MANGANESE GLUCONATE.",
+        "PHOSPHATIDYL SERINE",
+        "VITAMIN C TR",
+        "RESVERATROL",
+        "TURMERIC",
+        "VITAMIN D3",
+        "XYREM",
+        "IODINE STRONG SOLUTION",
+        "SILYMARIN LIVER EXTRACT",
+        "MULTIVITAMINS",
+        "UBIQUINOL",
+        "VALIUM",
+        "MAGNESIUM OXIDE.",
+        "VITAMIN B12",
+        "DHEA",
+        "CEFDINIR.",
+        "KLONOPIN",
+        "ESTRONE",
+        "ALPHA LIPOIC ACID",
+        "DEXTROAMPHET SACCHARAT, AMPHET ASPARTATE, DEXTROAMPHET SULFATE AND AMPHET SULFAT",
+        "ASPIRIN ADULT",
+        "CALCIUM ASCORBATE"
+      ],
+      "reactions": [
+        "Feeling abnormal"
+      ],
+      "report_id": "11476559"
+    },
+    {
+      "drugs": [
+        "PHOSPHATIDYL SERINE",
+        "MULTIVITAMIN",
+        "CALCIUM ASCORBATE",
+        "ALPHA LIPOIC ACID",
+        "VITAMIN D3",
+        "VITAMIN K",
+        "VITAMIN B12",
+        "PROGESTERONE.",
+        "MAGNESIUM OXIDE.",
+        "XYREM",
+        "ESTRONE",
+        "KLONOPIN",
+        "DEXTROAMPHET SACCHARAT, AMPHET ASPARTATE, DEXTROAMPHET SULFATE AND AMPHET SULFAT",
+        "DHEA",
+        "TURMERIC",
+        "IODINE",
+        "VALIUM",
+        "SILYMARIN",
+        "MANGANESE GLUCONATE.",
+        "UBIQUINOL",
+        "XYREM",
+        "VITAMIN C",
+        "RESVERATROL",
+        "ASPIRIN.",
+        "ZYRTEC-D"
+      ],
+      "reactions": [
+        "Weight increased",
+        "Peripheral swelling"
+      ],
+      "report_id": "11477520"
+    },
+    {
+      "drugs": [
+        "PROBIOTIC",
+        "CIPROFLOXACIN HCL 250 MG TAB",
+        "UNIQUINOL TRANS-RESVERATROL",
+        "TURMERIC",
+        "MULTI VITAMIN",
+        "ASTAXANTHIN"
+      ],
+      "reactions": [
+        "Gait inability",
+        "Pain in extremity",
+        "Arthralgia"
+      ],
+      "report_id": "14459877"
+    },
+    {
+      "drugs": [
+        "GLUCOSAMINE SULFATE POTASSIUM",
+        "PLANT?SOURCED MINERALS",
+        "GLUCOSAMINE SULFATE",
+        "NITROFURANTOIN, GENERIC FOR MACROBID",
+        "POMEGRANATE GRAPE SEED + TRANS?RESVERATROL EXTRACT",
+        "ROSUVASTATIN.",
+        "PHOSPHORUS",
+        "MILK THISTLE",
+        "ONCE DAILY MULTI VITAMIN",
+        "VITAMIN D3",
+        "BETA CAROTENE FROM D. SALINE ALGAE",
+        "MAGNESIUM CITRATE.",
+        "MIXED CAROTENOIDS",
+        "CALCIUM MAGNESIUM VITAMIN",
+        "VITAMIN D",
+        "MAGNESIUM",
+        "42 FRUITS + VEGGIES VARIOUS",
+        "MEGA EFA OMEGA?3 EPA + DHA"
+      ],
+      "reactions": [
+        "Myalgia",
+        "Pyrexia",
+        "Chills",
+        "Hypoaesthesia",
+        "Pain in extremity",
+        "Feeding disorder",
+        "Rash papular"
+      ],
+      "report_id": "15335186"
+    },
+    {
+      "drugs": [
+        "ORGOVYX",
+        "ORGOVYX",
+        "PREDNISOLONE",
+        "OFLOXACIN",
+        "PROLENSA",
+        "BOVINE BONE",
+        "VITAMIN A",
+        "FLORASSIST PREBIOTIC",
+        "LITHIUM",
+        "MACUGUARD OCULAR SUPPORT",
+        "MENAQUINONE 5",
+        "TRANS-RESVERATROL",
+        "POTASSIUM CITRATE CITRIC ACID",
+        "ZINC",
+        "PROLAMINE",
+        "VITEYES",
+        "THYMUS PREPARATION",
+        "VITAMIN D3",
+        "EVENING PRIMROSE OIL\\HERBALS",
+        "AMINO ACIDS, SOURCE UNSPECIFIED",
+        "SELENIUM",
+        "UBIQUINOL",
+        "TRIPLE ACTION",
+        "CRUCIFEROUS COMPLETE",
+        "ULTRA PROSTATE FORMULA",
+        "ARGININE",
+        "CHLOROPHYLL",
+        "COMPLEX",
+        "HYPOTHALAMUS",
+        "LYSINE",
+        "MAGNESIUM CITRATE",
+        "MULTIZYME",
+        "VITAMIN C",
+        "TAURINE",
+        "XTANDI",
+        "HERBALS\\TURMERIC",
+        "ACETAMINOPHEN",
+        "BACLOFEN",
+        "METHOCARBAMOL",
+        "TRAMADOL",
+        "OXYCODONE",
+        "DEXAMETHASONE",
+        "FUROSEMIDE",
+        "ACETAMINOPHEN\\HYDROCODONE",
+        "PREDNISONE",
+        "PROCHLORPERAZINE",
+        "ZOFRAN",
+        "QUERCETIN WITH BROMELAIN",
+        "ALPHA LIPOIC ACID",
+        "SUPER K",
+        "COENZYME Q10",
+        "UDENYCA",
+        "POMI T",
+        "DIGEST",
+        "COLLAGEN"
+      ],
+      "reactions": [
+        "Gastrointestinal pain",
+        "Hip surgery",
+        "Pain",
+        "Product dose omission issue"
+      ],
+      "report_id": "25048569"
+    },
+    {
+      "drugs": [
+        "GLUCOSAMINE SULFATE POTASSIUM",
+        "PLANT?SOURCED MINERALS",
+        "GLUCOSAMINE SULFATE",
+        "NITROFURANTOIN, GENERIC FOR MACROBID",
+        "POMEGRANATE GRAPE SEED + TRANS?RESVERATROL EXTRACT",
+        "ROSUVASTATIN.",
+        "PHOSPHORUS",
+        "MILK THISTLE",
+        "ONCE DAILY MULTI VITAMIN",
+        "VITAMIN D3",
+        "BETA CAROTENE FROM D. SALINE ALGAE",
+        "MAGNESIUM CITRATE.",
+        "MIXED CAROTENOIDS",
+        "CALCIUM MAGNESIUM VITAMIN",
+        "VITAMIN D",
+        "MAGNESIUM",
+        "42 FRUITS + VEGGIES VARIOUS",
+        "MEGA EFA OMEGA?3 EPA + DHA"
+      ],
+      "reactions": [
+        "Myalgia",
+        "Pyrexia",
+        "Chills",
+        "Hypoaesthesia",
+        "Pain in extremity",
+        "Feeding disorder",
+        "Rash papular"
+      ],
+      "report_id": "15335186"
+    },
+    {
+      "drugs": [
+        "CLONAZEPAM",
+        "CLONAZEPAM",
+        "NITRAZEPAM",
+        "NITRAZEPAM",
+        "TRAZODONE",
+        "MIRTAZAPINE",
+        "MIRTAZAPINE",
+        "MIRTAZAPINE",
+        "MIRTAZAPINE",
+        "CARBAMAZEPINE",
+        "CARBAMAZEPINE",
+        "MEMANTINE",
+        "RISPERIDONE",
+        "RISPERIDONE",
+        "RISPERIDONE",
+        "RISPERIDONE",
+        "RISPERIDONE",
+        "RISPERIDONE",
+        "RISPERIDONE",
+        "RISPERIDONE",
+        "LORAZEPAM",
+        "LORAZEPAM",
+        "LORAZEPAM",
+        "LORAZEPAM",
+        "LORAZEPAM",
+        "LORAZEPAM",
+        "ENALAPRIL",
+        "CITICOLINE SODIUM",
+        "CHOLINE",
+        "CITICOLINE",
+        "POLYGONUM CUSPIDATUM",
+        "BACOPA MONIERI",
+        "PHOSPHATIDYL SERINE",
+        "TRAMIPROSATE",
+        "SALINE",
+        "SODIUM CHLORIDE",
+        "DEXTROSE",
+        "DONEPEZIL",
+        "DONEPEZIL",
+        "DONEPEZIL",
+        "DONEPEZIL",
+        "VALPROIC ACID",
+        "VALPROIC ACID",
+        "GABAPENTIN"
+      ],
+      "reactions": [
+        "Pneumonia aspiration",
+        "Hypernatraemia",
+        "Somatic dysfunction",
+        "Off label use"
+      ],
+      "report_id": "25334684"
+    }
+  ],
+  "confidence": "low",
+  "note": "Co-occurrence signals only. Not a confirmed interaction source. Verify against NIH ODS, MedlinePlus, or PubMed before using."
+}

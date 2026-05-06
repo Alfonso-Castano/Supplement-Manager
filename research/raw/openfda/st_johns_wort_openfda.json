@@ -1,0 +1,7975 @@
+{
+  "canonical_name": "st_johns_wort",
+  "query_variants": [
+    "ST JOHNS WORT",
+    "HYPERICUM PERFORATUM",
+    "ST. JOHN'S WORT",
+    "HYPERICIN"
+  ],
+  "total_reports_fetched": 321,
+  "co_occurrence_reports": 320,
+  "co_occurrences": [
+    {
+      "drugs": [
+        "IBUPROFEN.",
+        "YAZ",
+        "ADVIL",
+        "ST. JOHNS WORT",
+        "YAZ",
+        "ADDERALL",
+        "YAZ"
+      ],
+      "reactions": [
+        "Thrombophlebitis superficial",
+        "Embolism arterial",
+        "Injury",
+        "Pain",
+        "Emotional distress",
+        "Thrombosis"
+      ],
+      "report_id": "10098940"
+    },
+    {
+      "drugs": [
+        "TECFIDERA",
+        "ST JOHNS WORT"
+      ],
+      "reactions": [
+        "Depressed mood"
+      ],
+      "report_id": "10128332"
+    },
+    {
+      "drugs": [
+        "OXYTROL FOR WOMEN",
+        "ST JOHNS WORT",
+        "VITAMINS (UNSPECIFIED)",
+        "GLUCOSAMINE",
+        "CHONDROITIN",
+        "GARLIC"
+      ],
+      "reactions": [
+        "Drug effect decreased"
+      ],
+      "report_id": "10219163"
+    },
+    {
+      "drugs": [
+        "HYDROCODONE THERAPY",
+        "HUMULIN N",
+        "NEXIUM",
+        "NEXIUM",
+        "ST JOHNS WORT"
+      ],
+      "reactions": [
+        "Swelling",
+        "Adverse event",
+        "Dyspnoea"
+      ],
+      "report_id": "10328571"
+    },
+    {
+      "drugs": [
+        "ESCITALOPRAM",
+        "ESCITALOPRAM",
+        "ESCITALOPRAM",
+        "ESCITALOPRAM",
+        "ESCITALOPRAM",
+        "ESCITALOPRAM",
+        "ST JOHNS WORT",
+        "INTERFERON NOS"
+      ],
+      "reactions": [
+        "Stress",
+        "Prescribed overdose",
+        "Myofascial pain syndrome",
+        "Prurigo"
+      ],
+      "report_id": "10346134"
+    },
+    {
+      "drugs": [
+        "FISH OIL",
+        "CRANBERRY.",
+        "LOPRESSOR",
+        "FLUTICASONE",
+        "MVI",
+        "10 VEGETABLE MULTIPLEX",
+        "PROTONIX",
+        "POTASSIUM",
+        "ECCHINACEA",
+        "ARIMIDEX",
+        "COMPAZINE",
+        "ST. JOHNS WORT",
+        "UNSPECIFIED CHEMO THERAPY",
+        "HCTZ",
+        "PRIMROSE OIL",
+        "ACIDOPHILUS",
+        "CALCIUM",
+        "MONTELUKAST",
+        "VITAMIN C",
+        "KLONOPIN",
+        "LEVOTHROID"
+      ],
+      "reactions": [
+        "Nasopharyngitis",
+        "Memory impairment",
+        "Fatigue",
+        "Kidney infection",
+        "Weight increased",
+        "Insomnia",
+        "Arthralgia",
+        "Bone pain",
+        "Headache"
+      ],
+      "report_id": "10376146"
+    },
+    {
+      "drugs": [
+        "ADVIL",
+        "ST JOHNS WORT",
+        "LUPRON DEPOT",
+        "CALCIUM + MAGNESIUM + ZINK",
+        "MULTIVITAMIN",
+        "IRON",
+        "VITAMIN D",
+        "ECHINACIA"
+      ],
+      "reactions": [
+        "Metrorrhagia",
+        "Muscle spasms",
+        "Fatigue",
+        "Crying",
+        "Mood altered"
+      ],
+      "report_id": "10545822"
+    },
+    {
+      "drugs": [
+        "METOPROLOL SUCCINATE.",
+        "LASIX",
+        "PRENATAL VITAMINS",
+        "CHONDROITIN SULFATE (BOVINE)\\GLUCOSAMINE SULFATE",
+        "CALCIUM CITRATE + VITAMIN D",
+        "ASPIRIN.",
+        "SYMBICORT",
+        "VITAMIN B COMPLEX",
+        "ALBUTEROL.",
+        "ACETAMINOPHEN.",
+        "FLAGYL",
+        "ZANTAC",
+        "REVLIMID",
+        "MELATONIN",
+        "IMODIUM A-D",
+        "ST JOHNS WORT",
+        "SYSTANE (HYPROMELLOSE 2910 (4000 MPA.S))",
+        "FISH OIL",
+        "REVLIMID",
+        "NITROGLYCERIN.",
+        "FLAXSEED"
+      ],
+      "reactions": [
+        "Coronary artery disease",
+        "Chronic obstructive pulmonary disease",
+        "Sleep apnoea syndrome"
+      ],
+      "report_id": "10582096"
+    },
+    {
+      "drugs": [
+        "ALBUTEROL HFA (SALBUTAMOL)",
+        "GABAPENTIN.",
+        "OXYCODONE  HCL (OXYCODONE HYDROCHLORIDE)",
+        "ALPRAZOLAM (ALPRAZOLAM)",
+        "ACETAMINOPHEN (PARACETAMOL)",
+        "VITAMIN D3 (COLECALCIFERAL)",
+        "B COMPLEX VITAMIN (CALCIUM PANTOTHENATE, NICTINAMIDE , PYRIDOXINE HYDROCHLORIDE, RIBOFILAVIN, THIAMINE HYDROCHLORIDE)",
+        "BRINTELLIX",
+        "VALERIAN ROOT (VALERIANA OFFICINALIS ROOT)",
+        "SKELAXIN /00611501/ (METAXA;ONE)",
+        "ST. JOHNS WORT (HYPERICUM PERFORMATUM)",
+        "MELATONIN",
+        "NAPROSYN /00256201/ (NAPROXEN)",
+        "FISH OIL",
+        "MULTIVITAMIN /00097801/ (ASCORBIC ACID, CALCIUM PANTOTHENATEM ERGOCALCIFEROL, NICOTINAMIDE, PYRIDOXINE HYDROCHLORIDEM RETINOL, RIBOFLAVIN, THIAMINE HYDROCHLORIDE("
+      ],
+      "reactions": [
+        "Sedation"
+      ],
+      "report_id": "10663015"
+    },
+    {
+      "drugs": [
+        "LUPRON DEPOT",
+        "VITAMIN C",
+        "ST JOHNS WORT",
+        "ASPIRIN.",
+        "IRON",
+        "VITAMIN D"
+      ],
+      "reactions": [
+        "Vaginal haemorrhage",
+        "Vaginal haemorrhage"
+      ],
+      "report_id": "10898341"
+    },
+    {
+      "drugs": [
+        "ST. JOHNS WORT",
+        "ABILIFY MAINTENA",
+        "ARIPIPRAZOLE."
+      ],
+      "reactions": [
+        "Psychiatric decompensation",
+        "Off label use",
+        "Drug interaction"
+      ],
+      "report_id": "11037233"
+    },
+    {
+      "drugs": [
+        "LISINOPRIL.",
+        "MUCINEX DM",
+        "FLOMAX",
+        "OMEPRAZOLE.",
+        "ST JOHNS WORT",
+        "ZOCOR",
+        "ASPIRIN.",
+        "OFEV"
+      ],
+      "reactions": [
+        "Diarrhoea",
+        "Faeces discoloured",
+        "Diarrhoea",
+        "Abdominal pain"
+      ],
+      "report_id": "11090786"
+    },
+    {
+      "drugs": [
+        "SEROQUEL",
+        "MULTIVITAMINS",
+        "ST JOHNS WORT",
+        "B12 SUBLINGUAL",
+        "SEROQUEL",
+        "LISINOPRIL / HCTZ",
+        "TUMERIC"
+      ],
+      "reactions": [
+        "Sedation",
+        "Tension",
+        "Somnolence",
+        "Intentional product misuse",
+        "Psychomotor skills impaired"
+      ],
+      "report_id": "11170173"
+    },
+    {
+      "drugs": [
+        "CALCIUM",
+        "VITAMIN B2",
+        "ST. JOHNS WORT",
+        "ARIMIDEX",
+        "MAGNESIUM"
+      ],
+      "reactions": [
+        "Ventricular hypertrophy",
+        "Left atrial dilatation",
+        "Cardiac disorder"
+      ],
+      "report_id": "11291573"
+    },
+    {
+      "drugs": [
+        "VITAMINS",
+        "MENS ROGAINE EXTRA STRENGTH",
+        "MENS ROGAINE EXTRA STRENGTH",
+        "BIOTIN",
+        "ST JOHNS WORT"
+      ],
+      "reactions": [
+        "Alopecia",
+        "Burning sensation"
+      ],
+      "report_id": "11351104"
+    },
+    {
+      "drugs": [
+        "SIMVASTATIN.",
+        "ATENOLOL.",
+        "GLUCOSAMINE",
+        "AMLODIPINE",
+        "ACETAMINOPHEN.",
+        "IBUPROFEN.",
+        "ST JOHNS WORT"
+      ],
+      "reactions": [
+        "Hypoaesthesia",
+        "Myalgia",
+        "Paraesthesia",
+        "Limb discomfort",
+        "Gait disturbance",
+        "Fatigue"
+      ],
+      "report_id": "11404967"
+    },
+    {
+      "drugs": [
+        "VITAMIN B12",
+        "MAGNESIUM",
+        "ST JOHNS WORT",
+        "CLONIDINE.",
+        "POTASSIUM CHLORIDE.",
+        "MULTIVITAMIN",
+        "MELOXICAM.",
+        "NEURONTIN",
+        "NORTHERA",
+        "NORTHERA"
+      ],
+      "reactions": [
+        "Abdominal pain upper",
+        "Nausea"
+      ],
+      "report_id": "11414242"
+    },
+    {
+      "drugs": [
+        "SIMVASTATIN.",
+        "ATENOLOL.",
+        "IBUPROFEN.",
+        "GLUCOSAMINE",
+        "PARACETAMOL",
+        "AMLODIPINE",
+        "ST JOHNS WORT"
+      ],
+      "reactions": [
+        "Myalgia",
+        "Hypoaesthesia",
+        "Gait disturbance",
+        "Fatigue",
+        "Limb discomfort",
+        "Paraesthesia"
+      ],
+      "report_id": "11418364"
+    },
+    {
+      "drugs": [
+        "PARACETAMOL",
+        "ATENOLOL.",
+        "IBUPROFEN.",
+        "SIMVASTATIN.",
+        "AMLODIPINE",
+        "GLUCOSAMINE",
+        "ST JOHNS WORT"
+      ],
+      "reactions": [
+        "Limb discomfort",
+        "Hypoaesthesia",
+        "Paraesthesia",
+        "Gait disturbance",
+        "Myalgia",
+        "Fatigue"
+      ],
+      "report_id": "11432330"
+    },
+    {
+      "drugs": [
+        "ATENOLOL/ATENOLOL HYDROCHLORIDE",
+        "AMLODIPINE",
+        "SIMVASTATIN.",
+        "ST JOHNS WORT",
+        "PARACETAMOL",
+        "GLUCOSAMINE",
+        "IBUPROFEN."
+      ],
+      "reactions": [
+        "Gait disturbance",
+        "Fatigue",
+        "Myalgia",
+        "Paraesthesia",
+        "Limb discomfort",
+        "Hypoaesthesia"
+      ],
+      "report_id": "11433899"
+    },
+    {
+      "drugs": [
+        "GLUCOSAMINE",
+        "ST JOHNS WORT",
+        "AMLODIPINE",
+        "ATENOLOL.",
+        "IBUPROFEN.",
+        "SIMVASTATIN.",
+        "PARACETAMOL"
+      ],
+      "reactions": [
+        "Paraesthesia",
+        "Hypoaesthesia",
+        "Gait disturbance",
+        "Limb discomfort",
+        "Myalgia",
+        "Fatigue"
+      ],
+      "report_id": "11446389"
+    },
+    {
+      "drugs": [
+        "DARVOCET",
+        "CLINDAMYCIN",
+        "ST JOHNS WORT",
+        "MULTIVITAMINS",
+        "BIRTH CONTROL PILLS",
+        "TYLENOL EXTRA STRENGTH",
+        "OXYCODONE"
+      ],
+      "reactions": [
+        "Drug administration error",
+        "Vomiting"
+      ],
+      "report_id": "11623578"
+    },
+    {
+      "drugs": [
+        "CIRCADIN",
+        "MAGNESIUM",
+        "ZOLOFT",
+        "NATURES OWN ST JOHNS WORT",
+        "STILNOX"
+      ],
+      "reactions": [
+        "Automatism",
+        "Alcohol abuse",
+        "Road traffic accident"
+      ],
+      "report_id": "11778365"
+    },
+    {
+      "drugs": [
+        "VITAMIN D",
+        "MENS OVER 50 VITAMIN",
+        "PERCOCET",
+        "SUMATRIPTAN.",
+        "TAMSULOSIN",
+        "BIOTIN",
+        "FENTANYL.",
+        "CRESTOR",
+        "IRON",
+        "ATENOLOL.",
+        "ST JOHNS WORT",
+        "MOVANTIK",
+        "TESTOSTERONE."
+      ],
+      "reactions": [
+        "Flatulence",
+        "Retching",
+        "Abdominal pain upper",
+        "Diarrhoea",
+        "Nausea",
+        "Back pain"
+      ],
+      "report_id": "11805208"
+    },
+    {
+      "drugs": [
+        "ASPIRIN (ECOTRIJ LOW STRENGTH)",
+        "ST. JOHN^S WORT (CENTRUM HERBALS ST JOHNS WORT)",
+        "LISINOPRIL (PRINIVIL/ZESTRIL)",
+        "OMEPRAZOLE (PRILOSEC)",
+        "FOSAMAX",
+        "DRONABINOL (IMARINOL)",
+        "AMPYRA",
+        "NORVASC",
+        "MODAFINIL (PROVIGIL)",
+        "LIPITOR",
+        "FERROUS SULFATE",
+        "LASIX",
+        "POTASSIUM CHLORIDE (KLOR-CON M20)",
+        "TEGRETOL"
+      ],
+      "reactions": [
+        "Dizziness",
+        "Insomnia"
+      ],
+      "report_id": "11813354"
+    },
+    {
+      "drugs": [
+        "ST JOHNS WORT",
+        "CLARITIN",
+        "FLONASE",
+        "CLARITIN"
+      ],
+      "reactions": [
+        "Extra dose administered"
+      ],
+      "report_id": "11828823"
+    },
+    {
+      "drugs": [
+        "OMEPRAZOLE.",
+        "OMEPRAZOLE.",
+        "ST JOHNS WORT",
+        "DIAZEPAM.",
+        "STEMETIL"
+      ],
+      "reactions": [
+        "Loss of consciousness",
+        "Tunnel vision",
+        "Dissociation",
+        "Vision blurred",
+        "Confusional state",
+        "Feeling abnormal",
+        "Dizziness",
+        "Drug withdrawal syndrome",
+        "Panic attack",
+        "Depression",
+        "Disturbance in attention",
+        "Mental impairment",
+        "Agitation"
+      ],
+      "report_id": "11835950"
+    },
+    {
+      "drugs": [
+        "OMEPRAZOLE.",
+        "ST JOHNS WORT",
+        "DIAZEPAM.",
+        "OMEPRAZOLE.",
+        "STEMETIL"
+      ],
+      "reactions": [
+        "Loss of consciousness",
+        "Feeling abnormal",
+        "Disturbance in attention",
+        "Dissociation",
+        "Drug withdrawal syndrome",
+        "Agitation",
+        "Tunnel vision",
+        "Depression",
+        "Vision blurred",
+        "Confusional state",
+        "Mental impairment",
+        "Dizziness",
+        "Panic attack"
+      ],
+      "report_id": "11854106"
+    },
+    {
+      "drugs": [
+        "TRAVATAN Z",
+        "CARTIA XT",
+        "ZANTAC",
+        "ALLEGRA ALLERGY",
+        "ST JOHNS WORT",
+        "OFEV",
+        "OFEV",
+        "OFEV",
+        "MELATONIN"
+      ],
+      "reactions": [
+        "Cholecystectomy",
+        "Diarrhoea",
+        "Basal cell carcinoma",
+        "Rectal haemorrhage"
+      ],
+      "report_id": "11859611"
+    },
+    {
+      "drugs": [
+        "OMEPRAZOLE.",
+        "DIAZEPAM.",
+        "ST JOHNS WORT",
+        "STEMETIL                           /00013301/",
+        "OMEPRAZOLE."
+      ],
+      "reactions": [
+        "Feeling abnormal",
+        "Agitation",
+        "Vision blurred",
+        "Depression",
+        "Loss of consciousness",
+        "Drug withdrawal syndrome",
+        "Disturbance in attention",
+        "Dizziness",
+        "Dissociation",
+        "Mental impairment",
+        "Panic attack",
+        "Confusional state",
+        "Tunnel vision"
+      ],
+      "report_id": "11861547"
+    },
+    {
+      "drugs": [
+        "GUAIFENESIN 600 MG 498",
+        "VITAMINS NOS",
+        "ST JOHNS WORT"
+      ],
+      "reactions": [
+        "Chest discomfort",
+        "Blood pressure increased",
+        "Drug interaction"
+      ],
+      "report_id": "11889952"
+    },
+    {
+      "drugs": [
+        "AVONEX",
+        "BACLOFEN.",
+        "URECHOLINE",
+        "AMANTADINE HCL",
+        "ST. JOHNS WORT"
+      ],
+      "reactions": [
+        "Urinary control neurostimulator implantation",
+        "Multiple sclerosis relapse",
+        "Language disorder"
+      ],
+      "report_id": "11972946"
+    },
+    {
+      "drugs": [
+        "IBUPROFEN.",
+        "PROPRANOLOL",
+        "ST. JOHNS WORT"
+      ],
+      "reactions": [
+        "Drug interaction",
+        "Serotonin syndrome",
+        "Anger",
+        "Psychotic disorder",
+        "Imprisonment",
+        "Impulse-control disorder",
+        "Homicide",
+        "Suicide attempt"
+      ],
+      "report_id": "12009107"
+    },
+    {
+      "drugs": [
+        "AMPYRA",
+        "COZAAR",
+        "MULTIVITAMINS",
+        "GINKGO",
+        "ST. JOHNS WORT",
+        "AMPYRA",
+        "TECFIDERA",
+        "BACLOFEN.",
+        "LETROZOLE.",
+        "TECFIDERA",
+        "AMRIX",
+        "POTASSIUM CHLORIDE.",
+        "DETROL LA",
+        "SIMVASTATIN."
+      ],
+      "reactions": [
+        "Hypersomnia",
+        "Fatigue",
+        "Depression",
+        "Somnolence",
+        "Eye disorder"
+      ],
+      "report_id": "12097851"
+    },
+    {
+      "drugs": [
+        "GINKGO BILOBA",
+        "OMEGA 3 COMPLEX",
+        "DEXAMETHASONE.",
+        "IRON",
+        "ZOCOR",
+        "VELCADE",
+        "TYLENOL",
+        "ACYCLOVIR.",
+        "CINNAMON EXTRACT",
+        "GARLIC.",
+        "ROBITUSSAN AC",
+        "LECITHIN",
+        "CALCIUM OYSTER",
+        "CLORPHENIRAMINE",
+        "DONEPEZIL.",
+        "REVLIMID",
+        "ASPIRIN.",
+        "ST. JOHNS WORT",
+        "EFFEXOR XR",
+        "VITAMIN E",
+        "ATENOLOL.",
+        "LISINOPRIL.",
+        "VITAMIN C",
+        "ALPRAZOLAM.",
+        "NAMENDA XR",
+        "NYSTATIN.",
+        "PROTONIX"
+      ],
+      "reactions": [
+        "Drug administration error"
+      ],
+      "report_id": "12105040"
+    },
+    {
+      "drugs": [
+        "CO-10",
+        "MULTI VITAMIN",
+        "ALLER-FEX",
+        "5HTP",
+        "GRASTEK",
+        "PREMORINE",
+        "GABA",
+        "RED YEAST RICE",
+        "NIACIN.",
+        "ST JOHNS WORT",
+        "BLACK CURRANT OIL"
+      ],
+      "reactions": [
+        "Anaphylactic reaction",
+        "Fear"
+      ],
+      "report_id": "12111038"
+    },
+    {
+      "drugs": [
+        "GINKO BILOBA",
+        "IBUPROFEN.",
+        "VITAMIN D3",
+        "NAPROXEN.",
+        "HERBAL TEA",
+        "PARAGARD T 380A",
+        "ADDERALL",
+        "BIOTIN WITH VITAMINS A, C",
+        "MULTIVITAMINS",
+        "CALCIUM",
+        "ST. JOHNS WORT",
+        "GINSENG"
+      ],
+      "reactions": [
+        "Procedural pain",
+        "Anxiety",
+        "Fatigue",
+        "Impaired driving ability",
+        "Sleep disorder",
+        "Menorrhagia",
+        "Dyspareunia",
+        "Memory impairment",
+        "Mood swings",
+        "Syncope",
+        "Premenstrual cramps",
+        "Depression",
+        "Abdominal pain lower",
+        "Back pain",
+        "Disturbance in attention",
+        "Irritability"
+      ],
+      "report_id": "12136786"
+    },
+    {
+      "drugs": [
+        "MIRTAZAPINE.",
+        "CITALOPRAM",
+        "AMLODIPINE",
+        "PROPRANOLOL",
+        "CODEINE PHOSPHATE",
+        "CHOLECALCIFEROL",
+        "ST JOHNS WORT"
+      ],
+      "reactions": [
+        "Heart rate increased",
+        "Fatigue",
+        "Feeling abnormal",
+        "Dyspnoea",
+        "Screaming",
+        "Gingival pain",
+        "Abnormal weight gain",
+        "Dysstasia",
+        "Tremor",
+        "Dyskinesia",
+        "Suicidal ideation",
+        "Incoherent",
+        "Musculoskeletal stiffness",
+        "Pain in jaw",
+        "Dry mouth",
+        "Anxiety",
+        "Dizziness",
+        "Paraesthesia",
+        "Gait disturbance",
+        "Diarrhoea",
+        "Serotonin syndrome",
+        "Depersonalisation/derealisation disorder",
+        "Pruritus generalised"
+      ],
+      "report_id": "12209580"
+    },
+    {
+      "drugs": [
+        "WELLBUTRIN XL",
+        "AMBIEN CR",
+        "ST. JOHNS WORT",
+        "PROPANOLOL HCL",
+        "WELLBUTRIN XL"
+      ],
+      "reactions": [
+        "Homicide",
+        "Mental impairment",
+        "Psychotic disorder",
+        "Somnambulism",
+        "Amnesia"
+      ],
+      "report_id": "12211195"
+    },
+    {
+      "drugs": [
+        "CITALOPRAM",
+        "MIRTAZAPINE.",
+        "AMLODIPINE",
+        "CODEINE PHOSPHATE",
+        "PROPRANOLOL",
+        "ST JOHNS WORT",
+        "VITAMIN D3"
+      ],
+      "reactions": [
+        "Serotonin syndrome",
+        "Heart rate increased",
+        "Dyspnoea",
+        "Anxiety",
+        "Dizziness",
+        "Incoherent",
+        "Musculoskeletal stiffness",
+        "Diarrhoea",
+        "Abnormal weight gain",
+        "Feeling abnormal",
+        "Dry mouth",
+        "Fatigue",
+        "Depersonalisation/derealisation disorder",
+        "Pruritus generalised",
+        "Gingival pain",
+        "Dyskinesia",
+        "Dysstasia",
+        "Screaming",
+        "Gait disturbance",
+        "Suicidal ideation",
+        "Tremor",
+        "Paraesthesia",
+        "Pain in jaw"
+      ],
+      "report_id": "12226806"
+    },
+    {
+      "drugs": [
+        "MIRTAZAPINE.",
+        "ST JOHNS WORT",
+        "VITAMIN D3",
+        "AMLODIPINE",
+        "CITALOPRAM",
+        "CODEINE PHOSPHATE",
+        "PROPRANOLOL"
+      ],
+      "reactions": [
+        "Pain in jaw",
+        "Incoherent",
+        "Serotonin syndrome",
+        "Abnormal weight gain",
+        "Depersonalisation/derealisation disorder",
+        "Feeling abnormal",
+        "Dyspnoea",
+        "Diarrhoea",
+        "Anxiety",
+        "Screaming",
+        "Musculoskeletal stiffness",
+        "Paraesthesia",
+        "Gait disturbance",
+        "Tremor",
+        "Dry mouth",
+        "Heart rate increased",
+        "Suicidal ideation",
+        "Gingival pain",
+        "Pruritus generalised",
+        "Dyskinesia",
+        "Fatigue",
+        "Dizziness",
+        "Dysstasia"
+      ],
+      "report_id": "12227237"
+    },
+    {
+      "drugs": [
+        "AMLODIPINE",
+        "MIRTAZAPINE.",
+        "CITALOPRAM",
+        "CODEINE PHOSPHATE",
+        "ST JOHNS WORT",
+        "PROPRANOLOL",
+        "VITAMIN D3"
+      ],
+      "reactions": [
+        "Anxiety",
+        "Depersonalisation/derealisation disorder",
+        "Paraesthesia",
+        "Pain in jaw",
+        "Gait disturbance",
+        "Abnormal weight gain",
+        "Fatigue",
+        "Screaming",
+        "Dyspnoea",
+        "Feeling abnormal",
+        "Dry mouth",
+        "Diarrhoea",
+        "Dizziness",
+        "Serotonin syndrome",
+        "Tremor",
+        "Gingival pain",
+        "Heart rate increased",
+        "Musculoskeletal stiffness",
+        "Pruritus generalised",
+        "Dyskinesia",
+        "Suicidal ideation",
+        "Incoherent",
+        "Dysstasia"
+      ],
+      "report_id": "12233391"
+    },
+    {
+      "drugs": [
+        "VITAMIN D3",
+        "AMLODIPINE",
+        "CODEINE PHOSPHATE",
+        "MIRTAZAPINE.",
+        "PROPRANOLOL",
+        "ST JOHNS WORT",
+        "CITALOPRAM"
+      ],
+      "reactions": [
+        "Tremor",
+        "Heart rate increased",
+        "Dyspnoea",
+        "Pruritus generalised",
+        "Pain in jaw",
+        "Feeling abnormal",
+        "Diarrhoea",
+        "Dyskinesia",
+        "Suicidal ideation",
+        "Fatigue",
+        "Gingival pain",
+        "Dry mouth",
+        "Musculoskeletal stiffness",
+        "Dizziness",
+        "Screaming",
+        "Incoherent",
+        "Gait disturbance",
+        "Paraesthesia",
+        "Dysstasia",
+        "Serotonin syndrome",
+        "Abnormal weight gain",
+        "Anxiety",
+        "Depersonalisation/derealisation disorder"
+      ],
+      "report_id": "12241087"
+    },
+    {
+      "drugs": [
+        "VITAMIN D3",
+        "CITALOPRAM",
+        "MIRTAZAPINE.",
+        "CODEINE PHOSPHATE",
+        "ST JOHNS WORT",
+        "PROPRANOLOL",
+        "AMLODIPINE"
+      ],
+      "reactions": [
+        "Dyskinesia",
+        "Dyspnoea",
+        "Depersonalisation/derealisation disorder",
+        "Pain in jaw",
+        "Abnormal weight gain",
+        "Incoherent",
+        "Tremor",
+        "Suicidal ideation",
+        "Screaming",
+        "Dysstasia",
+        "Gait disturbance",
+        "Dry mouth",
+        "Fatigue",
+        "Gingival pain",
+        "Heart rate increased",
+        "Feeling abnormal",
+        "Pruritus generalised",
+        "Paraesthesia",
+        "Musculoskeletal stiffness",
+        "Serotonin syndrome",
+        "Anxiety",
+        "Diarrhoea",
+        "Dizziness"
+      ],
+      "report_id": "12241658"
+    },
+    {
+      "drugs": [
+        "MAALOX ANTACID",
+        "DIGOXIN.",
+        "FUROSEMIDE.",
+        "SPIRONOLACTONE.",
+        "CARBAMAZEPINE.",
+        "METOPROLOL.",
+        "SALIVA SUBSTITUTE",
+        "CLEMASTINUM",
+        "ST JOHNS WORT",
+        "DEXAMETHASONE.",
+        "ENOXAPARIN",
+        "OMEPRAZOLE."
+      ],
+      "reactions": [
+        "Staphylococcal infection",
+        "Toxic epidermal necrolysis",
+        "Klebsiella test positive"
+      ],
+      "report_id": "12327890"
+    },
+    {
+      "drugs": [
+        "LMX",
+        "VITAMIN B6",
+        "CENTRUM COMPLETE",
+        "L LYSINE",
+        "ST JOHNS WORT",
+        "VITAMIN B12",
+        "ACETYL L CARNITINE",
+        "LORTAB",
+        "CYCLOBENZAPRINE",
+        "HIZENTRA",
+        "DIPHENHYDRAMINE.",
+        "EPIPEN"
+      ],
+      "reactions": [
+        "Migraine",
+        "Nausea"
+      ],
+      "report_id": "12328471"
+    },
+    {
+      "drugs": [
+        "VITAMIN B12",
+        "ST JOHNS WORT",
+        "OMEPRAZOLE.",
+        "PREMARIN",
+        "MULTI VITAMINS"
+      ],
+      "reactions": [
+        "Diarrhoea"
+      ],
+      "report_id": "12393672"
+    },
+    {
+      "drugs": [
+        "GINGKO SMART",
+        "MULTIPLE VITAMIN",
+        "VITAMIN D",
+        "GENERIC FOR DIOVAN, 160 MG",
+        "ST JOHNS WORT",
+        "ESSENTIAL FATTY ACIDS 3-6+9"
+      ],
+      "reactions": [
+        "Disturbance in attention",
+        "Impaired work ability",
+        "Feeling abnormal",
+        "Somnolence",
+        "Confusional state"
+      ],
+      "report_id": "12396703"
+    },
+    {
+      "drugs": [
+        "DIAZEPAM.",
+        "CITALOPRAM",
+        "SEROXAT",
+        "PAROXETINE.",
+        "LORAZEPAM.",
+        "SEROXAT",
+        "SEROXAT",
+        "CHLORDIAZEPOXIDE.",
+        "PROZAC",
+        "PAROXETINE.",
+        "PROPRANOLOL",
+        "PAROXETINE.",
+        "ST JOHNS WORT"
+      ],
+      "reactions": [
+        "Confusional state",
+        "Morbid thoughts",
+        "Dry mouth",
+        "Feeling abnormal",
+        "Derealisation",
+        "Electric shock",
+        "Anxiety",
+        "Intentional self-injury",
+        "Insomnia",
+        "Hyperhidrosis",
+        "Paraesthesia",
+        "Fatigue",
+        "Memory impairment",
+        "Overdose",
+        "Emotional disorder",
+        "Vision blurred",
+        "Suicidal behaviour",
+        "Drug withdrawal syndrome",
+        "Palpitations",
+        "Muscle rigidity",
+        "Abnormal behaviour",
+        "Hyperacusis",
+        "Hypervigilance",
+        "Disturbance in attention",
+        "Respiratory rate increased",
+        "Influenza",
+        "Agitation",
+        "Tremor",
+        "Panic attack",
+        "Dizziness",
+        "Nightmare",
+        "Lethargy",
+        "Vomiting",
+        "Hyperventilation",
+        "Panic reaction",
+        "Sensory disturbance",
+        "Tinnitus"
+      ],
+      "report_id": "12475291"
+    },
+    {
+      "drugs": [
+        "SEROXAT",
+        "PROZAC",
+        "PAROXETINE.",
+        "ST JOHNS WORT",
+        "PARACETAMOL",
+        "ALCOHOL.",
+        "IMIPRAMINE"
+      ],
+      "reactions": [
+        "Overdose",
+        "Binge eating",
+        "Depression",
+        "Hunger",
+        "Aggression",
+        "Nightmare",
+        "Derealisation",
+        "Tearfulness",
+        "Drug withdrawal syndrome",
+        "Fatigue",
+        "Suicide attempt",
+        "Social avoidant behaviour",
+        "Crying",
+        "Mood swings",
+        "Anxiety"
+      ],
+      "report_id": "12485007"
+    },
+    {
+      "drugs": [
+        "SEROXAT",
+        "CITALOPRAM",
+        "PAROXETINE HYDROCHLORIDE.",
+        "TEMAZEPAM.",
+        "PAROXETINE HYDROCHLORIDE.",
+        "DIAZEPAM.",
+        "ST JOHNS WORT",
+        "CIPRAMIL",
+        "PAROXETINE.",
+        "PROZAC"
+      ],
+      "reactions": [
+        "Anxiety",
+        "Poor quality sleep",
+        "Terminal insomnia",
+        "Decreased appetite",
+        "Suicidal ideation",
+        "Palpitations",
+        "Weight increased",
+        "Tremor",
+        "Depression",
+        "Agitation",
+        "Depressive symptom",
+        "Loss of libido",
+        "Drug withdrawal syndrome",
+        "Sexual dysfunction"
+      ],
+      "report_id": "12485023"
+    },
+    {
+      "drugs": [
+        "ST JOHNS WORT",
+        "PAROXETINE HYDROCHLORIDE.",
+        "PAROXETINE HYDROCHLORIDE.",
+        "SEROXAT",
+        "SEROXAT"
+      ],
+      "reactions": [
+        "Withdrawal syndrome",
+        "Bladder disorder",
+        "Disturbance in attention",
+        "Vertigo",
+        "Balance disorder",
+        "Suicidal ideation",
+        "Vision blurred",
+        "Nausea",
+        "Tinnitus",
+        "Panic reaction",
+        "Dizziness",
+        "Tremor",
+        "Nervousness",
+        "Depressed mood",
+        "Asthenia",
+        "Feeling abnormal",
+        "Paranoia",
+        "Mood swings",
+        "Muscle twitching",
+        "Tension headache",
+        "Emotional distress",
+        "Sleep disorder",
+        "Paraesthesia",
+        "Irritability",
+        "Post-traumatic stress disorder",
+        "Dyspnoea",
+        "Activities of daily living impaired",
+        "Malaise",
+        "Fatigue",
+        "Anxiety",
+        "Loss of libido",
+        "Headache",
+        "Hyperventilation",
+        "Oral discomfort"
+      ],
+      "report_id": "12485029"
+    },
+    {
+      "drugs": [
+        "SEROXAT",
+        "SEROXAT",
+        "ST JOHNS WORT",
+        "DEXAMPHETAMINE",
+        "ATOMOXETINE HYDROCHLORIDE.",
+        "METHYLPHENIDATE.",
+        "AMITRIPTYLINE",
+        "PAROXETINE."
+      ],
+      "reactions": [
+        "Dizziness",
+        "Musculoskeletal pain",
+        "Memory impairment",
+        "Suicidal behaviour",
+        "Depression",
+        "Withdrawal syndrome",
+        "Paraesthesia",
+        "Anger",
+        "Agitation",
+        "Panic attack",
+        "Aggression",
+        "Emotional disorder",
+        "Affective disorder",
+        "Nausea"
+      ],
+      "report_id": "12492675"
+    },
+    {
+      "drugs": [
+        "PAROXETINE.",
+        "PAXIL",
+        "PROZAC",
+        "ALCOHOL.",
+        "IMIPRAMINE",
+        "PARACETAMOL",
+        "ST JOHNS WORT"
+      ],
+      "reactions": [
+        "Drug withdrawal syndrome",
+        "Nightmare",
+        "Tearfulness",
+        "Anxiety",
+        "Aggression",
+        "Derealisation",
+        "Suicide attempt",
+        "Depression",
+        "Fatigue",
+        "Binge eating",
+        "Overdose",
+        "Hunger",
+        "Mood swings",
+        "Social avoidant behaviour",
+        "Crying"
+      ],
+      "report_id": "12496884"
+    },
+    {
+      "drugs": [
+        "PAROXETINE.",
+        "PAROXETINE.",
+        "PAXIL",
+        "PROPRANOLOL",
+        "ST JOHNS WORT",
+        "PAXIL",
+        "CHLORDIAZEPOXIDE.",
+        "DIAZEPAM.",
+        "PROZAC",
+        "PAXIL",
+        "LORAZEPAM.",
+        "PAXIL",
+        "CITALOPRAM"
+      ],
+      "reactions": [
+        "Influenza",
+        "Morbid thoughts",
+        "Hyperventilation",
+        "Anxiety",
+        "Intentional self-injury",
+        "Hyperhidrosis",
+        "Fatigue",
+        "Agitation",
+        "Dizziness",
+        "Nightmare",
+        "Suicidal behaviour",
+        "Electric shock",
+        "Overdose",
+        "Emotional disorder",
+        "Hyperacusis",
+        "Insomnia",
+        "Confusional state",
+        "Muscle rigidity",
+        "Dry mouth",
+        "Abnormal behaviour",
+        "Tremor",
+        "Panic attack",
+        "Respiratory rate increased",
+        "Paraesthesia",
+        "Hypervigilance",
+        "Drug withdrawal syndrome",
+        "Disturbance in attention",
+        "Feeling abnormal",
+        "Derealisation",
+        "Lethargy",
+        "Memory impairment",
+        "Palpitations",
+        "Vomiting",
+        "Panic reaction",
+        "Vision blurred",
+        "Sensory disturbance",
+        "Tinnitus"
+      ],
+      "report_id": "12497851"
+    },
+    {
+      "drugs": [
+        "SEROXAT",
+        "ST JOHNS WORT",
+        "SEROXAT",
+        "PAROXETINE."
+      ],
+      "reactions": [
+        "Dizziness",
+        "Bladder disorder",
+        "Paraesthesia",
+        "Depressed mood",
+        "Muscle twitching",
+        "Disturbance in attention",
+        "Vertigo",
+        "Suicidal ideation",
+        "Loss of libido",
+        "Headache",
+        "Tension headache",
+        "Tinnitus",
+        "Balance disorder",
+        "Fatigue",
+        "Paranoia",
+        "Hyperventilation",
+        "Emotional distress",
+        "Oral discomfort",
+        "Panic reaction",
+        "Withdrawal syndrome",
+        "Vision blurred",
+        "Anxiety",
+        "Asthenia",
+        "Mood swings",
+        "Post-traumatic stress disorder",
+        "Tremor",
+        "Sleep disorder",
+        "Nervousness",
+        "Feeling abnormal",
+        "Irritability",
+        "Nausea",
+        "Dyspnoea",
+        "Activities of daily living impaired",
+        "Malaise"
+      ],
+      "report_id": "12497887"
+    },
+    {
+      "drugs": [
+        "PAXIL",
+        "PROZAC",
+        "PAROXETINE.",
+        "DIAZEPAM.",
+        "PAROXETINE.",
+        "TEMAZEPAM.",
+        "PAROXETINE.",
+        "CITALOPRAM",
+        "ST JOHNS WORT",
+        "CIPRAMIL"
+      ],
+      "reactions": [
+        "Tremor",
+        "Anxiety",
+        "Weight increased",
+        "Palpitations",
+        "Poor quality sleep",
+        "Suicidal ideation",
+        "Agitation",
+        "Depressive symptom",
+        "Drug withdrawal syndrome",
+        "Sexual dysfunction",
+        "Terminal insomnia",
+        "Loss of libido",
+        "Depression",
+        "Decreased appetite"
+      ],
+      "report_id": "12502460"
+    },
+    {
+      "drugs": [
+        "PAXIL",
+        "DEXAMPHETAMINE",
+        "ATOMOXETINE HYDROCHLORIDE.",
+        "PAXIL",
+        "PAROXETINE.",
+        "AMITRIPTYLINE",
+        "ST JOHNS WORT",
+        "METHYLPHENIDATE."
+      ],
+      "reactions": [
+        "Emotional disorder",
+        "Suicidal behaviour",
+        "Aggression",
+        "Anger",
+        "Memory impairment",
+        "Depression",
+        "Dizziness",
+        "Paraesthesia",
+        "Panic attack",
+        "Affective disorder",
+        "Nausea",
+        "Withdrawal syndrome",
+        "Musculoskeletal pain",
+        "Agitation"
+      ],
+      "report_id": "12502479"
+    },
+    {
+      "drugs": [
+        "ST JOHNS WORT",
+        "IMIPRAMINE",
+        "PROZAC",
+        "PARACETAMOL",
+        "PAXIL",
+        "ALCOHOL.",
+        "PAROXETINE."
+      ],
+      "reactions": [
+        "Fatigue",
+        "Mood swings",
+        "Drug withdrawal syndrome",
+        "Suicide attempt",
+        "Crying",
+        "Nightmare",
+        "Anxiety",
+        "Binge eating",
+        "Tearfulness",
+        "Hunger",
+        "Overdose",
+        "Depression",
+        "Derealisation",
+        "Aggression",
+        "Social avoidant behaviour"
+      ],
+      "report_id": "12516064"
+    },
+    {
+      "drugs": [
+        "ST JOHNS WORT",
+        "SEROXAT",
+        "SEROXAT",
+        "PAROXETINE HYDROCHLORIDE.",
+        "PAROXETINE HYDROCHLORIDE."
+      ],
+      "reactions": [
+        "Post-traumatic stress disorder",
+        "Headache",
+        "Sleep disorder",
+        "Panic reaction",
+        "Suicidal ideation",
+        "Dizziness",
+        "Bladder disorder",
+        "Fatigue",
+        "Loss of libido",
+        "Withdrawal syndrome",
+        "Muscle twitching",
+        "Feeling abnormal",
+        "Irritability",
+        "Paranoia",
+        "Tinnitus",
+        "Balance disorder",
+        "Malaise",
+        "Anxiety",
+        "Asthenia",
+        "Mood swings",
+        "Dyspnoea",
+        "Tremor",
+        "Vision blurred",
+        "Tension headache",
+        "Emotional distress",
+        "Nervousness",
+        "Activities of daily living impaired",
+        "Depressed mood",
+        "Disturbance in attention",
+        "Oral discomfort",
+        "Paraesthesia",
+        "Nausea",
+        "Vertigo",
+        "Hyperventilation"
+      ],
+      "report_id": "12519952"
+    },
+    {
+      "drugs": [
+        "PEPCID-GENERIC",
+        "ST JOHNS WORT",
+        "AZATHIOPRINE UNKNOWN",
+        "MULTIVITAMIN",
+        "IRON",
+        "PATANOL",
+        "VITAMIN D",
+        "VIT B",
+        "VITAMIN C"
+      ],
+      "reactions": [
+        "Nausea",
+        "Weight decreased",
+        "Vomiting",
+        "Rectal haemorrhage",
+        "Myalgia",
+        "Diarrhoea",
+        "Back pain",
+        "Headache",
+        "Abdominal pain upper",
+        "Dehydration"
+      ],
+      "report_id": "12539307"
+    },
+    {
+      "drugs": [
+        "HUMIRA",
+        "FISH OIL",
+        "PROBOITICS",
+        "GABA CALM",
+        "VITAMIN D",
+        "ST JOHNS WORT",
+        "VITAMIN C",
+        "SLO-IRON",
+        "MULTIVITAMIN",
+        "VIT B",
+        "ELDERBERRY"
+      ],
+      "reactions": [
+        "Temperature intolerance",
+        "Chest pain",
+        "Weight decreased",
+        "Oropharyngeal pain",
+        "Arthralgia",
+        "Epistaxis",
+        "Feeling hot",
+        "Myalgia",
+        "Joint stiffness",
+        "Headache",
+        "Back pain",
+        "Fatigue"
+      ],
+      "report_id": "12539322"
+    },
+    {
+      "drugs": [
+        "REPLACEMENT HIPS",
+        "ST JOHNS WORT",
+        "PREMARIN VAGINAL"
+      ],
+      "reactions": [
+        "Urticaria",
+        "Vulvovaginal swelling",
+        "Arthralgia",
+        "Chills",
+        "Headache",
+        "Pain in extremity",
+        "Pyrexia",
+        "Irritability"
+      ],
+      "report_id": "12539544"
+    },
+    {
+      "drugs": [
+        "MULTIVITAMIN",
+        "GABA CALM",
+        "ST JOHNS WORT",
+        "PROBIOTICS",
+        "VITAMIN C",
+        "FISH OIL",
+        "REMICADE",
+        "REMICADE",
+        "VIT B",
+        "FAMOTIDINE.",
+        "PATANOL",
+        "VITAMIN D"
+      ],
+      "reactions": [
+        "Chest pain",
+        "Epistaxis",
+        "Temperature intolerance",
+        "Eye swelling",
+        "Vomiting",
+        "Oropharyngeal pain",
+        "Hepatic enzyme increased",
+        "Myalgia",
+        "Abdominal pain upper",
+        "Joint swelling",
+        "Headache",
+        "Pyrexia",
+        "Arthralgia",
+        "Nasopharyngitis",
+        "Yellow skin"
+      ],
+      "report_id": "12539886"
+    },
+    {
+      "drugs": [
+        "JANUMET XR",
+        "HYZAAR",
+        "GABAPENTIN.",
+        "CYPROHEPTADINE HYDROCHLORIDE.",
+        "METOPROLOL.",
+        "PLAVIX",
+        "ATORVASTATIN",
+        "PILOCARPINE.",
+        "ST JOHNS WORT"
+      ],
+      "reactions": [
+        "Hyperhidrosis",
+        "Glycosylated haemoglobin increased"
+      ],
+      "report_id": "12542765"
+    },
+    {
+      "drugs": [
+        "PAXIL",
+        "SEROXAT",
+        "DEXAMFETAMINE SULFATE",
+        "ST JOHNS WORT",
+        "AMITRIPTYLINE",
+        "METHYLPHENIDATE.",
+        "PAXIL",
+        "ATOMOXETINE HYDROCHLORIDE.",
+        "PAROXETINE.",
+        "SEROXAT"
+      ],
+      "reactions": [
+        "Emotional disorder",
+        "Anger",
+        "Musculoskeletal pain",
+        "Suicidal behaviour",
+        "Dizziness",
+        "Paraesthesia",
+        "Panic attack",
+        "Depression",
+        "Memory impairment",
+        "Nausea",
+        "Aggression",
+        "Withdrawal syndrome",
+        "Agitation",
+        "Affective disorder"
+      ],
+      "report_id": "12545027"
+    },
+    {
+      "drugs": [
+        "NEXPLANON",
+        "BENADRYL",
+        "ALEVE",
+        "ADVIL",
+        "IBPROFEN",
+        "VITAMIN",
+        "ST. JOHNS WORT"
+      ],
+      "reactions": [
+        "Acne",
+        "Dizziness",
+        "Anxiety",
+        "Depression",
+        "Weight decreased",
+        "Eating disorder",
+        "Pain",
+        "Feeling abnormal",
+        "Dyspnoea",
+        "Insomnia"
+      ],
+      "report_id": "12573514"
+    },
+    {
+      "drugs": [
+        "PAROXETINE.",
+        "PROZAC",
+        "PARACETAMOL",
+        "IMIPRAMINE",
+        "ALCOHOL.",
+        "SEROXAT",
+        "ST JOHNS WORT"
+      ],
+      "reactions": [
+        "Nightmare",
+        "Tearfulness",
+        "Social avoidant behaviour",
+        "Derealisation",
+        "Hunger",
+        "Aggression",
+        "Binge eating",
+        "Crying",
+        "Overdose",
+        "Suicide attempt",
+        "Drug withdrawal syndrome",
+        "Anxiety",
+        "Depression",
+        "Fatigue",
+        "Mood swings"
+      ],
+      "report_id": "12574033"
+    },
+    {
+      "drugs": [
+        "XYREM",
+        "XYREM",
+        "MAGNESIUM",
+        "MAGNESIUM STEARATE",
+        "ZYRTEC",
+        "METHOCARBAMOL.",
+        "ZOMIG",
+        "MAXALT",
+        "FLONASE",
+        "ST JOHNS WORT",
+        "MAGNESIUM OXIDE.",
+        "XYREM",
+        "METHOCARBAMOL.",
+        "TIZANIDINE HCL",
+        "CLARITIN",
+        "VERAPAMIL"
+      ],
+      "reactions": [
+        "Dental implantation"
+      ],
+      "report_id": "12580362"
+    },
+    {
+      "drugs": [
+        "FISH OIL",
+        "PURITANS PRIDE MEGA-POTENCY VITAMIN D3 1O,OOO IU RAPID RELEASE SOFT...",
+        "PURITANS PRIDE C-1000MG WITH BIOFLANOIDS RAPID RELEASE CAPSULES",
+        "DAILY VITAMIN",
+        "PROBIOTIC",
+        "LOVASTATIN.",
+        "CINNAMON.",
+        "ST JOHNS WORT",
+        "LISINOPRIL.",
+        "LISINOPRIL.",
+        "HYDROCHLORATHIAZIDE",
+        "LEVOTHYROXINE.",
+        "PURITANS PRIDE YEAST FREE CHROMIUM POLYNICOTINATE",
+        "NEXIUM",
+        "NEXIUM"
+      ],
+      "reactions": [
+        "Blood calcium increased",
+        "Chronic kidney disease",
+        "Off label use"
+      ],
+      "report_id": "12684489"
+    },
+    {
+      "drugs": [
+        "LEFLUNOMIDE.",
+        "NAPROXEN.",
+        "VITAMIN E",
+        "NICOTINE.",
+        "ST JOHNS WORT",
+        "ASPIRIN.",
+        "VITAMIN B COMPLEX",
+        "PREDNISONE.",
+        "DICLOFENAC POTASSIUM.",
+        "ENBREL"
+      ],
+      "reactions": [
+        "Injection site pruritus"
+      ],
+      "report_id": "13189567"
+    },
+    {
+      "drugs": [
+        "ST JOHNS WORT",
+        "SERTRALINE"
+      ],
+      "reactions": [
+        "Depression",
+        "Nausea",
+        "Decreased appetite",
+        "Vomiting",
+        "Headache",
+        "Lethargy",
+        "Diarrhoea"
+      ],
+      "report_id": "13375826"
+    },
+    {
+      "drugs": [
+        "SERTRALINE",
+        "ST JOHNS WORT"
+      ],
+      "reactions": [
+        "Vomiting",
+        "Decreased appetite",
+        "Headache",
+        "Depression",
+        "Nausea",
+        "Lethargy",
+        "Diarrhoea"
+      ],
+      "report_id": "13380419"
+    },
+    {
+      "drugs": [
+        "REPATHA",
+        "GLUCOSAMINE CHONDROITIN COMPLEX",
+        "VITAMIN D3",
+        "HCTZ",
+        "FLONASE",
+        "LORATADINE.",
+        "ST JOHNS WORT",
+        "ASPIRIN 81",
+        "LABETALOL HCL",
+        "ALPRAZOLAM.",
+        "FISH OIL"
+      ],
+      "reactions": [
+        "Dyspnoea exertional",
+        "Rhinorrhoea",
+        "Fatigue",
+        "Hypertension"
+      ],
+      "report_id": "13477744"
+    },
+    {
+      "drugs": [
+        "ETONOGESTREL IMPLANT- UNKNOWN",
+        "ST JOHNS WORT"
+      ],
+      "reactions": [
+        "Pregnancy with implant contraceptive",
+        "Unintended pregnancy",
+        "Abortion spontaneous"
+      ],
+      "report_id": "13528791"
+    },
+    {
+      "drugs": [
+        "ST JOHNS WORT",
+        "BISOPROLOL FUMARATE.",
+        "ZOPICLONE",
+        "LEVOTHYROXINE."
+      ],
+      "reactions": [
+        "Head discomfort",
+        "Abdominal discomfort",
+        "Fatigue",
+        "Paraesthesia",
+        "Anal incontinence",
+        "Nervous system disorder",
+        "Joint swelling",
+        "Abnormal weight gain",
+        "Chest discomfort",
+        "Extrasystoles",
+        "Incorrect dose administered"
+      ],
+      "report_id": "13650663"
+    },
+    {
+      "drugs": [
+        "LEVOTHYROXINE.",
+        "ST JOHNS WORT",
+        "BISOPROLOL",
+        "ZOPICLONE"
+      ],
+      "reactions": [
+        "Joint swelling",
+        "Abnormal weight gain",
+        "Fatigue",
+        "Abdominal discomfort",
+        "Paraesthesia",
+        "Anal incontinence",
+        "Head discomfort"
+      ],
+      "report_id": "13661787"
+    },
+    {
+      "drugs": [
+        "DYSPORT",
+        "BACLOFEN.",
+        "DYSPORT",
+        "DYSPORT",
+        "POTASSIUM",
+        "MAGNESIUM",
+        "DYSPORT",
+        "DYSPORT",
+        "CYMBALTA",
+        "ST JOHNS WORT",
+        "VITAMIN B12",
+        "DYSPORT",
+        "DYSPORT"
+      ],
+      "reactions": [
+        "Hypoaesthesia",
+        "Product preparation error",
+        "Mania",
+        "Paraesthesia",
+        "Vision blurred",
+        "Myocardial infarction"
+      ],
+      "report_id": "13682096"
+    },
+    {
+      "drugs": [
+        "ST JOHNS WORT",
+        "FURADANTIN",
+        "ESTRIOL",
+        "ALVEDON"
+      ],
+      "reactions": [
+        "Mouth swelling",
+        "Dyspnoea",
+        "Palpitations",
+        "Urticaria",
+        "Migraine"
+      ],
+      "report_id": "13687515"
+    },
+    {
+      "drugs": [
+        "LISINOPRIL.",
+        "CHROMIUM POLYNICOTINATE (DIETARY SUPPLEMENT)",
+        "NEXIUM",
+        "LOVASTATIN.",
+        "HYDROCHLOROTHIAZIDE.",
+        "ST JOHNS WORT",
+        "LISINOPRIL.",
+        "LEVOTHYROXINE.",
+        "DAILY VITAMINS",
+        "FISH OIL",
+        "VITAMIN C +BIOFLAVONOIDS",
+        "VITAMIN D3",
+        "CINNAMON                           /01647501/",
+        "PROBIOTIC                          /06395501/"
+      ],
+      "reactions": [
+        "Renal failure"
+      ],
+      "report_id": "13888889"
+    },
+    {
+      "drugs": [
+        "ST JOHNS WORT",
+        "CITALOPRAM HYDROBROMIDE UNK"
+      ],
+      "reactions": [
+        "Suicidal ideation",
+        "Nausea",
+        "Skin burning sensation",
+        "Off label use",
+        "Insomnia",
+        "Fatigue"
+      ],
+      "report_id": "14030249"
+    },
+    {
+      "drugs": [
+        "NEXPLANON",
+        "ST JOHNS WORT"
+      ],
+      "reactions": [
+        "Pregnancy with implant contraceptive",
+        "Drug interaction"
+      ],
+      "report_id": "14101046"
+    },
+    {
+      "drugs": [
+        "MICROLAX",
+        "LAXOBERAL",
+        "IBANDRONIC ACID ACCORD",
+        "SPIGELIA",
+        "L THYROXIN BETA",
+        "VITAMIN B6 HEVERT",
+        "PREGABADOR",
+        "FENTANYL AL TTS",
+        "DEXA RATIOPHARM",
+        "AQUA PURIFICATA",
+        "RANITIC",
+        "ACONIT",
+        "FOLIC ACID ABZ",
+        "EXJADE",
+        "TORASEMID",
+        "ETORICOXIB LIBRA PHARM",
+        "TAVEGIL",
+        "INNOHEP",
+        "FENTANYL BETA",
+        "ACICLO BASICS",
+        "AXIDRONAT",
+        "NOVAMINSULFON",
+        "VITAMIN B12 HEVERT FORTE",
+        "VENLAFAXIN TAD",
+        "L POLAMIDON",
+        "TEGADERM",
+        "FILGRASTIM HEXAL",
+        "GRANISETRON B BRAUN",
+        "DEXAMETHASONE.",
+        "PANTOPRAZOL TAD",
+        "TAVOR EXPIDET",
+        "OCTENISEPT",
+        "FENTANYL 1A PHARMA",
+        "VENLAFAXIN HEUMANN",
+        "POMALIDOMIDE",
+        "HYDROMORPHON WINTHROP",
+        "ST. JOHNS WORT OIL",
+        "DRONABINOL.",
+        "HALOPERIDOL."
+      ],
+      "reactions": [
+        "Death"
+      ],
+      "report_id": "14170201"
+    },
+    {
+      "drugs": [
+        "ZOCOR",
+        "AMITRIPTYLINE HYDROCHLORIDE.",
+        "METFORMIN",
+        "CINNAMON.",
+        "GLUCOSAMINE",
+        "PAROXETINE.",
+        "GLYBURIDE.",
+        "CHROMIUM (UNSPECIFIED)",
+        "PIOGLITAZONE.",
+        "GINKGO",
+        "ASCORBIC ACID.",
+        "ST JOHNS WORT",
+        "HYDROXYZINE PAMOATE.",
+        "NIACIN.",
+        "FOSAMAX",
+        "DILTIAZEM XR",
+        "CELECOXIB."
+      ],
+      "reactions": [
+        "Circumstance or information capable of leading to medication error",
+        "Drug interaction"
+      ],
+      "report_id": "14281657"
+    },
+    {
+      "drugs": [
+        "ATIVAN",
+        "PEPCID",
+        "ZANAFLEX",
+        "AVONEX",
+        "CALCIUM",
+        "ZOLOFT",
+        "FLOVENT DISKUS",
+        "LISINOPRIL.",
+        "IMDUR",
+        "ST JOHNS WORT",
+        "CELEBREX",
+        "ACULAR",
+        "LEVOTHROID",
+        "POTASSIUM",
+        "AVONEX",
+        "ALBUTEROL.",
+        "CALAN SR",
+        "INCRUSE ELLIPTA",
+        "PLAVIX"
+      ],
+      "reactions": [
+        "Chronic obstructive pulmonary disease"
+      ],
+      "report_id": "14320026"
+    },
+    {
+      "drugs": [
+        "ALENDRONATE",
+        "ST. JOHNS WORT",
+        "NIACIN.",
+        "GLIBENCLAMIDE",
+        "HYDROXYZINE",
+        "METFORMIN",
+        "GINKGO",
+        "CELECOXIB.",
+        "AMITRIPTYLINE",
+        "PIOGLITAZONE.",
+        "PAROXETINE.",
+        "DILTIAZEM.",
+        "ASCORBIC ACID.",
+        "SIMVASTATIN.",
+        "CINNAMON.",
+        "CHROMIUM",
+        "GLUCOSAMINE"
+      ],
+      "reactions": [
+        "Mobility decreased",
+        "Cognitive disorder",
+        "Dementia Alzheimer^s type",
+        "Fall",
+        "Drug interaction",
+        "Delirium"
+      ],
+      "report_id": "14333397"
+    },
+    {
+      "drugs": [
+        "IMPLANON",
+        "ST JOHNS WORT"
+      ],
+      "reactions": [
+        "Vaginal discharge",
+        "Drug interaction",
+        "Metrorrhagia"
+      ],
+      "report_id": "14742896"
+    },
+    {
+      "drugs": [
+        "NEXPLANON",
+        "ST JOHNS WORT"
+      ],
+      "reactions": [
+        "Unintended pregnancy",
+        "Pregnancy with implant contraceptive"
+      ],
+      "report_id": "15454377"
+    },
+    {
+      "drugs": [
+        "ALBUTEROL.",
+        "TECFIDERA",
+        "FLOVENT",
+        "PRAVASTATIN.",
+        "ST. JOHNS WORT"
+      ],
+      "reactions": [
+        "Brain neoplasm malignant"
+      ],
+      "report_id": "15462128"
+    },
+    {
+      "drugs": [
+        "SMZ-TMP DS",
+        "DUPIXENT",
+        "DUPIXENT",
+        "OMEPRAZOLE.",
+        "SYMBICORT",
+        "ST JOHNS WORT",
+        "LOSARTAN AND HYDROCHLOROTHIAZIDE",
+        "VITAMIN D NOS",
+        "TRELEGY ELLIPTA",
+        "TRIAMCINOLONE",
+        "VITAMINS NOS",
+        "VALACYCLOVIR",
+        "BIKTARVY"
+      ],
+      "reactions": [
+        "Pneumonia",
+        "Hip deformity",
+        "Product use in unapproved indication",
+        "Condition aggravated",
+        "Oral herpes",
+        "Temperature intolerance"
+      ],
+      "report_id": "15490057"
+    },
+    {
+      "drugs": [
+        "NEW SKIN BANDAGE",
+        "ST. JOHNS WORT MELATONIN/PRESERVATIVE FREE",
+        "THERATEARS",
+        "MECLAZINE",
+        "ZYRTEC",
+        "TYLENOL",
+        "ARM+HAMMER SIMPLY SALINE SPRAY",
+        "MULTIPLE VIT-MIN.",
+        "NATURE-THROID"
+      ],
+      "reactions": [
+        "Wound infection",
+        "Application site pain",
+        "Scar",
+        "Skin discolouration"
+      ],
+      "report_id": "15616910"
+    },
+    {
+      "drugs": [
+        "LO LOESTRIN FE",
+        "MULTIVITAMIN",
+        "ST JOHNS WORT",
+        "PROBIOTIC"
+      ],
+      "reactions": [
+        "Menstrual disorder",
+        "Headache"
+      ],
+      "report_id": "15723936"
+    },
+    {
+      "drugs": [
+        "ST JOHNS WORT",
+        "LISINOPRIL.",
+        "BLACK COHOSH",
+        "NORETHINDRONE.",
+        "CALCIUM",
+        "ST JOHNS WORT",
+        "LUPRON DEPOT"
+      ],
+      "reactions": [
+        "Drug ineffective",
+        "Uterine leiomyoma"
+      ],
+      "report_id": "16053528"
+    },
+    {
+      "drugs": [
+        "POMALYST",
+        "ACYCLOVIR.",
+        "IBUPROFEN.",
+        "VITAMIN D3",
+        "POMALYST",
+        "POMALYST",
+        "LEVOTHYROXINE.",
+        "SIMVASTATIN.",
+        "GABAPENTIN.",
+        "CLARITIN",
+        "ST JOHNS WORT",
+        "MORPHINE"
+      ],
+      "reactions": [
+        "Pneumonia"
+      ],
+      "report_id": "16119997"
+    },
+    {
+      "drugs": [
+        "CITALOPRAM FILM-COATED TABLETS 20MG",
+        "CITALOPRAM FILM-COATED TABLETS 20MG",
+        "ST JOHNS WORT"
+      ],
+      "reactions": [
+        "Acquired epileptic aphasia",
+        "Paternal exposure timing unspecified"
+      ],
+      "report_id": "16403548"
+    },
+    {
+      "drugs": [
+        "CITALOPRAM",
+        "CITALOPRAM",
+        "ST JOHNS WORT"
+      ],
+      "reactions": [
+        "Depressed level of consciousness",
+        "Feeling abnormal",
+        "Mydriasis",
+        "Chills",
+        "Decreased appetite",
+        "Drug interaction"
+      ],
+      "report_id": "16826074"
+    },
+    {
+      "drugs": [
+        "VALIUM",
+        "ST JOHNS WORT",
+        "PROZAC",
+        "PROTHIADEN",
+        "ZOLOFT",
+        "LEXOTAN"
+      ],
+      "reactions": [
+        "Memory impairment",
+        "Nausea",
+        "Psychiatric symptom",
+        "Confusional state",
+        "Influenza like illness",
+        "Dysarthria",
+        "Vision blurred",
+        "Thinking abnormal",
+        "Depression",
+        "Dry mouth",
+        "Hypertension",
+        "Feeling of body temperature change",
+        "Delirium tremens",
+        "Restless legs syndrome",
+        "Musculoskeletal stiffness",
+        "Feeding disorder",
+        "Dyspnoea",
+        "Hyperaesthesia",
+        "Paranoia",
+        "Mania",
+        "Agoraphobia",
+        "Irritability",
+        "Post-traumatic headache",
+        "Violence-related symptom",
+        "Sensitive skin",
+        "Seizure",
+        "Gastrooesophageal reflux disease",
+        "Hypoaesthesia",
+        "Panic reaction",
+        "Dizziness",
+        "Nightmare",
+        "Photophobia",
+        "Anxiety",
+        "Dyskinesia",
+        "Tachyphrenia",
+        "Night sweats",
+        "Obsessive-compulsive disorder",
+        "Suicidal ideation",
+        "Disturbance in attention"
+      ],
+      "report_id": "16960527"
+    },
+    {
+      "drugs": [
+        "ST JOHNS WORT",
+        "PROBIOTIC",
+        "CAREONE ACID RELIEF",
+        "VIT B",
+        "VITAMIN D"
+      ],
+      "reactions": [
+        "Dizziness",
+        "Libido decreased",
+        "Lethargy",
+        "Fatigue"
+      ],
+      "report_id": "16961875"
+    },
+    {
+      "drugs": [
+        "GABAPENTIN.",
+        "REVLIMID",
+        "PROCHLORPERAZINE MALEATE.",
+        "ST. JOHNS WORT",
+        "REVLIMID",
+        "LASIX",
+        "IRON",
+        "PANTOPRAZOLE SODIUM.",
+        "TYLENOL ARTHRITIS PAIN",
+        "METOPROLOL SUCCINATE."
+      ],
+      "reactions": [
+        "Pulmonary embolism"
+      ],
+      "report_id": "17005413"
+    },
+    {
+      "drugs": [
+        "FLUOXETINE",
+        "ST. JOHNS WORT",
+        "EPCLUSA"
+      ],
+      "reactions": [
+        "Drug hypersensitivity",
+        "Anxiety",
+        "Fear",
+        "Paraesthesia",
+        "Pruritus",
+        "Nausea",
+        "Contusion",
+        "Urticaria"
+      ],
+      "report_id": "17075975"
+    },
+    {
+      "drugs": [
+        "REVLIMID (LENALIDOMIDE) (10 MILLIGRAM, CAPSULES)",
+        "ALBUTEROL (SALBUTAMOL) (AEROSOL) FOR INHALATION",
+        "CALCIUM CITRATE (CALCIUM CITRATE)",
+        "COUMADIN (WARFARIN SODIUM) (TABLETS)",
+        "FISH OIL (FISH OIL) (TABLETS)",
+        "GARLIC OIL (ALLIUM SATIVUM OIL) (TABLETS)",
+        "GLUCOSAMINE + CHONDROITIN (GLUCOSAMINE W/CHONDROITIN SULFATE)",
+        "METOPROLOL SUCCINATE (METOPROLOL SUCCINATE)",
+        "PRENATAL VITAMINS (PRENATAL VITAMINS)",
+        "SUPER B COMPLEX (SUPER B 50 COMPLEX)",
+        "SYMBICORT (SYMBICORT TURBUHALER ^DRACO^)",
+        "SYSTANE (RHINARIS) (GEL)",
+        "ZANTAC (RANITIDINE HYDROCHLORIDE)",
+        "FLAXSEED OIL (LINSEED OIL)",
+        "ACETAMINOPHEN (PARACETAMOL)",
+        "ASPIRIN (ACETYLSALICYLIC ACID) (ENTERIC-COATED TABLET)",
+        "LISINOPRIL (LISINOPRIL)",
+        "MELATONIN (MELATONIN))",
+        "ST JOHNS WART (HYPERICUM PERFORATUM)",
+        "IMODIUM A-D (LOPERAMIDE HYDROCHLORIDE)"
+      ],
+      "reactions": [
+        "Upper respiratory tract infection",
+        "Urinary tract infection",
+        "Sinusitis",
+        "Thrombosis",
+        "Kidney infection",
+        "Lung infection",
+        "Neutropenia",
+        "Sinusitis",
+        "Diarrhoea"
+      ],
+      "report_id": "10244717"
+    },
+    {
+      "drugs": [
+        "MELOXICAM.",
+        "VELAGLUCERASE ALFA",
+        "VELAGLUCERASE ALFA",
+        "HYPERICUM PERFORATUM",
+        "ERGOCALCIFEROL.",
+        "VELAGLUCERASE ALFA",
+        "OTHER THERAPEUTIC PRODUCTS"
+      ],
+      "reactions": [
+        "Escherichia infection",
+        "Urosepsis"
+      ],
+      "report_id": "10267031"
+    },
+    {
+      "drugs": [
+        "NYSTATIN.",
+        "CORTISONE",
+        "CLOTRIMAZOL",
+        "XARELTO",
+        "XARELTO",
+        "HYPERICUM PERFORATUM"
+      ],
+      "reactions": [
+        "Oropharyngitis fungal",
+        "Oral fungal infection",
+        "Alopecia",
+        "Enterocolitis fungal"
+      ],
+      "report_id": "10376255"
+    },
+    {
+      "drugs": [
+        "REVLIMID(LENALIDOMIDE)(10 MILLIGRAM, CAPSULES)",
+        "ALBUTEROL (SALBUTAMOL)",
+        "ASPIRIN BUFFERED (ACETYLSALICYLIC ACID) (ENTERIC-COATED TABLET)",
+        "CALCIUM CITRATE (CALCIUM CITRATE)",
+        "FISH OIL (FISH OIL) (CAPSULES)",
+        "GARLIC OIL (ALLIUM SATIVUM OIL) (CAPSULES)",
+        "GLUCOSAMINE CHONDROITIN (GLUCOSAMINE W/CHONDROITIN SULFATE)",
+        "MULTIVITAMINS (MULTIVITAMINS) (CAPSULES)",
+        "SIMVASTATIN (SIMVASTATIN) (TABLETS)",
+        "SUPER B COMPLEX (VITAMIN-B-KOMPLEX STANDARD) (CAPSULES)",
+        "SYMBICORT (SYMBICORT TURBUHALER ^DRACO^)",
+        "ST. JOHN^S WORT (HYPERICUM PERFORATUM)",
+        "FLAXSEED OIL (LINSEED OIL)",
+        "LISINOPRIL (LISINOPRIL)",
+        "MELATONIN (MELATONIN) (CAPSULES)",
+        "ANTIBIOTICS (ANTIBIOTICS)",
+        "METOPROLOL SUCCINATE (METOPROLOL SUCCINATE)",
+        "SYSTANE (RHINARIS) (LIQUID)",
+        "PRENATAL (PRENATAL)",
+        "IMODIUM AD (LOPERAMIDE HYDROCHLORIDE)"
+      ],
+      "reactions": [
+        "Myocardial infarction",
+        "Deep vein thrombosis",
+        "Neutropenia",
+        "Dyspnoea",
+        "Platelet count decreased",
+        "Nasopharyngitis",
+        "White blood cell count decreased"
+      ],
+      "report_id": "10404472"
+    },
+    {
+      "drugs": [
+        "RITALIN",
+        "JARSIN//HYPERICUM PERFORATUM EXTRACT"
+      ],
+      "reactions": [
+        "Maternal exposure during pregnancy",
+        "Abortion induced"
+      ],
+      "report_id": "10434345"
+    },
+    {
+      "drugs": [
+        "PREDNISONE.",
+        "SEPTRA",
+        "BYSTOLIC",
+        "HYDROCHLOROTHIAZIDE.",
+        "LEVOTHYROXINE",
+        "RANITIDINE",
+        "HOMEOPATHIC SCIATICA (ARNICA MONTANA, HYPERICUM PERFORATUM, GNAPHALIUM DIOTCUMN, KALI IDOATUM, MAGNESIA PHOSPHORICA, RHUS TOXICODENDRON) TABLET",
+        "INDOMETHACIN.",
+        "VITAMIN D3",
+        "CYCLOSPORINE.",
+        "VITAMIN B12"
+      ],
+      "reactions": [
+        "Dyspnoea",
+        "Chest pain"
+      ],
+      "report_id": "10645453"
+    },
+    {
+      "drugs": [
+        "DOCETAXEL",
+        "EPIRUBICIN",
+        "SERTRALINE",
+        "SERTRALINE",
+        "TAMOXIFEN CITRATE",
+        "HYPERICUM PERFORATUM WHOLE",
+        "HYPERICUM PERFORATUM WHOLE",
+        "TAMOXIFEN",
+        "EPIRUBICIN"
+      ],
+      "reactions": [
+        "Fatigue",
+        "Polyneuropathy",
+        "Burning sensation",
+        "Stress",
+        "Disturbance in attention",
+        "Hyperhidrosis",
+        "Depression",
+        "Arthralgia",
+        "Libido decreased",
+        "Memory impairment",
+        "Menopausal disorder",
+        "Hot flush",
+        "Anxiety",
+        "Vulvovaginal dryness",
+        "Cognitive disorder",
+        "Insomnia",
+        "Off label use",
+        "Condition aggravated"
+      ],
+      "report_id": "10871602"
+    },
+    {
+      "drugs": [
+        "YARINA PLUS",
+        "HYPERICUM PERFORATUM"
+      ],
+      "reactions": [
+        "Ear infection"
+      ],
+      "report_id": "11010597"
+    },
+    {
+      "drugs": [
+        "GINKGO BILOBA",
+        "PARACETAMOL",
+        "LOSARTAN",
+        "BUPROPION",
+        "INDOCID                            /00003801/",
+        "PROPRANOLOL",
+        "FUROSEMIDE.",
+        "REBIF",
+        "REBIF",
+        "OLCADIL",
+        "HYPERICUM PERFORATUM",
+        "OMEPRAZOLE."
+      ],
+      "reactions": [
+        "Arthralgia",
+        "Pain in extremity",
+        "Muscle rigidity",
+        "Asthenia",
+        "Muscular weakness",
+        "Paraesthesia",
+        "Multiple sclerosis relapse",
+        "Central nervous system lesion",
+        "Spinal pain",
+        "Malaise",
+        "Drug ineffective"
+      ],
+      "report_id": "11193843"
+    },
+    {
+      "drugs": [
+        "HYPERICUM PERFORATUM",
+        "AMLODIPINE",
+        "TORASEMIDE",
+        "CIPROFLOXACIN.",
+        "ALLOPURINOL.",
+        "PIPERACILLIN AND TAZOBACTAM",
+        "CIPROFLOXACIN.",
+        "ENALAPRIL",
+        "HYDROCHLOROTHIAZIDE W/METOPROLOL"
+      ],
+      "reactions": [
+        "Toxic epidermal necrolysis",
+        "Sepsis"
+      ],
+      "report_id": "11221354"
+    },
+    {
+      "drugs": [
+        "HYPERICUM PERFORATUM EXTRACT",
+        "LAMICTAL"
+      ],
+      "reactions": [
+        "Seizure"
+      ],
+      "report_id": "11865215"
+    },
+    {
+      "drugs": [
+        "PLAQUENIL",
+        "VALTREX",
+        "B COMPLEX WITH VITAMIN C",
+        "MEXATE",
+        "LASIX",
+        "PREMARIN",
+        "CARDURA",
+        "VALIUM",
+        "METHYLPREDISOLONE",
+        "HYPERICUM PERFORATUM",
+        "CALCIUM",
+        "OXYCONTIN",
+        "METHOTREXATE.",
+        "FOLIC ACID.",
+        "NEXIUM",
+        "MULTI-B",
+        "CIMZIA",
+        "ESTROGEN NOS W/METHYLTESTOSTERONE",
+        "MIRALAX"
+      ],
+      "reactions": [
+        "Injection site swelling",
+        "Nausea",
+        "Fatigue"
+      ],
+      "report_id": "12363151"
+    },
+    {
+      "drugs": [
+        "NEXIUM",
+        "WOMENS ROGAINE UNSCENTED",
+        "VITAMIN E",
+        "BIOTIN",
+        "HYPERICUM PERFORATUM",
+        "WOMENS ROGAINE UNSCENTED",
+        "MULTIVITAMINS"
+      ],
+      "reactions": [
+        "Drug administered at inappropriate site",
+        "Wrong technique in product usage process",
+        "Application site swelling",
+        "Pain of skin",
+        "Application site erythema",
+        "Rash pruritic"
+      ],
+      "report_id": "12368661"
+    },
+    {
+      "drugs": [
+        "ADDERALL",
+        "BYSTOLIC",
+        "ARMOUR THYROID",
+        "CELEBREX",
+        "KLONOPIN",
+        "XYREM",
+        "HYOSCYAMINE.",
+        "L-METHYLFOLATE CALCIUM",
+        "XYREM",
+        "HYPERICUM PERFORATUM",
+        "MAGNESIUM CITRATE.",
+        "XYREM",
+        "LYRICA",
+        "VITAMIN D3"
+      ],
+      "reactions": [
+        "Hypothyroidism",
+        "Nervousness",
+        "Tachycardia",
+        "Anxiety"
+      ],
+      "report_id": "12436985"
+    },
+    {
+      "drugs": [
+        "PAXIL",
+        "HYPERICUM PERFORATUM",
+        "PAROXETINE FILM COATED TABLETS",
+        "ALCOHOL.",
+        "PROZAC",
+        "SEROXAT",
+        "PARACETAMOL SOLUABLE TABLET",
+        "IMIPRAMINE"
+      ],
+      "reactions": [
+        "Social avoidant behaviour",
+        "Anxiety",
+        "Suicide attempt",
+        "Depression",
+        "Hunger",
+        "Drug withdrawal syndrome",
+        "Crying",
+        "Derealisation",
+        "Tearfulness",
+        "Binge eating",
+        "Nightmare",
+        "Aggression",
+        "Fatigue",
+        "Mood swings",
+        "Overdose"
+      ],
+      "report_id": "12535387"
+    },
+    {
+      "drugs": [
+        "HYDROXYTRYPTOPHAN 5 HTP",
+        "ABILIFY",
+        "ABILIFY",
+        "HYPERICUM PERFORATUM",
+        "ABILIFY"
+      ],
+      "reactions": [
+        "Psychotic disorder",
+        "Depression",
+        "Drug interaction"
+      ],
+      "report_id": "12719520"
+    },
+    {
+      "drugs": [
+        "LOSARTAN.",
+        "ELIQUIS",
+        "L THYROXINE",
+        "ELIQUIS",
+        "ELIQUIS",
+        "HYPERICUM PERFORATUM"
+      ],
+      "reactions": [
+        "Deep vein thrombosis",
+        "Dyspnoea",
+        "Off label use",
+        "Menorrhagia",
+        "International normalised ratio fluctuation"
+      ],
+      "report_id": "12887027"
+    },
+    {
+      "drugs": [
+        "BRILINTA",
+        "BRILINTA",
+        "ASPIRIN.",
+        "PRILOSEC",
+        "BRILINTA",
+        "BRILINTA",
+        "BRILINTA",
+        "ACETYLSALICYLIC ACID",
+        "BRILINTA",
+        "HYPERICUM PERFORATUM",
+        "BRILINTA",
+        "BRILINTA"
+      ],
+      "reactions": [
+        "Contusion",
+        "Anaemia",
+        "Weight increased",
+        "Medical device site bruise",
+        "Influenza",
+        "Insomnia",
+        "Off label use",
+        "Haemorrhoids",
+        "Herpes zoster",
+        "Musculoskeletal chest pain",
+        "Irritable bowel syndrome",
+        "Varicose vein",
+        "Depressed mood",
+        "Oedema",
+        "Dysuria",
+        "Blood pressure increased",
+        "Ageusia",
+        "Product use issue",
+        "Intentional product misuse",
+        "Dysphagia",
+        "Migraine",
+        "Peripheral swelling",
+        "Product dose omission",
+        "Haemorrhage",
+        "Oral discomfort",
+        "Hypoaesthesia",
+        "Bleeding time prolonged",
+        "Muscle spasms",
+        "Feeling abnormal",
+        "Faeces discoloured",
+        "Dizziness",
+        "Headache",
+        "Dry mouth",
+        "Myocardial infarction",
+        "Anxiety",
+        "Gastrooesophageal reflux disease",
+        "Pain in extremity",
+        "Sinus pain",
+        "Gingival bleeding",
+        "Nausea"
+      ],
+      "report_id": "12926667"
+    },
+    {
+      "drugs": [
+        "PROMETHAZINE",
+        "HYPERICUM PERFORATUM"
+      ],
+      "reactions": [
+        "Drug-induced liver injury"
+      ],
+      "report_id": "13011887"
+    },
+    {
+      "drugs": [
+        "HYPERICUM PERFORATUM",
+        "APIUM GRAVEOLENS",
+        "VENLAFAXINE/VENLAFAXINE HYDROCHLORIDE"
+      ],
+      "reactions": [
+        "Distractibility",
+        "Logorrhoea",
+        "Mood altered",
+        "Bipolar disorder",
+        "Hallucination, visual",
+        "Drug interaction",
+        "Herbal interaction",
+        "Confusional state",
+        "Speech disorder",
+        "Thinking abnormal",
+        "Mania",
+        "Abnormal behaviour",
+        "Aspartate aminotransferase increased",
+        "Impaired work ability",
+        "Pressure of speech",
+        "Emotional distress"
+      ],
+      "report_id": "13262660"
+    },
+    {
+      "drugs": [
+        "MAGNESIUM",
+        "HYDRASTIS CANADENSIS",
+        "CIRCADIN",
+        "HYPERICUM PERFORATUM",
+        "STILNOX",
+        "GABA",
+        "ZOLOFT"
+      ],
+      "reactions": [
+        "Glassy eyes",
+        "Impaired driving ability",
+        "Accidental overdose",
+        "Poisoning",
+        "Lacrimation increased",
+        "Dysarthria",
+        "Ocular hyperaemia",
+        "Overdose",
+        "Somnambulism",
+        "Malaise",
+        "Pallor",
+        "Confusional state",
+        "Vomiting",
+        "Disorientation",
+        "Sleep disorder",
+        "Insomnia",
+        "Nightmare",
+        "Influenza",
+        "Extra dose administered",
+        "Memory impairment",
+        "Gait disturbance",
+        "Parasomnia",
+        "Anterograde amnesia",
+        "Drug interaction",
+        "Road traffic accident"
+      ],
+      "report_id": "13423738"
+    },
+    {
+      "drugs": [
+        "ELIQUIS",
+        "HYPERICUM PERFORATUM"
+      ],
+      "reactions": [
+        "Chest pain"
+      ],
+      "report_id": "13572176"
+    },
+    {
+      "drugs": [
+        "HYPERICUM PERFORATUM",
+        "ZOPICLONE",
+        "BISOPROLOL FILM-COATED TABLETS",
+        "LEVOTHYROXINE."
+      ],
+      "reactions": [
+        "Joint swelling",
+        "Fatigue",
+        "Head discomfort",
+        "Abnormal weight gain",
+        "Anal incontinence",
+        "Abdominal discomfort",
+        "Paraesthesia"
+      ],
+      "report_id": "13676958"
+    },
+    {
+      "drugs": [
+        "XYREM",
+        "XYREM",
+        "XYREM",
+        "XYREM",
+        "XYREM",
+        "XYREM",
+        "XYREM",
+        "PERCOCET",
+        "PERCOCET",
+        "TOPIRAMATE",
+        "PROPRANOLOL",
+        "NUVIGIL",
+        "ZINC",
+        "MODAFINIL",
+        "VITAMIN D3",
+        "NAPROXEN",
+        "NORCO",
+        "HYPERICUM PERFORATUM WHOLE",
+        "HARMONY",
+        "EXPERIENCE"
+      ],
+      "reactions": [
+        "Nephrolithiasis",
+        "Narcolepsy",
+        "Hypotension",
+        "Sedation complication",
+        "Infection",
+        "Chills",
+        "Libido increased",
+        "Feeling abnormal",
+        "Pre-existing condition improved",
+        "Therapeutic response unexpected",
+        "Pain"
+      ],
+      "report_id": "13836454"
+    },
+    {
+      "drugs": [
+        "CITALOPRAM",
+        "HYPERICUM PERFORATUM"
+      ],
+      "reactions": [
+        "Nausea",
+        "Fatigue",
+        "Skin burning sensation",
+        "Suicidal ideation",
+        "Insomnia"
+      ],
+      "report_id": "14032547"
+    },
+    {
+      "drugs": [
+        "PREDNISONE.",
+        "BABY ASPIRIN",
+        "FLOMAX",
+        "FOLIC ACID.",
+        "ENALAPRIL",
+        "HYPERICUM PERFORATUM",
+        "ZYTIGA"
+      ],
+      "reactions": [
+        "Fatigue",
+        "Prostatic specific antigen increased"
+      ],
+      "report_id": "14215365"
+    },
+    {
+      "drugs": [
+        "ABILIFY",
+        "ABILIFY",
+        "HYDROXYTRYPTOPHAN 5 HTP",
+        "HYPERICUM PERFORATUM",
+        "ABILIFY"
+      ],
+      "reactions": [
+        "Psychotic disorder",
+        "Drug interaction",
+        "Depression"
+      ],
+      "report_id": "14273300"
+    },
+    {
+      "drugs": [
+        "METFORMIN",
+        "ALENDRONIC ACID",
+        "PIOGLITAZONE/PIOGLITAZONE HYDROCHLORIDE",
+        "SIMVASTATIN.",
+        "GLIBENCLAMIDE",
+        "CHROMIUM",
+        "HYPERICUM PERFORATUM",
+        "CELECOXIB.",
+        "PAROXETINE.",
+        "AMITRIPTYLINE",
+        "GINKGO BILOBA/GINKGO BILOBA EXTRACT/GINKGO BILOBA LEAF EXTRACT",
+        "DILTIAZEM.",
+        "ASCORBIC ACID.",
+        "HYDROXYZINE",
+        "CINNAMOMUM VERUM BARK",
+        "METFORMIN",
+        "GLUCOSAMINE",
+        "NICOTINIC ACID"
+      ],
+      "reactions": [
+        "Cough",
+        "Fall",
+        "Dementia Alzheimer^s type",
+        "Gait disturbance",
+        "Choking",
+        "Joint stiffness",
+        "Grief reaction",
+        "Agitation",
+        "Hip fracture",
+        "Arthralgia",
+        "Dyspnoea",
+        "Delirium",
+        "Confusional state",
+        "Urinary incontinence",
+        "Pyrexia",
+        "Drug interaction",
+        "Osteoarthritis",
+        "Pneumonia aspiration",
+        "Memory impairment",
+        "Cognitive disorder",
+        "Balance disorder",
+        "Nervousness",
+        "Dementia",
+        "Lung infiltration"
+      ],
+      "report_id": "14326815"
+    },
+    {
+      "drugs": [
+        "HYPERICUM PERFORATUM",
+        "CITALOPRAM"
+      ],
+      "reactions": [
+        "Insomnia",
+        "Nausea",
+        "Suicidal ideation",
+        "Fatigue",
+        "Skin burning sensation"
+      ],
+      "report_id": "14339244"
+    },
+    {
+      "drugs": [
+        "CITALOPRAM",
+        "HYPERICUM PERFORATUM"
+      ],
+      "reactions": [
+        "Fatigue",
+        "Suicidal ideation",
+        "Nausea",
+        "Skin burning sensation",
+        "Insomnia"
+      ],
+      "report_id": "14339326"
+    },
+    {
+      "drugs": [
+        "HYPERICUM PERFORATUM",
+        "CITALOPRAM"
+      ],
+      "reactions": [
+        "Skin burning sensation",
+        "Suicidal ideation",
+        "Nausea",
+        "Fatigue",
+        "Insomnia"
+      ],
+      "report_id": "14339827"
+    },
+    {
+      "drugs": [
+        "PARACETAMOL",
+        "BRYONIA",
+        "ZINNAT",
+        "AESCULUS HIPPOCASTANUM",
+        "NOVOTHYROX",
+        "PREDNISOLONE.",
+        "AURICULARUM",
+        "ARNICA MONTANA.",
+        "HYPERICUM PERFORATUM",
+        "AVAMYS",
+        "ZYMAD"
+      ],
+      "reactions": [
+        "Nausea",
+        "Headache",
+        "Hot flush",
+        "Chest discomfort",
+        "Insomnia",
+        "Hyperhidrosis",
+        "Mood swings"
+      ],
+      "report_id": "14341495"
+    },
+    {
+      "drugs": [
+        "XYREM",
+        "BIOTIN",
+        "VITAMIN B12",
+        "XYREM",
+        "PRIMIDONE.",
+        "DEXEDRINE",
+        "ADDERALL",
+        "FLUTICASONE PROPIONATE.",
+        "METRONIDAZOLE.",
+        "CISAPRIDE",
+        "XYREM",
+        "TRAZODONE",
+        "ADAPALENE.",
+        "NORETHISTERONE",
+        "DAYTRANA",
+        "PROZAC",
+        "FLUOXETINE HCL",
+        "GABAPENTIN.",
+        "LOESTRIN NOS",
+        "MAXALT",
+        "METHYLPHENIDATE.",
+        "ERGOCALCIFEROL.",
+        "IBUPROFEN.",
+        "PRISTIQ EXTENDED-RELEASE",
+        "TROKENDI",
+        "RITALIN",
+        "KLONOPIN",
+        "NAPROXEN.",
+        "BOTOX",
+        "HYPERICUM PERFORATUM",
+        "TOPAMAX"
+      ],
+      "reactions": [
+        "Skin disorder",
+        "Uterine haemorrhage"
+      ],
+      "report_id": "14557253"
+    },
+    {
+      "drugs": [
+        "SERTRALINE",
+        "HYPERICUM PERFORATUM",
+        "SERTRALINE",
+        "HYPERICUM PERFORATUM",
+        "HYPERICUM PERFORATUM",
+        "EPIRUBICIN",
+        "SERTRALINE",
+        "TAMOXIFEN",
+        "DOCETAXEL."
+      ],
+      "reactions": [
+        "Hyperhidrosis",
+        "Menopausal symptoms",
+        "Arthralgia",
+        "Memory impairment",
+        "Burning sensation",
+        "Disturbance in attention",
+        "Anxiety",
+        "Polyneuropathy",
+        "Fine motor skill dysfunction",
+        "Sleep disorder",
+        "Condition aggravated",
+        "Depressed mood",
+        "Arthropathy",
+        "Depression",
+        "Vulvovaginal dryness",
+        "Off label use",
+        "Menopausal disorder",
+        "Fatigue",
+        "Cognitive disorder",
+        "Insomnia",
+        "Hot flush",
+        "Stress",
+        "Libido decreased",
+        "Condition aggravated"
+      ],
+      "report_id": "14607913"
+    },
+    {
+      "drugs": [
+        "TAMOXIFEN",
+        "HYPERICUM",
+        "SERTRALINE",
+        "EPIRUBICIN",
+        "SERTRALINE",
+        "HYPERICUM PERFORATUM",
+        "DOCETAXEL."
+      ],
+      "reactions": [
+        "Stress",
+        "Off label use",
+        "Menopausal symptoms",
+        "Anxiety",
+        "Sleep disorder",
+        "Burning sensation",
+        "Libido decreased",
+        "Menopausal disorder",
+        "Polyneuropathy",
+        "Fatigue",
+        "Arthropathy",
+        "Vulvovaginal dryness",
+        "Insomnia",
+        "Hot flush",
+        "Memory impairment",
+        "Depression",
+        "Arthralgia",
+        "Cognitive disorder",
+        "Disturbance in attention",
+        "Hyperhidrosis",
+        "Depressed mood",
+        "Condition aggravated"
+      ],
+      "report_id": "14616241"
+    },
+    {
+      "drugs": [
+        "DOCETAXEL",
+        "EPIRUBICIN",
+        "SERTRALINE",
+        "SERTRALINE",
+        "HYPERICUM PERFORATUM WHOLE",
+        "HYPERICUM PERFORATUM WHOLE",
+        "TAMOXIFEN"
+      ],
+      "reactions": [
+        "Fatigue",
+        "Polyneuropathy",
+        "Burning sensation",
+        "Stress",
+        "Disturbance in attention",
+        "Hyperhidrosis",
+        "Depressed mood",
+        "Arthralgia",
+        "Libido decreased",
+        "Memory impairment",
+        "Menopausal disorder",
+        "Vulvovaginal dryness",
+        "Cognitive disorder",
+        "Insomnia",
+        "Hot flush",
+        "Sleep disorder",
+        "Off label use",
+        "Condition aggravated",
+        "Menopausal symptoms",
+        "Anxiety",
+        "Depression",
+        "Arthropathy"
+      ],
+      "report_id": "14623551"
+    },
+    {
+      "drugs": [
+        "QUETIAPINE.",
+        "PREGABALIN.",
+        "PARACETAMOL",
+        "METFORMIN",
+        "BUPROPION.",
+        "CLONAZEPAM.",
+        "SULPIRIDE",
+        "PAROXETINE.",
+        "QUETIAPINE.",
+        "YAZ",
+        "HYPERICUM PERFORATUM",
+        "CLONAZEPAM.",
+        "QUETIAPINE.",
+        "SANVAL",
+        "PANTOPRAZOLE",
+        "METFORMIN",
+        "DEPRIM",
+        "LEKADOL",
+        "METFORMIN",
+        "ZOLPIDEM",
+        "KETOPROFEN.",
+        "SULPIRIDE"
+      ],
+      "reactions": [
+        "Attention deficit/hyperactivity disorder",
+        "Wound",
+        "Panic attack",
+        "Generalised anxiety disorder",
+        "Cognitive disorder",
+        "Social anxiety disorder",
+        "Personality disorder",
+        "Sleep disorder",
+        "Tension",
+        "Depressed mood",
+        "Anxiety",
+        "Suicidal ideation",
+        "Self-injurious ideation"
+      ],
+      "report_id": "14632176"
+    },
+    {
+      "drugs": [
+        "HYPERICUM PERFORATUM",
+        "CLONAZEPAM.",
+        "METFORMIN",
+        "SULPIRIDE",
+        "QUETIAPINE.",
+        "DEPRIM",
+        "PREGABALIN.",
+        "PARACETAMOL",
+        "PAROXETINE.",
+        "QUETIAPINE.",
+        "PARACETAMOL",
+        "METFORMIN",
+        "KETOPROFEN.",
+        "QUETIAPINE.",
+        "PANTOPRAZOLE",
+        "METFORMIN",
+        "SULPIRIDE",
+        "SANVAL",
+        "YAZ",
+        "BUPROPION.",
+        "CLONAZEPAM.",
+        "ZOLPIDEM"
+      ],
+      "reactions": [
+        "Wound",
+        "Depressed mood",
+        "Personality disorder",
+        "Tension",
+        "Panic attack",
+        "Sleep disorder",
+        "Suicidal ideation",
+        "Self-injurious ideation",
+        "Anxiety",
+        "Attention deficit/hyperactivity disorder",
+        "Social anxiety disorder",
+        "Cognitive disorder",
+        "Generalised anxiety disorder"
+      ],
+      "report_id": "14673255"
+    },
+    {
+      "drugs": [
+        "DEPRIM",
+        "BUPROPION.",
+        "PREGABALIN.",
+        "QUETIAPINE.",
+        "HYPERICUM PERFORATUM",
+        "PAROXETINE.",
+        "PANTOPRAZOLE",
+        "LEKADOL",
+        "SULPIRIDE",
+        "CLONAZEPAM.",
+        "CLONAZEPAM.",
+        "METFORMIN",
+        "METFORMIN",
+        "KETOPROFEN.",
+        "SANVAL",
+        "YAZ",
+        "ZOLPIDEM TARTRATE.",
+        "QUETIAPINE.",
+        "PARACETAMOL",
+        "SULPIRIDE",
+        "METFORMIN",
+        "QUETIAPINE."
+      ],
+      "reactions": [
+        "Wound",
+        "Self-injurious ideation",
+        "Anxiety",
+        "Attention deficit/hyperactivity disorder",
+        "Tension",
+        "Social anxiety disorder",
+        "Depressed mood",
+        "Personality disorder",
+        "Cognitive disorder",
+        "Panic attack",
+        "Generalised anxiety disorder",
+        "Suicidal ideation",
+        "Sleep disorder"
+      ],
+      "report_id": "14681643"
+    },
+    {
+      "drugs": [
+        "PARACETAMOL",
+        "HYPERICUM PERFORATUM",
+        "PAROXETINE.",
+        "SULPIRIDE",
+        "METFORMIN",
+        "METFORMIN",
+        "QUETIAPINE FUMARATE.",
+        "KETOPROFEN.",
+        "YAZ",
+        "CLONAZEPAM.",
+        "METFORMIN",
+        "ZOLPIDEM",
+        "SANVAL",
+        "PARACETAMOL",
+        "QUETIAPINE FUMARATE.",
+        "HYPERICUM PERFORATUM",
+        "SULPIRIDE",
+        "CLONAZEPAM.",
+        "BUPROPION.",
+        "PANTOPRAZOLE",
+        "QUETIAPINE FUMARATE.",
+        "PREGABALIN."
+      ],
+      "reactions": [
+        "Attention deficit/hyperactivity disorder",
+        "Anxiety",
+        "Generalised anxiety disorder",
+        "Personality disorder",
+        "Depressed mood",
+        "Wound",
+        "Panic attack",
+        "Suicidal ideation",
+        "Self-injurious ideation",
+        "Sleep disorder",
+        "Tension",
+        "Social anxiety disorder",
+        "Cognitive disorder"
+      ],
+      "report_id": "14695800"
+    },
+    {
+      "drugs": [
+        "HYPERICUM PERFORATUM",
+        "PREGABALIN.",
+        "CLONAZEPAM.",
+        "QUETIAPINE.",
+        "PANTOPRAZOLE",
+        "METFORMIN",
+        "SULPIRIDE",
+        "PARACETAMOL",
+        "QUETIAPINE.",
+        "QUETIAPINE.",
+        "LEKADOL",
+        "DEPRIM",
+        "CLONAZEPAM.",
+        "QUETIAPINE.",
+        "SANVAL",
+        "PAROXETINE.",
+        "METFORMIN",
+        "QUETIAPINE.",
+        "SULPIRIDE",
+        "QUETIAPINE.",
+        "ZOLPIDEM",
+        "SULPIRIDE",
+        "SULPIRIDE",
+        "YAZ",
+        "KETOPROFEN.",
+        "PARACETAMOL",
+        "BUPROPION.",
+        "METFORMIN"
+      ],
+      "reactions": [
+        "Depressed mood",
+        "Self-injurious ideation",
+        "Attention deficit/hyperactivity disorder",
+        "Panic attack",
+        "Anxiety",
+        "Suicidal ideation",
+        "Cognitive disorder",
+        "Social anxiety disorder",
+        "Wound",
+        "Generalised anxiety disorder",
+        "Personality disorder",
+        "Tension",
+        "Sleep disorder"
+      ],
+      "report_id": "14698397"
+    },
+    {
+      "drugs": [
+        "CO-DIOVAN",
+        "FRAGMIN P",
+        "AMLODIPINE",
+        "ADALAT",
+        "EUGLUCON N",
+        "TRAMAL LONG",
+        "FENTANYL.",
+        "SPASURET",
+        "VITAMIN C [ASCORBIC ACID]",
+        "NOVODIGAL [DIGOXIN]",
+        "HYPERICUM PERFORATUM EXTRACT",
+        "AGIOLAX [MATRICARIA RECUTITA,PLANTAGO AFRA SEED,SENNA ALEXANDRINA",
+        "NOCTAMID",
+        "TEBONIN",
+        "NOVALGIN (METAMIZOLE SODIUM)",
+        "CIPROBAY [CIPROFLOXACIN HYDROCHLORIDE]",
+        "ANTRA",
+        "GINKOBIL",
+        "BACTRIM-FORTE",
+        "MULTIVITAMIN",
+        "NORMOFUNDIN",
+        "ASPIRIN 100 MG",
+        "DEXAMETHASONE [DEXAMETHASONE]"
+      ],
+      "reactions": [
+        "Pyrexia",
+        "Pruritus",
+        "Toxic epidermal necrolysis",
+        "Skin lesion",
+        "Ocular hyperaemia",
+        "Lip erosion",
+        "Genital erythema"
+      ],
+      "report_id": "14746792"
+    },
+    {
+      "drugs": [
+        "LEVOTHYROXINE.",
+        "HYPERICUM PERFORATUM",
+        "BISOPROLOL FUMARATE.",
+        "ZOPICLONE"
+      ],
+      "reactions": [
+        "Anal incontinence",
+        "Paraesthesia",
+        "Head discomfort",
+        "Fatigue",
+        "Joint swelling",
+        "Abdominal discomfort",
+        "Abnormal weight gain"
+      ],
+      "report_id": "14839559"
+    },
+    {
+      "drugs": [
+        "TRICITRATES",
+        "MECLIZINE",
+        "XYREM",
+        "METOPROLOL.",
+        "LEVOFLOXACIN.",
+        "HYPERICUM PERFORATUM",
+        "XYREM",
+        "XYREM",
+        "XYREM",
+        "XYREM",
+        "XYREM",
+        "XYREM",
+        "BENAZEPRIL",
+        "GABAPENTIN.",
+        "TRIAMCINOLONE",
+        "IPRATROPIUM BROMIDE.",
+        "XYREM",
+        "FLECAINIDE",
+        "ACETYLSALICYLIC ACID",
+        "SOLIFENACIN SUCCINATE.",
+        "XYREM",
+        "MODAFINIL.",
+        "TAMSULOSIN HYDROCHLORIDE.",
+        "FLUTICASONE PROPIONATE.",
+        "HYDROCHLOROTHIAZIDE.",
+        "VITAMIN D",
+        "PARACETAMOL",
+        "RANITIDINE.",
+        "XYREM",
+        "GABAPENTIN."
+      ],
+      "reactions": [
+        "Restlessness",
+        "Nightmare",
+        "Abnormal sleep-related event",
+        "Somnolence",
+        "Hypoaesthesia",
+        "Weight decreased",
+        "Somnambulism",
+        "Sleep talking",
+        "Sleep disorder",
+        "Anxiety",
+        "Paraesthesia",
+        "Confusional state",
+        "Crying",
+        "Enuresis"
+      ],
+      "report_id": "14914586"
+    },
+    {
+      "drugs": [
+        "SULPIRIDE",
+        "CLONAZEPAM.",
+        "QUETIAPINE.",
+        "PARACETAMOL",
+        "HYPERICUM PERFORATUM",
+        "LEKADOL",
+        "PAROXETINE.",
+        "BUPROPION.",
+        "SANVAL",
+        "CLONAZEPAM.",
+        "KETOPROFEN.",
+        "PANTOPRAZOLE",
+        "QUETIAPINE.",
+        "METFORMIN",
+        "PREGABALIN.",
+        "ZOLPIDEM",
+        "YAZ",
+        "QUETIAPINE.",
+        "HYPERICUM PERFORATUM",
+        "SULPIRIDE",
+        "METFORMIN",
+        "DEPRIM",
+        "METFORMIN",
+        "METFORMIN",
+        "KETOPROFEN."
+      ],
+      "reactions": [
+        "Self-injurious ideation",
+        "Sleep disorder",
+        "Cognitive disorder",
+        "Generalised anxiety disorder",
+        "Depressed mood",
+        "Attention deficit/hyperactivity disorder",
+        "Anxiety",
+        "Social anxiety disorder",
+        "Personality disorder",
+        "Tension",
+        "Panic attack",
+        "Suicidal ideation",
+        "Wound"
+      ],
+      "report_id": "14985744"
+    },
+    {
+      "drugs": [
+        "ERGOCALCIFEROL.",
+        "CURCUMA LONGA",
+        "IBUPROFEN.",
+        "HYPERICUM PERFORATUM",
+        "TAMSULOSIN/TAMSULOSIN HYDROCHLORIDE"
+      ],
+      "reactions": [
+        "Blood pressure increased",
+        "Drug ineffective"
+      ],
+      "report_id": "15010239"
+    },
+    {
+      "drugs": [
+        "NEVIRAPINE.",
+        "NELFINAVIR",
+        "ERYTHROMYCIN.",
+        "RITONAVIR.",
+        "EFAVIRENZ.",
+        "HYPERICUM PERFORATUM",
+        "PHENYTOIN.",
+        "KETOCONAZOLE.",
+        "ESTRADOT",
+        "CARBAMAZEPINE.",
+        "RIFABUTIN.",
+        "PHENOBARBITAL.",
+        "RIFAMPICIN"
+      ],
+      "reactions": [
+        "Incorrect dose administered",
+        "Blood oestrogen decreased",
+        "Product prescribing issue",
+        "Drug interaction",
+        "Product adhesion issue",
+        "Drug ineffective",
+        "Drug dependence",
+        "Asthenia"
+      ],
+      "report_id": "15177922"
+    },
+    {
+      "drugs": [
+        "ACTAVIS GROUP SERTRALINE",
+        "SERTRALINE",
+        "CETIRIZINE DIHYDROCHLORIDE",
+        "HYPERICUM PERFORATUM"
+      ],
+      "reactions": [
+        "Anorgasmia",
+        "Disturbance in sexual arousal",
+        "Anhedonia",
+        "Male sexual dysfunction",
+        "Orgasmic sensation decreased",
+        "Ejaculation disorder",
+        "Male orgasmic disorder"
+      ],
+      "report_id": "15240237"
+    },
+    {
+      "drugs": [
+        "XYREM",
+        "POTASSIUM",
+        "MODAFINIL.",
+        "INTEGRA F",
+        "HYDROXYCHLOROQUINE PHOSPHATE",
+        "GABAPENTIN.",
+        "XYREM",
+        "ASPIRIN 81",
+        "SUMATRIPTAN.",
+        "ADDERALL",
+        "XYREM",
+        "HYPERICUM PERFORATUM",
+        "VITAMIN D",
+        "NUVIGIL",
+        "MOBIC",
+        "TEMAZEPAM.",
+        "OMEPRAZOLE.",
+        "CYCLOBENZAPRINE HYDROCHLORIDE.",
+        "PROPRANOLOL",
+        "DICLOFENAC POTASSIUM.",
+        "DICLOFENAC SODIUM.",
+        "MAGNESIUM OXIDE.",
+        "TOPAMAX"
+      ],
+      "reactions": [
+        "No adverse event"
+      ],
+      "report_id": "15277221"
+    },
+    {
+      "drugs": [
+        "CETIRIZINE DIHYDROCHLORIDE",
+        "RANBAXY UK SERTRALINE",
+        "HYPERICUM PERFORATUM",
+        "ACTAVIS GROUP SERTRALINE"
+      ],
+      "reactions": [
+        "Anhedonia",
+        "Male orgasmic disorder",
+        "Orgasmic sensation decreased",
+        "Anorgasmia",
+        "Male sexual dysfunction",
+        "Disturbance in sexual arousal",
+        "Ejaculation disorder"
+      ],
+      "report_id": "15282988"
+    },
+    {
+      "drugs": [
+        "XYREM",
+        "XYREM",
+        "XYREM",
+        "XYREM",
+        "XYREM",
+        "XYREM",
+        "XYREM",
+        "XYREM",
+        "MODAFINIL",
+        "OXITRIPTAN",
+        "HYPERICUM PERFORATUM WHOLE",
+        "NAPROXEN",
+        "DICLOFENAC POTASSIUM",
+        "METAXALONE",
+        "ALLEGRA ALLERGY",
+        "ZANTAC",
+        "PROVIGIL",
+        "ALCOHOL",
+        "XANAX"
+      ],
+      "reactions": [
+        "Suicidal ideation",
+        "Depressed mood",
+        "Nausea",
+        "Irritability"
+      ],
+      "report_id": "15452616"
+    },
+    {
+      "drugs": [
+        "XYREM",
+        "XYREM",
+        "XYREM",
+        "BELSOMRA",
+        "SYNTHROID",
+        "MOBIC",
+        "ALLEGRA",
+        "VICODIN",
+        "NORCO",
+        "NASCOBAL",
+        "LISINOPRIL.",
+        "CITALOPRAM HYDROBROMIDE.",
+        "IRON",
+        "CARISOPRODOL.",
+        "TOPAMAX",
+        "TOPIRAMATE.",
+        "DICLOFENAC SODIUM.",
+        "CYMBALTA",
+        "PREVACID",
+        "LAMICTAL",
+        "NORVASC",
+        "XANAX",
+        "HALCION",
+        "LUNESTA",
+        "HYPERICUM PERFORATUM",
+        "XYREM",
+        "ONDANSETRON",
+        "METRONIDAZOLE.",
+        "DICYCLOVERINE",
+        "MUCINEX D",
+        "LUPRON DEPOT",
+        "BENTYL",
+        "XYREM",
+        "IODINE.",
+        "CLONAZEPAM.",
+        "ERGOCALCIFEROL.",
+        "METHOTREXATE.",
+        "OXITRIPTAN",
+        "AMBIEN",
+        "TIZANIDINE HCL",
+        "TOPROL XL",
+        "XYREM",
+        "RANITIDINE.",
+        "CIPROFLOXACIN HCL",
+        "BYSTOLIC",
+        "PRIMIDONE.",
+        "LEVOCARNITINE.",
+        "TRILEPTAL",
+        "TRAZODONE"
+      ],
+      "reactions": [
+        "Surgery",
+        "Malaise"
+      ],
+      "report_id": "15530389"
+    },
+    {
+      "drugs": [
+        "VITAMIN C [ASCORBIC ACID]",
+        "FRAGMIN P",
+        "AGIOLAX [MATRICARIA RECUTITA,PLANTAGO AFRA SEED,SENNA ALEXANDRINA",
+        "NOVODIGAL [DIGOXIN]",
+        "BACTRIM-FORTE",
+        "EUGLUCON N",
+        "CIPROBAY [CIPROFLOXACIN HYDROCHLORIDE]",
+        "FENTANYL.",
+        "ASPIRIN 100 MG",
+        "ADALAT",
+        "ANTRA",
+        "HYPERICUM PERFORATUM EXTRACT",
+        "CO-DIOVAN",
+        "TRAMAL LONG",
+        "AMLODIPINE",
+        "GINKOBIL",
+        "NOCTAMID",
+        "SPASURET",
+        "DEXAMETHASONE [DEXAMETHASONE]",
+        "TEBONIN",
+        "NOVALGIN (METAMIZOLE SODIUM)",
+        "MULTIVITAMIN",
+        "NORMOFUNDIN"
+      ],
+      "reactions": [
+        "Lip erosion",
+        "Skin lesion",
+        "Pruritus",
+        "Toxic epidermal necrolysis",
+        "Pyrexia",
+        "Ocular hyperaemia"
+      ],
+      "report_id": "15580370"
+    },
+    {
+      "drugs": [
+        "CELEBREX",
+        "HYPERICUM PERFORATUM",
+        "SULFASALAZINE.",
+        "FOLIC ACID."
+      ],
+      "reactions": [
+        "Depression",
+        "Product use in unapproved indication",
+        "Paranoia"
+      ],
+      "report_id": "15626678"
+    },
+    {
+      "drugs": [
+        "DOCETAXEL.",
+        "EPIRUBICIN",
+        "TAMOXIFEN",
+        "HYPERICUM PERFORATUM",
+        "SERTRALINE"
+      ],
+      "reactions": [
+        "Arthropathy",
+        "Hyperhidrosis",
+        "Libido decreased",
+        "Insomnia",
+        "Condition aggravated",
+        "Memory impairment",
+        "Menopausal disorder",
+        "Disturbance in attention",
+        "Hot flush",
+        "Anxiety",
+        "Off label use",
+        "Polyneuropathy",
+        "Fatigue",
+        "Burning sensation",
+        "Vulvovaginal dryness",
+        "Cognitive disorder",
+        "Arthralgia",
+        "Sleep disorder"
+      ],
+      "report_id": "15754907"
+    },
+    {
+      "drugs": [
+        "IXPRIM",
+        "HYPERICUM PERFORATUM",
+        "ATENOLOL.",
+        "ADENURIC",
+        "LOXEN (NICARDIPINE HYDROCHLORIDE)",
+        "CANNABIDIOL",
+        "ATENOLOL.",
+        "LODOZ",
+        "VENLAFAXINE"
+      ],
+      "reactions": [
+        "Visual acuity reduced",
+        "Dizziness",
+        "Gout",
+        "Blood pressure increased",
+        "Tinnitus",
+        "Balance disorder",
+        "Weight increased",
+        "Xanthelasma",
+        "Product use issue",
+        "Disorientation",
+        "Deafness"
+      ],
+      "report_id": "15869701"
+    },
+    {
+      "drugs": [
+        "IBUPROFEN",
+        "ACETAMINOPHEN",
+        "HYPERICUM PERFORATUM"
+      ],
+      "reactions": [
+        "Hyperbilirubinaemia",
+        "Jaundice",
+        "Hypertension",
+        "Asthenia",
+        "Autoimmune haemolytic anaemia",
+        "Haptoglobin",
+        "Pyrexia",
+        "Blood lactate dehydrogenase increased",
+        "Reticulocytosis",
+        "Tachycardia",
+        "Anaemia",
+        "Reticulocytosis",
+        "Pyrexia",
+        "Chromaturia",
+        "Red blood cell spherocytes present",
+        "Yellow skin",
+        "Myalgia"
+      ],
+      "report_id": "15882822"
+    },
+    {
+      "drugs": [
+        "GINKGO BILOBA",
+        "PARACETAMOL",
+        "GILENYA",
+        "HYPERICUM PERFORATUM",
+        "GILENYA",
+        "RIBES NIGRUM"
+      ],
+      "reactions": [
+        "Hepatocellular injury"
+      ],
+      "report_id": "15904525"
+    },
+    {
+      "drugs": [
+        "ATENOLOL.",
+        "TRAMADOL HYDROCHLORIDE AND PARACETAMOL",
+        "ADENURIC",
+        "HYPERICUM PERFORATUM",
+        "CANNABIDIOL",
+        "ATENOLOL.",
+        "BISOPROLOL FUMARATE+HYDROCHLOROTHIAZIDE",
+        "VENLAFAXINE",
+        "NICARDIPINE HYDROCHLORIDE."
+      ],
+      "reactions": [
+        "Weight increased",
+        "Disorientation",
+        "Dizziness",
+        "Gout",
+        "Product use issue",
+        "Balance disorder",
+        "Blood pressure increased",
+        "Visual acuity reduced",
+        "Xanthelasma",
+        "Tinnitus",
+        "Deafness"
+      ],
+      "report_id": "15921199"
+    },
+    {
+      "drugs": [
+        "PARIET",
+        "STEOVESS",
+        "THEALOZ",
+        "HYPERICUM [HYPERICUM PERFORATUM]",
+        "AMLOR",
+        "DETENSIEL [BISOPROLOL FUMARATE]",
+        "PARACETAMOL",
+        "POLARAMINE",
+        "SERESTA",
+        "CRESTOR",
+        "METFORMIN",
+        "ASPIRINE PROTECT",
+        "UVEDOSE",
+        "FEXOFENADINE",
+        "SERESTA"
+      ],
+      "reactions": [
+        "Pruritus",
+        "Eosinophilia"
+      ],
+      "report_id": "15968588"
+    },
+    {
+      "drugs": [
+        "PASSIFLORA INCARNATA",
+        "OXAZEPAM.",
+        "PARACETAMOL",
+        "PARACETAMOL",
+        "DIMETICONE",
+        "HYPERICUM PERFORATUM",
+        "PLANTAGO OVATA",
+        "METAMIZOLE",
+        "IBUPROFEN.",
+        "OXAZEPAM.",
+        "METOCLOPRAMIDE.",
+        "METOCLOPRAMIDE.",
+        "PLANTAGO OVATA",
+        "METAMIZOLE",
+        "IBUPROFEN.",
+        "DIMETICONE"
+      ],
+      "reactions": [
+        "Diarrhoea",
+        "Ascites",
+        "Abdominal pain",
+        "Myalgia",
+        "Hepatic failure",
+        "Leukocytosis",
+        "Hepatomegaly",
+        "Jaundice",
+        "Pleural effusion",
+        "Drug reaction with eosinophilia and systemic symptoms",
+        "Renal failure",
+        "Pericardial effusion",
+        "Oedema",
+        "Arthralgia",
+        "Pyrexia",
+        "Hypoproteinaemia",
+        "Oedema peripheral"
+      ],
+      "report_id": "16087801"
+    },
+    {
+      "drugs": [
+        "IBUPROFEN.",
+        "HYPERICUM PERFORATUM",
+        "METAMIZOL",
+        "PARACETAMOL",
+        "DIMETHICONE.",
+        "PLANTAGO OVATA",
+        "DIMETHICONE.",
+        "PASSIFLORA INCARNATA",
+        "DIPYRONE",
+        "OXAZEPAM.",
+        "METOCLOPRAMIDE."
+      ],
+      "reactions": [
+        "Pericardial effusion",
+        "Abdominal pain",
+        "Arthralgia",
+        "Hepatic failure",
+        "Jaundice",
+        "Hypoproteinaemia",
+        "Oedema peripheral",
+        "Oedema",
+        "Renal failure",
+        "Hepatomegaly",
+        "Drug reaction with eosinophilia and systemic symptoms",
+        "Pleural effusion",
+        "Pyrexia",
+        "Diarrhoea",
+        "Ascites",
+        "Myalgia",
+        "Leukocytosis"
+      ],
+      "report_id": "16103114"
+    },
+    {
+      "drugs": [
+        "HYPERICUM PERFORATUM",
+        "ELIQUIS",
+        "ACETYLSALICYLIC ACID"
+      ],
+      "reactions": [
+        "Cerebral haemorrhage"
+      ],
+      "report_id": "16258666"
+    },
+    {
+      "drugs": [
+        "FLUOXETINE HYDROCHLORIDE.",
+        "TESTOSTERONE.",
+        "HYPERICUM PERFORATUM"
+      ],
+      "reactions": [
+        "Transaminases increased",
+        "Abdominal pain",
+        "Chest pain",
+        "Tachycardia",
+        "Hyponatraemia",
+        "Serotonin syndrome",
+        "Nausea",
+        "Dysuria"
+      ],
+      "report_id": "16296855"
+    },
+    {
+      "drugs": [
+        "XEOMIN",
+        "HYPERICUM PERFORATUM",
+        "XEOMIN",
+        "XEOMIN",
+        "XEOMIN",
+        "XEOMIN",
+        "LORAZEPAM.",
+        "IBUPROFEN."
+      ],
+      "reactions": [
+        "Angioedema"
+      ],
+      "report_id": "16310651"
+    },
+    {
+      "drugs": [
+        "ORENCIA",
+        "ORENCIA",
+        "ORENCIA",
+        "ORENCIA",
+        "ABATACEPT",
+        "ARAVA",
+        "ATENOLOL",
+        "BIAXIN",
+        "BIAXIN",
+        "BIAXIN",
+        "BIAXIN",
+        "BIAXIN",
+        "BIAXIN",
+        "CELEBREX",
+        "CELEBREX",
+        "CEPHALEXIN",
+        "CEPHALEXIN",
+        "CEPHALEXIN",
+        "CEPHALEXIN MONOHYDRATE",
+        "CIPROFLOXACIN",
+        "CIPROFLOXACIN",
+        "CIPROFLOXACIN",
+        "CLINDAMYCIN",
+        "CLINDAMYCIN",
+        "CLINDAMYCIN HYDROCHLORIDE",
+        "CLINDAMYCIN HYDROCHLORIDE",
+        "CODEINE",
+        "ENALAPRIL",
+        "ENALAPRIL",
+        "ENALAPRIL MALEATE",
+        "ENBREL",
+        "ENBREL",
+        "ENBREL",
+        "ENBREL",
+        "ENBREL",
+        "ENBREL",
+        "ENBREL",
+        "ENBREL",
+        "ENBREL",
+        "ENBREL",
+        "ENBREL",
+        "ENBREL",
+        "ENBREL",
+        "ENBREL",
+        "ENBREL",
+        "ENBREL",
+        "ENBREL",
+        "ENBREL",
+        "ENBREL",
+        "ENBREL",
+        "ENBREL",
+        "FOSAMAX",
+        "FOSAMAX",
+        "GLICLAZIDE",
+        "HYDROCHLOROTHIAZIDE",
+        "HYDROCHLOROTHIAZIDE",
+        "HYDRALAZINE HYDROCHLORIDE",
+        "HYDRALAZINE HYDROCHLORIDE",
+        "HYDROCHLOROTHIAZIDE",
+        "HYDROCHLOROTHIAZIDE",
+        "HYDROXYCHLOROQUINE SULFATE",
+        "HYDROXYCHLOROQUINE SULFATE",
+        "IRON SUCROSE",
+        "IRON SUCROSE",
+        "IRON SUCROSE",
+        "IRON SUCROSE",
+        "IRON SUCROSE",
+        "ISONIAZID",
+        "LEVAQUIN",
+        "LOSARTAN",
+        "LOSARTAN",
+        "LOSARTAN POTASSIUM",
+        "METHOTREXATE",
+        "METHOTREXATE",
+        "METHOTREXATE",
+        "METHOTREXATE",
+        "METHOTREXATE",
+        "METHOTREXATE",
+        "METHOTREXATE",
+        "METHOTREXATE",
+        "METHOTREXATE",
+        "METHOTREXATE",
+        "METHOTREXATE",
+        "METHOTREXATE",
+        "METOPROLOL",
+        "METOPROLOL TARTRATE",
+        "MOXIFLOXACIN HYDROCHLORIDE",
+        "MOXIFLOXACIN HYDROCHLORIDE",
+        "MOXIFLOXACIN HYDROCHLORIDE",
+        "MOXIFLOXACIN HYDROCHLORIDE",
+        "PANTOPRAZOLE",
+        "PANTOPRAZOLE",
+        "PANTOPRAZOLE MAGNESIUM",
+        "PANTOPRAZOLE MAGNESIUM",
+        "RABEPRAZOLE SODIUM",
+        "RABEPRAZOLE SODIUM",
+        "PATIROMER",
+        "PATIROMER",
+        "PENICILLIN G 2-AMINO-4-METHYLPYRIMIDINE",
+        "PENICILLIN G 2-AMINO-4-METHYLPYRIMIDINE",
+        "PENICILLIN G SODIUM",
+        "PANTOPRAZOLE MAGNESIUM",
+        "PANTOPRAZOLE MAGNESIUM",
+        "PANTOPRAZOLE MAGNESIUM",
+        "PANTOPRAZOLE MAGNESIUM",
+        "XELJANZ",
+        "XELJANZ",
+        "XELJANZ",
+        "XELJANZ",
+        "XELJANZ",
+        "XELJANZ",
+        "XELJANZ",
+        "XELJANZ",
+        "XELJANZ",
+        "XELJANZ",
+        "XELJANZ",
+        "XELJANZ",
+        "KEFLEX",
+        "HYDROXYCHLOROQUINE SULFATE",
+        "ALENDRONATE SODIUM",
+        "ALENDRONATE SODIUM",
+        "LOPRESSOR",
+        "METHOTREXATE SODIUM",
+        "METHOTREXATE SODIUM",
+        "METHOTREXATE SODIUM",
+        "METHOTREXATE SODIUM",
+        "HYDROXYCHLOROQUINE SULFATE",
+        "HYDROXYCHLOROQUINE",
+        "HYDROXYCHLOROQUINE DIPHOSPHATE",
+        "CIPROFLOXACIN HYDROCHLORIDE",
+        "TOFACITINIB CITRATE",
+        "PENICILLIN G",
+        "CLARITHROMYCIN",
+        "HYDRALAZINE",
+        "METOPROLOL FUMARATE",
+        "SACCHARATED IRON OXIDE",
+        "SACCHARATED IRON OXIDE",
+        "SACCHARATED IRON OXIDE",
+        "SACCHARATED IRON OXIDE",
+        "COLCHICINE",
+        "PERINDOPRIL ERBUMINE",
+        "PERINDOPRIL ERBUMINE",
+        "ESOMEPRAZOLE",
+        "GOLD",
+        "GOLD",
+        "HYDROXYCHLOROQUINE",
+        "LEUCOVORIN",
+        "LEVOTHYROXINE SODIUM",
+        "LEVOTHYROXINE SODIUM",
+        "PATIROMER",
+        "PREDNISONE",
+        "PREDNISONE",
+        "PREDNISONE",
+        "PREDNISONE",
+        "RANITIDINE",
+        "RANITIDINE",
+        "SACCHARATED IRON OXIDE",
+        "VENOFER",
+        "VENOFER",
+        "VELTASSA",
+        "VELTASSA",
+        "VELTASSA",
+        "LEVOTHYROXINE",
+        "CIPRO",
+        "LEUCOVORIN CALCIUM",
+        "ESOMEPRAZOLE MAGNESIUM",
+        "ATENOLOL AND CHLORTHALIDONE",
+        "ATENOLOL AND CHLORTHALIDONE",
+        "CIPROFLOXACIN LACTATE",
+        "CIPROFLOXACIN LACTATE",
+        "CIPROFLOXACIN LACTATE",
+        "HUMIRA",
+        "PENICILLIN G POTASSIUM",
+        "RANITIDINE HYDROCHLORIDE",
+        "RANITIDINE HYDROCHLORIDE",
+        "RITUXIMAB",
+        "RITUXIMAB",
+        "RITUXIMAB",
+        "GOLD SODIUM THIOMALATE",
+        "GOLD SODIUM THIOMALATE",
+        "ATENOLOL",
+        "PIPERACILLIN SODIUM\\TAZOBACTAM SODIUM",
+        "PIPERACILLIN SODIUM\\TAZOBACTAM SODIUM",
+        "PIPERACILLIN SODIUM\\TAZOBACTAM SODIUM",
+        "PIPERACILLIN SODIUM\\TAZOBACTAM SODIUM",
+        "PANTOPRAZOLE SODIUM ANHYDROUS",
+        "PANTOPRAZOLE SODIUM ANHYDROUS",
+        "BIAXIN",
+        "BIAXIN",
+        "BIAXIN",
+        "CLARITHROMYCIN",
+        "CLARITHROMYCIN",
+        "CODEINE SULFATE",
+        "CODEINE SULFATE",
+        "CODEINE PHOSPHATE",
+        "GOLD;HOMEOPATHICS NOS;HYPERICUM PERFORATUM;POTASSIUM PHOSPHATE DIBASIC",
+        "LEFLUNOMIDE",
+        "LEVOFLOXACIN HEMIHYDRATE",
+        "PERINDOPRIL ARGININE",
+        "PERINDOPRIL ARGININE",
+        "ESOMEPRAZOLE MAGNESIUM\\NAPROXEN",
+        "PIPERACILLIN SODIUM\\TAZOBACTAM SODIUM",
+        "ERELZI",
+        "ERELZI",
+        "ERELZI",
+        "ERELZI",
+        "ERELZI",
+        "ERELZI",
+        "ERELZI",
+        "ERELZI",
+        "ERELZI",
+        "ERELZI",
+        "ERELZI",
+        "ERELZI",
+        "ERELZI",
+        "ERELZI",
+        "RABEPRAZOLE",
+        "CELECOXIB",
+        "CELECOXIB",
+        "CIPROFLOXACIN",
+        "CIPROFLOXACIN",
+        "GLICLAZIDE",
+        "GLICLAZIDE",
+        "LEFLUNOMIDE",
+        "LEFLUNOMIDE",
+        "LEVOFLOXACIN",
+        "LEVOFLOXACIN",
+        "PANTOPRAZOLE SODIUM",
+        "PANTOPRAZOLE SODIUM",
+        "PANTOPRAZOLE SODIUM",
+        "PIPERACILLIN AND TAZOBACTAM",
+        "PIPERACILLIN AND TAZOBACTAM",
+        "CELECOXIB",
+        "CELECOXIB",
+        "HYRIMOZ",
+        "ADALIMUMAB",
+        "CIPROCINONIDE",
+        "CIPROFLOXACIN HYDROCHLORIDE",
+        "GLICLAZIDE",
+        "GLICLAZIDE",
+        "LEUCOVORIN CALCIUM",
+        "METOPROLOL SUCCINATE",
+        "CHLORTHALIDONE",
+        "ETANERCEPT BIOSIMILAR 1",
+        "LEVOFLOXACIN",
+        "MOXIFLOXACIN",
+        "MOXIFLOXACIN HYDROCHLORIDE",
+        "MOXIFLOXACIN HYDROCHLORIDE",
+        "PENICILLIN",
+        "PERINDOPRIL",
+        "PERINDOPRIL ERBUMINE"
+      ],
+      "reactions": [
+        "Abdominal discomfort",
+        "Abdominal pain upper",
+        "Arthralgia",
+        "Cardiac failure",
+        "Cardiac failure congestive",
+        "Cough",
+        "Diarrhoea",
+        "Drug hypersensitivity",
+        "Drug ineffective",
+        "Drug intolerance",
+        "Dyspnoea",
+        "Gastrointestinal disorder",
+        "Headache",
+        "Hepatic steatosis",
+        "Hypertension",
+        "Loss of employment",
+        "Malaise",
+        "Nausea",
+        "Rash",
+        "Therapeutic product effect decreased",
+        "Product use issue",
+        "Disease recurrence",
+        "Liver disorder",
+        "Pain",
+        "Hypersensitivity",
+        "Hepatic enzyme increased",
+        "Hospitalisation",
+        "Off label use"
+      ],
+      "report_id": "16358401"
+    },
+    {
+      "drugs": [
+        "SERTRALINE",
+        "HYPERICUM PERFORATUM",
+        "TESTOSTERONE."
+      ],
+      "reactions": [
+        "Mania",
+        "Drug interaction"
+      ],
+      "report_id": "16393065"
+    },
+    {
+      "drugs": [
+        "HYPERICUM PERFORATUM",
+        "SERTRALINE",
+        "TESTOSTERONE."
+      ],
+      "reactions": [
+        "Mania",
+        "Drug interaction"
+      ],
+      "report_id": "16404068"
+    },
+    {
+      "drugs": [
+        "TESTOSTERONE.",
+        "SERTRALINE",
+        "HYPERICUM PERFORATUM"
+      ],
+      "reactions": [
+        "Drug interaction",
+        "Mania"
+      ],
+      "report_id": "16429209"
+    },
+    {
+      "drugs": [
+        "TRAMADOL HYDROCHLORIDE AND PARACETAMOL",
+        "NICARDIPINE HYDROCHLORIDE.",
+        "VENLAFAXINE",
+        "CANNABIDIOL",
+        "ATENOLOL.",
+        "BISOPROLOL/HYDROCHLOROTHIAZIDE",
+        "HYPERICUM PERFORATUM",
+        "ADENURIC",
+        "ATENOLOL."
+      ],
+      "reactions": [
+        "Gout",
+        "Dizziness",
+        "Xanthelasma",
+        "Visual acuity reduced",
+        "Product use issue",
+        "Tinnitus",
+        "Weight increased",
+        "Disorientation",
+        "Blood pressure increased",
+        "Balance disorder",
+        "Deafness"
+      ],
+      "report_id": "16545729"
+    },
+    {
+      "drugs": [
+        "FUROSEMIDE.",
+        "HYPERICUM PERFORATUM",
+        "NIFEDIPINE.",
+        "SIMVASTATIN.",
+        "LISINOPRIL.",
+        "SPIRONOLACTONE."
+      ],
+      "reactions": [
+        "Hypertension",
+        "Angioedema",
+        "Deformity",
+        "Herbal interaction"
+      ],
+      "report_id": "16650566"
+    },
+    {
+      "drugs": [
+        "ASPIRIN",
+        "IBUPROFEN",
+        "ACETAMINOPHEN",
+        "HERBALS",
+        "HERBALS",
+        "HYPERICUM PERFORATUM WHOLE",
+        "METOCLOPRAMIDE",
+        "DIMETHINDENE"
+      ],
+      "reactions": [
+        "Hepatobiliary disease",
+        "Transaminases increased",
+        "Hepatitis acute",
+        "Hepatitis cholestatic",
+        "Hepatic necrosis",
+        "Malaise",
+        "Pruritus",
+        "Jaundice",
+        "Eczema"
+      ],
+      "report_id": "16702171"
+    },
+    {
+      "drugs": [
+        "ASPIRIN",
+        "IBUPROFEN",
+        "ACETAMINOPHEN",
+        "HYPERICUM PERFORATUM WHOLE",
+        "HERBALS",
+        "DIMETHINDENE",
+        "METOCLOPRAMIDE"
+      ],
+      "reactions": [
+        "Hepatitis cholestatic",
+        "Hepatic necrosis"
+      ],
+      "report_id": "16716647"
+    },
+    {
+      "drugs": [
+        "COENZYME Q10",
+        "LYRICA",
+        "HYPERICUM PERFORATUM DRY EXTRACT",
+        "ARNICA MONTANA.",
+        "IBUPROFEN.",
+        "CLARITIN",
+        "LEVOTHYROXINE SODIUM.",
+        "LIDOCAINE.",
+        "LOSARTAN POTASSIUM AND HYDROCHLOROTHIAZIDE",
+        "LORAZEPAM.",
+        "VITAMIN B12",
+        "VITAMIN D [ERGOCALCIFEROL]",
+        "MELOXICAM.",
+        "CALCIUM + VIT D",
+        "FLONASE ALLERGY RELIEF",
+        "PROAIR HFA",
+        "LAMOTRIGINE.",
+        "PLANT STEROLS",
+        "SYMBICORT"
+      ],
+      "reactions": [
+        "Lung neoplasm malignant"
+      ],
+      "report_id": "16817706"
+    },
+    {
+      "drugs": [
+        "HYPERICUM PERFORATUM",
+        "CDB [ULIPRISTAL ACETATE]"
+      ],
+      "reactions": [
+        "Derealisation",
+        "Conversion disorder",
+        "Social avoidant behaviour",
+        "Depersonalisation/derealisation disorder",
+        "Psychotic disorder",
+        "Aggression",
+        "Paranoia"
+      ],
+      "report_id": "16842845"
+    },
+    {
+      "drugs": [
+        "SERTRALINE",
+        "HYPERICUM PERFORATUM",
+        "TESTOSTERONE."
+      ],
+      "reactions": [
+        "Drug interaction",
+        "Mania"
+      ],
+      "report_id": "16896000"
+    },
+    {
+      "drugs": [
+        "TADALAFIL.",
+        "HYPERICUM PERFORATUM DRY EXTRACT",
+        "HUMIRA",
+        "SERENOA SERRULATA",
+        "GINKGO LEAF"
+      ],
+      "reactions": [
+        "Haemorrhoids",
+        "Epistaxis"
+      ],
+      "report_id": "16898779"
+    },
+    {
+      "drugs": [
+        "GINKGO",
+        "HYPERICUM PERFORATUM",
+        "SERENOA REPENS",
+        "HUMIRA",
+        "TADALAFIL."
+      ],
+      "reactions": [
+        "Haemorrhoids",
+        "Epistaxis"
+      ],
+      "report_id": "16907131"
+    },
+    {
+      "drugs": [
+        "DEPAKINE CHRONO",
+        "CALCIMAGON D3",
+        "JARSIN [HYPERICUM PERFORATUM EXTRACT]",
+        "KEPPRA",
+        "SEQUASE",
+        "SEQUASE",
+        "QUETIAPINE."
+      ],
+      "reactions": [
+        "Cognitive disorder"
+      ],
+      "report_id": "16957930"
+    },
+    {
+      "drugs": [
+        "ASPIRIN.",
+        "ARAVA",
+        "SODIUM AUROTHIOMALATE INJECTION BP",
+        "MOTRIN",
+        "SODIUM AUROTHIOMALATE INJECTION BP",
+        "DICLOFENAC",
+        "DICLOFENAC POTASSIUM.",
+        "SULFAMETHOXAZOLE AND TRIMETHOPRIM",
+        "VITAMIN C",
+        "METHOTREXATE.",
+        "NAPROXEN.",
+        "ENBREL",
+        "GOLD/HOMEOPATHICS/HYPERICUM PERFORATUM/POTASSIUM PHOSPHATE DIBASIC/SEL",
+        "HUMIRA",
+        "HYDROXYCHLOROQUINE",
+        "PLAQUENIL",
+        "TRAMADOL HYDROCHLORIDE."
+      ],
+      "reactions": [
+        "Dizziness",
+        "Off label use",
+        "Vomiting",
+        "Adverse reaction",
+        "Feeding disorder",
+        "Hypophagia",
+        "Pharyngitis",
+        "Abdominal discomfort",
+        "Abdominal pain upper",
+        "Deafness transitory",
+        "Decreased appetite",
+        "Nausea",
+        "Weight decreased",
+        "Gastrointestinal pain",
+        "Headache",
+        "Arthropathy",
+        "Ear infection",
+        "Eating disorder",
+        "Gastrointestinal disorder",
+        "Musculoskeletal disorder",
+        "Drug hypersensitivity"
+      ],
+      "report_id": "17002958"
+    },
+    {
+      "drugs": [
+        "HYPERICUM PERFORATUM",
+        "ALPRAZOLAM.",
+        "HYPERICUM PERFORATUM",
+        "CLONAZEPAM.",
+        "ALPRAZOLAM.",
+        "CLONAZEPAM."
+      ],
+      "reactions": [
+        "Tachycardia",
+        "Off label use",
+        "Withdrawal syndrome",
+        "Benzodiazepine drug level decreased",
+        "Drug interaction",
+        "Drug use disorder",
+        "Drug abuse",
+        "Tremor"
+      ],
+      "report_id": "17140266"
+    },
+    {
+      "drugs": [
+        "IRON",
+        "TAMIFLU",
+        "INSULIN",
+        "HYPERICUM PERFORATUM"
+      ],
+      "reactions": [
+        "Hypoglycaemia",
+        "Maternal exposure during pregnancy"
+      ],
+      "report_id": "17331540"
+    },
+    {
+      "drugs": [
+        "HYPERICUM PERFORATUM",
+        "CARBAMAZEPINE.",
+        "EVOREL CONTI"
+      ],
+      "reactions": [
+        "Hypersensitivity"
+      ],
+      "report_id": "17547303"
+    },
+    {
+      "drugs": [
+        "VALSARTAN",
+        "VALSARTAN",
+        "DEXAMETHASONE SODIUM PHOSPHATE\\GENTAMICIN SULFATE",
+        "METAMIZOLE",
+        "TORSEMIDE",
+        "METOPROLOL",
+        "ACLIDINIUM BROMIDE\\FORMOTEROL FUMARATE",
+        "OMEPRAZOLE",
+        "SIMVASTATUN (VARIOUS MAH)",
+        "ANASTROZOL (VARIOUS MAH)",
+        "ALLOPURINOL",
+        "ENOXAPARIN SODIUM",
+        "HYPERICUM PERFORATUM WHOLE",
+        "SPIRONOLACTONE",
+        "LEVOTHYROXINE SODIUM",
+        "LEVOTHYROXINE SODIUM",
+        "NYSTALOCAL",
+        "SALBUHEXAL",
+        "ACICLOVIR ARISTO",
+        "OLODATEROL HYDROCHLORIDE\\TIOTROPIUM BROMIDE MONOHYDRATE",
+        "UMECLIDINIUM BROMIDE\\VILANTEROL TRIFENATATE",
+        "DEXAMETHASONE\\NEOMYCIN SULFATE\\POLYMYXIN B SULFATE",
+        "PREDNISOLONE"
+      ],
+      "reactions": [
+        "Breast cancer female",
+        "Lung neoplasm malignant",
+        "Colon cancer",
+        "Disability",
+        "Mental disorder",
+        "Product impurity",
+        "Intestinal polyp",
+        "Impaired quality of life"
+      ],
+      "report_id": "17651624"
+    },
+    {
+      "drugs": [
+        "VALSARTAN",
+        "HYPERICUM PERFORATUM WHOLE",
+        "ALLOPURINOL",
+        "SALBUHEXAL",
+        "ACICLOVIR ARISTO",
+        "OLODATEROL HYDROCHLORIDE\\TIOTROPIUM BROMIDE MONOHYDRATE",
+        "DEXAMETHASONE\\GENTAMICIN",
+        "LEVOTHYROXINE SODIUM",
+        "LEVOTHYROXINE SODIUM",
+        "METOPROLOL",
+        "ANASTROZOLE",
+        "PREDNISOLONE",
+        "ACLIDINIUM BROMIDE\\FORMOTEROL FUMARATE",
+        "METAMIZOLE",
+        "SIMVASTATIN",
+        "UMECLIDINIUM BROMIDE\\VILANTEROL TRIFENATATE",
+        "ENOXAPARIN SODIUM",
+        "DEXAMETHASONE\\NEOMYCIN SULFATE\\POLYMYXIN B SULFATE",
+        "NYSTALOCAL",
+        "TORSEMIDE",
+        "OMEPRAZOLE",
+        "SPIRONOLACTONE"
+      ],
+      "reactions": [
+        "Breast cancer female",
+        "Lung neoplasm malignant",
+        "Colon cancer",
+        "Mental disorder",
+        "Intestinal polyp",
+        "Product impurity"
+      ],
+      "report_id": "17922513"
+    },
+    {
+      "drugs": [
+        "METOPROLOL INJECTION (MANUFACTURER UNKNOWN)",
+        "CLONIDINE.",
+        "HYPERICUM PERFORATUM"
+      ],
+      "reactions": [
+        "Pulmonary oedema",
+        "Hypertension",
+        "Sinus tachycardia",
+        "Vasoconstriction",
+        "Systolic dysfunction"
+      ],
+      "report_id": "18087711"
+    },
+    {
+      "drugs": [
+        "HYPERICUM PERFORATUM",
+        "METHYLPHENIDATE HYDROCHLORIDE."
+      ],
+      "reactions": [
+        "Crying",
+        "Drug interaction",
+        "Aggression",
+        "Agitation",
+        "Depression",
+        "Disturbance in attention"
+      ],
+      "report_id": "18120713"
+    },
+    {
+      "drugs": [
+        "ESOMEPRAZOLE/ESOMEPRAZOLE MAGNESIUM/ESOMEPRAZOLE SODIUM",
+        "HYPERICUM PERFORATUM/HYPERICUM PERFORATUM DRY EXTRA/HYPERICUM PERFORATUM EXTRACT/HYPERICUM PERFORATU"
+      ],
+      "reactions": [
+        "Depression",
+        "Anxiety",
+        "Suicidal ideation",
+        "Affective disorder"
+      ],
+      "report_id": "18266975"
+    },
+    {
+      "drugs": [
+        "ESOMEPRAZOLE.",
+        "HYPERICUM PERFORATUM",
+        "HRT"
+      ],
+      "reactions": [
+        "Affective disorder",
+        "Suicidal ideation",
+        "Anxiety",
+        "Depression"
+      ],
+      "report_id": "18271933"
+    },
+    {
+      "drugs": [
+        "ESOMEPRAZOLE.",
+        "HYPERICUM PERFORATUM"
+      ],
+      "reactions": [
+        "Suicidal ideation",
+        "Anxiety",
+        "Depression",
+        "Affective disorder"
+      ],
+      "report_id": "18280994"
+    },
+    {
+      "drugs": [
+        "HYPERICUM PERFORATUM",
+        "ESOMEPRAZOLE."
+      ],
+      "reactions": [
+        "Anxiety",
+        "Suicidal ideation",
+        "Affective disorder",
+        "Depression"
+      ],
+      "report_id": "18284638"
+    },
+    {
+      "drugs": [
+        "ESOMEPRAZOLE.",
+        "HYPERICUM PERFORATUM"
+      ],
+      "reactions": [
+        "Affective disorder",
+        "Suicidal ideation",
+        "Anxiety",
+        "Depression"
+      ],
+      "report_id": "18308917"
+    },
+    {
+      "drugs": [
+        "HYPERICUM PERFORATUM",
+        "ESOMEPRAZOLE."
+      ],
+      "reactions": [
+        "Depression",
+        "Affective disorder",
+        "Anxiety",
+        "Suicidal ideation"
+      ],
+      "report_id": "18313473"
+    },
+    {
+      "drugs": [
+        "HYPERICUM PERFORATUM",
+        "CITALOPRAM",
+        "PAROXETIN"
+      ],
+      "reactions": [
+        "Torsade de pointes",
+        "Sudden cardiac death"
+      ],
+      "report_id": "18375354"
+    },
+    {
+      "drugs": [
+        "PAROXETIN                          /00830801/",
+        "CITALOPRAM HYDROBROMIDE - BP",
+        "HYPERICUM PERFORATUM EXTRACT"
+      ],
+      "reactions": [
+        "Sudden cardiac death",
+        "Torsade de pointes"
+      ],
+      "report_id": "18383371"
+    },
+    {
+      "drugs": [
+        "CITALOPRAM",
+        "JOHANNISKRAUTPRAEPARAT (HYPERICUM PERFORATUM EXTRACT)",
+        "PAROXETIN"
+      ],
+      "reactions": [
+        "Torsade de pointes",
+        "Sudden cardiac death"
+      ],
+      "report_id": "18418468"
+    },
+    {
+      "drugs": [
+        "HYPERICUM PERFORATUM",
+        "AMOXICILLIN CAPSULE"
+      ],
+      "reactions": [
+        "Migraine"
+      ],
+      "report_id": "18488889"
+    },
+    {
+      "drugs": [
+        "HYPERICUM PERFORATUM",
+        "AMOXICILLIN."
+      ],
+      "reactions": [
+        "Migraine"
+      ],
+      "report_id": "18492224"
+    },
+    {
+      "drugs": [
+        "OCRELIZUMAB",
+        "OCRELIZUMAB",
+        "AERIUS",
+        "AERIUS",
+        "CHOLECALCIFEROL",
+        "ACETAMINOPHEN",
+        "PREDNISOLONE",
+        "PREDNISOLONE",
+        "HYPERICUM PERFORATUM WHOLE",
+        "RANITIDINE",
+        "RANITIDINE",
+        "FOLIC ACID"
+      ],
+      "reactions": [
+        "Abortion spontaneous",
+        "Maternal exposure during pregnancy"
+      ],
+      "report_id": "18660182"
+    },
+    {
+      "drugs": [
+        "CYMBALTA",
+        "CYMBALTA",
+        "FLUPIRTINE MALEATE",
+        "RANITIDINE HYDROCHLORIDE",
+        "RANITIDINE HYDROCHLORIDE",
+        "RANITIDINE HYDROCHLORIDE",
+        "RANITIDINE HYDROCHLORIDE",
+        "NALOXONE HYDROCHLORIDE\\TILIDINE HYDROCHLORIDE",
+        "DOXEPIN",
+        "MIRTAZAPINE",
+        "MIRTAZAPINE",
+        "BLACK COHOSH\\HERBALS\\HYPERICUM PERFORATUM",
+        "MAGNESIUM",
+        "ARCOXIA",
+        "MEBEVERINE EMBONATE",
+        "PREGABALIN",
+        "PREGABALIN",
+        "PREGABALIN",
+        "OMEBETA",
+        "DICLOFENAC",
+        "DICLOFENAC",
+        "CALCI D",
+        "PANTOPRAZOLE SODIUM",
+        "PANTOPRAZOLE SODIUM",
+        "PANTOPRAZOLE SODIUM",
+        "AMITRIPTYLINE",
+        "TOLPERISONE HYDROCHLORIDE",
+        "ACETYLCYSTEINE",
+        "DICLOFENAC",
+        "BETAMETHASONE DIPROPIONATE\\CLOTRIMAZOLE",
+        "HUMULUS LUPULUS EXTRACT",
+        "ESOMEPRAZOLE",
+        "DIAZEPAM",
+        "METAMIZOLE",
+        "ANAFRANIL",
+        "TETRAZEPAM",
+        "OMEPRAZOLE",
+        "MAPROTILINE",
+        "CELEBREX",
+        "CELEBREX",
+        "ASPIRIN",
+        "RAMIPRIL",
+        "TRAMADOL HYDROCHLORIDE",
+        "TREVILOR RETARD",
+        "IBUPROFEN",
+        "ENOXAPARIN SODIUM",
+        "CERTOPARIN SODIUM",
+        "ASPIRIN",
+        "VALERIANA OFFICINALIS ROOT",
+        "TRIMIPRAMINE MALEATE",
+        "CEFUROXIME SODIUM",
+        "PROCHLORPERAZINE",
+        "HYDROMORPHONE HYDROCHLORIDE"
+      ],
+      "reactions": [
+        "Multiple sclerosis",
+        "Junctional ectopic tachycardia",
+        "Fibromyalgia",
+        "Foramen magnum stenosis",
+        "Peripheral nerve lesion",
+        "Movement disorder",
+        "Device related infection",
+        "Nasal turbinate hypertrophy",
+        "Cartilage injury",
+        "Facial paresis",
+        "Sinobronchitis",
+        "Nail avulsion",
+        "Osteoarthritis",
+        "Meniscus injury",
+        "Meniscus injury",
+        "Diastolic dysfunction",
+        "Radial nerve palsy",
+        "Radial nerve palsy",
+        "Rotator cuff syndrome",
+        "Patellofemoral pain syndrome",
+        "Nasal septum deviation",
+        "Crohn^s disease",
+        "Osteosclerosis",
+        "Sciatica",
+        "Angina pectoris",
+        "Arthropathy",
+        "Chondropathy",
+        "Osteoarthritis",
+        "Dysplasia",
+        "Cervical vertebral fracture",
+        "Femur fracture",
+        "Humerus fracture",
+        "Humerus fracture",
+        "Haematoma",
+        "Weight increased",
+        "Arthralgia",
+        "Arthralgia",
+        "Arthralgia",
+        "Suicidal ideation",
+        "Headache",
+        "Asthenia",
+        "Nausea",
+        "Erythema",
+        "Dizziness",
+        "Hypoaesthesia",
+        "Fall",
+        "Micturition disorder",
+        "Visual impairment",
+        "Cataract",
+        "Diverticulitis",
+        "Sinobronchitis",
+        "Osteoarthritis",
+        "Fibromyalgia",
+        "Vitamin D deficiency",
+        "Injury",
+        "Scar",
+        "Sensation of foreign body",
+        "Pathological fracture",
+        "Full blood count abnormal",
+        "Obstructive airways disorder",
+        "Eczema",
+        "Spinal osteoarthritis",
+        "Intervertebral disc protrusion",
+        "Irritable bowel syndrome",
+        "Dyspnoea exertional",
+        "Personality disorder",
+        "Mental disorder",
+        "Depression",
+        "Cyst",
+        "Pain",
+        "Restrictive pulmonary disease",
+        "Iliotibial band syndrome",
+        "Limb injury",
+        "Bursitis",
+        "Somatic symptom disorder",
+        "Tendon disorder",
+        "Vitamin B12 decreased",
+        "Defaecation disorder",
+        "Lymphoedema",
+        "Mental disorder",
+        "Obesity",
+        "Peripheral swelling",
+        "Stress",
+        "Stupor",
+        "Depression",
+        "Osteopenia",
+        "Blood iron decreased",
+        "Memory impairment",
+        "Myofascial pain syndrome",
+        "Myofascial pain syndrome",
+        "Osteoporosis postmenopausal",
+        "Uterine leiomyoma",
+        "Paranasal sinus inflammation",
+        "Gastrointestinal infection",
+        "Dysaesthesia",
+        "Migraine",
+        "Facet joint syndrome",
+        "Myofascial pain syndrome",
+        "Muscle strain",
+        "Vertebral lesion",
+        "Abdominal pain upper",
+        "Groin pain",
+        "Hot flush",
+        "Arthralgia",
+        "Myalgia",
+        "Flatulence",
+        "Alanine aminotransferase increased",
+        "Fatigue",
+        "Asthenia",
+        "Tremor",
+        "Nocturia",
+        "Anxiety disorder",
+        "Abdominal discomfort",
+        "Pain in extremity",
+        "Nausea",
+        "Dyspepsia",
+        "Hypertension",
+        "Hyperlipidaemia",
+        "Hyperhidrosis",
+        "Malaise",
+        "Back pain",
+        "Abdominal pain",
+        "Back pain",
+        "Dry mouth",
+        "Arthralgia",
+        "Hyperhidrosis",
+        "Somnolence",
+        "Pain in extremity",
+        "Tachycardia",
+        "Joint effusion",
+        "Joint stiffness",
+        "Gastrointestinal motility disorder",
+        "Fall",
+        "Gastritis",
+        "Diarrhoea",
+        "Tension headache",
+        "Pain",
+        "Sleep disorder",
+        "Sleep disorder",
+        "Gait disturbance",
+        "Constipation",
+        "Constipation",
+        "Constipation",
+        "Constipation",
+        "Disturbance in attention",
+        "Hypersensitivity",
+        "Supraventricular tachycardia",
+        "Supraventricular tachycardia",
+        "Supraventricular tachycardia",
+        "Atrial tachycardia",
+        "Abdominal pain upper"
+      ],
+      "report_id": "18769463"
+    },
+    {
+      "drugs": [
+        "PROZAC",
+        "ENSURE",
+        "ST JOHN'S WORT"
+      ],
+      "reactions": [
+        "ANXIETY",
+        "APATHY",
+        "CAMPYLOBACTER INTESTINAL INFECTION",
+        "COMPLETED SUICIDE",
+        "CORONARY ARTERY ATHEROSCLEROSIS",
+        "DEPRESSION",
+        "DISTURBANCE IN ATTENTION",
+        "EARLY MORNING AWAKENING",
+        "EATING DISORDER SYMPTOM",
+        "EMOTIONAL DISORDER",
+        "FEAR",
+        "FRACTURE",
+        "INJURY ASPHYXIATION",
+        "INSOMNIA",
+        "MEMORY IMPAIRMENT",
+        "REFUSAL OF TREATMENT BY PATIENT",
+        "SUICIDAL IDEATION",
+        "TINNITUS",
+        "TOXICOLOGIC TEST ABNORMAL",
+        "TREMOR",
+        "WEIGHT DECREASED"
+      ],
+      "report_id": "4546600-X"
+    },
+    {
+      "drugs": [
+        "PEG-INTERFERON ALFA 2A (RO 25-8310)",
+        "RIBAVIRIN",
+        "MILK THISTLE",
+        "ST JOHN'S WORT"
+      ],
+      "reactions": [
+        "ATRIOVENTRICULAR BLOCK THIRD DEGREE",
+        "VENTRICULAR HYPERTROPHY"
+      ],
+      "report_id": "5162887-7"
+    },
+    {
+      "drugs": [
+        "EVISTA",
+        "LEVOXYL",
+        "PREVACID",
+        "GARLIC",
+        "GINSENG",
+        "VITAMIN B COMPLEX CAP",
+        "MULTI-VITAMIN",
+        "ST JOHN'S WORT",
+        "CALCIUM"
+      ],
+      "reactions": [
+        "BREAST CANCER STAGE III"
+      ],
+      "report_id": "4278309-4"
+    },
+    {
+      "drugs": [
+        "FORTEO",
+        "FORTEO",
+        "DETROL LA",
+        "UNITHROID (LEVOTHYROXINE SODIUM)",
+        "FLONASE",
+        "FOSAMAX",
+        "ALLERGY SHOT",
+        "ST JOHN'S WORT"
+      ],
+      "reactions": [
+        "ARTHRALGIA",
+        "BONE DENSITY DECREASED",
+        "ILL-DEFINED DISORDER",
+        "INJECTION SITE REACTION",
+        "JOINT SWELLING",
+        "MUSCLE SPASMS",
+        "MUSCULOSKELETAL STIFFNESS",
+        "PAIN IN EXTREMITY",
+        "SKIN LACERATION"
+      ],
+      "report_id": "4587765-3"
+    },
+    {
+      "drugs": [
+        "OXYCONTIN",
+        "LORTAB",
+        "VALIUM",
+        "OXYIR",
+        "HUMULIN R",
+        "HUMULIN N",
+        "TENORMIN",
+        "TRICOR",
+        "LIPITOR",
+        "VITAMIN A",
+        "LASIX",
+        "NIACIN",
+        "CARDIZEM",
+        "NITROGLYCERIN",
+        "ATIVAN",
+        "VITAMIN E",
+        "MOTRIN",
+        "TYLENOL",
+        "SENNA",
+        "PHENERGAN",
+        "ACETYLSALICYLIC ACID SRT",
+        "SLOW-K",
+        "LORAZEPAM",
+        "VITAMIN B-12",
+        "GRAPE SEED EXTRACT",
+        "ST. JOHN'S WORT",
+        "VITAMIN C",
+        "GARLIC",
+        "COENZYME Q10"
+      ],
+      "reactions": [
+        "ABDOMINAL PAIN UPPER",
+        "ACCIDENT",
+        "AGITATION",
+        "ANAEMIA",
+        "ANOREXIA",
+        "ARTHRALGIA",
+        "ASTHENIA",
+        "CHRONIC FATIGUE SYNDROME",
+        "CONSTIPATION",
+        "CONTUSION",
+        "DEPRESSION",
+        "DIABETES MELLITUS",
+        "DISTURBANCE IN ATTENTION",
+        "DIZZINESS",
+        "DRUG ABUSER",
+        "DRUG DEPENDENCE",
+        "DRUG WITHDRAWAL SYNDROME",
+        "EUPHORIC MOOD",
+        "HEADACHE",
+        "HEARING IMPAIRED",
+        "INSOMNIA",
+        "JOINT SWELLING",
+        "JUDGEMENT IMPAIRED",
+        "LETHARGY",
+        "LISTLESS",
+        "MALAISE",
+        "MEMORY IMPAIRMENT",
+        "MOOD SWINGS",
+        "MUSCLE CRAMP",
+        "OEDEMA PERIPHERAL",
+        "PRURITUS",
+        "SELF-INJURIOUS IDEATION",
+        "SINUSITIS",
+        "SOMNOLENCE",
+        "TINNITUS",
+        "TOOTH DISORDER",
+        "URINARY HESITATION",
+        "VISUAL DISTURBANCE"
+      ],
+      "report_id": "4398011-8"
+    },
+    {
+      "drugs": [
+        "PREMPRO",
+        "PREMARIN",
+        "PROVERA",
+        "CALCIUM (CALCIUM)",
+        "GINKGO BILOBA (GINKGO BILOBA)",
+        "ST. JOHN'S WORT (HYPERICUM PERFORATUM)"
+      ],
+      "reactions": [
+        "BREAST CANCER FEMALE",
+        "CERVICAL DYSPLASIA"
+      ],
+      "report_id": "4944648-4"
+    },
+    {
+      "drugs": [
+        "FORTEO",
+        "PRILOSEC",
+        "CELEBREX",
+        "DEXAMETHASONE",
+        "BLACK COHOSH",
+        "GINKOBA (GINKGO BILOBA EXTRACT)",
+        "ST JOHN'S WORT"
+      ],
+      "reactions": [
+        "INJECTION SITE RASH",
+        "INJECTION SITE STINGING",
+        "PRURITUS"
+      ],
+      "report_id": "4292211-3"
+    },
+    {
+      "drugs": [
+        "DRIXORAL",
+        "ST. JOHN'S WORT"
+      ],
+      "reactions": [
+        "SEROTONIN SYNDROME"
+      ],
+      "report_id": "4310217-2"
+    },
+    {
+      "drugs": [
+        "NEXIUM",
+        "ST. JOHN'S WORT",
+        "GAVISCON",
+        "DITROPAN",
+        "MICROLAX",
+        "CACIT D3"
+      ],
+      "reactions": [
+        "ALKALOSIS",
+        "COMA",
+        "DRUG INTERACTION",
+        "FACIAL PALSY",
+        "GASTRITIS",
+        "GASTROINTESTINAL CANDIDIASIS",
+        "HYPOCHLORAEMIA",
+        "HYPOKALAEMIA",
+        "HYPONATRAEMIA",
+        "HYPOTONIA",
+        "MONOPLEGIA",
+        "NERVOUS SYSTEM DISORDER",
+        "URINARY TRACT INFECTION BACTERIAL"
+      ],
+      "report_id": "4370773-5"
+    },
+    {
+      "drugs": [
+        "ORTHO EVRA",
+        "ST JOHN'S WORT () HYPERICUM PERFORATUM"
+      ],
+      "reactions": [
+        "METRORRHAGIA"
+      ],
+      "report_id": "4327212-X"
+    },
+    {
+      "drugs": [
+        "NEORAL",
+        "ST. JOHN'S WORT"
+      ],
+      "reactions": [
+        "TRANSPLANT REJECTION"
+      ],
+      "report_id": "4343515-7"
+    },
+    {
+      "drugs": [
+        "ARAVA",
+        "PREDNISONE",
+        "PRILOSEC",
+        "VOLTAREN",
+        "MIACALCIN",
+        "CALCIUM",
+        "VITAMIN D",
+        "SKELAXIN",
+        "PLAQUENIL",
+        "ULTRAM",
+        "REMICADE",
+        "FOSAMAX",
+        "MEDROL",
+        "NEURONTIN",
+        "ENBREL",
+        "METHOTREXATE",
+        "SULFASALAZINE",
+        "ST. JOHN'S WORT",
+        "PROTONIX",
+        "TYLENOL PM"
+      ],
+      "reactions": [
+        "ABDOMINAL PAIN UPPER",
+        "ALANINE AMINOTRANSFERASE INCREASED",
+        "ASPARTATE AMINOTRANSFERASE INCREASED",
+        "BLOOD ALBUMIN DECREASED",
+        "BLOOD ALKALINE PHOSPHATASE INCREASED",
+        "JAUNDICE",
+        "LIVER FUNCTION TEST ABNORMAL",
+        "NAUSEA",
+        "PYREXIA",
+        "VOMITING",
+        "WHITE BLOOD CELL COUNT DECREASED",
+        "WHITE BLOOD CELL COUNT INCREASED"
+      ],
+      "report_id": "4534250-0"
+    },
+    {
+      "drugs": [
+        "NUVARING",
+        "VITAMIN B COMPLEX CAP",
+        "KAVA KAVA",
+        "ST. JOHN'S WORT",
+        "VITAMIN E",
+        "MULTI-VITAMINS",
+        "TYLENOL (CAPLET)",
+        "DEPO-PROVERA"
+      ],
+      "reactions": [
+        "MEDICAL DEVICE COMPLICATION"
+      ],
+      "report_id": "4351812-4"
+    },
+    {
+      "drugs": [
+        "PEG-INTERFERON ALFA 2A (RO 25-8310)",
+        "PEG-INTERFERON ALFA 2A (RO 25-8310)",
+        "RIBAVIRIN",
+        "ST JOHN'S WORT",
+        "MULTI-VITAMINS",
+        "GINSENG",
+        "PRIMROSE OIL",
+        "SILYMARIN",
+        "SELENIUM TRACE METAL ADDITIVE",
+        "VITAMIN E",
+        "VITAMIN C",
+        "BETA CAROTENE"
+      ],
+      "reactions": [
+        "GLOMERULONEPHRITIS MEMBRANOUS"
+      ],
+      "report_id": "4363714-8"
+    },
+    {
+      "drugs": [
+        "LEVONELLE-2    (LEVONORGESTREL         0.75 MG TABLET)",
+        "NORETHINDRONE ACETATE AND ETHINYL ESTRADIOL",
+        "ST JOHN'S WORT"
+      ],
+      "reactions": [
+        "DRUG INTERACTION",
+        "UNINTENDED PREGNANCY"
+      ],
+      "report_id": "4421316-9"
+    },
+    {
+      "drugs": [
+        "LEXAPRO",
+        "ADVAIR",
+        "ADVAIR",
+        "ADVAIR",
+        "LUTEIN",
+        "ST. JOHN'S WORT",
+        "MULTIVITAMIN"
+      ],
+      "reactions": [
+        "EYE HAEMORRHAGE",
+        "MACULAR DEGENERATION",
+        "VISUAL DISTURBANCE"
+      ],
+      "report_id": "4415094-7"
+    },
+    {
+      "drugs": [
+        "STRATTERA",
+        "SOY SEED",
+        "ST JOHN'S WORT"
+      ],
+      "reactions": [
+        "AGGRESSION",
+        "FALL",
+        "IRRITABILITY",
+        "LIMB INJURY",
+        "MOOD SWINGS",
+        "PARANOIA",
+        "SCREAMING",
+        "SUICIDAL IDEATION"
+      ],
+      "report_id": "4504815-0"
+    },
+    {
+      "drugs": [
+        "AUGMENTIN '125'",
+        "ST. JOHN'S WORT",
+        "MULTI-VITAMINS"
+      ],
+      "reactions": [
+        "ERYTHEMA",
+        "EYE SWELLING",
+        "FATIGUE",
+        "SWELLING FACE"
+      ],
+      "report_id": "4516417-0"
+    },
+    {
+      "drugs": [
+        "NUVARING",
+        "ST. JOHN'S WORT",
+        "ONE A DAY ESSENTIAL"
+      ],
+      "reactions": [
+        "ABDOMINAL PAIN",
+        "METRORRHAGIA"
+      ],
+      "report_id": "4517050-7"
+    },
+    {
+      "drugs": [
+        "PAROXETINE   20MG    GENERIC",
+        "LORAZEPAM",
+        "5-HTP",
+        "VALARIAN",
+        "ST. JOHN'S WORT"
+      ],
+      "reactions": [
+        "COMPLETED SUICIDE",
+        "DRUG INTERACTION",
+        "MEDICATION ERROR"
+      ],
+      "report_id": "4521788-5"
+    },
+    {
+      "drugs": [
+        "ECURAL ^LIKE ELOCON^ TOPICALS",
+        "ETILEFRINE ORAL SOLUTION",
+        "HYPERICUM PERFORAMTUM (ST. JOHN'S  WORT) TABLETS"
+      ],
+      "reactions": [
+        "HYPERTENSION",
+        "MULTIPLE DRUG OVERDOSE",
+        "SUICIDE ATTEMPT",
+        "TACHYCARDIA"
+      ],
+      "report_id": "4527178-3"
+    },
+    {
+      "drugs": [
+        "ALEVE",
+        "ALEVE",
+        "ALEVE",
+        "ST. JOHN'S WORT (ST. JOHN^S WORT)"
+      ],
+      "reactions": [
+        "BLOOD URINE PRESENT",
+        "HAEMATOCHEZIA"
+      ],
+      "report_id": "4552023-X"
+    },
+    {
+      "drugs": [
+        "PAXIL",
+        "ST JOHN'S WORT",
+        "IBUPROFEN"
+      ],
+      "reactions": [
+        "ABASIA",
+        "ABDOMINAL DISCOMFORT",
+        "ABORTION SPONTANEOUS",
+        "AGGRESSION",
+        "AGITATION",
+        "ANGER",
+        "ANOREXIA",
+        "ANXIETY",
+        "APATHY",
+        "COGNITIVE DISORDER",
+        "CONFUSIONAL STATE",
+        "CONVERSION DISORDER",
+        "CONVULSION",
+        "COUGH",
+        "DEPENDENCE",
+        "DISTURBANCE IN ATTENTION",
+        "DIZZINESS",
+        "DRUG DEPENDENCE",
+        "DRUG WITHDRAWAL SYNDROME",
+        "DYSPNOEA",
+        "EXTRAPYRAMIDAL DISORDER",
+        "FATIGUE",
+        "FEELING ABNORMAL",
+        "FORMICATION",
+        "HEART RATE INCREASED",
+        "HYPERHIDROSIS",
+        "ILL-DEFINED DISORDER",
+        "INFLUENZA",
+        "INSOMNIA",
+        "IRRITABILITY",
+        "LETHARGY",
+        "MOTOR DYSFUNCTION",
+        "MUSCLE SPASMS",
+        "MUSCLE SPASTICITY",
+        "MUSCULOSKELETAL STIFFNESS",
+        "NAUSEA",
+        "NIGHTMARE",
+        "PARAESTHESIA",
+        "PYREXIA",
+        "SLUGGISHNESS",
+        "SOMNOLENCE",
+        "SUICIDAL IDEATION",
+        "SWELLING",
+        "THINKING ABNORMAL",
+        "TREMOR",
+        "VOMITING"
+      ],
+      "report_id": "4714381-2"
+    },
+    {
+      "drugs": [
+        "CRESTOR",
+        "GEMFIBROZIL",
+        "LISINOPRIL AND HYDROCHLOROTHIAZIDE",
+        "INDOMETHACIN",
+        "FUROSEMIDE",
+        "GLIPIZIDE",
+        "ASPIRIN",
+        "PEPCID",
+        "ESTER C",
+        "VIT B6",
+        "MULTIVIT",
+        "CITROCAL",
+        "CALTRATE",
+        "VIT B12",
+        "CA-MG",
+        "ST JOHN'S WORT"
+      ],
+      "reactions": [
+        "RENAL FAILURE",
+        "RHABDOMYOLYSIS"
+      ],
+      "report_id": "4567761-2"
+    },
+    {
+      "drugs": [
+        "ACCUTANE",
+        "AMNESTEEM",
+        "LEVOXYL",
+        "ZOMIG",
+        "TOPAMAX",
+        "BROMPHEN",
+        "ZYRTEC",
+        "PONSTEL",
+        "DOXYCYCLINE",
+        "VERAPAMIL",
+        "SYNTHROID",
+        "NEXIUM",
+        "1 CONCOMITANT DRUG",
+        "SYMAX",
+        "FLEXERIL",
+        "RHINOCORT",
+        "MUCINEX",
+        "DIFLUCAN",
+        "LEVAQUIN",
+        "TEQUIN",
+        "CLINDAMYCIN",
+        "CIPRO",
+        "VICODIN",
+        "CULTURELLE",
+        "PROBIOTIC",
+        "BROMFENAC",
+        "TAGAMET",
+        "BEXTRA",
+        "ENDOCET",
+        "RANITIDINE",
+        "1 CONCOMITANT DRUG",
+        "ELIDEL",
+        "DIFFERIN",
+        "PROTONIX",
+        "1 CONCOMITANT DRUG",
+        "JOINTFLEX",
+        "LIQUIBID",
+        "ACIPHEX",
+        "ADVAIR DISKUS 100/50",
+        "PAMINE",
+        "ALEVE (CAPLET)",
+        "ST. JOHN'S WORT"
+      ],
+      "reactions": [
+        "ABDOMINAL DISTENSION",
+        "ABDOMINAL PAIN",
+        "ABDOMINAL PAIN UPPER",
+        "ABSCESS",
+        "ALOPECIA",
+        "AMENORRHOEA",
+        "ANOREXIA",
+        "ANTINUCLEAR ANTIBODY POSITIVE",
+        "ARTHRALGIA",
+        "ASTHENIA",
+        "AUTOIMMUNE HEPATITIS",
+        "CARBUNCLE",
+        "CARDIOVASCULAR DISORDER",
+        "CHANGE OF BOWEL HABIT",
+        "CHAPPED LIPS",
+        "CONSTIPATION",
+        "COUGH",
+        "DIZZINESS",
+        "DYSPEPSIA",
+        "DYSPHAGIA",
+        "DYSPHONIA",
+        "ECZEMA",
+        "ERUCTATION",
+        "ERYTHEMA",
+        "EYE IRRITATION",
+        "FAECES PALE",
+        "FATIGUE",
+        "FIBROMYALGIA",
+        "FLATULENCE",
+        "FUNGAL INFECTION",
+        "FURUNCLE",
+        "GASTROINTESTINAL DISORDER",
+        "GASTROOESOPHAGEAL REFLUX DISEASE",
+        "GRANULOMATOUS LIVER DISEASE",
+        "HEPATIC FUNCTION ABNORMAL",
+        "HEPATOCELLULAR DAMAGE",
+        "HEPATOTOXICITY",
+        "HISTOPLASMOSIS",
+        "HYPERSENSITIVITY",
+        "IMMUNE SYSTEM DISORDER",
+        "IMPAIRED WORK ABILITY",
+        "INFLAMMATORY BOWEL DISEASE",
+        "INJURY",
+        "INSOMNIA",
+        "IRRITABLE BOWEL SYNDROME",
+        "LARYNGEAL OEDEMA",
+        "LARYNGITIS",
+        "LYMPHADENOPATHY",
+        "MUSCLE TIGHTNESS",
+        "MYALGIA",
+        "NAUSEA",
+        "OEDEMA",
+        "OEDEMA PERIPHERAL",
+        "OESOPHAGITIS",
+        "PAIN",
+        "PAIN IN EXTREMITY",
+        "PHARYNGOLARYNGEAL PAIN",
+        "PRURITUS",
+        "PYREXIA",
+        "SENSORY LOSS",
+        "SINUSITIS",
+        "SMOOTH MUSCLE ANTIBODY POSITIVE",
+        "SPLENOMEGALY",
+        "STAPHYLOCOCCAL INFECTION",
+        "SYNCOPE",
+        "SYSTEMIC LUPUS ERYTHEMATOSUS",
+        "URTICARIA",
+        "VISION BLURRED",
+        "VISUAL ACUITY REDUCED",
+        "VOCAL CORD CYST",
+        "VOCAL CORD INFLAMMATION"
+      ],
+      "report_id": "5048068-6"
+    },
+    {
+      "drugs": [
+        "XELODA",
+        "ST JOHN'S WORT",
+        "GLUCOSAMINE",
+        "LISINOPRIL"
+      ],
+      "reactions": [
+        "BONE MARROW DEPRESSION",
+        "COLITIS",
+        "DIARRHOEA",
+        "DRUG TOXICITY",
+        "GENERAL PHYSICAL HEALTH DETERIORATION",
+        "INFLAMMATORY BOWEL DISEASE",
+        "NAUSEA",
+        "TERMINAL STATE",
+        "THERAPY NON-RESPONDER",
+        "VOMITING"
+      ],
+      "report_id": "4600169-X"
+    },
+    {
+      "drugs": [
+        "VENLAFAXINE HCL",
+        "YARROW (ACHILLEA MILLEFOLIUM)",
+        "ST. JOHN'S WORT (HYPERICUM PERFORATUM)",
+        "CLINDAMYCIN (CLINDAMYCIN)"
+      ],
+      "reactions": [
+        "ANAPHYLACTIC REACTION",
+        "CEREBRAL ISCHAEMIA",
+        "CIRCULATORY COLLAPSE",
+        "DEPRESSED LEVEL OF CONSCIOUSNESS",
+        "DISTURBANCE IN ATTENTION",
+        "DIZZINESS",
+        "HYPOTENSION",
+        "RESTLESSNESS",
+        "TINNITUS"
+      ],
+      "report_id": "4595982-1"
+    },
+    {
+      "drugs": [
+        "CRESTOR",
+        "MAXZIDE",
+        "ASPIRIN",
+        "PROTOPIC",
+        "PENLAC",
+        "VITAMIN E",
+        "SELENIUM SULFIDE",
+        "ASCORBIC ACID",
+        "ST. JOHN'S WORT"
+      ],
+      "reactions": [
+        "RHABDOMYOLYSIS"
+      ],
+      "report_id": "5274906-8"
+    },
+    {
+      "drugs": [
+        "CRANOC (LICENSED, FUJISAWA DEUTSCHLAND)",
+        "DIURETICS",
+        "ST. JOHN'S WORT"
+      ],
+      "reactions": [
+        "ANTINUCLEAR ANTIBODY POSITIVE",
+        "DERMATOMYOSITIS",
+        "ERYTHEMA",
+        "MYALGIA"
+      ],
+      "report_id": "4626772-9"
+    },
+    {
+      "drugs": [
+        "VESICARE",
+        "VESICARE",
+        "INDERAL",
+        "ST. JOHN'S WORT",
+        "MULTI-VITAMINS",
+        "ACTONEL",
+        "TIMOLOL MALEATE"
+      ],
+      "reactions": [
+        "CHEST PAIN",
+        "NAUSEA"
+      ],
+      "report_id": "4620954-8"
+    },
+    {
+      "drugs": [
+        "OLANZAPINE",
+        "SOLIAN (AMISULPRIDE)",
+        "EDRONAX (REBOXETINE)",
+        "ST JOHN'S WORT"
+      ],
+      "reactions": [
+        "CAESAREAN SECTION",
+        "DRUG EXPOSURE DURING PREGNANCY",
+        "PREMATURE LABOUR",
+        "UTERINE HAEMATOMA"
+      ],
+      "report_id": "4655727-3"
+    },
+    {
+      "drugs": [
+        "ZYPREXA",
+        "SOLIAN (AMISULPRIDE)",
+        "EDRONAX (REBOXETINE)",
+        "ST. JOHN'S WORT"
+      ],
+      "reactions": [
+        "CAESAREAN SECTION",
+        "DRUG EXPOSURE DURING PREGNANCY",
+        "PREMATURE BABY"
+      ],
+      "report_id": "4655820-5"
+    },
+    {
+      "drugs": [
+        "ALEVE",
+        "ALEVE",
+        "ALEVE",
+        "IBUPROFEN",
+        "ST JOHN'S WORT"
+      ],
+      "reactions": [
+        "BLOOD URINE PRESENT",
+        "HAEMATOCHEZIA"
+      ],
+      "report_id": "4633554-0"
+    },
+    {
+      "drugs": [
+        "SANDIMMUNE",
+        "SANDIMMUNE",
+        "NEORAL",
+        "NEORAL",
+        "MESASAL",
+        "PREDNISONE TAB",
+        "HYDROCORTISONE",
+        "MERCAPTOPURINE",
+        "ST. JOHN'S WORT"
+      ],
+      "reactions": [
+        "COORDINATION ABNORMAL",
+        "DRUG LEVEL DECREASED",
+        "HEMIPARESIS",
+        "MIGRAINE",
+        "NUCLEAR MAGNETIC RESONANCE IMAGING ABNORMAL"
+      ],
+      "report_id": "4684457-7"
+    },
+    {
+      "drugs": [
+        "CYMBALTA",
+        "ST JOHN'S WORT",
+        "OTHER HERBAL REMEDIES"
+      ],
+      "reactions": [
+        "ANXIETY",
+        "HYPERVENTILATION"
+      ],
+      "report_id": "4683096-1"
+    },
+    {
+      "drugs": [
+        "PAROXETINE HYDROCHLORIDE",
+        "ST JOHN'S WORT",
+        "L-TRYPTOPHAN"
+      ],
+      "reactions": [
+        "AMNESIA",
+        "BURNING SENSATION",
+        "DEPRESSED MOOD",
+        "DEPRESSION",
+        "DRUG WITHDRAWAL SYNDROME",
+        "EJACULATION DISORDER",
+        "EJACULATION FAILURE",
+        "ERECTILE DYSFUNCTION",
+        "HEADACHE",
+        "HYPERHIDROSIS",
+        "NAUSEA",
+        "PERIPHERAL COLDNESS",
+        "SLEEP DISORDER",
+        "SUICIDAL IDEATION"
+      ],
+      "report_id": "4710863-8"
+    },
+    {
+      "drugs": [
+        "CELEBREX",
+        "TOPROL-XL",
+        "PLAVIX",
+        "LASIX",
+        "TEGRETOL",
+        "TOPAMAX",
+        "LISINOPRIL",
+        "METFORMIN HCL",
+        "LIPITOR",
+        "ACIPHEX",
+        "MAXAIR",
+        "ULTRACEL (PARACETAMOL, TRAMADOL HYDROCHLORIDE)",
+        "ZYRTEC",
+        "ST. JOHN'S WORT (ST. JOHN'S WORT)"
+      ],
+      "reactions": [
+        "ACUTE CORONARY SYNDROME",
+        "CORONARY ARTERY DISEASE",
+        "CORONARY ARTERY STENOSIS",
+        "MYOCARDIAL INFARCTION",
+        "THROMBOSIS"
+      ],
+      "report_id": "4895499-0"
+    },
+    {
+      "drugs": [
+        "STRATTERA",
+        "ST JOHN'S WORT"
+      ],
+      "reactions": [
+        "FEELING DRUNK"
+      ],
+      "report_id": "4730445-1"
+    },
+    {
+      "drugs": [
+        "CIALIS",
+        "ZESTRIL (LISINOPRIL) /SCH/",
+        "ADVIL",
+        "ASPIRIN",
+        "ST JOHN'S WORT",
+        "GLUCOPHAGE XR (METFORMIN HYDROCHLORIDE)",
+        "ZAYTIA",
+        "AMARYL",
+        "ECOTRIN (ACETYLSALICYLIC ACID)",
+        "MULTI-VITAMIN",
+        "ACTOS",
+        "OTC PAIN KILLERS",
+        "NEXIUM"
+      ],
+      "reactions": [
+        "BLOOD PRESSURE ABNORMAL",
+        "JAW DISORDER",
+        "THERAPEUTIC RESPONSE DELAYED"
+      ],
+      "report_id": "4747403-3"
+    },
+    {
+      "drugs": [
+        "PAROXETINE HCL",
+        "ST JOHN'S WORT"
+      ],
+      "reactions": [
+        "DIABETES MELLITUS"
+      ],
+      "report_id": "4763712-6"
+    },
+    {
+      "drugs": [
+        "AVONEX",
+        "ACTIVIN OPC 50",
+        "SPIRULINA",
+        "BARLEEN'S GREENS",
+        "JUICE PLUS",
+        "ROYAL TANGU LIMU MOUI",
+        "RM-10",
+        "ST JOHN'S WORT",
+        "GINKGO BILOBA",
+        "B12",
+        "VITAMIN B-12",
+        "ALKALINE GOLD CORAL CALCIUM",
+        "ASSIMILATOR",
+        "NATURAL SBO",
+        "OMEGA 3/60",
+        "ASCORBIC ACID",
+        "VITAMIN E",
+        "BETA CAROTENE",
+        "MELATONIN",
+        "XANAX",
+        "TYLENOL (CAPLET)",
+        "IBUPROFEN",
+        "VICODIN",
+        "ALEVE",
+        "LORTAB",
+        "LEXAPRO",
+        "QUININE SULFATE",
+        "ELAVIL",
+        "AMBIEN",
+        "FENTANYL",
+        "COENZYME Q10"
+      ],
+      "reactions": [
+        "AMYOTROPHIC LATERAL SCLEROSIS",
+        "DISEASE PROGRESSION",
+        "GENERAL PHYSICAL HEALTH DETERIORATION",
+        "MENTAL IMPAIRMENT",
+        "RESPIRATORY FAILURE"
+      ],
+      "report_id": "4967608-6"
+    },
+    {
+      "drugs": [
+        "HUMATROPE",
+        "SYNTHROID",
+        "CORTEF",
+        "MULTI-VITAMIN",
+        "DDAVP",
+        "OMEPRAZOLE",
+        "CLARITIN",
+        "ST JOHN'S WORT (ST JOHN'S WORT)",
+        "GINKO BILOBA (GINKGO BILOBA)",
+        "VITAMIN E",
+        "ULTRAM",
+        "CALCIUM (CALCIUM)",
+        "EFFEXOR"
+      ],
+      "reactions": [
+        "BLOOD PRESSURE SYSTOLIC INCREASED",
+        "MENINGIOMA",
+        "NEOPLASM PROGRESSION",
+        "PARAESTHESIA",
+        "THERAPEUTIC RESPONSE DECREASED"
+      ],
+      "report_id": "4869968-3"
+    },
+    {
+      "drugs": [
+        "ZYPREXA",
+        "DIAZEPAM",
+        "ST JOHN'S WORT"
+      ],
+      "reactions": [
+        "ASTHENIA",
+        "BLOOD ALKALINE PHOSPHATASE INCREASED",
+        "BLOOD DISORDER",
+        "BLOOD LACTATE DEHYDROGENASE INCREASED",
+        "C-REACTIVE PROTEIN INCREASED",
+        "GAMMA-GLUTAMYLTRANSFERASE INCREASED",
+        "HAEMATOCRIT DECREASED",
+        "HAEMOGLOBIN DECREASED",
+        "INFECTION",
+        "LYMPHOCYTE PERCENTAGE DECREASED",
+        "MONOCYTE PERCENTAGE INCREASED",
+        "MYELOCYTE PRESENT",
+        "NEUTROPHIL PERCENTAGE INCREASED",
+        "NEUTROPHIL TOXIC GRANULATION PRESENT",
+        "OEDEMA PERIPHERAL",
+        "PAIN IN EXTREMITY",
+        "PRESCRIBED OVERDOSE",
+        "RED BLOOD CELL COUNT DECREASED"
+      ],
+      "report_id": "4808713-4"
+    },
+    {
+      "drugs": [
+        "PLAVIX",
+        "PLAVIX",
+        "LOSARTAN POTASSIUM AND HYDROCHLOROTHIAZIDE",
+        "LIPITOR",
+        "ASPIRIN",
+        "OCUVITE",
+        "CELEBREX",
+        "VIOXX",
+        "UNKNOWN",
+        "FELDENE",
+        "ST JOHN'S WORT",
+        "MORPHINE"
+      ],
+      "reactions": [
+        "ANURIA",
+        "CONTUSION",
+        "HAEMATOMA",
+        "INTENTIONAL DRUG MISUSE",
+        "LIPAEMIA RETINALIS",
+        "MYOCARDIAL INFARCTION",
+        "PARAESTHESIA",
+        "PRURITUS",
+        "RENAL PAIN",
+        "VISUAL ACUITY REDUCED"
+      ],
+      "report_id": "4865280-7"
+    },
+    {
+      "drugs": [
+        "NICODERM CQ",
+        "HERBAL DIETARY SUPPLEMENT",
+        "ST. JOHN'S WORT"
+      ],
+      "reactions": [
+        "NAUSEA"
+      ],
+      "report_id": "4859555-5"
+    },
+    {
+      "drugs": [
+        "HUMATROPE",
+        "L-THYROXIN  HENNING BERLIN (LEVOTHYROXINE SODIUM)",
+        "HYDROCORTISONE",
+        "ESTROGENS",
+        "MEDROXYPROGESTERONE",
+        "CALCIUM CARBONATE (CALCIUM CARBONATE)",
+        "VITAMIN E",
+        "BUDESONIDE",
+        "MULTIVIT (VITAMINS NOS)",
+        "ST. JOHN'S WORT (HYPERICUM PERFORATUM)",
+        "DHEA (PRASTERONE)"
+      ],
+      "reactions": [
+        "BLOOD BILIRUBIN INCREASED",
+        "BLOOD BILIRUBIN UNCONJUGATED INCREASED",
+        "BLOOD LACTATE DEHYDROGENASE INCREASED",
+        "BLOOD PRESSURE INCREASED",
+        "DIPLOPIA",
+        "DISEASE PROGRESSION",
+        "DRUG TOXICITY",
+        "EYELID PTOSIS",
+        "HODGKIN'S DISEASE MIXED CELLULARITY STAGE III",
+        "INSULIN-LIKE GROWTH FACTOR INCREASED",
+        "MYOSITIS",
+        "ORAL INFECTION",
+        "STEM CELL TRANSPLANT",
+        "TOOTH INFECTION"
+      ],
+      "report_id": "4853751-9"
+    },
+    {
+      "drugs": [
+        "FLUOXETINE",
+        "ST JOHN'S WORT (HYPERICUM PERFORATUM)"
+      ],
+      "reactions": [
+        "AGRANULOCYTOSIS",
+        "BONE MARROW NECROSIS",
+        "CARDIAC ARREST",
+        "DYSPHAGIA",
+        "HEPATIC ENZYME INCREASED",
+        "HYPERAEMIA",
+        "LABORATORY TEST ABNORMAL",
+        "MOUTH ULCERATION",
+        "NASOPHARYNGEAL DISORDER",
+        "NEUTROPENIA",
+        "NORMOCHROMIC NORMOCYTIC ANAEMIA",
+        "OESOPHAGEAL CANDIDIASIS",
+        "PHARYNGEAL CANDIDIASIS",
+        "PYREXIA",
+        "THERAPY NON-RESPONDER",
+        "VIRAL INFECTION"
+      ],
+      "report_id": "4875714-X"
+    },
+    {
+      "drugs": [
+        "PAXIL",
+        "ST JOHN'S WORT"
+      ],
+      "reactions": [
+        "DRY MOUTH"
+      ],
+      "report_id": "4904580-9"
+    },
+    {
+      "drugs": [
+        "CYMBALTA",
+        "ST. JOHN'S WORT  HERRON  (HYPERICUM PERFORATUM)",
+        "BETA BLOCKING AGENTS",
+        "DIOVAN  CIBA-GEIGY (VALSARTAN)",
+        "SIMVASTATIN"
+      ],
+      "reactions": [
+        "BRAIN OEDEMA",
+        "CEREBRAL CYST",
+        "LOSS OF CONSCIOUSNESS",
+        "MALAISE"
+      ],
+      "report_id": "4930061-2"
+    },
+    {
+      "drugs": [
+        "DILATREND",
+        "ST JOHN'S WORT"
+      ],
+      "reactions": [
+        "ABNORMAL DREAMS",
+        "DEPRESSION",
+        "SUICIDAL IDEATION"
+      ],
+      "report_id": "4946613-X"
+    },
+    {
+      "drugs": [
+        "BYETTA",
+        "BYETTA",
+        "METFORMIN",
+        "AVANDIA",
+        "PROMETRIUM",
+        "ST. JOHN'S WORT",
+        "AVANDIA"
+      ],
+      "reactions": [
+        "BLOOD GLUCOSE INCREASED",
+        "INJECTION SITE URTICARIA",
+        "NAUSEA",
+        "VOMITING",
+        "WEIGHT DECREASED"
+      ],
+      "report_id": "4968186-8"
+    },
+    {
+      "drugs": [
+        "XENICAL",
+        "ST. JOHN'S WORT"
+      ],
+      "reactions": [
+        "CHOKING",
+        "HEADACHE",
+        "HYPERSENSITIVITY",
+        "MALAISE",
+        "NAUSEA",
+        "SWELLING FACE"
+      ],
+      "report_id": "5001985-5"
+    },
+    {
+      "drugs": [
+        "LEXAPRO",
+        "FUROSEMIDE",
+        "STEROIDS NOS",
+        "ST. JOHN'S WORT",
+        "MELPHALAN HYDROCHLORIDE",
+        "COUMADIN",
+        "VENLAFAXINE",
+        "CLONAZEPAM",
+        "OXYCODONE HCL",
+        "ASPIRIN",
+        "ALDACTONE",
+        "BETAPACE",
+        "KLONOPIN",
+        "SPIRONOLACTONE",
+        "MECLIZINE",
+        "METOPROLOL TARTRATE",
+        "LORAZEPAM",
+        "PLAVIX",
+        "OXYCONTIN",
+        "TENORMIN",
+        "LASIX",
+        "PRILOSEC",
+        "CELEBREX",
+        "AMIODARONE HCL",
+        "TEMAZEPAM",
+        "LIDOCAINE",
+        "MULTI-VITAMINS",
+        "LISINOPRIL",
+        "FELDENE",
+        "FOLIC ACID",
+        "BUMEX",
+        "AREDIA",
+        "AREDIA",
+        "ZOMETA",
+        "SERZONE",
+        "TRUSOPT",
+        "LATANOPROST",
+        "OMEPRAZOLE",
+        "RESTORIL",
+        "NITRO-DUR",
+        "PREDNISONE TAB",
+        "MAGNESIUM",
+        "DECADRON                                /NET/",
+        "ULTRAM",
+        "SENNA GLYCOSIDES, COMBINATIONS",
+        "POTASSIUM",
+        "ZINC SULFATE",
+        "NITROGLYCERIN ^DAVID BULL^",
+        "ELAVIL",
+        "NITROSTAT",
+        "DOBUTAMINE",
+        "ROBAXIN",
+        "MILK OF MAGNESIA TAB",
+        "MIRALAX"
+      ],
+      "reactions": [
+        "ATRIAL FIBRILLATION",
+        "SKIN ULCER",
+        "TENDON INJURY",
+        "ARTHRALGIA",
+        "CARDIAC FAILURE CONGESTIVE",
+        "OSTEOARTHRITIS",
+        "VISION BLURRED",
+        "AORTIC ANEURYSM",
+        "CHRONIC OBSTRUCTIVE PULMONARY DISEASE",
+        "LYMPHOEDEMA",
+        "TOBACCO USER",
+        "OSTEOPENIA",
+        "CARDIAC ARREST",
+        "VENOUS INSUFFICIENCY",
+        "DECUBITUS ULCER",
+        "ASPIRATION JOINT",
+        "OPEN WOUND",
+        "ARTHROPATHY",
+        "NASAL SEPTUM DEVIATION",
+        "DIPLOPIA",
+        "EMBOLISM",
+        "TEMPOROMANDIBULAR JOINT SYNDROME",
+        "RIB FRACTURE",
+        "SINUS BRADYCARDIA",
+        "VASCULAR CALCIFICATION",
+        "BONE DISORDER",
+        "ANXIETY",
+        "CARDIOMEGALY",
+        "BLOOD IMMUNOGLOBULIN G INCREASED",
+        "FRACTURED SACRUM",
+        "HAEMATOCHEZIA",
+        "PLEURAL EFFUSION",
+        "LOSS OF CONSCIOUSNESS",
+        "INTERVERTEBRAL DISC DEGENERATION",
+        "KYPHOSIS",
+        "BLOOD CREATININE INCREASED",
+        "LORDOSIS",
+        "ARRHYTHMIA",
+        "CARDIAC DISORDER",
+        "PERIPHERAL VASCULAR DISORDER",
+        "OEDEMA",
+        "PAIN IN JAW",
+        "ANHEDONIA",
+        "DEPRESSION",
+        "FALL",
+        "SYNCOPE",
+        "CARDIAC ASTHMA",
+        "VENTRICULAR TACHYCARDIA",
+        "DIZZINESS",
+        "SPONDYLOLISTHESIS",
+        "OCULAR HYPERTENSION",
+        "GILBERT'S SYNDROME",
+        "MYOCARDIAL ISCHAEMIA",
+        "MYALGIA",
+        "NEUROPATHY PERIPHERAL",
+        "MARROW HYPERPLASIA",
+        "BONE PAIN",
+        "ARTERIOSCLEROSIS CORONARY ARTERY",
+        "CATARACT",
+        "ODYNOPHAGIA",
+        "EMPHYSEMA",
+        "EDENTULOUS",
+        "NAIL HYPERTROPHY",
+        "OEDEMA PERIPHERAL",
+        "MOUTH ULCERATION",
+        "EUSTACHIAN TUBE DYSFUNCTION",
+        "ANKLE FRACTURE",
+        "VENTRICULAR EXTRASYSTOLES",
+        "CELLULITIS",
+        "TOOTH LOSS",
+        "INJURY",
+        "RALES",
+        "ANGINA UNSTABLE",
+        "NEURALGIA",
+        "MASS",
+        "ANAEMIA",
+        "TINEA PEDIS",
+        "PROSTATITIS",
+        "GLAUCOMA",
+        "ATELECTASIS",
+        "OSTEOSCLEROSIS",
+        "OSTEONECROSIS OF JAW",
+        "GENERAL PHYSICAL HEALTH DETERIORATION",
+        "CORONARY ARTERY DISEASE",
+        "BACK PAIN",
+        "GASTROOESOPHAGEAL REFLUX DISEASE",
+        "DYSPNOEA EXERTIONAL",
+        "HAEMORRHAGE",
+        "FOOT DEFORMITY",
+        "PERIPHERAL ARTERIAL OCCLUSIVE DISEASE",
+        "TENDON RUPTURE",
+        "ORAL NEOPLASM",
+        "HYDROCELE",
+        "DRY EYE",
+        "WHEEZING",
+        "FRACTURE NONUNION",
+        "TINNITUS",
+        "RENAL FAILURE CHRONIC",
+        "EXOSTOSIS",
+        "CHEST PAIN"
+      ],
+      "report_id": "8614458-5"
+    },
+    {
+      "drugs": [
+        "ST. JOHN'S WORT",
+        "ST. JOHN'S WORT",
+        "TEGRETOL",
+        "DEXAMETHASONE",
+        "TEGRETOL-XR",
+        "SOSTRIL"
+      ],
+      "reactions": [
+        "ASTHENIA",
+        "BURNING SENSATION",
+        "DEPRESSION",
+        "FACIAL PARESIS",
+        "HEMIPARESIS",
+        "MASS EXCISION",
+        "METASTATIC MALIGNANT MELANOMA"
+      ],
+      "report_id": "5008262-7"
+    },
+    {
+      "drugs": [
+        "REBIF",
+        "REBIF",
+        "ZOLOFT",
+        "ST. JOHN'S WORT (HYPERICUM PERFORATUM)"
+      ],
+      "reactions": [
+        "COORDINATION ABNORMAL",
+        "DIPLOPIA",
+        "HEADACHE",
+        "HEMIPARESIS",
+        "HYPOAESTHESIA",
+        "INFLUENZA LIKE ILLNESS",
+        "MULTIPLE SCLEROSIS RELAPSE"
+      ],
+      "report_id": "5032426-X"
+    },
+    {
+      "drugs": [
+        "NAMENDA",
+        "NAMENDA",
+        "NAMENDA",
+        "NAMENDA",
+        "HYDROCHLOROTHIAZIDE",
+        "FOLBEE (FOLIC ACID/VITAMIN B6/VITAMIN B12)",
+        "TOPROL-XL",
+        "ALLOPURINOL",
+        "SAW PALMETTO",
+        "ZINC",
+        "ASCORBIC ACID",
+        "ST. JOHN'S WORT",
+        "GARLIC",
+        "GLUCOSAMINE CHONDROITIN",
+        "MILK THISTLE",
+        "GINKO BILOBA"
+      ],
+      "reactions": [
+        "HYPERSOMNIA",
+        "SOMNOLENCE"
+      ],
+      "report_id": "5032790-1"
+    },
+    {
+      "drugs": [
+        "ACYCLOVIR",
+        "VITAMIN E",
+        "ASCORBIC ACID",
+        "ST. JOHN'S WORT",
+        "MAGNESIUM",
+        "POTASSIUM",
+        "CALCIUM GLUCONATE",
+        "ZINC",
+        "VITAMIN B COMPLEX CAP"
+      ],
+      "reactions": [
+        "ARTHRITIS"
+      ],
+      "report_id": "5091043-6"
+    },
+    {
+      "drugs": [
+        "ACTOS",
+        "BENICAR",
+        "TRIAMTERENE (TRIAMTERENE)",
+        "GARLIC PILL (ALLIUM SATIVUM)",
+        "ST. JOHN'S WORT (HYPERICUM PERFORATUM)",
+        "."
+      ],
+      "reactions": [
+        "IMPAIRED HEALING",
+        "THROAT CANCER",
+        "THYROID CANCER"
+      ],
+      "report_id": "5118502-1"
+    },
+    {
+      "drugs": [
+        "RELPAX",
+        "ST. JOHN'S WORT (ST. JOHN'S WORT)",
+        "PANTOZOL (PANTOPRAZOLE SODIUM)"
+      ],
+      "reactions": [
+        "AGITATION",
+        "BLOOD PRESSURE INCREASED",
+        "DRUG INTERACTION",
+        "DRUG INTOLERANCE",
+        "HYPOAESTHESIA",
+        "TACHYCARDIA"
+      ],
+      "report_id": "5166443-6"
+    },
+    {
+      "drugs": [
+        "XANAX",
+        "ST. JOHN'S WORT  (ST. JOHN'S WORT)"
+      ],
+      "reactions": [
+        "HYPOACUSIS",
+        "SOMNOLENCE"
+      ],
+      "report_id": "5136005-5"
+    },
+    {
+      "drugs": [
+        "CIALIS",
+        "CIALIS",
+        "ST. JOHN'S WORT (HYPERICUM PERFORATUM)"
+      ],
+      "reactions": [
+        "THERAPEUTIC RESPONSE DECREASED"
+      ],
+      "report_id": "5124338-8"
+    },
+    {
+      "drugs": [
+        "MICRONOR",
+        "EVOREL",
+        "ST. JOHN'S WORT"
+      ],
+      "reactions": [
+        "ANXIETY",
+        "DEPRESSION",
+        "DEPRESSION SUICIDAL",
+        "DRUG INTERACTION",
+        "INSOMNIA",
+        "MENOPAUSAL SYMPTOMS",
+        "METRORRHAGIA",
+        "PANIC ATTACK"
+      ],
+      "report_id": "5311422-9"
+    },
+    {
+      "drugs": [
+        "PROPRANOLOL",
+        "ST. JOHN'S WORT (HYPERICUM PERFORATUM)"
+      ],
+      "reactions": [
+        "DEAFNESS",
+        "SINUS CONGESTION"
+      ],
+      "report_id": "5165172-2"
+    },
+    {
+      "drugs": [
+        "AVODART",
+        "LEXAPRO",
+        "WARFARIN SODIUM",
+        "ZOCOR",
+        "LORAZEPAM",
+        "PROCARDIA",
+        "VITAMIN B-12",
+        "VITAMINS",
+        "GARLIC",
+        "ST JOHN'S WORT",
+        "UNKNOWN MEDICATION"
+      ],
+      "reactions": [
+        "DRUG INEFFECTIVE"
+      ],
+      "report_id": "5193291-3"
+    },
+    {
+      "drugs": [
+        "INDERAL",
+        "ST. JOHN'S WORT (HYPERICUM PERFORATUM)"
+      ],
+      "reactions": [
+        "DEAFNESS",
+        "SINUS CONGESTION"
+      ],
+      "report_id": "5179479-6"
+    },
+    {
+      "drugs": [
+        "LIPITOR",
+        "CODEINE SUL TAB",
+        "NITROFURANTOIN",
+        "NITROGLYCERIN",
+        "LANOXIN",
+        "CALCIUM (CALCIUM)",
+        "VITAMIN C (VITAMIN C)",
+        "VITAMIN D",
+        "DIOVAN",
+        "MAGNESIUM (MAGNESIUM)",
+        "CLINDAMYCIN (CLINDAMYCIN)",
+        "FEMARA",
+        "SYNTHROID",
+        "PREVACID",
+        "BILBERRY (MYRTILLUS)",
+        "LUTEIN (XANTHOPHYLL)",
+        "FOLATE (FOLIC ACID)",
+        "ST. JOHN'S WORT (ST. JOHN'S WORT)",
+        "MULTIVITAMIN",
+        "IRON (IRON)",
+        "TRICOR",
+        "PRAVACHOL",
+        "ZETIA",
+        "ASPIRIN",
+        "HERBAL PREPARATION (HERBAL PREPARATION)",
+        "HOMEOPATHIC PREPARATION (HOMEOPATHIC PREPARATION)"
+      ],
+      "reactions": [
+        "ANAEMIA",
+        "CHEILITIS",
+        "FEELING ABNORMAL",
+        "LOW DENSITY LIPOPROTEIN INCREASED",
+        "SPEECH DISORDER",
+        "TONGUE DISORDER"
+      ],
+      "report_id": "5188353-0"
+    },
+    {
+      "drugs": [
+        "RISPERDAL CONSTA",
+        "CITALOPRAM HYDROBROMIDE",
+        "ST. JOHN'S WORT"
+      ],
+      "reactions": [
+        "ABORTION SPONTANEOUS",
+        "DRUG EXPOSURE DURING PREGNANCY"
+      ],
+      "report_id": "5202023-1"
+    },
+    {
+      "drugs": [
+        "PAXIL CR",
+        "SYNTHROID",
+        "ST. JOHN'S WORT"
+      ],
+      "reactions": [
+        "ANOREXIA",
+        "ANXIETY",
+        "CRYING",
+        "DEPRESSED MOOD",
+        "DEPRESSIVE SYMPTOM",
+        "DIZZINESS",
+        "DRUG WITHDRAWAL SYNDROME",
+        "DYSPHAGIA",
+        "FATIGUE",
+        "FEAR",
+        "FEELING HOT AND COLD",
+        "HEART RATE INCREASED",
+        "MOOD SWINGS",
+        "PANIC DISORDER",
+        "PARANOIA",
+        "TREMOR"
+      ],
+      "report_id": "5217437-3"
+    },
+    {
+      "drugs": [
+        "WELLBUTRIN",
+        "BUPROPION HYDROCHLORIDE",
+        "CYMBALTA",
+        "NEURONTIN",
+        "LORAZEPAM",
+        "ST. JOHN'S WORT",
+        "PLAVIX",
+        "LOPRESSOR",
+        "LISINOPRIL",
+        "HYDROCHLOROTHIAZIDE"
+      ],
+      "reactions": [
+        "ABDOMINAL PAIN UPPER",
+        "AMNESIA",
+        "CONFUSIONAL STATE",
+        "DEPRESSION",
+        "DISTURBANCE IN ATTENTION"
+      ],
+      "report_id": "5222098-3"
+    },
+    {
+      "drugs": [
+        "VENTAVIS",
+        "METHOTREXATE",
+        "LOTENSIN",
+        "FUROSEMIDE",
+        "WARFARIN SODIUM",
+        "SPIRONOLACTONE",
+        "PRIMOSE OIL",
+        "ST. JOHN'S WORT",
+        "SILDENAFIL CITRATE"
+      ],
+      "reactions": [
+        "GINGIVAL BLEEDING"
+      ],
+      "report_id": "5207713-2"
+    },
+    {
+      "drugs": [
+        "LUNESTA",
+        "PROVIGIL",
+        "OXYCONTIN",
+        "PERCOCET",
+        "LEXAPRO",
+        "ST JOHN'S WORT",
+        "GINKGO ^SYXYL^",
+        "ASCORBIC ACID"
+      ],
+      "reactions": [
+        "DRUG INTERACTION",
+        "SOMNOLENCE"
+      ],
+      "report_id": "5202501-5"
+    },
+    {
+      "drugs": [
+        "CELEBREX",
+        "TOPROL-XL",
+        "PLAVIX",
+        "LASIX",
+        "TEGRETOL",
+        "TOPAMAX",
+        "LISINOPRIL",
+        "METFORMIN HCL",
+        "LIPITOR",
+        "ACIPHEX",
+        "MAXAIR",
+        "ULTRACET",
+        "ZYRTEC",
+        "ST. JOHN'S WORT"
+      ],
+      "reactions": [
+        "ACUTE CORONARY SYNDROME",
+        "CARDIAC DISORDER",
+        "CORONARY ARTERY DISEASE",
+        "MYOCARDIAL INFARCTION",
+        "THROMBOSIS"
+      ],
+      "report_id": "5381069-7"
+    },
+    {
+      "drugs": [
+        "CYMBALTA",
+        "CYMBALTA",
+        "LEVOXYL",
+        "OTHER ANTIHYPERTENSIVES",
+        "ST. JOHN'S WORT (HYPERICUM PERFORATUM)"
+      ],
+      "reactions": [
+        "CONSTIPATION",
+        "CRYING",
+        "DEPRESSION",
+        "EARLY MORNING AWAKENING",
+        "INSOMNIA",
+        "NERVOUSNESS",
+        "URINE OUTPUT DECREASED"
+      ],
+      "report_id": "5229191-X"
+    },
+    {
+      "drugs": [
+        "RANEXA",
+        "ST. JOHN'S WORT",
+        "VIAGRA",
+        "AVAPRO",
+        "METOPROLOL SUCCINATE",
+        "M.V.I.",
+        "NIACIN",
+        "ASPIRIN",
+        "PRILOSEC OTC",
+        "OMEGA-3 FATTY ACIDS"
+      ],
+      "reactions": [
+        "ERECTILE DYSFUNCTION"
+      ],
+      "report_id": "5268252-6"
+    },
+    {
+      "drugs": [
+        "MIRAPEX",
+        "ELDEPRYL",
+        "SINEMET",
+        "PERMAX",
+        "COMTAN",
+        "ATIVAN",
+        "PROZAC",
+        "PROZAC",
+        "PAXIL",
+        "VITAMIN E",
+        "SINEMET CR",
+        "SINEMET CR",
+        "ST. JOHN'S WORT",
+        "PARCOPA",
+        "ASPIRIN",
+        "AMOXICILLIN",
+        "AMOXICILLIN",
+        "GLYCOLAX",
+        "CEPHALEXIN",
+        "NITROGLYCERIN",
+        "CLINDAMYCIN HCL",
+        "SULFAMETH/TRIMETH DS",
+        "MULTI-VITAMIN",
+        "VIT B COMPLEX",
+        "PYCHOGENOL",
+        "GINKGO BILOBA"
+      ],
+      "reactions": [
+        "ABDOMINAL PAIN",
+        "ABDOMINAL PAIN UPPER",
+        "ADJUSTMENT DISORDER WITH DEPRESSED MOOD",
+        "ANGINA PECTORIS",
+        "BACK PAIN",
+        "CERVICAL SPINAL STENOSIS",
+        "CHEST PAIN",
+        "CONSTIPATION",
+        "DEPRESSION",
+        "DISTURBANCE IN ATTENTION",
+        "FATIGUE",
+        "HYPERHIDROSIS",
+        "HYPERLIPIDAEMIA",
+        "HYPOAESTHESIA",
+        "HYPOTENSION",
+        "INTERVERTEBRAL DISC PROTRUSION",
+        "LIPOMA",
+        "MEMORY IMPAIRMENT",
+        "MENINGIOMA BENIGN",
+        "MIDDLE INSOMNIA",
+        "MUSCULOSKELETAL PAIN",
+        "NARCISSISTIC PERSONALITY DISORDER",
+        "NAUSEA",
+        "NECK PAIN",
+        "OBSESSIVE-COMPULSIVE DISORDER",
+        "PARAESTHESIA",
+        "PATHOLOGICAL GAMBLING",
+        "ROAD TRAFFIC ACCIDENT",
+        "SOMNOLENCE",
+        "SUICIDAL BEHAVIOUR",
+        "SUICIDE ATTEMPT"
+      ],
+      "report_id": "5685117-6"
+    },
+    {
+      "drugs": [
+        "SEROQUEL",
+        "SEROQUEL",
+        "ST. JOHN'S WORT"
+      ],
+      "reactions": [
+        "TARDIVE DYSKINESIA"
+      ],
+      "report_id": "5278170-5"
+    },
+    {
+      "drugs": [
+        "VENTAVIS",
+        "LOTENSIN",
+        "FUROSEMIDE",
+        "WARFARIN SODIUM",
+        "SPIRONOLACTONE",
+        "METHOTREXATE",
+        "EVENING PRIMROSE OIL",
+        "ST. JOHN'S WORT",
+        "SILDENAFIL CITRATE"
+      ],
+      "reactions": [
+        "HEADACHE",
+        "PHARYNGOLARYNGEAL PAIN"
+      ],
+      "report_id": "5287564-3"
+    },
+    {
+      "drugs": [
+        "CYMBALTA",
+        "ST. JOHN'S WORT"
+      ],
+      "reactions": [
+        "DIARRHOEA",
+        "DRUG INTERACTION",
+        "HEADACHE",
+        "MYOCLONUS",
+        "NYSTAGMUS",
+        "SEROTONIN SYNDROME",
+        "TREMOR"
+      ],
+      "report_id": "5314941-4"
+    },
+    {
+      "drugs": [
+        "ST. JOHN'S WORT EXTRACT",
+        "CITALOPRAM HYDROBROMIDE"
+      ],
+      "reactions": [
+        "DRUG INTERACTION",
+        "SEROTONIN SYNDROME",
+        "SUICIDAL IDEATION"
+      ],
+      "report_id": "5337438-4"
+    },
+    {
+      "drugs": [
+        "RANEXA",
+        "ST. JOHN'S WORT (HYPERICUM PERFORATUM)",
+        "VIAGRA",
+        "AVAPRO",
+        "METOPROLOL/00376901/ (METOPROLOL)",
+        "MVI (VITAMINS NOS)",
+        "NIACIN",
+        "ASPIRIN",
+        "PRILOSEC",
+        "OMEGA 3 (FISH OIL)",
+        "COREG",
+        "CRESTOR/01588601/ (ROSUVASTATIN)",
+        "NITROGLYCERIN",
+        "ROZEREM",
+        "PEPCID COMPLETE (FAMOTIDINE)",
+        "EXCEDRIN /00214201/ (ACETYLSALICYLIC ACID, CAFFEINE, PARACETAMOL, SALI"
+      ],
+      "reactions": [
+        "CORONARY ARTERY DISEASE",
+        "ERECTILE DYSFUNCTION"
+      ],
+      "report_id": "5335540-4"
+    },
+    {
+      "drugs": [
+        "ST. JOHN'S WORT EXTRACT",
+        "CITALOPRAM"
+      ],
+      "reactions": [
+        "DRUG INTERACTION",
+        "SEROTONIN SYNDROME",
+        "SUICIDAL IDEATION"
+      ],
+      "report_id": "5346349-X"
+    },
+    {
+      "drugs": [
+        "ACCUTANE",
+        "CLARITIN-D",
+        "NASONEX",
+        "ST. JOHN'S WORT"
+      ],
+      "reactions": [
+        "ANAEMIA",
+        "ANXIETY",
+        "ASPARTATE AMINOTRANSFERASE INCREASED",
+        "BLEPHARITIS",
+        "BLOOD CHOLESTEROL INCREASED",
+        "BLOOD LACTATE DEHYDROGENASE INCREASED",
+        "BLOOD TRIGLYCERIDES INCREASED",
+        "COLITIS",
+        "COLITIS ULCERATIVE",
+        "CONJUNCTIVITIS",
+        "CROHN'S DISEASE",
+        "DEPRESSION",
+        "EMOTIONAL DISORDER",
+        "EMOTIONAL DISTRESS",
+        "INFLAMMATORY BOWEL DISEASE",
+        "INSOMNIA",
+        "IRRITABLE BOWEL SYNDROME",
+        "LEUKOCYTOSIS",
+        "PANIC ATTACK",
+        "POLYP",
+        "PROCTOCOLITIS",
+        "THROMBOCYTOSIS",
+        "VIRAL INFECTION"
+      ],
+      "report_id": "7024133-9"
+    },
+    {
+      "drugs": [
+        "BYETTA",
+        "BYETTA",
+        "BYETTA",
+        "BYETTA",
+        "METFORMIN HCL",
+        "GLYBURIDE",
+        "GENERIC CHOLESTEROL DRUG THAT STARTS WITH ^L^",
+        "LOVASTATIN",
+        "ASPIRIN",
+        "FISH OIL",
+        "ST. JOHN'S WORT",
+        "MULTI-VITAMINS"
+      ],
+      "reactions": [
+        "LIVER FUNCTION TEST ABNORMAL",
+        "NAUSEA",
+        "RASH"
+      ],
+      "report_id": "5360853-X"
+    },
+    {
+      "drugs": [
+        "CITALOPRAM HYDROBROMIDE",
+        "ST JOHN'S WORT"
+      ],
+      "reactions": [
+        "ACQUIRED EPILEPTIC APHASIA",
+        "TRANSMISSION OF DRUG VIA SEMEN"
+      ],
+      "report_id": "5402019-0"
+    },
+    {
+      "drugs": [
+        "CITALOPRAM HYDROBROMIDE",
+        "ST. JOHN'S WORT (HYPERICUM PERFORATUM)"
+      ],
+      "reactions": [
+        "ACQUIRED EPILEPTIC APHASIA",
+        "TRANSMISSION OF DRUG VIA SEMEN"
+      ],
+      "report_id": "5403566-8"
+    },
+    {
+      "drugs": [
+        "CITALOPRAM HYDROBROMIDE",
+        "CITALOPRAM HYDROBROMIDE",
+        "ST. JOHN'S WORT (HYPERICUM PERFORATUM)"
+      ],
+      "reactions": [
+        "ACQUIRED EPILEPTIC APHASIA"
+      ],
+      "report_id": "5411308-5"
+    },
+    {
+      "drugs": [
+        "MIRAPEX",
+        "VITAMIN CAP",
+        "TUMS",
+        "ELDEPRYL",
+        "VACONASE NASAL SPRAY",
+        "KENALOG",
+        "PHENYLPROP CHLORIDE",
+        "TRIHEXYPHENIDYL HCL",
+        "ABSORBASE",
+        "SELEGILINE HCL",
+        "CLOBETASOL PROPEMOLLIENT",
+        "AMANTADINE HCL",
+        "ACYCLOVIR",
+        "HEPATITIS VACCINE",
+        "IBUPROFEN",
+        "ST. JOHN'S WORT",
+        "ASCORBIC ACID",
+        "GINKO",
+        "VITAMIN E",
+        "DERMA CERIN TOPICAL CREAM",
+        "UREA",
+        "VITAMIN B",
+        "COD LIVER OIL",
+        "ASCORBIC ACID",
+        "CALCIUM",
+        "ECHINACEA",
+        "ENERGY DRINK",
+        "CARBIDOPA AND LEVODOPA",
+        "VARDENAFIL",
+        "VIAGRA",
+        "ORNADE",
+        "SUPHEDRIN SINUS",
+        "COLOCYNTHIS",
+        "ASPIRIN"
+      ],
+      "reactions": [
+        "AGITATION",
+        "ALCOHOL USE",
+        "INSOMNIA",
+        "IRRITABILITY",
+        "MANIA",
+        "OBSESSIVE-COMPULSIVE DISORDER",
+        "PATHOLOGICAL GAMBLING"
+      ],
+      "report_id": "5477864-6"
+    },
+    {
+      "drugs": [
+        "CELEBRA",
+        "VIOXX",
+        "SOTALOL HCL",
+        "ST. JOHN'S WORT",
+        "LEVOTHYROXINE SODIUM",
+        "ALBYL-E",
+        "TENORMIN",
+        "ALL OTHER THERAPEUTIC PRODUCTS",
+        "PARACET"
+      ],
+      "reactions": [
+        "ARRHYTHMIA",
+        "CEREBROVASCULAR DISORDER"
+      ],
+      "report_id": "5489900-1"
+    },
+    {
+      "drugs": [
+        "FLUOXETINE HYDROCHLORIDE",
+        "FLUOXETINE HYDROCHLORIDE",
+        "ELETRIPTAN",
+        "ST. JOHN'S WORT"
+      ],
+      "reactions": [
+        "DRUG INTERACTION",
+        "RHABDOMYOLYSIS",
+        "SEROTONIN SYNDROME"
+      ],
+      "report_id": "5503442-6"
+    },
+    {
+      "drugs": [
+        "RASILEZ",
+        "BISOPROLOL",
+        "CARMEN",
+        "TEVETEN HCT",
+        "ACETYLSALICYLIC ACID SRT",
+        "PANTOPRAZOLE SODIUM",
+        "METFORMIN HCL",
+        "NOVONORM",
+        "SIMVASTATIN",
+        "METOCLOPRAMIDE HYDROCHLORIDE",
+        "ST. JOHN'S WORT"
+      ],
+      "reactions": [
+        "DEPRESSED MOOD",
+        "PSYCHOSOMATIC DISEASE"
+      ],
+      "report_id": "5566527-4"
+    },
+    {
+      "drugs": [
+        "CYMBALTA",
+        "VASOTEC",
+        "ST. JOHN'S WORT",
+        "METAMUCIL"
+      ],
+      "reactions": [
+        "CONSTIPATION",
+        "INTRAOCULAR PRESSURE INCREASED",
+        "MACULAR DEGENERATION"
+      ],
+      "report_id": "5609956-2"
+    },
+    {
+      "drugs": [
+        "SEROXAT",
+        "SEROXAT",
+        "CLOPIDOGREL",
+        "ZOLADEX",
+        "LIVIAL",
+        "CITALOPRAM HYDROBROMIDE",
+        "PROCHLORPERAZINE",
+        "PROZAC",
+        "ST JOHN'S WORT"
+      ],
+      "reactions": [
+        "AGITATION",
+        "CONFUSIONAL STATE",
+        "DISTURBANCE IN ATTENTION",
+        "DIZZINESS",
+        "FATIGUE",
+        "LETHARGY",
+        "MEMORY IMPAIRMENT",
+        "NIGHTMARE",
+        "PERSONALITY CHANGE",
+        "SLEEP DISORDER",
+        "SUICIDAL IDEATION",
+        "THINKING ABNORMAL",
+        "WEIGHT DECREASED",
+        "WITHDRAWAL SYNDROME"
+      ],
+      "report_id": "5719584-6"
+    },
+    {
+      "drugs": [
+        "NIZORAL",
+        "NIFEDIPINE",
+        "ACETYLCYSTEINE",
+        "FENOFIBRATE",
+        "FENISTIL",
+        "ST JOHN'S WORT"
+      ],
+      "reactions": [
+        "DRUG INEFFECTIVE",
+        "SKIN DISCOLOURATION",
+        "SKIN ODOUR ABNORMAL",
+        "SKIN ULCER"
+      ],
+      "report_id": "5615710-8"
+    },
+    {
+      "drugs": [
+        "CITALOPRAM HYDROBROMIDE",
+        "COD LIVER OIL",
+        "EVENING PRIMROSE (OENOTHERA BIENNIS OIL)",
+        "HYPERICUM (ST. JOHN'S WORT)",
+        "ASCORBIC ACID"
+      ],
+      "reactions": [
+        "DIZZINESS",
+        "HEADACHE"
+      ],
+      "report_id": "5613395-8"
+    },
+    {
+      "drugs": [
+        "FLUOXETINE",
+        "FLUOXETINE",
+        "ELETRIPTAN",
+        "ST. JOHN'S WORT"
+      ],
+      "reactions": [
+        "CONVULSION",
+        "RHABDOMYOLYSIS",
+        "SEROTONIN SYNDROME"
+      ],
+      "report_id": "5633422-1"
+    },
+    {
+      "drugs": [
+        "EFFEXOR XR",
+        "ST. JOHN'S WORT"
+      ],
+      "reactions": [
+        "HAEMATURIA",
+        "HENOCH-SCHONLEIN PURPURA",
+        "SKIN HAEMORRHAGE"
+      ],
+      "report_id": "5646483-0"
+    },
+    {
+      "drugs": [
+        "PROTONIX",
+        "ST. JOHN'S WORT",
+        "ASCORBIC ACID/CHONDROITIN SULFATE/GLUCOSAMINE SULFATE/MANGANESE",
+        "PHENYLALANINE"
+      ],
+      "reactions": [
+        "EXFOLIATIVE RASH",
+        "INFLAMMATION",
+        "WOUND SECRETION"
+      ],
+      "report_id": "5647522-3"
+    },
+    {
+      "drugs": [
+        "ALEVE (CAPLET)",
+        "SYNTHROID",
+        "ST. JOHN'S WORT",
+        "VITAMIN E",
+        "WALGREEN STORE BRAND ASPIRIN"
+      ],
+      "reactions": [
+        "LETHARGY"
+      ],
+      "report_id": "5658536-1"
+    },
+    {
+      "drugs": [
+        "GABAPENTIN BASICS B 600MG FILMTABLETTEN",
+        "ST JOHN'S WORT",
+        "PETHIDINE",
+        "TRAMADOL HCL",
+        "ACETAMINOPHEN"
+      ],
+      "reactions": [
+        "DRUG INTERACTION",
+        "SEROTONIN SYNDROME"
+      ],
+      "report_id": "5662364-0"
+    },
+    {
+      "drugs": [
+        "TEMOZOLOMIDE.",
+        "TEMOZOLOMIDE.",
+        "HYPERICIN"
+      ],
+      "reactions": [
+        "Radiation interaction",
+        "Optic neuropathy"
+      ],
+      "report_id": "16101660"
+    },
+    {
+      "drugs": [
+        "FERROUS SULFATE.",
+        "DARVOCET?N 100",
+        "DOXEPIN",
+        "PERIACTIN",
+        "HYPERICIN",
+        "ZYRTEC"
+      ],
+      "reactions": [
+        "Dermatitis",
+        "Ecchymosis",
+        "Anaemia"
+      ],
+      "report_id": "3242728"
+    },
+    {
+      "drugs": [
+        "ENALAPRIL MALEATE",
+        "COLCHICINE + OPIUM + TIEMONIUM METHYLSULFATE",
+        "OMEPRAZOLE",
+        "PRAVASTATIN SODIUM",
+        "BISOPROLOL",
+        "CLOPIDOGREL BISULFATE",
+        "HYPERICIN (HERBAL TEA)"
+      ],
+      "reactions": [
+        "CIRCULATORY COLLAPSE",
+        "DEHYDRATION",
+        "GASTROENTERITIS",
+        "HAEMODIALYSIS",
+        "PNEUMONIA",
+        "RENAL FAILURE ACUTE"
+      ],
+      "report_id": "4337292-3"
+    },
+    {
+      "drugs": [
+        "ATORVASTATIN CALCIUM",
+        "CERIVASTATIN SODIUM",
+        "CITALOPRAM HYDROBROMIDE",
+        "EPROSARTAN",
+        "EPROSARTAN",
+        "ESOMEPRAZOLE MAGNESIUM",
+        "HYPERICIN",
+        "SINGULAIR"
+      ],
+      "reactions": [
+        "BLOOD CREATINE PHOSPHOKINASE INCREASED",
+        "DIABETES MELLITUS NON-INSULIN-DEPENDENT",
+        "FALL",
+        "FIBROMYALGIA",
+        "JOINT SPRAIN",
+        "MUSCLE TIGHTNESS",
+        "MYALGIA",
+        "MYOPATHY",
+        "POLYMYOSITIS",
+        "ROAD TRAFFIC ACCIDENT",
+        "SPINAL DISORDER"
+      ],
+      "report_id": "4363794-X"
+    },
+    {
+      "drugs": [
+        "ALOE",
+        "HYPERICIN",
+        "VIOXX"
+      ],
+      "reactions": [
+        "CONVULSION",
+        "HYPOCALCAEMIA",
+        "HYPONATRAEMIA"
+      ],
+      "report_id": "4372130-4"
+    },
+    {
+      "drugs": [
+        "ASPIRIN",
+        "CLONIDINE",
+        "HYPERICIN",
+        "IBUPROFEN",
+        "COZAAR",
+        "SINGULAIR",
+        "TRILAFON",
+        "VIOXX",
+        "ARTANE"
+      ],
+      "reactions": [
+        "BRONCHITIS",
+        "GASTROINTESTINAL DISORDER",
+        "IRRITABILITY",
+        "SINUSITIS"
+      ],
+      "report_id": "4369820-6"
+    },
+    {
+      "drugs": [
+        "TYLENOL",
+        "VICODIN",
+        "AMOXICILLIN",
+        "ASPIRIN",
+        "TENORMIN",
+        "ZITHROMAX",
+        "WELLBUTRIN",
+        "CELEXA",
+        "PLAVIX",
+        "BENADRYL",
+        "PREMARIN",
+        "NEURONTIN",
+        "GLUCOSAMINE",
+        "HYPERICIN",
+        "IBUPROFEN",
+        "CLARITIN",
+        "ATIVAN",
+        "MECLIZINE",
+        "SKELAXIN",
+        "UNIVASC",
+        "NAPROXEN",
+        "RANITIDINE",
+        "VIOXX",
+        "VIOXX",
+        "TEMAZEPAM",
+        "TRAZODONE HYDROCHLORIDE",
+        "EFFEXOR XR",
+        "AMBIEN"
+      ],
+      "reactions": [
+        "ADVERSE EVENT",
+        "BLOOD TESTOSTERONE DECREASED",
+        "CEREBROVASCULAR ACCIDENT",
+        "CHRONIC FATIGUE SYNDROME",
+        "ENCEPHALITIS VIRAL",
+        "HYPERTENSION",
+        "HYPONATRAEMIA",
+        "JOINT SPRAIN",
+        "MENTAL DISORDER",
+        "MIGRAINE",
+        "OTITIS MEDIA",
+        "TEMPOROMANDIBULAR JOINT SYNDROME",
+        "TRANSIENT ISCHAEMIC ATTACK",
+        "TRI-IODOTHYRONINE FREE INCREASED",
+        "VERTIGO"
+      ],
+      "report_id": "4467437-6"
+    },
+    {
+      "drugs": [
+        "VIOXX",
+        "ASPIRIN",
+        "METHAQUALONE HYDROCHLORIDE",
+        "THIORIDAZINE",
+        "PIRETANIDE AND RAMIPRIL",
+        "PANTOPRAZOLE",
+        "LORAZEPAM",
+        "CALCIUM CARBONATE AND CHOLECALCIFEROL",
+        "BETAHISTINE HYDROCHLORIDE",
+        "HYPERICIN",
+        "CLOMETHIAZOLE EDISYLATE"
+      ],
+      "reactions": [
+        "ANAEMIA",
+        "HAEMATEMESIS",
+        "OESOPHAGITIS"
+      ],
+      "report_id": "4743093-4"
+    },
+    {
+      "drugs": [
+        "VIOXX",
+        "VIOXX",
+        "IBUPROFEN",
+        "HYPERICIN",
+        "HORMONES (UNSPECIFIED)"
+      ],
+      "reactions": [
+        "DEEP VEIN THROMBOSIS",
+        "LYMPHOEDEMA",
+        "THROMBOSIS",
+        "VENOUS THROMBOSIS"
+      ],
+      "report_id": "4711329-1"
+    },
+    {
+      "drugs": [
+        "VIOXX",
+        "VIOXX",
+        "ASPIRIN",
+        "HYPERICIN",
+        "CARVEDILOL",
+        "SALVIA",
+        "TRAMADOL HYDROCHLORIDE",
+        "METOCLOPRAMIDE HYDROCHLORIDE",
+        "AMPHOTERICIN B",
+        "CIPROFLOXACIN HYDROCHLORIDE",
+        "TRAMADOL HYDROCHLORIDE",
+        "LACTOBACILLUS HELVETICUS (AS DRUG)",
+        "LACTOBACILLUS ACIDOPHILUS (AS DRUG)",
+        "SACCHAROMYCES BOULARDII (AS DRUG)",
+        "ESCHERICHIA COLI (AS DRUG)",
+        "[THERAPY UNSPECIFIED]"
+      ],
+      "reactions": [
+        "ATRIAL FIBRILLATION",
+        "COLITIS",
+        "CORONARY ARTERY OCCLUSION",
+        "DEPRESSION",
+        "DIARRHOEA",
+        "DIZZINESS",
+        "DYSPEPSIA",
+        "FUNGAL INFECTION",
+        "GASTROENTERITIS",
+        "GASTROINTESTINAL DISORDER",
+        "HERPES ZOSTER",
+        "HYPERTENSION",
+        "MYOCARDIAL INFARCTION",
+        "NAUSEA",
+        "PANIC DISORDER",
+        "VENTRICULAR FIBRILLATION"
+      ],
+      "report_id": "4668066-1"
+    },
+    {
+      "drugs": [
+        "FOSAMAX",
+        "PREDNISONE",
+        "VITAMIN D (UNSPECIFIED)",
+        "VITAMINS (UNSPECIFIED)",
+        "CYANOCOBALAMIN",
+        "FERROUS SULFATE",
+        "ASCORBIC ACID",
+        "CALCIUM (UNSPECIFIED)",
+        "VITAMIN E",
+        "ORTHO TRI-CYCLEN",
+        "BUDESONIDE",
+        "SALMETEROL",
+        "ACETAMINOPHEN",
+        "THEOPHYLLINE",
+        "FEXOFENADINE HYDROCHLORIDE",
+        "GABAPENTIN",
+        "FUROSEMIDE",
+        "COMBIVENT",
+        "HYPERICIN",
+        "DOXEPIN HYDROCHLORIDE",
+        "CLONAZEPAM",
+        "GINKGO BILOBA EXTRACT",
+        "ALBUTEROL",
+        "RABEPRAZOLE SODIUM",
+        "GLUCOSAMINE SULFATE"
+      ],
+      "reactions": [
+        "OSTEOMALACIA"
+      ],
+      "report_id": "4545478-8"
+    },
+    {
+      "drugs": [
+        "VIOXX",
+        "HYPERICIN",
+        "GLIMEPIRIDE",
+        "AMITRIPTYLINE HYDROCHLORIDE",
+        "BETAXOLOL HYDROCHLORIDE",
+        "HYDROCHLOROTHIAZIDE AND VALSARTAN",
+        "DICLOFENAC"
+      ],
+      "reactions": [
+        "ANXIETY",
+        "FEELING HOT AND COLD",
+        "HYPERVENTILATION",
+        "HYPOTENSION",
+        "PARAESTHESIA",
+        "SYNCOPE",
+        "VERTIGO"
+      ],
+      "report_id": "4558924-0"
+    },
+    {
+      "drugs": [
+        "VIOXX",
+        "VIOXX",
+        "VIOXX",
+        "VIOXX",
+        "TRAMADOL HYDROCHLORIDE",
+        "CIMICIFUGA AND HYPERICIN",
+        "CELANDINE",
+        "TIBOLONE",
+        "TIBOLONE"
+      ],
+      "reactions": [
+        "ABDOMINAL PAIN LOWER",
+        "ACUTE CORONARY SYNDROME",
+        "BRONCHITIS",
+        "CORONARY ARTERY DISEASE",
+        "DYSPNOEA EXERTIONAL",
+        "HYPERTENSION",
+        "MENORRHAGIA",
+        "METRORRHAGIA",
+        "MYOCARDIAL INFARCTION",
+        "OEDEMA PERIPHERAL",
+        "OVARIAN CYST"
+      ],
+      "report_id": "4937495-0"
+    },
+    {
+      "drugs": [
+        "VIOXX",
+        "VIOXX",
+        "LIPITOR",
+        "KEFLEX",
+        "ZYRTEC",
+        "SYNVISC",
+        "SYNVISC",
+        "ASPIRIN",
+        "VOLTAREN",
+        "HYPERICIN"
+      ],
+      "reactions": [
+        "ANXIETY",
+        "BACK DISORDER",
+        "COAGULOPATHY",
+        "CORONARY ARTERY THROMBOSIS",
+        "HYPERTENSION",
+        "MYOCARDIAL INFARCTION",
+        "SLEEP APNOEA SYNDROME",
+        "SPINAL CORD DISORDER",
+        "STAPHYLOCOCCAL INFECTION",
+        "SYNOVIAL CYST"
+      ],
+      "report_id": "4765310-7"
+    },
+    {
+      "drugs": [
+        "VIOXX",
+        "TYLENOL",
+        "METFORMIN HYDROCHLORIDE",
+        "ATENOLOL MSD",
+        "PLAVIX",
+        "ZOCOR",
+        "NAPROSYN",
+        "PREMPRO",
+        "LUPRON",
+        "GINSENG",
+        "GINKGO BILOBA EXTRACT",
+        "HYPERICIN",
+        "GLUCOTROL"
+      ],
+      "reactions": [
+        "ABDOMINAL PAIN UPPER",
+        "ANGINA UNSTABLE",
+        "BRAIN STEM INFARCTION",
+        "CORONARY ARTERY DISEASE",
+        "HEADACHE",
+        "HYPERTENSION",
+        "MYOCARDIAL INFARCTION",
+        "MYOCARDIAL ISCHAEMIA",
+        "NAUSEA",
+        "OEDEMA PERIPHERAL",
+        "RHINORRHOEA"
+      ],
+      "report_id": "4700666-2"
+    },
+    {
+      "drugs": [
+        "VIOXX",
+        "NEBIVOLOL HYDROCHLORIDE",
+        "HYPERICIN",
+        "RISEDRONATE SODIUM",
+        "VALSARTAN"
+      ],
+      "reactions": [
+        "ALANINE AMINOTRANSFERASE INCREASED",
+        "ANXIETY DISORDER",
+        "BALANCE DISORDER",
+        "CEREBROVASCULAR ACCIDENT",
+        "CONTUSION",
+        "DIZZINESS",
+        "DYSPHAGIA",
+        "GAMMA-GLUTAMYLTRANSFERASE INCREASED",
+        "HAEMORRHOIDS",
+        "HYPERTENSIVE HEART DISEASE",
+        "HYPOACUSIS",
+        "PARAESTHESIA",
+        "SYNCOPE",
+        "TRANSIENT ISCHAEMIC ATTACK"
+      ],
+      "report_id": "4758142-7"
+    },
+    {
+      "drugs": [
+        "VIOXX",
+        "[THERAPY UNSPECIFIED]",
+        "INSULIN R (INSULIN HUMAN)",
+        "HUMULIN L (INSULIN HUMAN ZINC)",
+        "ECHINACEA",
+        "CALCIUM (UNSPECIFIED)",
+        "CRANBERRY EXTRACT",
+        "ALOE",
+        "ASCORBIC ACID",
+        "ASPIRIN",
+        "HYPERICIN",
+        "NITROSTAT",
+        "HYDROCODONE BITARTRATE",
+        "IBUPROFEN"
+      ],
+      "reactions": [
+        "DYSPNOEA",
+        "MYOCARDIAL INFARCTION",
+        "PNEUMONIA",
+        "SUDDEN DEATH"
+      ],
+      "report_id": "4868339-3"
+    },
+    {
+      "drugs": [
+        "VIOXX",
+        "TAB 0663-BLINDED THERAPY",
+        "TAB BLINDED THERAPY",
+        "HYPERICIN",
+        "LISINOPRIL",
+        "PIRETANIDE",
+        "PREDNISOLONE",
+        "SULFASALAZINE",
+        "THEOPHYLLINE"
+      ],
+      "reactions": [
+        "APHASIA",
+        "CEREBRAL ARTERY STENOSIS",
+        "DYSPEPSIA",
+        "ELECTROCARDIOGRAM ABNORMAL",
+        "HEMIPARESIS",
+        "NUCLEAR MAGNETIC RESONANCE IMAGING ABNORMAL",
+        "PSYCHOTIC DISORDER",
+        "SPEECH DISORDER",
+        "TRANSIENT ISCHAEMIC ATTACK"
+      ],
+      "report_id": "4656394-5"
+    },
+    {
+      "drugs": [
+        "TEVETEN",
+        "SIMVASTATIN",
+        "HYPERICIN",
+        "BISOPROLOL"
+      ],
+      "reactions": [
+        "NO ADVERSE EFFECT"
+      ],
+      "report_id": "4795013-4"
+    },
+    {
+      "drugs": [
+        "VIDEX",
+        "SUSTIVA",
+        "ZIDOVUDINE",
+        "ZALCITABINE",
+        "LAMIVUDINE",
+        "INVIRASE",
+        "RITONAVIR",
+        "NELFINAVIR",
+        "INDINIVIR SULFATE",
+        "KALETRA",
+        "ABACAVIR",
+        "TENOFOVIR",
+        "PROLEUKIN",
+        "METAMIZOL",
+        "VALORON N",
+        "RANITIDINE",
+        "PAROXETINE HCL",
+        "ZOLPIDEM",
+        "HYPERICIN"
+      ],
+      "reactions": [
+        "ABDOMINAL PAIN",
+        "ANXIETY",
+        "BLOOD BILIRUBIN INCREASED",
+        "BLOOD CREATINE INCREASED",
+        "BODY TEMPERATURE INCREASED",
+        "BONE PAIN",
+        "COLITIS ULCERATIVE",
+        "DEHYDRATION",
+        "DEPRESSION",
+        "EROSIVE OESOPHAGITIS",
+        "FIBROSARCOMA",
+        "HAEMOGLOBIN INCREASED",
+        "HEPATIC ENZYME INCREASED",
+        "HEPATIC STEATOSIS",
+        "HYPERCHOLESTEROLAEMIA",
+        "HYPERTRIGLYCERIDAEMIA",
+        "LIPOATROPHY",
+        "NAUSEA",
+        "SPLENOMEGALY",
+        "THROMBOCYTHAEMIA",
+        "VOMITING"
+      ],
+      "report_id": "4954422-0"
+    },
+    {
+      "drugs": [
+        "PRINIVIL",
+        "PRINIVIL",
+        "PRINIVIL",
+        "REMERON",
+        "PRILOSEC",
+        "ZOCOR",
+        "SUCRALFATE",
+        "TENORMIN",
+        "ISMO",
+        "LORAZEPAM",
+        "HYPERICIN",
+        "ASPIRIN",
+        "ALPRAZOLAM",
+        "K-DUR 10",
+        "NORVASC",
+        "NORVASC",
+        "DEPAKOTE",
+        "LUVOX",
+        "ZYBAN"
+      ],
+      "reactions": [
+        "BIPOLAR DISORDER",
+        "CHEST PAIN",
+        "DRUG INTERACTION",
+        "NIGHTMARE",
+        "RENAL ARTERY STENOSIS",
+        "RENAL DISORDER"
+      ],
+      "report_id": "5629726-9"
+    }
+  ],
+  "confidence": "low",
+  "note": "Co-occurrence signals only. Not a confirmed interaction source. Verify against NIH ODS, MedlinePlus, or PubMed before using."
+}
