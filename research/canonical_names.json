@@ -1,0 +1,429 @@
+{
+  "_comment": "Keys are canonical names (lowercase_underscores, NIH ODS authority per D-13). Values are alias arrays. Every compound encountered during extraction MUST appear here before a record is written.",
+  "vitamin_d3": [
+    "cholecalciferol",
+    "vitamin d",
+    "vitamin d3",
+    "vitamin d-3",
+    "calcitriol"
+  ],
+  "magnesium": [
+    "magnesium glycinate",
+    "magnesium citrate",
+    "magnesium oxide",
+    "mag",
+    "magnesium bisglycinate",
+    "magnesium malate",
+    "magnesium l-threonate"
+  ],
+  "omega_3_fatty_acids": [
+    "fish oil",
+    "omega-3",
+    "omega 3",
+    "epa",
+    "dha",
+    "epa/dha",
+    "fish oil concentrate",
+    "omega-3 fatty acids"
+  ],
+  "vitamin_c": [
+    "ascorbic acid",
+    "ascorbate",
+    "l-ascorbic acid",
+    "vitamin c",
+    "sodium ascorbate",
+    "calcium ascorbate"
+  ],
+  "vitamin_b12": [
+    "cobalamin",
+    "cyanocobalamin",
+    "methylcobalamin",
+    "adenosylcobalamin",
+    "vitamin b-12",
+    "vitamin b 12"
+  ],
+  "zinc": [
+    "zinc gluconate",
+    "zinc picolinate",
+    "zinc citrate",
+    "zinc sulfate",
+    "zinc acetate"
+  ],
+  "probiotic": [
+    "lactobacillus",
+    "bifidobacterium",
+    "probiotic supplement",
+    "probiotics",
+    "lactobacillus acidophilus",
+    "lactobacillus rhamnosus"
+  ],
+  "melatonin": [
+    "n-acetyl-5-methoxytryptamine"
+  ],
+  "ashwagandha": [
+    "withania somnifera",
+    "indian ginseng",
+    "winter cherry"
+  ],
+  "coenzyme_q10": [
+    "coq10",
+    "ubiquinol",
+    "ubiquinone",
+    "co-enzyme q10",
+    "co q10",
+    "coenzyme q-10"
+  ],
+  "iron": [
+    "ferrous sulfate",
+    "ferrous gluconate",
+    "ferric iron",
+    "ferrous fumarate",
+    "iron supplement",
+    "ferrous bisglycinate"
+  ],
+  "vitamin_e": [
+    "tocopherol",
+    "alpha-tocopherol",
+    "tocotrienol",
+    "d-alpha tocopherol",
+    "dl-alpha tocopherol",
+    "mixed tocopherols"
+  ],
+  "turmeric_curcumin": [
+    "turmeric",
+    "curcumin",
+    "curcuma longa",
+    "diferuloylmethane"
+  ],
+  "vitamin_a": [
+    "retinol",
+    "retinyl palmitate",
+    "retinyl acetate",
+    "beta-carotene",
+    "preformed vitamin a",
+    "provitamin a"
+  ],
+  "collagen": [
+    "collagen peptides",
+    "hydrolyzed collagen",
+    "collagen protein",
+    "marine collagen",
+    "bovine collagen",
+    "type i collagen",
+    "type ii collagen"
+  ],
+  "biotin": [
+    "vitamin h",
+    "vitamin b7",
+    "d-biotin",
+    "coenzyme r"
+  ],
+  "vitamin_k2": [
+    "menaquinone",
+    "mk-7",
+    "mk-4",
+    "vitamin k",
+    "phylloquinone",
+    "menatetrenone",
+    "menaquinone-7"
+  ],
+  "folic_acid": [
+    "folate",
+    "vitamin b9",
+    "l-methylfolate",
+    "5-mthf",
+    "methylfolate",
+    "pteroylglutamic acid"
+  ],
+  "vitamin_b6": [
+    "pyridoxine",
+    "pyridoxal",
+    "pyridoxamine",
+    "pyridoxal-5-phosphate",
+    "p5p",
+    "vitamin b-6"
+  ],
+  "calcium": [
+    "calcium carbonate",
+    "calcium citrate",
+    "calcium gluconate",
+    "calcium phosphate",
+    "calcium malate"
+  ],
+  "vitamin_b_complex": [
+    "b complex",
+    "b-complex",
+    "vitamin b complex",
+    "b vitamins",
+    "b-vitamins",
+    "b vitamin complex"
+  ],
+  "green_tea_extract": [
+    "egcg",
+    "epigallocatechin gallate",
+    "camellia sinensis",
+    "green tea",
+    "green tea polyphenols"
+  ],
+  "berberine": [
+    "berberine hcl",
+    "berberine hydrochloride",
+    "berberis"
+  ],
+  "alpha_lipoic_acid": [
+    "ala",
+    "thioctic acid",
+    "alpha lipoic acid",
+    "lipoic acid",
+    "r-lipoic acid",
+    "r-ala"
+  ],
+  "ginkgo_biloba": [
+    "ginkgo",
+    "maidenhair tree",
+    "ginkgo biloba extract",
+    "egb 761",
+    "ginkgo biloba leaf extract"
+  ],
+  "st_johns_wort": [
+    "hypericum perforatum",
+    "st. john's wort",
+    "hypericin",
+    "hyperforin",
+    "saint john's wort"
+  ],
+  "milk_thistle": [
+    "silymarin",
+    "silybum marianum",
+    "milk thistle extract",
+    "silybin",
+    "silibinin"
+  ],
+  "valerian": [
+    "valeriana officinalis",
+    "valerian root",
+    "valerian extract",
+    "valerenic acid"
+  ],
+  "black_cohosh": [
+    "cimicifuga racemosa",
+    "actaea racemosa",
+    "black cohosh extract",
+    "remifemin"
+  ],
+  "echinacea": [
+    "echinacea purpurea",
+    "echinacea angustifolia",
+    "purple coneflower",
+    "echinacea extract"
+  ],
+  "glucosamine": [
+    "glucosamine sulfate",
+    "glucosamine hcl",
+    "glucosamine hydrochloride",
+    "n-acetyl glucosamine"
+  ],
+  "chondroitin": [
+    "chondroitin sulfate",
+    "chondroitin sulfate sodium",
+    "bovine chondroitin"
+  ],
+  "garlic": [
+    "allium sativum",
+    "garlic extract",
+    "aged garlic extract",
+    "allicin",
+    "garlic oil",
+    "kyolic garlic"
+  ],
+  "saw_palmetto": [
+    "serenoa repens",
+    "sabal palm",
+    "saw palmetto extract",
+    "saw palmetto berry"
+  ],
+  "rhodiola_rosea": [
+    "arctic root",
+    "golden root",
+    "rhodiola",
+    "rosavin",
+    "salidroside",
+    "rhodiola extract"
+  ],
+  "5_htp": [
+    "5-hydroxytryptophan",
+    "5-htp",
+    "l-5-htp",
+    "oxitriptan"
+  ],
+  "elderberry": [
+    "sambucus nigra",
+    "black elderberry",
+    "elderberry extract",
+    "sambucol",
+    "elderberry syrup"
+  ],
+  "creatine": [
+    "creatine monohydrate",
+    "creatine ethyl ester",
+    "creatine hcl",
+    "creatine phosphate",
+    "phosphocreatine"
+  ],
+  "nac": [
+    "n-acetyl cysteine",
+    "n-acetylcysteine",
+    "acetylcysteine",
+    "n-acetyl-l-cysteine"
+  ],
+  "selenium": [
+    "selenium yeast",
+    "selenomethionine",
+    "sodium selenite",
+    "selenium selenate",
+    "l-selenomethionine"
+  ],
+  "copper": [
+    "copper gluconate",
+    "copper sulfate",
+    "cupric sulfate",
+    "copper bisglycinate"
+  ],
+  "potassium": [
+    "potassium chloride",
+    "potassium citrate",
+    "potassium gluconate",
+    "potassium bicarbonate"
+  ],
+  "phosphatidylserine": [
+    "ps",
+    "phosphatidyl serine",
+    "soy phosphatidylserine",
+    "sunflower phosphatidylserine"
+  ],
+  "lions_mane": [
+    "hericium erinaceus",
+    "lion's mane mushroom",
+    "lion's mane extract",
+    "yamabushitake"
+  ],
+  "iodine": [
+    "potassium iodide",
+    "sodium iodide",
+    "kelp",
+    "iodide",
+    "lugol's iodine"
+  ],
+  "niacin_vitamin_b3": [
+    "niacin",
+    "nicotinic acid",
+    "nicotinamide",
+    "vitamin b3",
+    "niacinamide",
+    "flush-free niacin",
+    "inositol hexanicotinate"
+  ],
+  "nmn": [
+    "nicotinamide mononucleotide",
+    "beta-nmn",
+    "b-nmn",
+    "nad+ precursor"
+  ],
+  "chromium": [
+    "chromium picolinate",
+    "chromium polynicotinate",
+    "chromium gtf",
+    "trivalent chromium"
+  ],
+  "resveratrol": [
+    "trans-resveratrol",
+    "resveratrol extract",
+    "polygonum cuspidatum",
+    "grape skin extract"
+  ],
+  "quercetin": [
+    "quercetin dihydrate",
+    "quercetin phytosome",
+    "bioflavonoid",
+    "quercetin 3-glucoside"
+  ],
+  "atorvastatin": [
+    "lipitor",
+    "atorvastatin calcium"
+  ],
+  "metformin": [
+    "glucophage",
+    "fortamet",
+    "metformin hydrochloride",
+    "metformin hcl"
+  ],
+  "levothyroxine": [
+    "synthroid",
+    "levoxyl",
+    "tirosint"
+  ],
+  "lisinopril": [
+    "zestril",
+    "prinivil"
+  ],
+  "amlodipine": [
+    "norvasc"
+  ],
+  "metoprolol": [
+    "lopressor",
+    "toprol xl",
+    "toprol-xl"
+  ],
+  "omeprazole": [
+    "prilosec"
+  ],
+  "losartan": [
+    "cozaar"
+  ],
+  "sertraline": [
+    "zoloft",
+    "sertraline hcl"
+  ],
+  "gabapentin": [
+    "neurontin"
+  ],
+  "escitalopram": [
+    "lexapro",
+    "escitalopram oxalate"
+  ],
+  "rosuvastatin": [
+    "crestor"
+  ],
+  "pantoprazole": [
+    "protonix"
+  ],
+  "hydrochlorothiazide": [
+    "microzide",
+    "hctz"
+  ],
+  "bupropion": [
+    "wellbutrin",
+    "zyban",
+    "wellbutrin xl",
+    "wellbutrin sr"
+  ],
+  "warfarin": [
+    "coumadin"
+  ],
+  "semaglutide": [
+    "ozempic",
+    "wegovy",
+    "rybelsus"
+  ],
+  "fluoxetine": [
+    "prozac",
+    "sarafem"
+  ],
+  "amoxicillin": [
+    "amoxil",
+    "trimox"
+  ],
+  "montelukast": [
+    "singulair"
+  ]
+}

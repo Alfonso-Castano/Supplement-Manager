@@ -1,0 +1,668 @@
+{
+  "supplements": [
+    {
+      "canonical_name": "vitamin_d3",
+      "item_type": "supplement",
+      "category": "vitamin",
+      "nih_ods_url": "https://ods.od.nih.gov/factsheets/VitaminD-HealthProfessional/",
+      "msk_url": null,
+      "notes": null
+    },
+    {
+      "canonical_name": "magnesium",
+      "item_type": "supplement",
+      "category": "mineral",
+      "nih_ods_url": "https://ods.od.nih.gov/factsheets/Magnesium-HealthProfessional/",
+      "msk_url": null,
+      "notes": null
+    },
+    {
+      "canonical_name": "omega_3_fatty_acids",
+      "item_type": "supplement",
+      "category": "fatty_acid",
+      "nih_ods_url": "https://ods.od.nih.gov/factsheets/Omega3FattyAcids-HealthProfessional/",
+      "msk_url": null,
+      "notes": null
+    },
+    {
+      "canonical_name": "vitamin_c",
+      "item_type": "supplement",
+      "category": "vitamin",
+      "nih_ods_url": "https://ods.od.nih.gov/factsheets/VitaminC-HealthProfessional/",
+      "msk_url": null,
+      "notes": null
+    },
+    {
+      "canonical_name": "vitamin_b12",
+      "item_type": "supplement",
+      "category": "vitamin",
+      "nih_ods_url": "https://ods.od.nih.gov/factsheets/VitaminB12-HealthProfessional/",
+      "msk_url": null,
+      "notes": null
+    },
+    {
+      "canonical_name": "zinc",
+      "item_type": "supplement",
+      "category": "mineral",
+      "nih_ods_url": "https://ods.od.nih.gov/factsheets/Zinc-HealthProfessional/",
+      "msk_url": null,
+      "notes": null
+    },
+    {
+      "canonical_name": "probiotic",
+      "item_type": "supplement",
+      "category": "probiotic",
+      "nih_ods_url": "https://ods.od.nih.gov/factsheets/Probiotics-HealthProfessional/",
+      "msk_url": null,
+      "notes": "Single canonical entry representing common Lactobacillus/Bifidobacterium strains per D-13. Known interactions (antibiotic timing) apply generically."
+    },
+    {
+      "canonical_name": "melatonin",
+      "item_type": "supplement",
+      "category": "hormone",
+      "nih_ods_url": "https://ods.od.nih.gov/factsheets/Melatonin-HealthProfessional/",
+      "msk_url": null,
+      "notes": null
+    },
+    {
+      "canonical_name": "ashwagandha",
+      "item_type": "supplement",
+      "category": "botanical",
+      "nih_ods_url": "https://ods.od.nih.gov/factsheets/Ashwagandha-HealthProfessional/",
+      "msk_url": null,
+      "notes": null
+    },
+    {
+      "canonical_name": "coenzyme_q10",
+      "item_type": "supplement",
+      "category": "antioxidant",
+      "nih_ods_url": "https://ods.od.nih.gov/factsheets/Coenzyme_Q10-HealthProfessional/",
+      "msk_url": null,
+      "notes": null
+    },
+    {
+      "canonical_name": "iron",
+      "item_type": "supplement",
+      "category": "mineral",
+      "nih_ods_url": "https://ods.od.nih.gov/factsheets/Iron-HealthProfessional/",
+      "msk_url": null,
+      "notes": null
+    },
+    {
+      "canonical_name": "vitamin_e",
+      "item_type": "supplement",
+      "category": "vitamin",
+      "nih_ods_url": "https://ods.od.nih.gov/factsheets/VitaminE-HealthProfessional/",
+      "msk_url": null,
+      "notes": null
+    },
+    {
+      "canonical_name": "turmeric_curcumin",
+      "item_type": "supplement",
+      "category": "botanical",
+      "nih_ods_url": null,
+      "msk_url": "https://www.mskcc.org/cancer-care/integrative-medicine/herbs/turmeric",
+      "notes": "NIH ODS covers turmeric via MedlinePlus; MSK is primary source"
+    },
+    {
+      "canonical_name": "vitamin_a",
+      "item_type": "supplement",
+      "category": "vitamin",
+      "nih_ods_url": "https://ods.od.nih.gov/factsheets/VitaminA-HealthProfessional/",
+      "msk_url": null,
+      "notes": null
+    },
+    {
+      "canonical_name": "collagen",
+      "item_type": "supplement",
+      "category": "amino_acid",
+      "nih_ods_url": null,
+      "msk_url": "https://www.mskcc.org/cancer-care/integrative-medicine/herbs/collagen",
+      "notes": "No NIH ODS fact sheet; MSK is primary source"
+    },
+    {
+      "canonical_name": "biotin",
+      "item_type": "supplement",
+      "category": "vitamin",
+      "nih_ods_url": "https://ods.od.nih.gov/factsheets/Biotin-HealthProfessional/",
+      "msk_url": null,
+      "notes": "Notable for lab test interference (D-09 interaction relevance)"
+    },
+    {
+      "canonical_name": "vitamin_k2",
+      "item_type": "supplement",
+      "category": "vitamin",
+      "nih_ods_url": "https://ods.od.nih.gov/factsheets/VitaminK-HealthProfessional/",
+      "msk_url": null,
+      "notes": "K2 (menaquinone); NIH ODS covers all vitamin K forms together"
+    },
+    {
+      "canonical_name": "folic_acid",
+      "item_type": "supplement",
+      "category": "vitamin",
+      "nih_ods_url": "https://ods.od.nih.gov/factsheets/Folate-HealthProfessional/",
+      "msk_url": null,
+      "notes": "Critical for methotrexate interactions"
+    },
+    {
+      "canonical_name": "vitamin_b6",
+      "item_type": "supplement",
+      "category": "vitamin",
+      "nih_ods_url": "https://ods.od.nih.gov/factsheets/VitaminB6-HealthProfessional/",
+      "msk_url": null,
+      "notes": "Notable for levodopa interactions"
+    },
+    {
+      "canonical_name": "calcium",
+      "item_type": "supplement",
+      "category": "mineral",
+      "nih_ods_url": "https://ods.od.nih.gov/factsheets/Calcium-HealthProfessional/",
+      "msk_url": null,
+      "notes": null
+    },
+    {
+      "canonical_name": "vitamin_b_complex",
+      "item_type": "supplement",
+      "category": "vitamin",
+      "nih_ods_url": null,
+      "msk_url": null,
+      "notes": "Composite product; individual B vitamins have separate ODS entries. Interactions apply to constituent vitamins."
+    },
+    {
+      "canonical_name": "green_tea_extract",
+      "item_type": "supplement",
+      "category": "botanical",
+      "nih_ods_url": null,
+      "msk_url": "https://www.mskcc.org/cancer-care/integrative-medicine/herbs/green-tea",
+      "notes": null
+    },
+    {
+      "canonical_name": "berberine",
+      "item_type": "supplement",
+      "category": "botanical",
+      "nih_ods_url": null,
+      "msk_url": "https://www.mskcc.org/cancer-care/integrative-medicine/herbs/berberine",
+      "notes": "Known drug interactions with metformin (additive effect)"
+    },
+    {
+      "canonical_name": "alpha_lipoic_acid",
+      "item_type": "supplement",
+      "category": "antioxidant",
+      "nih_ods_url": null,
+      "msk_url": "https://www.mskcc.org/cancer-care/integrative-medicine/herbs/alpha-lipoic-acid",
+      "notes": "Interactions with diabetes medications"
+    },
+    {
+      "canonical_name": "ginkgo_biloba",
+      "item_type": "supplement",
+      "category": "botanical",
+      "nih_ods_url": "https://ods.od.nih.gov/factsheets/GinkgoBiloba-HealthProfessional/",
+      "msk_url": null,
+      "notes": "Major anticoagulant interactions"
+    },
+    {
+      "canonical_name": "st_johns_wort",
+      "item_type": "supplement",
+      "category": "botanical",
+      "nih_ods_url": "https://ods.od.nih.gov/factsheets/StJohnsWort-HealthProfessional/",
+      "msk_url": null,
+      "notes": "Major CYP3A4 inducer — broad drug interactions"
+    },
+    {
+      "canonical_name": "milk_thistle",
+      "item_type": "supplement",
+      "category": "botanical",
+      "nih_ods_url": null,
+      "msk_url": "https://www.mskcc.org/cancer-care/integrative-medicine/herbs/milk-thistle",
+      "notes": "CYP450 interactions"
+    },
+    {
+      "canonical_name": "valerian",
+      "item_type": "supplement",
+      "category": "botanical",
+      "nih_ods_url": "https://ods.od.nih.gov/factsheets/Valerian-HealthProfessional/",
+      "msk_url": null,
+      "notes": "CNS depressant interactions"
+    },
+    {
+      "canonical_name": "black_cohosh",
+      "item_type": "supplement",
+      "category": "botanical",
+      "nih_ods_url": "https://ods.od.nih.gov/factsheets/BlackCohosh-HealthProfessional/",
+      "msk_url": null,
+      "notes": "Hormonal medication interactions"
+    },
+    {
+      "canonical_name": "echinacea",
+      "item_type": "supplement",
+      "category": "botanical",
+      "nih_ods_url": "https://ods.od.nih.gov/factsheets/Echinacea-HealthProfessional/",
+      "msk_url": null,
+      "notes": "Immunosuppressant interactions"
+    },
+    {
+      "canonical_name": "glucosamine",
+      "item_type": "supplement",
+      "category": "amino_acid",
+      "nih_ods_url": "https://ods.od.nih.gov/factsheets/Glucosamine-HealthProfessional/",
+      "msk_url": null,
+      "notes": "Anticoagulant interactions"
+    },
+    {
+      "canonical_name": "chondroitin",
+      "item_type": "supplement",
+      "category": "amino_acid",
+      "nih_ods_url": "https://ods.od.nih.gov/factsheets/Glucosamine-HealthProfessional/",
+      "msk_url": null,
+      "notes": "Often paired with glucosamine; same ODS fact sheet"
+    },
+    {
+      "canonical_name": "garlic",
+      "item_type": "supplement",
+      "category": "botanical",
+      "nih_ods_url": "https://ods.od.nih.gov/factsheets/Garlic-HealthProfessional/",
+      "msk_url": null,
+      "notes": "Anticoagulant and antihypertensive interactions"
+    },
+    {
+      "canonical_name": "saw_palmetto",
+      "item_type": "supplement",
+      "category": "botanical",
+      "nih_ods_url": null,
+      "msk_url": "https://www.mskcc.org/cancer-care/integrative-medicine/herbs/saw-palmetto",
+      "notes": "Anticoagulant and hormone interactions"
+    },
+    {
+      "canonical_name": "rhodiola_rosea",
+      "item_type": "supplement",
+      "category": "botanical",
+      "nih_ods_url": null,
+      "msk_url": "https://www.mskcc.org/cancer-care/integrative-medicine/herbs/rhodiola",
+      "notes": "Adaptogen; emerging interaction data"
+    },
+    {
+      "canonical_name": "5_htp",
+      "item_type": "supplement",
+      "category": "amino_acid",
+      "nih_ods_url": null,
+      "msk_url": "https://www.mskcc.org/cancer-care/integrative-medicine/herbs/5-htp-01",
+      "notes": "Serotonin syndrome risk with SSRIs — high priority interaction"
+    },
+    {
+      "canonical_name": "elderberry",
+      "item_type": "supplement",
+      "category": "botanical",
+      "nih_ods_url": null,
+      "msk_url": "https://www.mskcc.org/cancer-care/integrative-medicine/herbs/elderberry",
+      "notes": "Immune modulator; interactions with immunosuppressants"
+    },
+    {
+      "canonical_name": "creatine",
+      "item_type": "supplement",
+      "category": "amino_acid",
+      "nih_ods_url": null,
+      "msk_url": "https://www.mskcc.org/cancer-care/integrative-medicine/herbs/creatine",
+      "notes": "Interactions with diuretics and NSAIDs"
+    },
+    {
+      "canonical_name": "nac",
+      "item_type": "supplement",
+      "category": "amino_acid",
+      "nih_ods_url": null,
+      "msk_url": "https://www.mskcc.org/cancer-care/integrative-medicine/herbs/n-acetyl-cysteine",
+      "notes": "N-acetyl cysteine; interactions with nitroglycerin and antiepileptics"
+    },
+    {
+      "canonical_name": "selenium",
+      "item_type": "supplement",
+      "category": "mineral",
+      "nih_ods_url": "https://ods.od.nih.gov/factsheets/Selenium-HealthProfessional/",
+      "msk_url": null,
+      "notes": "Chemotherapy interactions"
+    },
+    {
+      "canonical_name": "copper",
+      "item_type": "supplement",
+      "category": "mineral",
+      "nih_ods_url": "https://ods.od.nih.gov/factsheets/Copper-HealthProfessional/",
+      "msk_url": null,
+      "notes": "Zinc-copper antagonism"
+    },
+    {
+      "canonical_name": "potassium",
+      "item_type": "supplement",
+      "category": "mineral",
+      "nih_ods_url": "https://ods.od.nih.gov/factsheets/Potassium-HealthProfessional/",
+      "msk_url": null,
+      "notes": "Interactions with ACE inhibitors and diuretics"
+    },
+    {
+      "canonical_name": "phosphatidylserine",
+      "item_type": "supplement",
+      "category": "amino_acid",
+      "nih_ods_url": null,
+      "msk_url": "https://www.mskcc.org/cancer-care/integrative-medicine/herbs/phosphatidylserine",
+      "notes": "Cognitive supplement; anticoagulant interactions"
+    },
+    {
+      "canonical_name": "lions_mane",
+      "item_type": "supplement",
+      "category": "botanical",
+      "nih_ods_url": null,
+      "msk_url": null,
+      "notes": "Emerging supplement; minimal interaction data — may rely on PubMed gap-fill"
+    },
+    {
+      "canonical_name": "iodine",
+      "item_type": "supplement",
+      "category": "mineral",
+      "nih_ods_url": "https://ods.od.nih.gov/factsheets/Iodine-HealthProfessional/",
+      "msk_url": null,
+      "notes": "Thyroid medication interactions"
+    },
+    {
+      "canonical_name": "niacin_vitamin_b3",
+      "item_type": "supplement",
+      "category": "vitamin",
+      "nih_ods_url": "https://ods.od.nih.gov/factsheets/Niacin-HealthProfessional/",
+      "msk_url": null,
+      "notes": "Statin interactions (myopathy risk with high-dose niacin)"
+    },
+    {
+      "canonical_name": "nmn",
+      "item_type": "supplement",
+      "category": "antioxidant",
+      "nih_ods_url": null,
+      "msk_url": null,
+      "notes": "Nicotinamide mononucleotide; emerging longevity supplement; limited interaction data"
+    },
+    {
+      "canonical_name": "chromium",
+      "item_type": "supplement",
+      "category": "mineral",
+      "nih_ods_url": "https://ods.od.nih.gov/factsheets/Chromium-HealthProfessional/",
+      "msk_url": null,
+      "notes": "Interactions with insulin, metformin, antacids; additive effect with berberine for blood sugar"
+    },
+    {
+      "canonical_name": "resveratrol",
+      "item_type": "supplement",
+      "category": "antioxidant",
+      "nih_ods_url": null,
+      "msk_url": "https://www.mskcc.org/cancer-care/integrative-medicine/herbs/resveratrol",
+      "notes": "CYP3A4 inhibitor; interactions with warfarin (anticoagulant potentiation), statins"
+    },
+    {
+      "canonical_name": "quercetin",
+      "item_type": "supplement",
+      "category": "botanical",
+      "nih_ods_url": null,
+      "msk_url": "https://www.mskcc.org/cancer-care/integrative-medicine/herbs/quercetin",
+      "notes": "CYP3A4 inhibitor; interactions with warfarin, cyclosporine, and fluoroquinolone antibiotics"
+    }
+  ],
+  "medications": [
+    {
+      "canonical_name": "atorvastatin",
+      "item_type": "drug",
+      "category": "statin",
+      "brand_aliases": [
+        "Lipitor",
+        "atorvastatin calcium"
+      ],
+      "key_interactions": [
+        "coenzyme_q10",
+        "niacin_vitamin_b3"
+      ]
+    },
+    {
+      "canonical_name": "metformin",
+      "item_type": "drug",
+      "category": "antidiabetic",
+      "brand_aliases": [
+        "Glucophage",
+        "Fortamet",
+        "metformin hydrochloride",
+        "metformin HCl"
+      ],
+      "key_interactions": [
+        "berberine",
+        "vitamin_b12"
+      ]
+    },
+    {
+      "canonical_name": "levothyroxine",
+      "item_type": "drug",
+      "category": "thyroid_hormone",
+      "brand_aliases": [
+        "Synthroid",
+        "Levoxyl",
+        "Tirosint"
+      ],
+      "key_interactions": [
+        "calcium",
+        "iron",
+        "magnesium"
+      ]
+    },
+    {
+      "canonical_name": "lisinopril",
+      "item_type": "drug",
+      "category": "ace_inhibitor",
+      "brand_aliases": [
+        "Zestril",
+        "Prinivil"
+      ],
+      "key_interactions": [
+        "potassium",
+        "garlic",
+        "coenzyme_q10"
+      ]
+    },
+    {
+      "canonical_name": "amlodipine",
+      "item_type": "drug",
+      "category": "calcium_channel_blocker",
+      "brand_aliases": [
+        "Norvasc"
+      ],
+      "key_interactions": [
+        "st_johns_wort",
+        "magnesium"
+      ]
+    },
+    {
+      "canonical_name": "metoprolol",
+      "item_type": "drug",
+      "category": "beta_blocker",
+      "brand_aliases": [
+        "Lopressor",
+        "Toprol XL"
+      ],
+      "key_interactions": [
+        "coenzyme_q10",
+        "garlic"
+      ]
+    },
+    {
+      "canonical_name": "omeprazole",
+      "item_type": "drug",
+      "category": "ppi",
+      "brand_aliases": [
+        "Prilosec"
+      ],
+      "key_interactions": [
+        "magnesium",
+        "vitamin_b12",
+        "iron"
+      ]
+    },
+    {
+      "canonical_name": "losartan",
+      "item_type": "drug",
+      "category": "arb",
+      "brand_aliases": [
+        "Cozaar"
+      ],
+      "key_interactions": [
+        "potassium",
+        "garlic"
+      ]
+    },
+    {
+      "canonical_name": "sertraline",
+      "item_type": "drug",
+      "category": "ssri",
+      "brand_aliases": [
+        "Zoloft",
+        "sertraline HCl"
+      ],
+      "key_interactions": [
+        "5_htp",
+        "st_johns_wort",
+        "omega_3_fatty_acids"
+      ]
+    },
+    {
+      "canonical_name": "gabapentin",
+      "item_type": "drug",
+      "category": "anticonvulsant",
+      "brand_aliases": [
+        "Neurontin"
+      ],
+      "key_interactions": [
+        "magnesium",
+        "nac"
+      ]
+    },
+    {
+      "canonical_name": "escitalopram",
+      "item_type": "drug",
+      "category": "ssri",
+      "brand_aliases": [
+        "Lexapro",
+        "escitalopram oxalate"
+      ],
+      "key_interactions": [
+        "5_htp",
+        "st_johns_wort",
+        "melatonin"
+      ]
+    },
+    {
+      "canonical_name": "rosuvastatin",
+      "item_type": "drug",
+      "category": "statin",
+      "brand_aliases": [
+        "Crestor"
+      ],
+      "key_interactions": [
+        "coenzyme_q10",
+        "niacin_vitamin_b3"
+      ]
+    },
+    {
+      "canonical_name": "pantoprazole",
+      "item_type": "drug",
+      "category": "ppi",
+      "brand_aliases": [
+        "Protonix"
+      ],
+      "key_interactions": [
+        "magnesium",
+        "vitamin_b12"
+      ]
+    },
+    {
+      "canonical_name": "hydrochlorothiazide",
+      "item_type": "drug",
+      "category": "diuretic",
+      "brand_aliases": [
+        "Microzide",
+        "HCTZ"
+      ],
+      "key_interactions": [
+        "potassium",
+        "magnesium",
+        "zinc",
+        "coenzyme_q10"
+      ]
+    },
+    {
+      "canonical_name": "bupropion",
+      "item_type": "drug",
+      "category": "antidepressant",
+      "brand_aliases": [
+        "Wellbutrin",
+        "Zyban"
+      ],
+      "key_interactions": [
+        "valerian",
+        "st_johns_wort"
+      ]
+    },
+    {
+      "canonical_name": "warfarin",
+      "item_type": "drug",
+      "category": "anticoagulant",
+      "brand_aliases": [
+        "Coumadin"
+      ],
+      "key_interactions": [
+        "vitamin_k2",
+        "omega_3_fatty_acids",
+        "ginkgo_biloba",
+        "garlic",
+        "vitamin_e"
+      ]
+    },
+    {
+      "canonical_name": "semaglutide",
+      "item_type": "drug",
+      "category": "glp1_agonist",
+      "brand_aliases": [
+        "Ozempic",
+        "Wegovy"
+      ],
+      "key_interactions": [
+        "berberine"
+      ]
+    },
+    {
+      "canonical_name": "fluoxetine",
+      "item_type": "drug",
+      "category": "ssri",
+      "brand_aliases": [
+        "Prozac"
+      ],
+      "key_interactions": [
+        "5_htp",
+        "st_johns_wort"
+      ]
+    },
+    {
+      "canonical_name": "amoxicillin",
+      "item_type": "drug",
+      "category": "antibiotic",
+      "brand_aliases": [
+        "Amoxil"
+      ],
+      "key_interactions": [
+        "probiotic",
+        "zinc"
+      ]
+    },
+    {
+      "canonical_name": "montelukast",
+      "item_type": "drug",
+      "category": "leukotriene_inhibitor",
+      "brand_aliases": [
+        "Singulair"
+      ],
+      "key_interactions": [
+        "st_johns_wort",
+        "ginkgo_biloba"
+      ]
+    }
+  ]
+}
