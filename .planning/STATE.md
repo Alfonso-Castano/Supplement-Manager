@@ -1,14 +1,14 @@
 ---
 current_phase: "0"
 current_phase_name: "Database Build"
-current_plan: "0 of 4"
+current_plan: "1 of 4"
 total_phases: "10"
-status: "ready_to_execute"
-progress: "[░░░░░░░░░░] 0%"
+status: "in_progress"
+progress: "[█░░░░░░░░░] 3%"
 last_activity: "2026-05-05"
 phase_count: 10
 plan_count: 4
-summary_count: 0
+summary_count: 1
 ---
 
 ## Project Reference
@@ -23,10 +23,10 @@ See: SPEC.md (full project specification)
 ## Current Position
 
 Phase: 0 of 10 (Database Build)  
-Plan: 0 of 0 in current phase  
-Status: Ready to execute  
-Last activity: 2026-05-05 — Planning complete, 4 plans created across 4 waves  
-Progress: [░░░░░░░░░░] 0%
+Plan: 1 of 4 complete in current phase  
+Status: In progress  
+Last activity: 2026-05-05 — Plan 00-01 (Stage 0 Pre-flight) complete; target list approved at D-04 gate  
+Progress: [█░░░░░░░░░] 3%
 
 ---
 
@@ -55,13 +55,20 @@ Progress: [░░░░░░░░░░] 0%
 - D-19: Regional scope is US retail; include traditional medicine if in approved sources
 - D-20: Post-launch updates are on-demand, gap-report driven
 
+### Execution Decisions (Plan 00-01)
+
+- Added chromium, resveratrol, quercetin to reach exactly 50 supplements (plan enumerated 47 unique names; all three additions have known drug interactions and NIH ODS/MSK coverage)
+- Target list approved by user at D-04 gate with no modifications — scope is now locked
+- OPENFDA_API_KEY and NCBI_API_KEY confirmed registered in terminal session (not stored in files per T-0-01)
+- pytest 9.0.2 already installed (not a new install)
+
 ### Pending Todos
 
-None yet.
+- Set OPENFDA_API_KEY and NCBI_API_KEY environment variables before running Plan 00-02 (Stage 1 collection scripts)
 
 ### Blockers / Concerns
 
-None yet.
+None.
 
 ---
 
@@ -73,6 +80,6 @@ None carried forward from previous milestone.
 
 ## Session Continuity
 
-Last session: 2026-05-04  
-Stopped at: Discuss-phase complete for Phase 0; ready to run /gsd-plan-phase 0  
-Resume file: None
+Last session: 2026-05-05  
+Stopped at: Completed 00-01-PLAN.md (Stage 0 Pre-flight); target list approved at D-04 gate  
+Resume file: None — next plan is 00-02-PLAN.md (Stage 1: Collection)

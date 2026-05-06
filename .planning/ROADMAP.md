@@ -34,7 +34,7 @@
 **Plans:** 4 plans
 
 Plans:
-- [ ] 00-01-PLAN.md — Stage 0: Pre-flight (target list, canonical_names, action_templates, utils, test scaffolding, D-04 approval gate)
+- [x] 00-01-PLAN.md — Stage 0: Pre-flight (target list, canonical_names, action_templates, utils, test scaffolding, D-04 approval gate) — COMPLETE 2026-05-05
 - [ ] 00-02-PLAN.md — Stage 1: Collection (NIH ODS + MedlinePlus + MSK + OpenFDA raw files)
 - [ ] 00-03-PLAN.md — Stage 2: Extraction to interactions.json with canonical resolution + timing_properties
 - [ ] 00-04-PLAN.md — Stage 3: Gap analysis, PubMed gap-filling, SQLite compilation, final spot-check
@@ -230,7 +230,7 @@ database/
 
 | Phase | Status | Plans | Completed |
 |-------|--------|-------|-----------|
-| 0 | In progress | 4/0 | — |
+| 0 | In progress | 4/1 | 00-01 (Stage 0 Pre-flight) |
 | 1 | Not started | 0/0 | — |
 | 2 | Not started | 0/0 | — |
 | 3 | Not started | 0/0 | — |
