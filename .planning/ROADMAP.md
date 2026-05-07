@@ -90,6 +90,13 @@ database/
 3. Three-tab navigation shell (Stack / Today / Schedule) renders and navigates without crashes
 4. App icon and launch screen appear on device/simulator
 
+**Plans:** 3 plans
+
+Plans:
+- [ ] 01-01-PLAN.md — Xcode project creation (GUI), bundle ID, deployment target, XCTest target verification
+- [ ] 01-02-PLAN.md — Core Data schema (5 entities), NSManagedObject subclasses, PersistenceController, CoreDataSchemaTests
+- [ ] 01-03-PLAN.md — AppState (@Observable), ContentView (TabView + NavigationStack), placeholder tab views, icon, launch screen
+
 ---
 
 ### Phase 2: Stack & User Setup
