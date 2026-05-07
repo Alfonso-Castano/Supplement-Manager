@@ -1,0 +1,15 @@
+https://pubmed.ncbi.nlm.nih.gov/35527512/
+
+PMID: 35527512
+Title: Renal Transporter-Mediated Drug-Biomarker Interactions of the Endogenous Substrates Creatinine and N(1)-Methylnicotinamide: A PBPK Modeling Approach
+Journal: Drug Metabolism and Disposition. 2022 Jul;50(7):956-968
+DOI: 10.1124/dmd.122.000856
+
+Key findings relevant to NMN (nicotinamide mononucleotide / N1-methylnicotinamide):
+- N1-methylnicotinamide (NMN) is an endogenous substrate of renal organic cation transporters OCT2 and MATE1/2-K
+- Drugs inhibiting these transporters (trimethoprim, pyrimethamine, cimetidine) reduce NMN renal clearance, elevating plasma NMN levels
+- Metformin is also an OCT2/MATE substrate and may interact with NMN at shared renal transport sites
+- Both NMN and metformin affect cellular energy metabolism pathways (NAD+/AMPK); combined use may have complementary effects on glucose regulation
+- Pharmacokinetic modeling indicates transporter-mediated drug-NMN interactions are clinically measurable
+
+Source: PubMed via ESearch/EFetch (stage3 gap-fill, 2026-05-06)

@@ -1,0 +1,15 @@
+https://pubmed.ncbi.nlm.nih.gov/31842490/
+
+PMID: 31842490
+Title: The Effect of Mushroom Extracts on Human Platelet and Blood Coagulation: In vitro Screening of Eight Edible Species
+Authors: Poniedzia?ek B, Wiktorowicz K, Szecówka M, Dworczyński A, Pawlak-Bus K, Leszczynska-Rodziewicz A, Regula J, Kopciuch D, Nowakowska E
+Journal: Nutrients. 2019 Dec 20;11(12):3040
+DOI: 10.3390/nu11123040
+
+Key findings relevant to lion's mane (Hericium erinaceus):
+- Eight edible mushroom species were screened for antiplatelet and anticoagulant activity in vitro
+- Hericium erinaceus (lion's mane) showed minimal direct antiplatelet activity compared to Auricularia auricularia-judae and Pleurotus eryngii
+- "None of the mushroom extracts altered the monitored coagulation parameters (prothrombin time, prothrombin ratio, and International Normalized Ratio)"
+- Clinical interaction data for lion's mane with anticoagulants is lacking; cautious use recommended in patients on anticoagulant therapy
+
+Source: PubMed via ESearch/EFetch (stage3 gap-fill, 2026-05-06)

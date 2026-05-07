@@ -1,5 +1,11 @@
 {
   "stage1_complete": true,
   "stage2_complete": true,
-  "stage2_timestamp": "2026-05-06"
+  "stage2_timestamp": "2026-05-06",
+  "stage0_complete": true,
+  "stage3_gap_report_complete": true,
+  "stage3_compile_complete": true,
+  "stage3_verify_complete": true,
+  "hard_floor_passed": true,
+  "human_spot_check_passed": true
 }

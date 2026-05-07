@@ -18,7 +18,6 @@ DB_PATH = Path("database/stackwise.sqlite")
 TARGET_LIST_PATH = Path("research/target_list.json")
 
 
-@pytest.mark.skip(reason="runs after Stage 3 compile")
 def test_schema():
     """REQ-01: stackwise.sqlite opens without error and has tables interactions/ingredients/metadata."""
     assert DB_PATH.exists(), f"Database not found at {DB_PATH}"
@@ -32,7 +31,6 @@ def test_schema():
     assert "metadata" in tables, "metadata table missing"
 
 
-@pytest.mark.skip(reason="runs after Stage 3 compile")
 def test_supplement_coverage():
     """REQ-02: Every supplement in target_list.json has ≥1 medium+ confidence record."""
     with open(TARGET_LIST_PATH) as f:
@@ -53,7 +51,6 @@ def test_supplement_coverage():
     assert not missing, f"Supplements with no medium+ records: {missing}"
 
 
-@pytest.mark.skip(reason="runs after Stage 3 compile")
 def test_medication_coverage():
     """REQ-03: Every medication in target_list.json has ≥1 medium+ confidence record."""
     with open(TARGET_LIST_PATH) as f:
@@ -74,7 +71,6 @@ def test_medication_coverage():
     assert not missing, f"Medications with no medium+ records: {missing}"
 
 
-@pytest.mark.skip(reason="runs after Stage 3 compile")
 def test_canonical_format():
     """REQ-04: canonical_name values are lowercase_underscores; aliases is valid JSON array."""
     import re
@@ -97,7 +93,6 @@ def test_canonical_format():
     assert not bad_aliases, f"Invalid aliases JSON for: {bad_aliases}"
 
 
-@pytest.mark.skip(reason="runs after Stage 3 compile")
 def test_metadata():
     """REQ-05: metadata table has exactly one row with db_version and date_built."""
     conn = sqlite3.connect(DB_PATH)
