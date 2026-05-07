@@ -5,9 +5,9 @@ current_plan: "3 of 4"
 total_phases: "10"
 status: "in_progress"
 progress: "[██░░░░░░░░] 6%"
-last_activity: "2026-05-06"
+last_activity: "2026-05-07"
 phase_count: 10
-plan_count: 4
+plan_count: 7
 summary_count: 2
 ---
 

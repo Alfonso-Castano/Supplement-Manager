@@ -624,7 +624,7 @@ struct StackListView: View {
 
 ---
 
-## Open Questions
+## Open Questions (RESOLVED)
 
 1. **Xcode version installed**
    - What we know: All research assumes Xcode 15+ (released Sept 2023), which has Single Size icon support and stable @Observable macro.
