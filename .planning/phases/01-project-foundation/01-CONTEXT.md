@@ -20,6 +20,7 @@ Establish the Xcode project with bundle ID com.stackwise.app, Core Data schema (
 ### Xcode Project Setup
 - **D-02:** Create the Xcode project **manually via Xcode GUI** — do NOT use XcodeGen or any project generation tooling
   - Rationale: Solo developer, no CI/CD pipeline, no team merge conflicts, first-time Xcode user, one-month ship target. XcodeGen's benefits don't apply; it adds tooling friction with no payoff.
+  - Note: GUI runs on cloud Mac rental — not local machine (D-21).
 
 ### State Management Pattern
 - **D-03:** Use **@Observable macro + .environment()** for all state management throughout the app. Do NOT use ObservableObject or @Published.
@@ -32,6 +33,10 @@ Establish the Xcode project with bundle ID com.stackwise.app, Core Data schema (
 
 ### Navigation Shell Behavior During Development
 - **D-05:** During Phase 1, all three tabs (Stack / Today / Schedule) are always visible and navigable — **no onboarding gate in this phase**. Phase 5 wires `UserProfile.onboardingComplete` to hide tabs on first launch. Building without the gate means all three tabs are reachable during development of Phases 2–4.
+
+### Development Environment
+- **D-21:** Developer is on Windows 11 — Xcode cannot run locally. Cloud Mac rental (MacInCloud or equivalent, ~$1/hr) is required for all Xcode GUI tasks: project creation, Core Data schema definition, xcodebuild runs, and simulator verification. All Swift file writing, asset generation, and plist editing is done on Windows. Git is the bridge between environments (Windows pushes, cloud Mac pulls; cloud Mac pushes updated .pbxproj after adding files to Xcode target). This constraint also applies to Phase 9 (TestFlight upload, code signing, App Store submission).
+  - See: `CLOUD-MAC-WORKFLOW.md` in this directory for the task split and git bridge workflow.
 
 ### Claude's Discretion
 - Core Data stack: PersistenceController singleton (standard Xcode template pattern), shared via .environment(\.managedObjectContext) — not revisited
