@@ -76,6 +76,9 @@ Progress: [██░░░░░░░░] 6%
 - `timing_conflict` type requires `timing_relevant=true` — 9 records reclassified to `unsafe_combination` (pharmacological interactions regardless of timing)
 - PPI class-effect records (omeprazole, pantoprazole) added at medium confidence — NIH ODS + FDA communication clearly documents the class mechanism
 
+**Environment constraint (locked):**
+- D-21: Developer on Windows 11 — Mac required for all Xcode GUI steps. Primary: personal Mac laptop (4-day window available). Fallback: MacInCloud (~$1/hr) for anything that spills over, and Phase 9 (TestFlight, signing, App Store — ~3–4 hr extended session). All Swift file writing on Windows; Mac only for Xcode GUI, add-to-target, build verification, and simulator testing. See `CLOUD-MAC-WORKFLOW.md` (phase task split) and `MAC-WINDOW-PLAN.md` (4-day schedule) in `.planning/`.
+
 ### Pending Todos
 
 - None. Plan 00-03 complete. Next: Plan 00-04 (Stage 3: Gap Analysis + SQLite Compilation).
