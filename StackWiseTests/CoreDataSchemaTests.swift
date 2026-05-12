@@ -85,4 +85,30 @@ final class CoreDataSchemaTests: XCTestCase {
         feedback.type = "general"
         XCTAssertNoThrow(try context.save(), "FeedbackItem save should not throw")
     }
+
+    func testStackItemCascadeDeletesScheduledDoses() throws {
+        let item = StackItem(context: context)
+        item.id = UUID()
+        item.isPrescription = false
+        item.isInDatabase = false
+        item.isActive = true
+        item.sortOrder = 0
+
+        let dose = ScheduledDose(context: context)
+        dose.id = UUID()
+        dose.timeBlock = "morning"
+        dose.position = 0
+        dose.stackItem = item
+
+        try context.save()
+
+        XCTAssertEqual(try context.fetch(ScheduledDose.fetchRequest()).count, 1,
+                       "Precondition: 1 ScheduledDose exists")
+
+        context.delete(item)
+        try context.save()
+
+        XCTAssertEqual(try context.fetch(ScheduledDose.fetchRequest()).count, 0,
+                       "Deleting StackItem should cascade-delete its ScheduledDoses")
+    }
 }

@@ -5,6 +5,46 @@ struct PersistenceController {
 
     static var preview: PersistenceController = {
         let result = PersistenceController(inMemory: true)
+        let context = result.container.viewContext
+
+        let profile = UserProfile(context: context)
+        profile.id = UUID()
+        profile.age = 30
+        profile.sex = "unspecified"
+        profile.weightKg = 70.0
+        profile.allergies = []
+        profile.conditions = []
+        profile.wakeTime = Date()
+        profile.sleepTime = Date()
+        profile.onboardingComplete = true
+        profile.subscriptionStatus = "trial"
+
+        let item = StackItem(context: context)
+        item.id = UUID()
+        item.label = "Vitamin D"
+        item.activeIngredient = "Cholecalciferol"
+        item.itemType = "supplement"
+        item.isPrescription = false
+        item.isInDatabase = true
+        item.dosage = "2000 IU"
+        item.frequency = "daily"
+        item.addedDate = Date()
+        item.isActive = true
+        item.sortOrder = 0
+
+        let dose = ScheduledDose(context: context)
+        dose.id = UUID()
+        dose.timeBlock = "morning"
+        dose.suggestedTime = Date()
+        dose.position = 0
+        dose.stackItem = item
+
+        do {
+            try context.save()
+        } catch {
+            let nsError = error as NSError
+            fatalError("Preview seed failed: \(nsError), \(nsError.userInfo)")
+        }
         return result
     }()
 
