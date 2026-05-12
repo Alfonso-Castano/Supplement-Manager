@@ -1,0 +1,7882 @@
+{
+  "canonical_name": "black_cohosh",
+  "query_variants": [
+    "BLACK COHOSH",
+    "CIMICIFUGA RACEMOSA",
+    "ACTAEA RACEMOSA",
+    "BLACK COHOSH EXTRACT"
+  ],
+  "total_reports_fetched": 271,
+  "co_occurrence_reports": 271,
+  "co_occurrences": [
+    {
+      "drugs": [
+        "HYDROCHLOROTHIAZIDE.",
+        "TRICOR",
+        "LIPITOR",
+        "LIPITOR",
+        "LIPITOR",
+        "LIPITOR",
+        "LIPITOR",
+        "HYDROCHLOROTHIAZIDE.",
+        "BLACK COHOSH",
+        "TOPROL XL",
+        "LEVOXYL"
+      ],
+      "reactions": [
+        "Hypothyroidism",
+        "Type 2 diabetes mellitus",
+        "Drug ineffective"
+      ],
+      "report_id": "10007478"
+    },
+    {
+      "drugs": [
+        "TECFIDERA",
+        "TECFIDERA",
+        "CENTRUM MULTIVITAMIN",
+        "OXYBUTYNIN",
+        "BLACK COHOSH",
+        "SOY FORMULA CAPLET",
+        "WOMENS MULTIVITAMIN"
+      ],
+      "reactions": [
+        "Urticaria",
+        "Prescribed underdose",
+        "Flushing",
+        "Vomiting",
+        "Abdominal discomfort",
+        "Generalised erythema"
+      ],
+      "report_id": "10033726"
+    },
+    {
+      "drugs": [
+        "CATAPRES",
+        "CATAPRES",
+        "BLACK COHOSH EXTRACT",
+        "SOY ISOFLAVONES"
+      ],
+      "reactions": [
+        "Drug ineffective",
+        "Crying",
+        "Emotional disorder",
+        "Dizziness"
+      ],
+      "report_id": "10035164"
+    },
+    {
+      "drugs": [
+        "TECFIDERA",
+        "BLACK COHOSH",
+        "CRESTOR",
+        "FIBERCHOICE",
+        "GABAPENTIN",
+        "MELOXICAM",
+        "OMEPRAZOLE",
+        "OXYCONTIN",
+        "PROBIOTIC COMPLEX ACIDOPHILUS",
+        "TRUBIOTICS",
+        "VESICARE"
+      ],
+      "reactions": [
+        "Malaise"
+      ],
+      "report_id": "10046396"
+    },
+    {
+      "drugs": [
+        "ENBREL",
+        "SOMA",
+        "PREMARIN",
+        "PREDNISONE",
+        "METHOTREXATE",
+        "NEURONTIN",
+        "TRAZODONE",
+        "FENTANYL",
+        "SIMVASTATIN",
+        "OXYBUTYNIN",
+        "PRILOSEC                           /00661201/",
+        "VITAMIN D3",
+        "CLARITIN                           /00917501/",
+        "VITAMIN B",
+        "CALCIUM",
+        "VITAMIN C                          /00008001/",
+        "FOLIC ACID",
+        "FLAX SEED OIL",
+        "BLACK COHOSH                       /01456801/",
+        "BABY ASPIRIN",
+        "CIPRO                              /00697201/",
+        "HYDROCODONE W/APAP                 /00607101/",
+        "BACLOFEN",
+        "PRAMIPEXOLE"
+      ],
+      "reactions": [
+        "Monoplegia",
+        "Depression",
+        "Peroneal nerve palsy",
+        "Post procedural infection",
+        "Sinusitis",
+        "Seasonal allergy",
+        "Eye swelling",
+        "Ingrowing nail",
+        "Rhinorrhoea"
+      ],
+      "report_id": "10075362"
+    },
+    {
+      "drugs": [
+        "CELEBREX",
+        "ZYRTEC",
+        "PLAQUENIL",
+        "CYMBALTA",
+        "ROBAXIN",
+        "SYNTHROID",
+        "ULTRAM",
+        "AMBIEN",
+        "KLOR-CON",
+        "DYAZIDE",
+        "TRIAMTERENE",
+        "FAMOTIDINE",
+        "TRAMADOL",
+        "HYDROCODONE",
+        "VITAMIN D3",
+        "BLACK COHOSH",
+        "CALCIUM",
+        "BENADRYL"
+      ],
+      "reactions": [
+        "Hot flush"
+      ],
+      "report_id": "10094774"
+    },
+    {
+      "drugs": [
+        "ALLEGRA",
+        "INSULIN",
+        "BLACK COHOSH",
+        "GILENYA",
+        "GABAPENTIN.",
+        "GILENYA"
+      ],
+      "reactions": [
+        "Pollakiuria",
+        "Lymphopenia",
+        "Blindness",
+        "Fall",
+        "Full blood count decreased",
+        "Prescribed underdose",
+        "Leukopenia",
+        "Abnormal sensation in eye",
+        "Fungal infection"
+      ],
+      "report_id": "10097219"
+    },
+    {
+      "drugs": [
+        "CRESTOR",
+        "CRESTOR",
+        "RANITIDINE",
+        "MULTIVITAMIN",
+        "ASPIRIN",
+        "HERBAL GARLIC SUPPLEMENT",
+        "BLACK COHOSH",
+        "VALIUM",
+        "VALIUM",
+        "FISH OIL",
+        "AMBIEN",
+        "SYNTHROID",
+        "FLUOXETINE",
+        "GABAPENTIN",
+        "COQ10"
+      ],
+      "reactions": [
+        "Arterial stenosis",
+        "Blood cholesterol increased",
+        "Abdominal discomfort",
+        "Drug ineffective"
+      ],
+      "report_id": "10157216"
+    },
+    {
+      "drugs": [
+        "BYDUREON",
+        "SYNTHROID",
+        "METFORMIN",
+        "PRISTIQ",
+        "ATORVASTATIN",
+        "FENOFIBRATE",
+        "TRAZODONE HCL",
+        "GABAPENTIN",
+        "ZEGERID",
+        "CLONAZEPAM",
+        "ZYRTEC",
+        "TRIAMTERENE + HCTZ",
+        "BORAGE OIL",
+        "BLACK COHOSH",
+        "FLAXSEED OIL",
+        "BIOTIN",
+        "COQ10",
+        "VITAMIN B12",
+        "VITAMIN B COMPLEX",
+        "VITAMIN D3",
+        "CITRACAL"
+      ],
+      "reactions": [
+        "Injection site haemorrhage",
+        "Injection site pain",
+        "Impaired gastric emptying"
+      ],
+      "report_id": "10164363"
+    },
+    {
+      "drugs": [
+        "AVONEX",
+        "BLACK COHOSH ROOT",
+        "CITALOPRAM HYDROBROMIDE",
+        "ALPRAZOLAM"
+      ],
+      "reactions": [
+        "Dyspepsia"
+      ],
+      "report_id": "10168604"
+    },
+    {
+      "drugs": [
+        "BELVIQ",
+        "BAYER ASPIRIN",
+        "VITAMINS",
+        "METOPROLOL (METOPROLOL)",
+        "FUROSEMIDE (FUROSEMIDE)",
+        "KLOR-CON (POTASSIUM CHLORIDE)",
+        "OMEPRAZOLE (OMEPRAZOLE)",
+        "BLACK COHOSH (HERBAL PREPARATION)"
+      ],
+      "reactions": [
+        "Drug ineffective"
+      ],
+      "report_id": "10176167"
+    },
+    {
+      "drugs": [
+        "CYMBALTA",
+        "BIPAP SLEEP APNEA",
+        "VENTOLIN INHALER",
+        "BACLOFEN",
+        "BLACK COHOSH",
+        "VALIUM",
+        "CYMBALTA",
+        "NEURONTIN",
+        "ADVAIR",
+        "LIDOCAINE PATCHES",
+        "SINGULAIR",
+        "OMEPRAZOLE",
+        "OXYBUTYNIN",
+        "MIRALAX",
+        "IMITREX",
+        "ELAVIL",
+        "DILAUDID",
+        "OPANA ER",
+        "VIT D"
+      ],
+      "reactions": [
+        "Drug withdrawal syndrome",
+        "Hot flush",
+        "Feeling abnormal",
+        "Drug intolerance",
+        "Constipation",
+        "Sleep disorder",
+        "Pain",
+        "Chills",
+        "Irritability",
+        "Hyperhidrosis"
+      ],
+      "report_id": "10176235"
+    },
+    {
+      "drugs": [
+        "CELEBREX",
+        "AMOXICILLIN",
+        "TYLOX",
+        "VIOXX",
+        "BLACK COHOSH",
+        "HYDROCODONE"
+      ],
+      "reactions": [
+        "Drug hypersensitivity",
+        "Dyspnoea",
+        "Pruritus"
+      ],
+      "report_id": "10191438"
+    },
+    {
+      "drugs": [
+        "FLONASE",
+        "FLOVENT",
+        "ADVAIR",
+        "COMPAZINE",
+        "KEFLEX",
+        "DULERA",
+        "TUDORZA PRESSAIR",
+        "LORATADINE",
+        "MONTELUKAST",
+        "LEVOTHYROXIN",
+        "PROTONIX",
+        "OMEPRAZOLE",
+        "TRAMADOL",
+        "XOPENEX",
+        "IPRATROPIUM BROMIDE + SALBUTAMOL",
+        "BAYER ASPIRIN",
+        "MIRALAX",
+        "VITAMIN",
+        "CALCIUM + D",
+        "BLACK COHOSH ROOT",
+        "LACTOSE"
+      ],
+      "reactions": [
+        "Retinal tear",
+        "Asthma",
+        "Drug hypersensitivity",
+        "Swollen tongue",
+        "Rash"
+      ],
+      "report_id": "10216961"
+    },
+    {
+      "drugs": [
+        "PROGRAF",
+        "MYFORTIC",
+        "LEVOTHYROXINE",
+        "OMEPRAZOLE",
+        "CLONAZEPAM",
+        "HYDROCODONE",
+        "OMEGA 3",
+        "MULTIVITAMIN",
+        "NIACIN",
+        "VITAMIN D",
+        "CRANBERRY",
+        "VITAMIN E",
+        "FERROUS SULFATE",
+        "BLACK COHOSH",
+        "MAGNESIUM"
+      ],
+      "reactions": [
+        "Squamous cell carcinoma of the oral cavity"
+      ],
+      "report_id": "10225979"
+    },
+    {
+      "drugs": [
+        "OSPHENA",
+        "OSPHENA",
+        "TRAZODONE",
+        "LOVASTATIN",
+        "FENOFIBRATE",
+        "LORATADINE",
+        "FLONASE                            /00908302/",
+        "PILOCARPINE",
+        "TOPAMAX",
+        "POTASSIUM",
+        "TRAMADOL",
+        "CYMBALTA",
+        "PRILOSEC                           /00661201/",
+        "ONE A DAY                          /02262701/",
+        "BLACK COHOSH                       /01456801/",
+        "HYDROCODONE"
+      ],
+      "reactions": [
+        "Weight increased"
+      ],
+      "report_id": "10253357"
+    },
+    {
+      "drugs": [
+        "QUETIAPINE FUMARATE",
+        "QUETIAPINE FUMARATE",
+        "TENS",
+        "CRUTCHES",
+        "WHEELED WALKER",
+        "ADVAIR",
+        "QUETIAPINE",
+        "LAMOTRIGINE",
+        "CYMBALTA",
+        "CLONAZEPAM",
+        "DESMOPRESSIN",
+        "OMPREZOLE",
+        "TIZANIDE",
+        "MULTI-VITAMIN",
+        "CALCIUM (+)",
+        "VIT D",
+        "BLACK COHOSH",
+        "DHEA",
+        "FISH OIL",
+        "GINKO BILOBO",
+        "ACIDOPHILUS",
+        "LEVALBUTEROL",
+        "LOMOTIL",
+        "IBUPROFEN",
+        "TRIAMCINOLONE",
+        "ACETONIDE CREAM",
+        "HEATING PAD",
+        "ICE PACKS"
+      ],
+      "reactions": [
+        "Somnambulism",
+        "Somnambulism",
+        "Road traffic accident",
+        "Disturbance in attention"
+      ],
+      "report_id": "10264377"
+    },
+    {
+      "drugs": [
+        "HYDROCODONE",
+        "PROAIR HFA",
+        "ATORVASTATIN",
+        "ALPRAZOLAM.",
+        "DIAZEPAM.",
+        "LEXAPRO",
+        "NASONEX",
+        "OXYCONTIN",
+        "RITALIN",
+        "PREDNISONE.",
+        "METHYLPHENIDATE",
+        "FISH OIL",
+        "PRIMIDONE AVPAK",
+        "SYMBICORT",
+        "AMPYRA",
+        "ALLEGRA-D",
+        "CELEBREX",
+        "SOY ISOFLAVONE",
+        "TYSABRI",
+        "GABAPENTIN.",
+        "FLUOXETINE",
+        "OMEPRAZOLE.",
+        "OXYCODONE",
+        "BLACK COHOSH",
+        "ALBUTEROL.",
+        "CALCIUM D",
+        "GILENYA",
+        "HYDROCHLOROTHIAZIDE."
+      ],
+      "reactions": [
+        "Weight increased",
+        "Paraesthesia",
+        "Visual impairment",
+        "Hypoaesthesia",
+        "Gait disturbance",
+        "Mobility decreased",
+        "Headache",
+        "Asthenia",
+        "Memory impairment",
+        "Fluid retention",
+        "Back pain",
+        "Dry mouth",
+        "Abasia"
+      ],
+      "report_id": "10266906"
+    },
+    {
+      "drugs": [
+        "PRILOSEC",
+        "CALCIUM",
+        "TRAZODONE",
+        "SIMVASTATIN.",
+        "HYDROCODONE/APAP",
+        "CLARITIN",
+        "PREDNISONE.",
+        "VITAMIN B COMPLEX",
+        "METHOTREXATE",
+        "SOMA",
+        "PREMARIN",
+        "VITAMIN D3",
+        "BACLOFEN.",
+        "BLACK COHOSH                       /01456801/",
+        "ENBREL",
+        "BABY ASPIRIN",
+        "NEURONTIN",
+        "FOLIC ACID.",
+        "OXYBUTYNIN",
+        "FENTANYL                           /00174602/",
+        "FLAXSEED",
+        "VITAMIN C",
+        "PRAMIPEXOLE"
+      ],
+      "reactions": [
+        "Urinary tract infection"
+      ],
+      "report_id": "10282759"
+    },
+    {
+      "drugs": [
+        "AMITRIPTYLINE",
+        "TECFIDERA",
+        "GABAPENTIN.",
+        "BLACK COHOSH"
+      ],
+      "reactions": [
+        "Pneumonia"
+      ],
+      "report_id": "10312412"
+    },
+    {
+      "drugs": [
+        "HUMALOG",
+        "DIOVAN",
+        "LOPRESSOR",
+        "SPIRONOLACTONE.",
+        "TYLENOL",
+        "MUCINEX",
+        "VITAMIN B12",
+        "OMEGA 3 FISH OIL",
+        "PROBIOTIC",
+        "PROZAC",
+        "VITAMIN D",
+        "VENTOLIN",
+        "METFORMIN",
+        "CALCIUM",
+        "CIMETIDINE",
+        "ASPIRIN.",
+        "LASIX",
+        "VYTORIN",
+        "ETODOLAC.",
+        "AVANDIA",
+        "VICTOZA",
+        "BLACK COHOSH",
+        "CPAP",
+        "FLEXERIL",
+        "ADVAIR HFA",
+        "LANTUS"
+      ],
+      "reactions": [
+        "Stent placement",
+        "Catheterisation cardiac",
+        "Adverse drug reaction",
+        "Mammoplasty",
+        "Pericardial effusion",
+        "Pleural effusion",
+        "Hepatic steatosis"
+      ],
+      "report_id": "10314298"
+    },
+    {
+      "drugs": [
+        "CELEBREX",
+        "KLONOPIN",
+        "ENBREL",
+        "BLACK COHOSH                       /01456801/",
+        "LYRICA",
+        "CYMBALTA"
+      ],
+      "reactions": [
+        "Back pain",
+        "Headache",
+        "Adverse event",
+        "Arthritis"
+      ],
+      "report_id": "10361962"
+    },
+    {
+      "drugs": [
+        "CYMBALTA",
+        "AMANTADINE HCL",
+        "TIZANIDINE HCL",
+        "METHADONE",
+        "OXYBUTYNIN CHLORIDE.",
+        "MODAFINIL.",
+        "ARICEPT",
+        "LEVOTHYROXINE SODIUM.",
+        "SIMVASTATIN.",
+        "GABAPENTIN.",
+        "TECFIDERA",
+        "BLACK COHOSH",
+        "LEVOFLOXACIN.",
+        "FISH OIL",
+        "AMITRIPTYLINE HCL",
+        "ZANAFLEX"
+      ],
+      "reactions": [
+        "Hyperhidrosis"
+      ],
+      "report_id": "10411528"
+    },
+    {
+      "drugs": [
+        "OSPHENA",
+        "CELEBREX",
+        "PREMARIN",
+        "LORAZEPAM.",
+        "ZOLPIDEM",
+        "BLACK COHOSH                       /01456801/"
+      ],
+      "reactions": [
+        "Vaginal laceration",
+        "Skin atrophy",
+        "Pain",
+        "Haemorrhage",
+        "Dyspareunia",
+        "Vulvovaginal discomfort"
+      ],
+      "report_id": "10469959"
+    },
+    {
+      "drugs": [
+        "ALLEGRA",
+        "ASPIRIN.",
+        "VITAMIN D3",
+        "ADVAIR HFA",
+        "VENTOLIN",
+        "ZOLOFT",
+        "VITAMIN B12",
+        "FLUTICASONE SPRAY",
+        "OSTEO BIFLEX",
+        "MULTIVITAMIN",
+        "XANAX",
+        "BLACK COHOSH",
+        "CALCIUM + D"
+      ],
+      "reactions": [
+        "Dysphonia"
+      ],
+      "report_id": "10492082"
+    },
+    {
+      "drugs": [
+        "ZOLOFT",
+        "BIOTIN",
+        "BLACK COHOSH                       /01456801/",
+        "VITAMIN E                          /00110501/",
+        "PROLIA",
+        "ST JOHN^S WORT"
+      ],
+      "reactions": [
+        "Back pain"
+      ],
+      "report_id": "10500024"
+    },
+    {
+      "drugs": [
+        "AMOXICILLIN.",
+        "RIBAVIRIN.",
+        "BLACK COHOSH",
+        "ABT 333",
+        "TYLENOL WITH CODEINE",
+        "FOLIC ACID.",
+        "RITONAVIR.",
+        "RITONAVIR.",
+        "AMOXICILLIN.",
+        "CALCIUM",
+        "DESOXIMETASONE.",
+        "VITAMIN C",
+        "BLACK COHOSH",
+        "VITAMIN D"
+      ],
+      "reactions": [
+        "Lung adenocarcinoma metastatic"
+      ],
+      "report_id": "10512204"
+    },
+    {
+      "drugs": [
+        "ASPIRIN.",
+        "CALCIUM",
+        "LEVOXYL",
+        "SIMVASTATIN.",
+        "METFORMIN",
+        "OMEPRAZOLE.",
+        "BLACK COHOSH                       /01456801/",
+        "SIMETHICONE",
+        "HUMALOG",
+        "LOSARTAN",
+        "LANTUS",
+        "FUROSEMIDE."
+      ],
+      "reactions": [
+        "Cataract"
+      ],
+      "report_id": "10524275"
+    },
+    {
+      "drugs": [
+        "METOLAZONE.",
+        "CENTRUM SILVER",
+        "VALACYCLOVIR",
+        "CITALOPRAM",
+        "GABAPENTIN.",
+        "BLACK COHOSH",
+        "XELJANZ",
+        "FERREX",
+        "STOOL SOFTENER",
+        "CLONAZEPAM.",
+        "VERAPAMIL"
+      ],
+      "reactions": [
+        "Oral pain",
+        "Dry mouth",
+        "Aptyalism"
+      ],
+      "report_id": "10539181"
+    },
+    {
+      "drugs": [
+        "BRISDELLE",
+        "BLACK COHOSH",
+        "LORATADINE."
+      ],
+      "reactions": [
+        "Drug ineffective",
+        "Hot flush"
+      ],
+      "report_id": "10541939"
+    },
+    {
+      "drugs": [
+        "CITALOPRAM",
+        "VALACYCLOVIR",
+        "ENBREL",
+        "GABAPENTIN.",
+        "FERREX",
+        "BLACK COHOSH                       /01456801/",
+        "XELJANZ",
+        "CLONAZEPAM.",
+        "VERAPAMIL",
+        "CENTRUM SILVER                     /02363801/",
+        "METOLAZONE.",
+        "STOOL SOFTENER"
+      ],
+      "reactions": [
+        "Neuropathy peripheral",
+        "Oral pain",
+        "Stress",
+        "Anaemia",
+        "Dry mouth",
+        "Depression",
+        "Oral herpes",
+        "Migraine",
+        "Drug ineffective",
+        "Hot flush"
+      ],
+      "report_id": "10547286"
+    },
+    {
+      "drugs": [
+        "FIBER",
+        "SELENIUM",
+        "ALPRAZOLAM.",
+        "SYNTHROID",
+        "ALEVE",
+        "ZOLOFT",
+        "ASPIRIN.",
+        "VALIUM",
+        "CALCIUM",
+        "FOLIC ACID.",
+        "LUTCIN",
+        "MIRAPEX",
+        "TYLENOL",
+        "TECFIDERA",
+        "GABAPENTIN.",
+        "BLACK COHOSH",
+        "LEVOTHROID"
+      ],
+      "reactions": [
+        "Chills",
+        "Headache",
+        "Pain"
+      ],
+      "report_id": "10565102"
+    },
+    {
+      "drugs": [
+        "OMEGA-3 MARINE TRIGLYCERIDES",
+        "VITAMIN B COMPLEX",
+        "GLUCOSAMINE",
+        "POTASSIUM (UNSPECIFIED)",
+        "MILK THISTLE",
+        "DIMETHYL SULFONE",
+        "CLARITIN REDITABS",
+        "CLARITIN REDITABS",
+        "CHOLECALCIFEROL",
+        "CLARITIN REDITABS",
+        "KRILL OIL",
+        "CLARITIN REDITABS",
+        "CLARITIN REDITABS",
+        "MAGNESIUM (UNSPECIFIED)",
+        "CLARITIN REDITABS",
+        "CLARITIN REDITABS",
+        "BLACK COHOSH"
+      ],
+      "reactions": [
+        "Drug ineffective"
+      ],
+      "report_id": "10566156"
+    },
+    {
+      "drugs": [
+        "PROBIOTICS NOS",
+        "MELOXICAM.",
+        "ASTELIN",
+        "FLECTOR",
+        "VOLTAREN",
+        "SAVELLA",
+        "PROGESTERONE.",
+        "FERROUS SULFATE",
+        "VITAMIN D",
+        "PREMPRO",
+        "CLONAZEPAM.",
+        "METHOTREXATE",
+        "FOLIC ACID.",
+        "HUMIRA",
+        "HUMIRA",
+        "PRILOSEC",
+        "WELLBUTRIN",
+        "KADIAN",
+        "FLEXERIL",
+        "LYRICA",
+        "PAXIL",
+        "CALCIUM",
+        "BLACK COHOSH",
+        "SYNTHROID",
+        "VITAMIN B1",
+        "OXYCODONE"
+      ],
+      "reactions": [
+        "Back pain",
+        "Intervertebral disc degeneration",
+        "Scoliosis"
+      ],
+      "report_id": "10567208"
+    },
+    {
+      "drugs": [
+        "VITAMIN C",
+        "LEVOTHYROXINE",
+        "CENTRUM SILVER",
+        "COPAXONE",
+        "ESTROPIPATE.",
+        "BLACK COHOSH",
+        "SKIN AND NAILS VITAMIN",
+        "HYDROCODONE BIT/APAP",
+        "VITAMIN B COMPLEX",
+        "ALEVE",
+        "ALPRAZOLAM.",
+        "ORTHOVISC"
+      ],
+      "reactions": [
+        "Back pain",
+        "Arthralgia"
+      ],
+      "report_id": "10588176"
+    },
+    {
+      "drugs": [
+        "HUMIRA",
+        "ASTRAGALUS ROOT",
+        "VITAMIN B COMPLEX",
+        "CINNAMON.",
+        "CLONAZEPAM.",
+        "CYANOCOBALAMIN.",
+        "FLECAINIDE",
+        "GABAPENTIN.",
+        "MAGNESIUM OXIDE.",
+        "MULTIVIAMIN WITH COOPER AND IRON",
+        "ACIDOPHILUS",
+        "HYDROCORTISONE.",
+        "LISINOPRIL.",
+        "RED YEAST RICE",
+        "VITAMIN E NOS",
+        "FERRO-SEQUELS",
+        "HYDROCHLORIDE",
+        "NIACINAMIDE",
+        "ASPIRIN.",
+        "ATENOLOL.",
+        "NALTREXONE",
+        "GINGER ROOT",
+        "VITAMIN D3",
+        "BLACK COHOSH",
+        "CALCIUM",
+        "DILTIAZEM HYDROCHLORIDE EXTENDED RELEASE",
+        "METFORMIN",
+        "PANTOPRAZOLE",
+        "ACETYL L-CARNITINE",
+        "DICLOFENAC",
+        "LIOTHYRONINE SODIUM.",
+        "PRIMROSE OIL",
+        "TEKTURNA",
+        "FISH OIL",
+        "MELATONIN",
+        "METHOCARBAMOL."
+      ],
+      "reactions": [
+        "Blood glucose increased",
+        "Lymphocyte count increased",
+        "Blood urea increased",
+        "Neutrophil count decreased",
+        "Haematocrit decreased",
+        "Red blood cell count decreased",
+        "Haemoglobin decreased",
+        "Abdominal mass"
+      ],
+      "report_id": "10590414"
+    },
+    {
+      "drugs": [
+        "MINIVELLE",
+        "BLACK COHOSH                       /01456801/"
+      ],
+      "reactions": [
+        "Feeling abnormal",
+        "Wrong technique in drug usage process",
+        "Drug prescribing error",
+        "Insomnia"
+      ],
+      "report_id": "10603028"
+    },
+    {
+      "drugs": [
+        "INVEGA SUSTENNA",
+        "FLEXERIL",
+        "ZOLOFT",
+        "ULTRAM",
+        "BLACK COHOSH"
+      ],
+      "reactions": [
+        "Fall",
+        "Thrombosis",
+        "Hyperhidrosis",
+        "Cardiac septal defect",
+        "Nerve block",
+        "Product use issue"
+      ],
+      "report_id": "10606333"
+    },
+    {
+      "drugs": [
+        "FLOVENT",
+        "LEVOTHYROXINE",
+        "GABAPENTIN.",
+        "CELEBREX",
+        "KLOR-CON",
+        "PANTOPRAZOLE",
+        "PROMETHAZINE",
+        "METHOCARBAMOL.",
+        "LIDODERM",
+        "VIOXX",
+        "BLACK COHOSH",
+        "REQUIP",
+        "MORPHINE SULFATE.",
+        "CLINDAMYCIN",
+        "SUCRALFATE.",
+        "PREMARIN",
+        "PROAIR HFA",
+        "LEVSIN",
+        "MYRBETRIQ",
+        "VITAMIN B12",
+        "LATANOPROST.",
+        "ULTRAM",
+        "AMLODIPINE BESYLATE.",
+        "IRBESARTAN.",
+        "KETOCONAZOLE.",
+        "VIVELLE",
+        "AMOXICILLIN."
+      ],
+      "reactions": [
+        "Incorrect route of drug administration",
+        "Drug hypersensitivity",
+        "Swelling",
+        "Dyspnoea",
+        "Pruritus",
+        "Drug ineffective"
+      ],
+      "report_id": "10610773"
+    },
+    {
+      "drugs": [
+        "LIPITOR",
+        "FISH OIL",
+        "VITAMIN B12",
+        "BLACK COHOSH"
+      ],
+      "reactions": [
+        "Type 2 diabetes mellitus"
+      ],
+      "report_id": "10663054"
+    },
+    {
+      "drugs": [
+        "VITAMIN D",
+        "BLACK COHOSH",
+        "REMICADE"
+      ],
+      "reactions": [
+        "Rash",
+        "Drug ineffective",
+        "Vaginal abscess"
+      ],
+      "report_id": "10692188"
+    },
+    {
+      "drugs": [
+        "BLACK COHOSH                       /01456801/",
+        "L-LYSINE                           /00919901/",
+        "VITAMIN D                          /00107901/",
+        "CYMBALTA",
+        "FISH OIL",
+        "LINZESS",
+        "METHOTREXATE",
+        "TRAZODONE",
+        "BONIVA",
+        "ENBREL",
+        "CALCIUM + VITAMIN D                /00944201/",
+        "CELEBREX",
+        "FOLIC"
+      ],
+      "reactions": [
+        "Foot fracture",
+        "Stress fracture"
+      ],
+      "report_id": "10693238"
+    },
+    {
+      "drugs": [
+        "BLACK COHOSH",
+        "NORVASC",
+        "PROMACTA",
+        "PRENATAL VITAMINS",
+        "ZINC",
+        "VITAMIN B12",
+        "LOPRESSOR"
+      ],
+      "reactions": [
+        "Skin disorder"
+      ],
+      "report_id": "10705382"
+    },
+    {
+      "drugs": [
+        "MAGNESIUM",
+        "TRAMADOL",
+        "METHOTREXATE",
+        "FISH OIL",
+        "TRIAMTERENE.",
+        "TOPIRAMATE.",
+        "BUPROPION",
+        "FOLIC ACID.",
+        "OTEZLA",
+        "IBUPROFEN.",
+        "MULTIVITAMINS",
+        "WARFARIN",
+        "DIPROLENE",
+        "SYSTANE (HYPROMELLOSE 2910 (4000 MPA.S))",
+        "VITAMIN C",
+        "VITAMIN D3",
+        "CALCIUM",
+        "LEVOTHYROXINE",
+        "GABAPENTIN.",
+        "RESTASIS",
+        "LORATADINE.",
+        "VITAMIN E",
+        "BLACK COHOSH",
+        "HYDROCODONE/APAP"
+      ],
+      "reactions": [
+        "Bronchitis"
+      ],
+      "report_id": "10710066"
+    },
+    {
+      "drugs": [
+        "BLACK COHOSH EXTRACT",
+        "NAPROXEN.",
+        "PREDNISOLONE (UNKNOWN)",
+        "ZAPAIN",
+        "SERTRALINE",
+        "ECHINACEA                          /01323501/",
+        "AMITRIPTYLINE",
+        "LACTULOSE.",
+        "SENNA",
+        "CITRAMAG                           /01815501/",
+        "OMEPRAZOLE."
+      ],
+      "reactions": [
+        "Thirst",
+        "Fatigue",
+        "Tremor",
+        "Heart rate increased",
+        "Hyperhidrosis",
+        "Micturition urgency",
+        "Ear pain",
+        "Night sweats"
+      ],
+      "report_id": "10713382"
+    },
+    {
+      "drugs": [
+        "CRESTOR",
+        "TRILIPIX",
+        "CALTRATE AND D3",
+        "TRILIPIX",
+        "TRAZODONE",
+        "TRILIPIX",
+        "TRILIPIX",
+        "GABAPENTIN.",
+        "IMODIUM AD",
+        "BLACK COHOSH",
+        "NEXIUM",
+        "TRILIPIX",
+        "TRILIPIX",
+        "NEXIUM",
+        "TRILIPIX",
+        "TRILIPIX",
+        "VITAMIN C",
+        "TRILIPIX",
+        "TRILIPIX",
+        "GABAPENTIN.",
+        "KLOZAPIN",
+        "ZOLOFT",
+        "AMITRIPTYLINE",
+        "TRILIPIX",
+        "LACPAID",
+        "NEXIUM",
+        "NEXIUM",
+        "BUDESONIDE.",
+        "BUDESONIDE.",
+        "TRILIPIX",
+        "TRAZODONE",
+        "CENTRUM SILVER WOMEN 1/2 TAB",
+        "GARLIC."
+      ],
+      "reactions": [
+        "Wrist fracture",
+        "Night sweats",
+        "Abdominal discomfort",
+        "Diarrhoea",
+        "Intentional product misuse",
+        "Colitis",
+        "Off label use",
+        "Product use issue"
+      ],
+      "report_id": "10735156"
+    },
+    {
+      "drugs": [
+        "VITAMIN E",
+        "MUPIROCIN.",
+        "REVLIMID",
+        "ECOTRIN",
+        "VITAMIN C",
+        "OSMOPREP",
+        "CRANBERRY.",
+        "FISH OIL",
+        "LUMIGAN",
+        "SULFAMETHOXAZOLE-TRIMETHOPRIM (SMZ)",
+        "REVLIMID",
+        "BLACK COHOSH",
+        "MULTIVITAMINS",
+        "LEVETIRACETAM.",
+        "VITAMIN D",
+        "GARLIC.",
+        "L-LYSINE",
+        "MENOPAUSE SUPPORT",
+        "FAMCICLOVIR.",
+        "POTASSIUM",
+        "IPRATROPIUM BROMIDE.",
+        "SIMVASTATIN."
+      ],
+      "reactions": [
+        "Transient ischaemic attack",
+        "Insomnia"
+      ],
+      "report_id": "10737042"
+    },
+    {
+      "drugs": [
+        "BLACK COHOSH                       /01456801/",
+        "BRISDELLE"
+      ],
+      "reactions": [
+        "Drug ineffective",
+        "Drug prescribing error",
+        "Drug administration error",
+        "Incontinence",
+        "Muscle spasms"
+      ],
+      "report_id": "10739177"
+    },
+    {
+      "drugs": [
+        "BACTRIM DS",
+        "VITAMIN B12",
+        "KLOR-CON",
+        "AUBAGIO",
+        "SPIRONOLACTONE.",
+        "HUMULIN NOS",
+        "METOLAZONE.",
+        "ATENOLOL.",
+        "BACLOFEN.",
+        "VITAMIN D",
+        "URSODIOL.",
+        "LOPID",
+        "VITAMIN B 2",
+        "TIZANIDINE.",
+        "FENTANYL.",
+        "VITAMIN E",
+        "COPAXONE",
+        "AMPYRA",
+        "VITAMIN B COMPLEX",
+        "FIBER",
+        "PRAVASTATIN",
+        "HUMALOG",
+        "IRON",
+        "DICYCLOMINE",
+        "BLACK COHOSH",
+        "FISH OIL",
+        "STOOL SOFTENER",
+        "MVI",
+        "GEMFIBROZIL.",
+        "BENTYL",
+        "GABAPENTIN.",
+        "VITAMIN C",
+        "TAMSULOSIN",
+        "MECLIZINE"
+      ],
+      "reactions": [
+        "Adverse event"
+      ],
+      "report_id": "10753379"
+    },
+    {
+      "drugs": [
+        "CLIMARA",
+        "BLACK COHOSH",
+        "GINSENG [GINSENG NOS]",
+        "LEVOTHYROXINE"
+      ],
+      "reactions": [
+        "Hot flush"
+      ],
+      "report_id": "10762668"
+    },
+    {
+      "drugs": [
+        "METOPROLOL",
+        "AMPYRA",
+        "CLONAZEPAM.",
+        "BLACK COHOSH",
+        "ENALAPRIL",
+        "LEVOTHYROXINE",
+        "CYCLOBENZAPRINE",
+        "SIMVASTATIN.",
+        "HYDROCHLOROTHIAZIDE.",
+        "VITAMIN D"
+      ],
+      "reactions": [
+        "Back pain",
+        "Malaise",
+        "Headache",
+        "Decreased appetite",
+        "Nausea"
+      ],
+      "report_id": "10763779"
+    },
+    {
+      "drugs": [
+        "LISINOPRIL.",
+        "VITAMIN C",
+        "RADIUM RA 223 DICHLORIDE",
+        "CO-Q10",
+        "EXCEDRIN EXTRA STRENGTH",
+        "EXCEDRIN EXTRA STRENGTH",
+        "BLACK COHOSH",
+        "ASPIRIN.",
+        "INSULIN GLARGINE",
+        "CARVEDILOL.",
+        "MONTELUKAST",
+        "JANUVIA",
+        "ABIRATERONE ACETATE",
+        "METFORMIN",
+        "ATORVASTATIN",
+        "GLICLAZIDE",
+        "LORATADINE."
+      ],
+      "reactions": [
+        "Cholelithiasis",
+        "Nephrolithiasis",
+        "Haemoglobin decreased",
+        "Nausea",
+        "Chest pain",
+        "Diarrhoea",
+        "Abdominal pain upper",
+        "Decreased appetite",
+        "Ventricular tachycardia",
+        "Haematocrit decreased",
+        "Prostatic specific antigen increased",
+        "Abdominal pain",
+        "Red blood cell count decreased",
+        "Fatigue"
+      ],
+      "report_id": "10770877"
+    },
+    {
+      "drugs": [
+        "BLACK COHOSH",
+        "B COMPLEX B12",
+        "FISH OIL",
+        "VITAMIN D3",
+        "MULTIPLE VITAMINS",
+        "PROZAC",
+        "TURMERIC",
+        "AMPYRA",
+        "COPAXONE"
+      ],
+      "reactions": [
+        "Feeling jittery",
+        "Palpitations",
+        "Nervousness"
+      ],
+      "report_id": "10772052"
+    },
+    {
+      "drugs": [
+        "VIIBRYD",
+        "BACLOFEN.",
+        "VITAMIN D3",
+        "ADDERALL",
+        "MULTIVITAMIN",
+        "VITAMIN B12",
+        "IRON",
+        "VITAMIN D",
+        "MAGNESIUM",
+        "BLACK COHOSH",
+        "VITAMIN C",
+        "AMPYRA",
+        "ADDERALL",
+        "GILENYA"
+      ],
+      "reactions": [
+        "Blood potassium decreased",
+        "Blood potassium abnormal"
+      ],
+      "report_id": "10772478"
+    },
+    {
+      "drugs": [
+        "FISH OIL",
+        "OXYCONTIN",
+        "ALLEGRA-D",
+        "CELEBREX",
+        "HYDROCODONE",
+        "NASONEX",
+        "OXYCODONE",
+        "BLACK COHOSH",
+        "AMPYRA",
+        "CALCIUM D",
+        "MULTIVITAMIN",
+        "SYMBICORT",
+        "GILENYA",
+        "OMEPRAZOLE.",
+        "METHYLPHENIDATE",
+        "AMPYRA",
+        "PREDNISONE.",
+        "PRIMIDONE AVPAK",
+        "PROAIR HFA",
+        "ATORVASTATIN",
+        "ALPRAZOLAM.",
+        "DIAZEPAM.",
+        "LEXAPRO",
+        "ALBUTEROL.",
+        "HYDROCHLOROTHIAZIDE.",
+        "TYSABRI",
+        "GABAPENTIN.",
+        "RITALIN",
+        "SOY ISOFLAVONE",
+        "FLUOXETINE"
+      ],
+      "reactions": [
+        "Mobility decreased",
+        "Asthenia",
+        "JC virus test positive",
+        "Memory impairment",
+        "Headache",
+        "Vitreous floaters",
+        "Fluid retention",
+        "Dry mouth",
+        "Back pain",
+        "Hypoaesthesia",
+        "Mobility decreased",
+        "Paraesthesia",
+        "Asthenia",
+        "Weight increased",
+        "Walking aid user",
+        "Gait disturbance",
+        "Gait disturbance"
+      ],
+      "report_id": "10774247"
+    },
+    {
+      "drugs": [
+        "CLARITIN",
+        "PRILOSEC",
+        "SYNTHROID",
+        "VITAMIN D",
+        "BLACK COHOSH",
+        "PROBIOTIC",
+        "IBUPROFEN.",
+        "FLONASE",
+        "SODIUM CHLORIDE NASAL SPRAY",
+        "ZOHYDRO",
+        "BIOTENE",
+        "SALAGEN",
+        "COLACE",
+        "ZOHYDRO",
+        "ZANAFLEX",
+        "PLAQUENIL",
+        "ZOVIRAX"
+      ],
+      "reactions": [
+        "Death",
+        "Self injurious behaviour"
+      ],
+      "report_id": "10780793"
+    },
+    {
+      "drugs": [
+        "OCUVITE",
+        "PROCHLORPERAZINE MALEATE.",
+        "ASPIRIN.",
+        "ALBUTEROL SULFATE.",
+        "VITAMIN D3",
+        "GABAPENTIN.",
+        "POTASSIUM",
+        "CALCIUM",
+        "FISH OIL",
+        "TRIAMTERENE/HYDROCHLOROTHIAZIDE",
+        "BLACK COHOSH EXTRACT",
+        "ATENOLOL.",
+        "POMALYST",
+        "DEXAMETHASONE.",
+        "MAGNESIUM",
+        "CELEBREX"
+      ],
+      "reactions": [
+        "Nasal congestion",
+        "Hypoacusis",
+        "Cerumen impaction"
+      ],
+      "report_id": "10784676"
+    },
+    {
+      "drugs": [
+        "HUMIRA",
+        "KLOR-CON",
+        "DICYCLOMINE",
+        "EFFEXOR",
+        "RISPERIDON",
+        "HUMIRA",
+        "BLACK COHOSH",
+        "BLACK COHOSH",
+        "TIZANIDINE.",
+        "CELEXA",
+        "HUMIRA",
+        "HYDROCODONE",
+        "PANTOPRAZOLE",
+        "TRAZODONE",
+        "TIZANIDINE."
+      ],
+      "reactions": [
+        "Pain",
+        "Pain",
+        "Malaise",
+        "Crohn^s disease",
+        "Pharyngitis streptococcal",
+        "Rash",
+        "Urticaria",
+        "Pharyngitis streptococcal",
+        "Influenza like illness",
+        "Nausea",
+        "Oropharyngeal pain",
+        "Urticaria"
+      ],
+      "report_id": "10807264"
+    },
+    {
+      "drugs": [
+        "GLUCOSAMINE",
+        "HUMIRA",
+        "MELOXICAM.",
+        "METHOTREXATE",
+        "FLONASE",
+        "VITAMIN B COMPLEX",
+        "BLACK COHOSH",
+        "FOLIC ACID.",
+        "CLARITIN-D 12 HOUR",
+        "MSM"
+      ],
+      "reactions": [
+        "Pain in extremity",
+        "Inappropriate schedule of drug administration"
+      ],
+      "report_id": "10829212"
+    },
+    {
+      "drugs": [
+        "HUMIRA",
+        "BLACK COHOSH",
+        "DICYCLOMINE",
+        "TIZANIDINE (TIZANIDINE)",
+        "CELEXA",
+        "KLOR-CON",
+        "BLACK COHOSH",
+        "HYDROCODONE",
+        "TRAZODONE",
+        "ESTROGEN NOS",
+        "TIZANIDINE (TIZANIDINE)",
+        "TRAMADOL",
+        "ESTROGEN NOS",
+        "RISPERDAL",
+        "HUMIRA",
+        "PANTOPRAZOLE",
+        "HUMIRA",
+        "EFFEXOR",
+        "TRAMADOL",
+        "HYDROCODONE"
+      ],
+      "reactions": [
+        "Middle ear effusion",
+        "Upper respiratory tract congestion",
+        "Injection site pain",
+        "Sputum discoloured",
+        "Abdominal pain",
+        "Paranasal sinus discomfort",
+        "Feeling abnormal",
+        "Fatigue",
+        "Diarrhoea",
+        "Influenza"
+      ],
+      "report_id": "10829699"
+    },
+    {
+      "drugs": [
+        "FLAGYL",
+        "CALCIUM",
+        "HUMIRA",
+        "MAGNESIUM",
+        "FISH OIL",
+        "ARMOUR THYROID",
+        "BLACK COHOSH",
+        "PROBIOTICS",
+        "ZYRTEC",
+        "HUMIRA",
+        "CYMBALTA",
+        "ZOLPIDEM",
+        "CELEBREX"
+      ],
+      "reactions": [
+        "Exaggerated startle response",
+        "Dizziness",
+        "Colitis",
+        "Dysmenorrhoea",
+        "Colitis",
+        "Injection site pain",
+        "Device issue",
+        "Injection site bruising",
+        "Drug dose omission",
+        "Fibromyalgia",
+        "Wrong technique in drug usage process",
+        "Injection site scar",
+        "Pain",
+        "Colitis",
+        "Menorrhagia",
+        "Colitis microscopic",
+        "Cystitis interstitial"
+      ],
+      "report_id": "10838060"
+    },
+    {
+      "drugs": [
+        "AUBAGIO",
+        "FISH OIL",
+        "HUMALOG",
+        "DICYCLOMINE",
+        "VITAMIN B12",
+        "STOOL SOFTENER",
+        "AMPYRA",
+        "VITAMIN C",
+        "IRON",
+        "THIAMINE HYDROCHLORIDE.",
+        "VITAMIN D",
+        "TAMSULOSIN",
+        "LOPID",
+        "MECLIZINE",
+        "VITAMIN B2",
+        "COPAXONE",
+        "ATENOLOL.",
+        "BACTRIM DS",
+        "BLACK COHOSH",
+        "BENTYL",
+        "GABAPENTIN.",
+        "RIBOFLAVIN",
+        "VITAMIN E",
+        "GEMFIBROZIL.",
+        "VITAMIN B COMPLEX",
+        "FIBER",
+        "TIZANIDINE HYDROCHLORIDE.",
+        "BACLOFEN.",
+        "FENTANYL.",
+        "URSODIOL.",
+        "HUMULIN NOS",
+        "KLOR-CON",
+        "METOLAZONE.",
+        "SPIRONOLACTONE.",
+        "PRAVASTATIN"
+      ],
+      "reactions": [
+        "Unevaluable event"
+      ],
+      "report_id": "10862138"
+    },
+    {
+      "drugs": [
+        "AVAPRO",
+        "VITAMIN D3",
+        "LIPITOR",
+        "COREG",
+        "MVI",
+        "JARDIANCE",
+        "NEXIUM",
+        "BLACK COHOSH"
+      ],
+      "reactions": [
+        "Chest pain",
+        "Blood pressure increased",
+        "Anxiety",
+        "Blood glucose abnormal"
+      ],
+      "report_id": "10866374"
+    },
+    {
+      "drugs": [
+        "FLOVENT DISKUS",
+        "BLACK COHOSH",
+        "NEXIUM"
+      ],
+      "reactions": [
+        "Eye pain",
+        "Off label use",
+        "Device use error"
+      ],
+      "report_id": "10869617"
+    },
+    {
+      "drugs": [
+        "NABUMETONE.",
+        "RIBOFLAVIN",
+        "NORTRIPTYLINE",
+        "XELJANZ",
+        "MAXALT",
+        "CORTISOL",
+        "BLACK COHOSH",
+        "MVI",
+        "FISH OIL",
+        "CRESTOR",
+        "VITAMIN D",
+        "ARMOUR THYROID"
+      ],
+      "reactions": [
+        "Blood cholesterol increased",
+        "Hypertension"
+      ],
+      "report_id": "10882902"
+    },
+    {
+      "drugs": [
+        "GILENYA",
+        "FERROUS GLUCONATE",
+        "FLONASE//FLUTICASONE PROPIONATE",
+        "BENADRYL",
+        "ZINC",
+        "CINNAMON.",
+        "CLONAZEPAM.",
+        "LISINOPRIL.",
+        "POTASSIUM GLUCONATE",
+        "ALLOPURINOL.",
+        "FLEXERIL",
+        "FLU",
+        "MAG-OX",
+        "BLACK COHOSH",
+        "LYSINE",
+        "VITAMIN B COMPLEX",
+        "LATANOPROST.",
+        "AMBIEN",
+        "STADOL",
+        "TYLENOL",
+        "FERROUS SULFATE",
+        "MAGNESIUM",
+        "PANTOPRAZOLE SODIUM.",
+        "POTASSIUM",
+        "CALCIUM",
+        "SELENIUM",
+        "VITAMIN C",
+        "B-COMPLEX//VITAMIN B COMPLEX",
+        "CALCIUM CARBONATE AND VITAMIN D",
+        "SUPER E COMPLEX",
+        "BIOTIN",
+        "CHOLECALCIFEROL",
+        "EVENING PRIMROSE OIL",
+        "LASIX",
+        "REQUIP",
+        "VITAMIN E",
+        "VITAMIN D3",
+        "IRON",
+        "SYNTHROID"
+      ],
+      "reactions": [
+        "Feeling hot",
+        "Acute prerenal failure",
+        "Memory impairment",
+        "Amblyopia",
+        "Scar",
+        "Discomfort",
+        "Contusion",
+        "Paraesthesia",
+        "Pain in extremity",
+        "Faecal incontinence",
+        "Snoring",
+        "Motor dysfunction",
+        "Gait disturbance",
+        "Neuropathy peripheral",
+        "Tenderness",
+        "Erythema",
+        "Wrist fracture",
+        "Ankle fracture",
+        "Amnesia",
+        "Nausea",
+        "Dizziness",
+        "Fall",
+        "Grip strength decreased",
+        "Osteogenesis imperfecta",
+        "Confusional state",
+        "Demyelination",
+        "Cellulitis",
+        "Peripheral swelling",
+        "Urinary incontinence",
+        "Injury",
+        "Back pain"
+      ],
+      "report_id": "10888942"
+    },
+    {
+      "drugs": [
+        "CEFDINIR.",
+        "BLACK COHOSH 40 MG",
+        "TURMERIC CAPSULE",
+        "VIT B 50 COMPLEX",
+        "ROBITUSSIN DM/MUCINEX DM",
+        "RICOLA ORIGINAL FORMULA LOZENGES",
+        "CEPACOL THROAT LOZENGES",
+        "WALGREENS SALT PACKET",
+        "GLUCOSAMINE 500 MG",
+        "ESTHER C 500 MG",
+        "PROMETHAZINE W/CODEINE",
+        "OMEGA 3 SUPPLEMENT",
+        "NETI POT WITH DISTILLED WATER",
+        "IBUPROFEN.",
+        "FLONASE",
+        "CALCIUM/MAGNESIUM/ZINC SUPPLEMENT 500/250/15",
+        "D3 2000",
+        "AFRIN SEVERE CONGESTION NASAL SPRAY",
+        "SALT WATER GARGLE"
+      ],
+      "reactions": [
+        "Ageusia",
+        "Anosmia",
+        "Decreased appetite",
+        "Insomnia"
+      ],
+      "report_id": "10901480"
+    },
+    {
+      "drugs": [
+        "EVENING PRIMROSE OIL",
+        "PANTOPRAZOLE",
+        "LATANOPROST.",
+        "L-LYSINE",
+        "BLACK COHOSH",
+        "CLONAZEPAM.",
+        "REQUIP",
+        "MAG-OX",
+        "GILENYA",
+        "BIOTIN",
+        "FERROUS SULFATE",
+        "CHOLECALCIFEROL",
+        "FLONASE//FLUTICASONE PROPIONATE",
+        "SELENIUM",
+        "CINNAMON.",
+        "LASIX",
+        "VITAMIN E",
+        "FERROUS GLUCONATE",
+        "LISINOPRIL.",
+        "VITAMIN B COMPLEX",
+        "SYNTHROID",
+        "LYSINE",
+        "VITAMIN C"
+      ],
+      "reactions": [
+        "Body mass index increased",
+        "Hypertension",
+        "Arachnoiditis",
+        "Hypothyroidism",
+        "Essential hypertension",
+        "Gastrooesophageal reflux disease",
+        "Apnoea",
+        "Pain"
+      ],
+      "report_id": "10902029"
+    },
+    {
+      "drugs": [
+        "CALCIUM CARBONATE.",
+        "COCONUT OIL",
+        "ECOTRIN",
+        "BLACK COHOSH                       /01456801/",
+        "VITAMIN D                          /00107901/",
+        "JAKAFI",
+        "JAKAFI",
+        "MACA"
+      ],
+      "reactions": [
+        "Adverse drug reaction"
+      ],
+      "report_id": "10907818"
+    },
+    {
+      "drugs": [
+        "VITAMIN E",
+        "FOLIC ACID.",
+        "BLACK COHOSH",
+        "LORATADINE.",
+        "IBUPROFEN.",
+        "CALCIUM",
+        "LEVOTHYROXINE.",
+        "BUPROPION.",
+        "VITAMIN C",
+        "VITAMIN D3",
+        "HYDROCODONE",
+        "TRAMADOL.",
+        "WARFARIN",
+        "XELJANZ",
+        "RESTASIS",
+        "METHOTREXATE.",
+        "MAGNESIUM",
+        "MULTIVITAMINS",
+        "OTEZLA",
+        "TRIAMTERENE.",
+        "TOPIRAMATE.",
+        "GABAPENTIN.",
+        "FISH OIL"
+      ],
+      "reactions": [
+        "Drug ineffective"
+      ],
+      "report_id": "10919106"
+    },
+    {
+      "drugs": [
+        "VITAMIN C",
+        "CRANBERRY.",
+        "ALPHA LIPOIC ACID",
+        "BIOTIN",
+        "COD LIVER OIL",
+        "GLUCOSAMINE",
+        "BILBERRY",
+        "FISH OIL",
+        "MELATONIN",
+        "GRAPE SEED",
+        "TURMERIC",
+        "METFORMIN",
+        "MOVE FREE MAINTAINS + REPAIRS",
+        "VITAMIN C",
+        "VITAMIN D3",
+        "GARLIC.",
+        "FLAXSEED",
+        "VITAMIN B12",
+        "CHLORTHALIDONE.",
+        "EVENING PRIMROSE OIL",
+        "EVENING PRIMROSE OIL",
+        "TYLENOL EXTRA STRENGTH",
+        "NATURE MADE CALCIUM WITH VITAMIN D",
+        "GINKO BILOBA",
+        "AROMASIN",
+        "LISINOPRIL.",
+        "CHROMIUM/CINNAMON",
+        "COENZYME Q10",
+        "ZINC",
+        "BLACK COHOSH EXTRACT",
+        "ASPIRIN.",
+        "BORAGE OIL",
+        "AROMASIN",
+        "LUTEIN",
+        "COCONUT OIL",
+        "ZEAXANTHIN",
+        "CHROMIUM/CINNAMON",
+        "FLAXSEED",
+        "MAGNESIUM"
+      ],
+      "reactions": [
+        "Cough",
+        "Nasopharyngitis",
+        "Cataract",
+        "Drug dose omission",
+        "Hot flush",
+        "Breast mass"
+      ],
+      "report_id": "10926068"
+    },
+    {
+      "drugs": [
+        "TIZANIDINE HCI",
+        "BLACK COHOSH",
+        "TECFIDERA",
+        "SPIRONOLACTONE."
+      ],
+      "reactions": [
+        "Headache"
+      ],
+      "report_id": "10928225"
+    },
+    {
+      "drugs": [
+        "VITAMIN D",
+        "WELLBUTRIN",
+        "STRATTERRA",
+        "WELLBUTRIN XL",
+        "BLACK COHOSH",
+        "FAMOTIDINE.",
+        "TANZEUM",
+        "LISINOPRIL."
+      ],
+      "reactions": [
+        "Injection site erythema",
+        "Injection site discolouration",
+        "Injection site pruritus",
+        "Injection site oedema"
+      ],
+      "report_id": "10932618"
+    },
+    {
+      "drugs": [
+        "CALCIUM",
+        "DICYCLOMINE",
+        "MAGNESIUM",
+        "OMEPRAZOLE.",
+        "MIRALAX",
+        "ZYRTEC",
+        "AMITRIPTYLINE",
+        "MELATONIN",
+        "MULTIPLE VITAMINS",
+        "BLACK COHOSH",
+        "VIEKIRA PAK",
+        "RIBASPHERE"
+      ],
+      "reactions": [
+        "Nausea",
+        "Abdominal pain",
+        "Abdominal distension"
+      ],
+      "report_id": "10933123"
+    },
+    {
+      "drugs": [
+        "VITAMIN D2",
+        "SINGULAIR",
+        "XOPENEX",
+        "HIZENTRA",
+        "BLACK COHOSH",
+        "SKELAXIN",
+        "PANTOPRAZOLE",
+        "SYMBICORT",
+        "CLARITIN",
+        "NEURONTIN",
+        "ALBUTEROL.",
+        "GABAPENTIN.",
+        "AMOXICILLIN.",
+        "PULMICORT TURBUHALER",
+        "BENAZEPRIL",
+        "MULTIVITAMIN",
+        "HIZENTRA",
+        "STOOL SOFTENER",
+        "VITAMIN B12",
+        "CELEXA",
+        "FISH OIL",
+        "TYLENOL",
+        "LYSINE",
+        "MAGNESIUM",
+        "FOSAMAX",
+        "RANITIDINE",
+        "DIPHENHYDRAMINE",
+        "SIMVASTATIN.",
+        "OSCAL",
+        "HYDROCHLOROTHIAZIDE.",
+        "FLONASE",
+        "ASPIRIN."
+      ],
+      "reactions": [
+        "Respiratory tract infection",
+        "Infusion site urticaria",
+        "Drug dose omission",
+        "Infusion site swelling"
+      ],
+      "report_id": "10959806"
+    },
+    {
+      "drugs": [
+        "NAPROSYN",
+        "CHANTIX",
+        "LEVEMIR",
+        "LITHIUM CARBONATE.",
+        "LEVOTHYROXINE",
+        "LEVOTHYROXINE",
+        "BLACK COHOSH",
+        "LORATADINE.",
+        "REGULAR INSULIN NOVO NORDISK"
+      ],
+      "reactions": [
+        "Hyperphagia",
+        "Abnormal dreams"
+      ],
+      "report_id": "10962182"
+    },
+    {
+      "drugs": [
+        "NEXIUM",
+        "METOPROLOL-HYDROCHLOROTHIAZIDE",
+        "ONDANSETRON HCL",
+        "TYLENOL",
+        "REVLIMID",
+        "ECOTRIN",
+        "MUCINEX",
+        "SENOKOT-S",
+        "VENLAFAXINE HCL",
+        "TIZANIDINE HCL",
+        "NEURONTIN",
+        "ZYRTEC",
+        "METHADONE HCL",
+        "BLACK COHOSH",
+        "VITAMIN D-3"
+      ],
+      "reactions": [
+        "Hyperhidrosis",
+        "Diarrhoea",
+        "Nausea"
+      ],
+      "report_id": "10983671"
+    },
+    {
+      "drugs": [
+        "ADDERALL",
+        "CYMBALTA",
+        "CYMBALTA",
+        "POTASSIUM CITRATE.",
+        "MELOXICAM.",
+        "FISH OIL",
+        "CALCIUM WITH VITAMIN D",
+        "CHROMIUM PICOLINATE",
+        "CYMBALTA",
+        "LIVALO",
+        "BLACK COHOSH ROOT",
+        "TOLTERODONE",
+        "HYDROCODONE",
+        "VALTREX",
+        "EVENING PRIMROSE OIL"
+      ],
+      "reactions": [
+        "Depression",
+        "Suicidal ideation"
+      ],
+      "report_id": "10986507"
+    },
+    {
+      "drugs": [
+        "CLONODINE",
+        "LIDODERM",
+        "SUPER B-COMPLEX",
+        "ESTRODIAL PATCHES",
+        "VITAMIN E",
+        "COQ10",
+        "POTASSIUM GLUCONATE",
+        "VITAMIN D-3",
+        "SOY-HEALTHY WOMAN",
+        "MULTI VITAMINS",
+        "CHONDROITIN",
+        "BIOTIN",
+        "PREVACID",
+        "MAGNESIUM",
+        "GLUCOSAMINE",
+        "LUTEIN",
+        "PREMARIN",
+        "VITAMINS C",
+        "FOSAMAX",
+        "CALCIUM",
+        "BLACK COHOSH",
+        "VAGIFEN",
+        "IBUPROFEN.",
+        "L-LYSINE",
+        "QUININE SULFATE.",
+        "ARMOUR A THYROID",
+        "NATURAL MAGNESIUM"
+      ],
+      "reactions": [
+        "Vaginal infection",
+        "Muscle spasms",
+        "Hypersomnia",
+        "Functional gastrointestinal disorder",
+        "Vaginal disorder",
+        "Abdominal pain upper",
+        "Inflammation",
+        "Mass",
+        "Constipation",
+        "Pain",
+        "Feeling abnormal"
+      ],
+      "report_id": "11010673"
+    },
+    {
+      "drugs": [
+        "ZOLMITRIPTAN.",
+        "DOCUSATE",
+        "MOMETASONE",
+        "PRAVASTATIN",
+        "LOSARTAN-HYDROCHLOROTHIAZIDE",
+        "NAPROXEN.",
+        "FLUTICASONE",
+        "LORATADINE.",
+        "CHOLECALCIFEROL",
+        "CITALOPRAM",
+        "VALACYCLOVIR",
+        "LOSARTAN-HYDROCHLOROTHIAZIDE",
+        "BLACK COHOSH",
+        "TECFIDERA",
+        "TECFIDERA",
+        "OMPERAZOLE",
+        "SUMATRIPTAN.",
+        "OMEGA-3 FATTY ACID",
+        "ARMODAFINIL.",
+        "ALPRAZOLAM."
+      ],
+      "reactions": [
+        "Dyspepsia",
+        "Leiomyosarcoma metastatic",
+        "Lymphopenia",
+        "Constipation",
+        "Prescribed underdose",
+        "Anal squamous cell carcinoma"
+      ],
+      "report_id": "11029949"
+    },
+    {
+      "drugs": [
+        "BIOTIN",
+        "HUMIRA",
+        "VITAMIN D",
+        "TURMERIC",
+        "POTASSIUM CITRATE.",
+        "Q-VAR INHALER",
+        "ZINC",
+        "GINGKO BILOBA",
+        "BLACK COHOSH"
+      ],
+      "reactions": [
+        "Alopecia"
+      ],
+      "report_id": "11055182"
+    },
+    {
+      "drugs": [
+        "LANTUS",
+        "METFORMIN",
+        "AMLODIPINE BESYLATE.",
+        "BUSPIRONE",
+        "TRAMADOL HCL",
+        "BLACK COHOSH",
+        "SPIRIVA",
+        "BENICAR",
+        "GEMFIBROZIL.",
+        "PRAVASTATIN SODIUM.",
+        "RANITIDINE",
+        "INVOKANA",
+        "BACLOFEN.",
+        "CALCIUM AND D3",
+        "VITAMIN D3",
+        "INVOKANA",
+        "NEXIUM",
+        "HUMALOG",
+        "CYMBALTA",
+        "LEVOTHYROXINE",
+        "GABAPENTIN.",
+        "MELATONIN",
+        "GEMFIBROZIL.",
+        "ASPIRIN.",
+        "PATADAY",
+        "LOTEMAX"
+      ],
+      "reactions": [
+        "Decreased appetite",
+        "Drug prescribing error",
+        "Drug administration error",
+        "Intentional product misuse",
+        "Vitamin D deficiency",
+        "Weight decreased",
+        "Insomnia",
+        "Pruritus",
+        "Drug ineffective",
+        "Eye disorder"
+      ],
+      "report_id": "11056709"
+    },
+    {
+      "drugs": [
+        "CYMBALTA",
+        "GABAPENTIN.",
+        "LEVOTHYROXINE",
+        "INVOKANA",
+        "BENICAR",
+        "ASPIRIN.",
+        "GEMFIBROZIL.",
+        "PRAVASTATIN SODIUM.",
+        "BACLOFEN.",
+        "CALCIUM + D3",
+        "TRAMADOL HCL",
+        "RANITIDINE",
+        "SPIRIVA",
+        "AMLODIPINE BESYLATE.",
+        "MELATONIN",
+        "INVOKANA",
+        "LANTUS",
+        "METFORMIN",
+        "BUSPIRONE",
+        "GEMFIBROZIL.",
+        "NEXIUM",
+        "HUMALOG",
+        "BACLOFEN.",
+        "BLACK COHOSH",
+        "VITAMIN D3"
+      ],
+      "reactions": [
+        "Rhinorrhoea",
+        "Incorrect dose administered",
+        "Wrong technique in drug usage process",
+        "Blood glucose abnormal",
+        "Pruritus",
+        "Eye inflammation",
+        "Weight decreased",
+        "Rash",
+        "Sneezing",
+        "Drug ineffective",
+        "Vitamin D deficiency"
+      ],
+      "report_id": "11056822"
+    },
+    {
+      "drugs": [
+        "EFFEXOR",
+        "IMITREX",
+        "HCTZ",
+        "MORPHINE SULFATE.",
+        "LISINOPRIL.",
+        "SERTRALINE HCL",
+        "BLACK COHOSH",
+        "TALWIN",
+        "ASA",
+        "VIOXX",
+        "ZOLOFT",
+        "VITAMIN D",
+        "XANAX",
+        "CELEXA",
+        "BENICAR",
+        "BYSTOLIC"
+      ],
+      "reactions": [
+        "Drug hypersensitivity"
+      ],
+      "report_id": "11061443"
+    },
+    {
+      "drugs": [
+        "EVENING OF PRIMROSE",
+        "BLACK COHOSH",
+        "COD LIVER OIL",
+        "ADVIL PM",
+        "CALCIUM WITH VITAMIN D /00944201/",
+        "VITAMIN B COMPLEX",
+        "SIMVASTATIN.",
+        "BABY ASPIRIN"
+      ],
+      "reactions": [
+        "Feeling abnormal"
+      ],
+      "report_id": "11068495"
+    },
+    {
+      "drugs": [
+        "EFFEXOR XR",
+        "LYRICA",
+        "CALCIUM",
+        "LYRICA",
+        "TRAZODONE",
+        "BLACK COHOSH",
+        "VITAMIN D",
+        "TOPROL XL",
+        "LIPITOR",
+        "LEVOTHYROXINE"
+      ],
+      "reactions": [
+        "Feeling of body temperature change",
+        "Withdrawal syndrome"
+      ],
+      "report_id": "11074973"
+    },
+    {
+      "drugs": [
+        "ADVIL",
+        "COD LIVER OIL",
+        "BABY ASPIRIN",
+        "VITAMIN B COMPLEX",
+        "EVENING PRIMROSE OIL",
+        "CALCIUM WITH VITAMIN D /01204201/",
+        "ADVIL",
+        "BLACK COHOSH /01456801/",
+        "SIMVASTATIN."
+      ],
+      "reactions": [
+        "Intentional product misuse",
+        "Urinary tract infection"
+      ],
+      "report_id": "11076077"
+    },
+    {
+      "drugs": [
+        "VITAMIN C",
+        "FISH OIL",
+        "VITAMIN D                          /00107901/",
+        "BLACK COHOSH                       /01456801/",
+        "VITAMIN A AND D",
+        "COQ10                              /00517201/",
+        "GINSENG                            /01384001/",
+        "PROBIOTIC                          /06395501/",
+        "FOLIC ACID.",
+        "SELENIUM",
+        "ALENDRONATE SODIUM TABLETS USP 70MG",
+        "BIOTIN",
+        "MSM",
+        "TURMERIC                           /01079602/",
+        "LICORICE                           /01125801/",
+        "COD LIVER OIL",
+        "BROMELAIN",
+        "VITAMIN E",
+        "GINGER                             /01646602/"
+      ],
+      "reactions": [
+        "Fatigue",
+        "Sluggishness",
+        "Dyspepsia",
+        "Poor quality sleep"
+      ],
+      "report_id": "11095806"
+    },
+    {
+      "drugs": [
+        "DEXAMETHASONE.",
+        "BLACK COHOSH",
+        "COMPLETE MULTIVITAMINS",
+        "ASPIRIN.",
+        "EQL GARLIC",
+        "POTASSIUM",
+        "ZOLPIDEM TARTRATE.",
+        "REVLIMID",
+        "LUMIGAN",
+        "FAMCICLOVIR.",
+        "FERROUS FUMARATE",
+        "SIMVASTATIN.",
+        "VITAMIN D",
+        "MENOPAUSE SUPPORT",
+        "LEVOTHYROXINE",
+        "L-LYSINE"
+      ],
+      "reactions": [
+        "Thrombosis",
+        "Arthropathy"
+      ],
+      "report_id": "11100019"
+    },
+    {
+      "drugs": [
+        "VITAMIN B2",
+        "SALAGEN",
+        "DIAZPAM",
+        "ACYCLOVIR.",
+        "PLAQUENIL",
+        "PERDIEM WITH STIMULANT",
+        "VITAMIN D",
+        "SYNTHROID",
+        "BENLYSTA",
+        "BLACK COHOSH"
+      ],
+      "reactions": [
+        "Quality of life decreased",
+        "Migraine"
+      ],
+      "report_id": "11100203"
+    },
+    {
+      "drugs": [
+        "BLACK COHOSH",
+        "AIPRAZOLAM",
+        "RANIDINE",
+        "FERROUS SULFATE",
+        "MULTI VITA",
+        "CYCOBENZAPHINE",
+        "MELOXICAM 15MG",
+        "TRAMADOL",
+        "MELATONIN"
+      ],
+      "reactions": [
+        "Haemorrhage",
+        "Muscular weakness",
+        "Dizziness",
+        "Asthenia"
+      ],
+      "report_id": "11127213"
+    },
+    {
+      "drugs": [
+        "GLUCOSAMINE",
+        "CYCLOBENZAPRINE.",
+        "ASPIRIN.",
+        "COSENTYX",
+        "VITAMIN D",
+        "LEVOTHYROXINE.",
+        "SULFASALAZINE.",
+        "CO-ENZIME Q-10",
+        "PLACEBO",
+        "VITAMIN B6",
+        "VITAMIN B12",
+        "FISH OIL",
+        "BLACK COHOSH",
+        "ZYRTEC",
+        "CELEBREX",
+        "POTASSIUM",
+        "CALCIPOTRIENE.",
+        "TRIAMCINOLON E",
+        "CONDROITINA"
+      ],
+      "reactions": [
+        "Urinary tract infection"
+      ],
+      "report_id": "11143876"
+    },
+    {
+      "drugs": [
+        "LYRICA",
+        "ULTRAM",
+        "NORCO",
+        "LYRICA",
+        "LYRICA",
+        "ULTRAM",
+        "LISINOPRIL-HIDROCLOROTIAZIDA",
+        "CYCLOBENZAPRINE",
+        "ULTRAM",
+        "ALBUTEROL.",
+        "NORCO",
+        "LYRICA",
+        "METFORMIN",
+        "NORCO",
+        "NORCO",
+        "LYRICA",
+        "METFORMIN",
+        "ALBUTEROL.",
+        "PAXIL CR",
+        "LISINOPRIL-HIDROCLOROTIAZIDA",
+        "CYCLOBENZAPRINE",
+        "PAXIL CR",
+        "BLACK COHOSH",
+        "NORCO",
+        "LISINOPRIL-HIDROCLOROTIAZIDA",
+        "NORCO"
+      ],
+      "reactions": [
+        "Lymphadenopathy",
+        "Therapeutic response unexpected",
+        "Condition aggravated",
+        "Pre-existing condition improved",
+        "Thyroid neoplasm",
+        "Neoplasm"
+      ],
+      "report_id": "11146504"
+    },
+    {
+      "drugs": [
+        "PROTONIX",
+        "1 CITRACAL + D",
+        "MONTELUKAST",
+        "MVI",
+        "GLUCOSAMINE + CHONDROITIN (OSTEO BI-FLEX)",
+        "ENALAPRIL",
+        "ZYRTEC",
+        "FISH OIL",
+        "BRINTELLIX",
+        "TOPROL XL",
+        "NASONEX",
+        "RELAFEN",
+        "MAGNESIUM OXIDE.",
+        "BRINTELLIX",
+        "WELLBUTRIN SR",
+        "PRISTIQ EXTENDED RELEASE",
+        "BLACK COHOSH",
+        "CLONAZEPAM."
+      ],
+      "reactions": [
+        "Scratch",
+        "Discomfort",
+        "Pruritus",
+        "Peripheral swelling",
+        "Nausea"
+      ],
+      "report_id": "11148493"
+    },
+    {
+      "drugs": [
+        "LOVASTATIN.",
+        "LANTUS",
+        "TRAZODONE",
+        "FELODIPINE.",
+        "METOPROLOL",
+        "BLACK COHOSH",
+        "FAMOTIDINE.",
+        "ENDOCET",
+        "LOTREL",
+        "BACLOFEN.",
+        "METFORMIN",
+        "VALIUM",
+        "LEVEMIR",
+        "ASPIRIN."
+      ],
+      "reactions": [
+        "Swollen tongue",
+        "Lip swelling"
+      ],
+      "report_id": "11162617"
+    },
+    {
+      "drugs": [
+        "BELVIQ",
+        "FLAXSEED",
+        "FISH OIL",
+        "BLACK COHOSH",
+        "MULTIVITAMIN",
+        "MAGNESIUM",
+        "COENZYME Q10",
+        "GINSENG",
+        "RED YEAST RICE"
+      ],
+      "reactions": [
+        "Hypoaesthesia oral"
+      ],
+      "report_id": "11196600"
+    },
+    {
+      "drugs": [
+        "BLACK COHOSH",
+        "VITAMIN D",
+        "BIOTIN",
+        "CALCIUM",
+        "LAMICTAL",
+        "MULTI VITAMIN",
+        "LAMICTAL"
+      ],
+      "reactions": [
+        "Cough",
+        "Osteopenia"
+      ],
+      "report_id": "11211427"
+    },
+    {
+      "drugs": [
+        "VITAMIN D3",
+        "ARNICA                             /01006901/",
+        "AMBIEN",
+        "TARCEVA",
+        "COENZYME",
+        "BLACK COHOSH                       /01456801/",
+        "LEVAQUIN"
+      ],
+      "reactions": [
+        "Death"
+      ],
+      "report_id": "11212211"
+    },
+    {
+      "drugs": [
+        "COLACE",
+        "DARVOCET",
+        "ZOLOFT",
+        "XYREM",
+        "VALACYCLOVIR HYDROCHLORIDE.",
+        "ZOLOFT",
+        "XYREM",
+        "BLACK COHOSH",
+        "FLEXERIL",
+        "XYREM",
+        "METFORMIN",
+        "SONATA",
+        "SYNTHROID",
+        "ZELNORM",
+        "MELOXICAM.",
+        "TREXIMET",
+        "ZOLOFT",
+        "XYREM",
+        "ROBAXIN",
+        "ZYPAN",
+        "PRILOSEC",
+        "HYDROCODONE W/ACETAMINOPHEN",
+        "VITAMIN B12",
+        "CAMBIA POW",
+        "METFORMIN",
+        "MIRALAX"
+      ],
+      "reactions": [
+        "Carpal tunnel syndrome",
+        "Back pain"
+      ],
+      "report_id": "11223013"
+    },
+    {
+      "drugs": [
+        "CALCITRENE",
+        "BLACK COHOSH                       /01456801/",
+        "ST. JOHN^S WORT                    /01166801/",
+        "MAGNESIUM",
+        "CALCIPOTRIENE.",
+        "ENBREL",
+        "METOPROLOL",
+        "LISINOPRIL.",
+        "CALCIUM",
+        "OMEGA FISH OILS",
+        "BIOTIN",
+        "ATORVASTATIN"
+      ],
+      "reactions": [
+        "Drug effect decreased"
+      ],
+      "report_id": "11230120"
+    },
+    {
+      "drugs": [
+        "FISH OIL",
+        "ASPIRIN (ACETYLSALICYLIC ACID)",
+        "CALCIUM (CALCIUM)",
+        "CYCLOBENZAPRINE (CYCLOBENZAPRINE)",
+        "NITROGLYCERIN (GLYCERYL TRINITRATE) SPRAY",
+        "ATENOLOL (ATENOLOL)",
+        "COLESTIPOL HYDROCHLORIDE (COLESTIPOL HYDROCHLORIDE)",
+        "VITAMIN D3 (COLECALCIFEROL)",
+        "IBUPROFEN (IBUPROFEN)",
+        "DICLOFENAC (DICLOFENAC)",
+        "REMIFEMIN (CIMICIFUGA RACEMOSA EXTRACT)",
+        "OMEPRAZOLE (OMEPRAZOLE)",
+        "NITROSTAT (GLYCERYL TRINITRATE)",
+        "JUXTAPID"
+      ],
+      "reactions": [
+        "Aspartate aminotransferase increased",
+        "Alanine aminotransferase increased",
+        "Hot flush",
+        "Condition aggravated",
+        "Abdominal discomfort"
+      ],
+      "report_id": "10076015"
+    },
+    {
+      "drugs": [
+        "TYSABRI",
+        "KLIMADYNON (CIMICIFUGA RACEMOSA)"
+      ],
+      "reactions": [
+        "Alopecia areata",
+        "Depression",
+        "Neuralgia",
+        "Fatigue"
+      ],
+      "report_id": "10170712"
+    },
+    {
+      "drugs": [
+        "AVONEX",
+        "CHALATED (NOS)",
+        "HERBALIFE",
+        "CLIFENIM (CIMICIFUGA RACEMOSA EXTRACT)"
+      ],
+      "reactions": [
+        "Gastrointestinal tract adenoma",
+        "Colitis ulcerative",
+        "Fall",
+        "Radius fracture",
+        "Nausea",
+        "Chills",
+        "Headache"
+      ],
+      "report_id": "10791686"
+    },
+    {
+      "drugs": [
+        "VITAMIN D (ERGOCALCIFEROL)",
+        "BABY ASPIRIN (ACETYLSALICYLIC ACID)",
+        "DEGARELIX (DEGARELIX) POWDER AND SOLVENT FOR SOLUTION FOR INJECTION",
+        "HORMONE BALANCE NATURAL HRT (CIMICIFUGA RACEMOSA, COLECALCIFEROL, IPRIFLAVONE, VITEX AGNUS-CASTUS)"
+      ],
+      "reactions": [
+        "Injection site cellulitis",
+        "Disease progression",
+        "Injection site infection",
+        "Injection site reaction",
+        "Injection site swelling",
+        "Injection site erythema",
+        "Injection site inflammation",
+        "Injection site pain"
+      ],
+      "report_id": "10900776"
+    },
+    {
+      "drugs": [
+        "LOSARTAN (LOSARTAN)",
+        "CENTRUM SILVER /02363801/ (ASCORBIC ACID, BIOTIN, CALCIUM, CALCIUM PANTOTHENATE, CHLORINE, CHROMIUM, COLECALCIFEROL, COPPER, CYANOCOBALAMIN, FOLIC ACID, IODINE, IRON, MAGNESIUM, MANGANESE, MOLYBDENUM, NICKEL, NICOTINAMIDE, PHOSPHORUS, PHYTOMENADIONE, POTASSIUM, PYRIDOXINE HYDROCHLORIDE, RETINOL, RIBOFLAVIN, SELENIUM, SILICON DIOXIDE, THIAMINE HYDROCHLORIDE, TOCOPHEROL, VANADIUM, ZINC)",
+        "RANITIDINE",
+        "PREPOPIK",
+        "CALTRATE /00944201/ (CALCIUM CARBONATE, COLECALCIFEROL)",
+        "TWO FIBER ()",
+        "GABAPENTIN (GABAPENTIN)",
+        "CRESTOR",
+        "ESTROVEN (BORON, CALCIUM, CIMICIFUGA RACEMOSA EXTRACT, FOLIC ACID, GLYCINE MAX EXTRACT, MAGNOLIA OFFICINALIS, NICOTINIC ACID, PYRIDOXINE HYDROCHLORIDE, RIBOFLAVIN, SELENIUM, THIAMINE, TOCOPHEROL, VITAMIN B12NOS)",
+        "MELOXICAM (MELOXICAM)"
+      ],
+      "reactions": [
+        "Malaise",
+        "Vomiting",
+        "Gastrooesophageal reflux disease"
+      ],
+      "report_id": "11116056"
+    },
+    {
+      "drugs": [
+        "FLUANXOL                           /00109702/",
+        "ATORVASTATIN",
+        "REMERON",
+        "BELOC                              /01739801/",
+        "FOLVITE                            /00024201/",
+        "CONDROSULF",
+        "SAROTEN",
+        "PANTOZOL",
+        "IMODIUM",
+        "ZESTORETIC",
+        "VITAMIN D3",
+        "CIMICIFUGA RACEMOSA ROOT",
+        "TARGIN TABLETTEN RETARD",
+        "VITAMIN B12                        /00260201/",
+        "DEANXIT",
+        "RISPERDAL",
+        "NOVALGIN",
+        "ZOLDORM"
+      ],
+      "reactions": [
+        "Miosis",
+        "Toxicity to various agents",
+        "Fall"
+      ],
+      "report_id": "11116808"
+    },
+    {
+      "drugs": [
+        "CIMICIFUGA RACEMOSA",
+        "CIPRALEX",
+        "AVONEX"
+      ],
+      "reactions": [
+        "Glioblastoma",
+        "Fatigue",
+        "Influenza like illness",
+        "Asthenia"
+      ],
+      "report_id": "11214816"
+    },
+    {
+      "drugs": [
+        "DOCETAXEL ACCORD",
+        "ALOXI",
+        "CARBOPLATIN.",
+        "HERCEPTIN",
+        "NEULASTA",
+        "CIMICIFUGA RACEMOSA",
+        "ACETYLSALICYLIC ACID",
+        "COLECALCIFEROL",
+        "DIPHENHYDRAMINE.",
+        "VITAMINS NOS",
+        "DECADRON",
+        "COMPAZINE",
+        "ZOFRAN",
+        "LEVOTHYROXINE.",
+        "CHONDROITIN SULFATE/GLUCOSAMINE",
+        "CALCIUM/COLECALCIFEROL",
+        "OMEGA-3 FATTY ACIDS",
+        "DEXAMETHASONE.",
+        "EMEND"
+      ],
+      "reactions": [
+        "Constipation",
+        "Intestinal ischaemia",
+        "Vomiting",
+        "Diarrhoea"
+      ],
+      "report_id": "11402259"
+    },
+    {
+      "drugs": [
+        "CIMICIFUGA RACEMOSA",
+        "DIPHENHYDRAMINE HYDROCHLORIDE.",
+        "CYANOCOBALAMIN.",
+        "PARACETAMOL",
+        "XYREM",
+        "MODAFINIL.",
+        "IRON",
+        "VALACYCLOVIR HYDROCHLORIDE.",
+        "PRAMIPEXOLE DIHYDROCHLORIDE.",
+        "ZOLPIDEM TARTRATE.",
+        "OMEPRAZOLE."
+      ],
+      "reactions": [
+        "Dizziness",
+        "Hypersensitivity",
+        "Upper-airway cough syndrome",
+        "Cough",
+        "Headache"
+      ],
+      "report_id": "11490039"
+    },
+    {
+      "drugs": [
+        "BETAMETHASONE.",
+        "POLYACRYLIC ACID",
+        "DEFLAZACORT",
+        "BETACORT                           /00008501/",
+        "DEPAKOTE",
+        "CIMICIFUGA RACEMOSA",
+        "SIMPONI",
+        "SIMPONI",
+        "METHOTREXATE.",
+        "DECOCORT",
+        "SOMATROPINE",
+        "SIMPONI",
+        "CYCLOBENZAPRINE.",
+        "NIMESULIDE",
+        "FAMOTIDINE.",
+        "FOLIC ACID.",
+        "KETOPROFEN.",
+        "DIPROSONE"
+      ],
+      "reactions": [
+        "Accidental exposure to product",
+        "Seasonal allergy",
+        "Product storage error",
+        "Fall",
+        "Dizziness",
+        "Off label use",
+        "Peripheral swelling",
+        "Medication error",
+        "Product use issue",
+        "Heart rate increased",
+        "Underdose",
+        "Nasopharyngitis",
+        "Weight increased",
+        "Rheumatoid arthritis",
+        "Nausea",
+        "Menopause",
+        "Hepatic steatosis",
+        "Product availability issue",
+        "Muscular weakness",
+        "Headache",
+        "Therapeutic response decreased",
+        "Blood pressure increased",
+        "Inappropriate schedule of product administration",
+        "Influenza",
+        "Product dose omission issue"
+      ],
+      "report_id": "12079975"
+    },
+    {
+      "drugs": [
+        "DICLOFENAC [DICLOFENAC SODIUM]",
+        "MULTIPLE VITAMINS",
+        "XYREM",
+        "DIPHENOXYLATE/ATROPINE",
+        "IBUPROFEN.",
+        "GEMFIBROZIL.",
+        "LYRICA",
+        "NOVOLOG",
+        "PROPRANOLOL [PROPRANOLOL HYDROCHLORIDE]",
+        "AMLODIPINE BESYLATE.",
+        "BIOTIN",
+        "DICYCLOMINE [DICYCLOVERINE HYDROCHLORIDE]",
+        "FLONASE",
+        "MELOXICAM.",
+        "METOPROLOL SUCCINATE.",
+        "XYREM",
+        "ADDERALL",
+        "FLAXSEED",
+        "LYRICA",
+        "METFORMIN [METFORMIN HYDROCHLORIDE]",
+        "ZOLPIDEM TARTRATE.",
+        "BUSPAR",
+        "COCONUT OIL",
+        "VITAMIN D3",
+        "NORCO",
+        "XYREM",
+        "ABILIFY",
+        "BLACK COHOSH [CIMICIFUGA RACEMOSA]",
+        "NOVOLOG",
+        "TOPIRAMATE.",
+        "LORATADINE.",
+        "PERCOCET",
+        "ATORVASTATIN [ATORVASTATIN CALCIUM]",
+        "LEVEMIR",
+        "NOVOLOG",
+        "TRETINOIN."
+      ],
+      "reactions": [
+        "Exostosis",
+        "Chronic obstructive pulmonary disease"
+      ],
+      "report_id": "12254920"
+    },
+    {
+      "drugs": [
+        "TOPIRAMATE.",
+        "ABILIFY",
+        "ADDERALL",
+        "COCONUT OIL",
+        "FLONASE",
+        "ZOLPIDEM TARTRATE.",
+        "LORATADINE.",
+        "XYREM",
+        "BLACK COHOSH [CIMICIFUGA RACEMOSA ROOT]",
+        "IBUPROFEN.",
+        "METFORMIN ER",
+        "METOPROLOL SUCCINATE.",
+        "NOVOLOG",
+        "PERCOCET",
+        "BIOTIN",
+        "MULTIPLE VITAMINS",
+        "VITAMIN D3",
+        "PREGABALIN.",
+        "ATORVASTATIN",
+        "DICLOFENAC SODIUM.",
+        "DICYCLOMINE [DICYCLOVERINE HYDROCHLORIDE]",
+        "FLAXSEED OIL [LINUM USITATISSIMUM SEED OIL]",
+        "GEMFIBROZIL.",
+        "XYREM",
+        "AMLODIPINE BESYLATE.",
+        "BUSPAR",
+        "DIPHENOXYLATE HYDROCHLORIDE AND ATROPINE SULFATE",
+        "LYRICA",
+        "XYREM",
+        "DULOXETINE.",
+        "LEVEMIR",
+        "NOVOLOG",
+        "PROPRANOLOL [PROPRANOLOL HYDROCHLORIDE]"
+      ],
+      "reactions": [
+        "Memory impairment",
+        "Pre-existing condition improved",
+        "Hot flush",
+        "Therapeutic response unexpected",
+        "Back pain",
+        "Fall"
+      ],
+      "report_id": "12420398"
+    },
+    {
+      "drugs": [
+        "XYREM",
+        "MULTIVITAMIN",
+        "CALCIUM",
+        "XYREM",
+        "XYREM",
+        "CIMICIFUGA RACEMOSA",
+        "VENLAFAXINE",
+        "LORATADINE.",
+        "ARMODAFINIL.",
+        "VITAMIN B12",
+        "ALPRAZOLAM.",
+        "SUMATRIPTAN SUCCINATE.",
+        "FLUTICASONE",
+        "XYREM",
+        "XYREM",
+        "DIPHENHYDRAMINE."
+      ],
+      "reactions": [
+        "Sleep apnoea syndrome",
+        "Hot flush",
+        "Night sweats",
+        "Hypertension"
+      ],
+      "report_id": "12650941"
+    },
+    {
+      "drugs": [
+        "HUMIRA",
+        "GLIFAGE",
+        "CALCIUM CARBONATE.",
+        "FLUOXETINE",
+        "HESPERIDIN",
+        "HUMIRA",
+        "PRELONE",
+        "GLIFAGE",
+        "LEVOID",
+        "DIOSMIN",
+        "LACTASE",
+        "ESOMEPRAZOLE",
+        "HUMIRA",
+        "FLUOXETINE",
+        "PROLIA",
+        "VITAMIN D3",
+        "HUMIRA",
+        "FLUOXETINE",
+        "PANTOPRAZOLE",
+        "THEANINE",
+        "PRELONE",
+        "BEZAFIBRATE",
+        "CIMICIFUGA RACEMOSA",
+        "LEVOID",
+        "BEZAFIBRATE",
+        "CALCIUM",
+        "CALCIUM CARBONATE.",
+        "CIMICIFUGA RACEMOSA",
+        "PANTOPRAZOLE",
+        "TYROSINE"
+      ],
+      "reactions": [
+        "Bone pain",
+        "Sciatic nerve neuropathy",
+        "Hypoaesthesia",
+        "Somnolence",
+        "Osteoarthritis",
+        "Nerve compression",
+        "Intervertebral disc protrusion",
+        "Bone erosion"
+      ],
+      "report_id": "12670286"
+    },
+    {
+      "drugs": [
+        "XYREM",
+        "XYREM",
+        "XYREM",
+        "CIMICIFUGA RACEMOSA",
+        "CETIRIZINE HCL",
+        "SYNTHROID",
+        "VITAMIN B COMPLEX",
+        "LUMIGAN"
+      ],
+      "reactions": [
+        "Glaucoma",
+        "Drug ineffective"
+      ],
+      "report_id": "13230745"
+    },
+    {
+      "drugs": [
+        "BUDESONIDE SUSPENSION",
+        "ATROVENT",
+        "SHENGMAI INJECTION (CIMICIFUGA RACEMOSA)"
+      ],
+      "reactions": [
+        "Asthenia",
+        "Nausea",
+        "Dizziness",
+        "Vomiting",
+        "Chest discomfort"
+      ],
+      "report_id": "13253069"
+    },
+    {
+      "drugs": [
+        "LORATADINE.",
+        "BLACK COHOSH [CIMICIFUGA RACEMOSA]",
+        "EVENING PRIMROSE",
+        "SCALPICIN [HYDROCORTISONE]",
+        "AMBIEN",
+        "VITAMIN D3",
+        "EFFEXOR",
+        "ACZONE",
+        "CELEBREX",
+        "NORTREL [LEVONORGESTREL]",
+        "XYREM",
+        "LAMICTAL",
+        "PROVIGIL",
+        "CLARIFOAM",
+        "SINGULAIR",
+        "VERAMYST",
+        "MODAFINIL.",
+        "SINGULAIR",
+        "LYRICA",
+        "XYREM",
+        "XYREM",
+        "NAPROXEN.",
+        "SOY ISOFLAVONES [GLYCINE MAX EXTRACT]",
+        "CYMBALTA",
+        "METANX",
+        "SEASONIQUE",
+        "TRETINOIN.",
+        "BACTRIM DS"
+      ],
+      "reactions": [
+        "Sleep apnoea syndrome",
+        "Expired product administered",
+        "Neuropathy peripheral",
+        "Wrong technique in product usage process",
+        "Glucose tolerance impaired",
+        "Malaise",
+        "Sinusitis"
+      ],
+      "report_id": "13578802"
+    },
+    {
+      "drugs": [
+        "LIDOCAINE PATCH",
+        "ARMOUR THYROID",
+        "LIDOCAINE PATCH",
+        "OXYCODONE",
+        "CIMICIFUGA RACEMOSA"
+      ],
+      "reactions": [
+        "Product quality issue",
+        "Product adhesion issue",
+        "Drug ineffective for unapproved indication"
+      ],
+      "report_id": "13607968"
+    },
+    {
+      "drugs": [
+        "PANTOPRAZOLE",
+        "GILENYA",
+        "CHONDROITIN SULFATE",
+        "DAFALGAN",
+        "VITAMIN D /00107901/",
+        "VOLTAREN",
+        "LISINOPRIL.",
+        "ZINC.",
+        "CLARITHROMYCIN.",
+        "SAROTEN",
+        "AMOXICILLIN.",
+        "MOTILIUM",
+        "FLAGYL",
+        "CIMICIFUGA RACEMOSA RHIZOME"
+      ],
+      "reactions": [
+        "Jaundice",
+        "Abdominal pain upper",
+        "Asthenia",
+        "Liver injury",
+        "Nausea",
+        "Hepatocellular injury",
+        "Cholestasis",
+        "Decreased appetite",
+        "Weight decreased"
+      ],
+      "report_id": "13773198"
+    },
+    {
+      "drugs": [
+        "XYREM",
+        "LORATADINE.",
+        "NAPROXEN.",
+        "MODAFINIL.",
+        "GLYCINE MAX EXTRACT",
+        "TRETINOIN.",
+        "CYMBALTA",
+        "METANX",
+        "LEVONORGESTREL.",
+        "EFFEXOR XR",
+        "VERAMYST",
+        "LAMICTAL",
+        "AMBIEN",
+        "EVENING PRIMROSE",
+        "SINGULAIR",
+        "VITAMIN D3",
+        "LYRICA",
+        "XYREM",
+        "XYREM",
+        "BACTRIM DS",
+        "CLARIFOAM",
+        "SEASONIQUE",
+        "ACZONE",
+        "CIMICIFUGA RACEMOSA",
+        "CELEBREX",
+        "HYDROCORTISONE."
+      ],
+      "reactions": [
+        "Blood glucose increased",
+        "Protein urine present",
+        "Meniscus injury"
+      ],
+      "report_id": "14033262"
+    },
+    {
+      "drugs": [
+        "NEOSAR",
+        "TAXOL",
+        "SINGULAIR",
+        "OMEPRAZOLE.",
+        "TAXOTERE",
+        "BLACK COHOSH [CIMICIFUGA RACEMOSA]",
+        "ADRIAMYCIN",
+        "ONDANSETRON",
+        "CIMICIFUGA RACEMOSA",
+        "MULTIPLE VITAMINS",
+        "TAXOTERE",
+        "VITAMIN D3",
+        "TAXOTERE",
+        "DYMISTA",
+        "TAXOTERE",
+        "TRAMADOL.",
+        "BENZONATATE."
+      ],
+      "reactions": [
+        "Anxiety",
+        "Alopecia",
+        "Psychological trauma",
+        "Pain",
+        "Emotional distress",
+        "Impaired quality of life"
+      ],
+      "report_id": "14389112"
+    },
+    {
+      "drugs": [
+        "EXCEDRIN [CAFFEINE;PARACETAMOL]",
+        "DUPIXENT",
+        "RANITIDINE.",
+        "DUPIXENT",
+        "DUPIXENT",
+        "CIMICIFUGA RACEMOSA",
+        "ECHINACEA PURPUREA"
+      ],
+      "reactions": [
+        "Dermatitis atopic",
+        "Tooth extraction",
+        "Alveolar osteitis",
+        "Pain",
+        "Dry eye",
+        "Hyperhidrosis",
+        "Diarrhoea",
+        "Injection site bruising",
+        "Eye swelling",
+        "Pruritus",
+        "Blood blister",
+        "Nausea",
+        "Swelling face",
+        "Fatigue",
+        "Stress",
+        "Injection site reaction"
+      ],
+      "report_id": "14717606"
+    },
+    {
+      "drugs": [
+        "DIPHENHYDRAMINE HYDROCHLORIDE W/PARACETAMOL",
+        "OMEPRAZOLE.",
+        "OLOPATADINE HYDROCHLORIDE.",
+        "BOSENTAN.",
+        "ATORVASTATIN",
+        "ORLISTAT.",
+        "TRAMADOL.",
+        "CALCITROL",
+        "FUROSEMIDE.",
+        "PROTONIX",
+        "ZAFIRLUKAST.",
+        "XARELTO",
+        "ELIQUIS",
+        "ADVAIR HFA",
+        "FLUTICASONE.",
+        "POTASSIUM CHLORIDE.",
+        "CIMICIFUGA RACEMOSA",
+        "CENTRUM SILVER",
+        "ZANTAC"
+      ],
+      "reactions": [
+        "Fall",
+        "Internal haemorrhage",
+        "Limb injury",
+        "Gastrointestinal haemorrhage",
+        "Mallory-Weiss syndrome",
+        "Muscular weakness"
+      ],
+      "report_id": "14790434"
+    },
+    {
+      "drugs": [
+        "NEXIUM",
+        "DEXILANT",
+        "ACIPHEX",
+        "FOLIC ACID.",
+        "CALCITRIOL.",
+        "NEXIUM",
+        "LISINOPRIL.",
+        "CYMBALTA",
+        "CALCITRIOL.",
+        "PEPCID AC",
+        "PROTONIX",
+        "PROTONIX",
+        "PANTOPRAZOLE",
+        "PREVACID 24 HR",
+        "PRILOSEC",
+        "VIMOVO",
+        "PLAQUENIL",
+        "PREDNISONE.",
+        "METFORMIN",
+        "ZANTAC",
+        "NEXIUM",
+        "NEXIUM",
+        "PANTOPRAZOLE",
+        "LEVOTHYROXINE [LEVOTHYROXINE SODIUM]",
+        "NEXIUM",
+        "FOLIC ACID.",
+        "CIMETIDINE",
+        "RANITIDINE.",
+        "SALAGEN",
+        "ATENOLOL.",
+        "BLACK COHOSH [CIMICIFUGA RACEMOSA]",
+        "PEPCID COMPLETE",
+        "ZANTAC",
+        "PROTONIX",
+        "PROTONIX",
+        "PREVACID",
+        "PRILOSEC OTC",
+        "METHOTREXATE.",
+        "MYRBETRIQ",
+        "TUMS [CALCIUM CARBONATE;MAGNESIUM CARBONATE]",
+        "LORATADINE.",
+        "CEPHALEXIN [CEFALEXIN]",
+        "CLONIDINE.",
+        "NEXIUM 24HR",
+        "DEXILANT",
+        "PREVACID",
+        "VITAMIN D [COLECALCIFEROL]"
+      ],
+      "reactions": [
+        "Chronic kidney disease",
+        "Renal failure"
+      ],
+      "report_id": "14826728"
+    },
+    {
+      "drugs": [
+        "PROTONIX",
+        "PANTOPRAZOLE",
+        "OMEPRAZOLE.",
+        "ACIPHEX",
+        "VIMOVO",
+        "CALCITRIOL.",
+        "PANTOPRAZOLE",
+        "VITAMIN D [COLECALCIFEROL]",
+        "PROTONIX",
+        "PREVACID",
+        "NEXIUM 24HR",
+        "TUMS [CALCIUM CARBONATE;MAGNESIUM CARBONATE]",
+        "PEPCID AC",
+        "CIMETIDINE",
+        "BLACK COHOSH [CIMICIFUGA RACEMOSA]",
+        "NEXIUM",
+        "PRILOSEC",
+        "METHOTREXATE.",
+        "PLAQUENIL                          /00072602/",
+        "FOLIC ACID.",
+        "FOLIC ACID.",
+        "ATENOLOL.",
+        "LEVOTHYROXINE                      /00068002/",
+        "CALCITRIOL.",
+        "LORATADINE.",
+        "DEXILANT",
+        "PREVACID",
+        "LISINOPRIL.",
+        "PREDNISONE.",
+        "NEXIUM",
+        "CYMBALTA",
+        "MYRBETRIQ",
+        "DEXILANT",
+        "PREVACID 24 HR",
+        "SALAGEN",
+        "PEPCID COMPLETE"
+      ],
+      "reactions": [
+        "Chronic kidney disease"
+      ],
+      "report_id": "14848770"
+    },
+    {
+      "drugs": [
+        "PANTOPRAZOLE SODIUM.",
+        "LATANOPROST.",
+        "XYREM",
+        "BRIMONIDINE",
+        "XYREM",
+        "SYNTHROID",
+        "XYREM",
+        "LUMIGAN",
+        "CIMICIFUGA RACEMOSA",
+        "CETIRIZINE HCL",
+        "VITAMIN B COMPLEX",
+        "ACETAMINOPHEN.",
+        "XYZAL"
+      ],
+      "reactions": [
+        "Head injury",
+        "Headache",
+        "Fall",
+        "Gastrooesophageal reflux disease"
+      ],
+      "report_id": "15308718"
+    },
+    {
+      "drugs": [
+        "METHOTREXATE.",
+        "PREDNISONE.",
+        "TENORETIC",
+        "XELJANZ XR",
+        "COENZYME Q10",
+        "BLACK COHOSH [CIMICIFUGA RACEMOSA]",
+        "PLAQUENIL [HYDROXYCHLOROQUINE SULFATE]",
+        "FOLIC ACID.",
+        "CRESTOR",
+        "VISTARIL [HYDROXYZINE HYDROCHLORIDE]"
+      ],
+      "reactions": [
+        "Follicle centre lymphoma, follicular grade I, II, III"
+      ],
+      "report_id": "15334223"
+    },
+    {
+      "drugs": [
+        "TRAMADOL HCL",
+        "NORCO",
+        "OXYCODONE HYDROCHLORIDE.",
+        "SYNTHROID",
+        "HYDROCODONE BITARTRATE AND ACETAMINOPHEN",
+        "XYREM",
+        "MORPHINE SULF",
+        "EFFEXOR",
+        "ASCOMP WITH CODEINE",
+        "NUVIGIL",
+        "CIMICIFUGA RACEMOSA",
+        "CALCIUM CITRATE + D",
+        "XYREM",
+        "MODAFINIL.",
+        "ASPIRIN EC",
+        "IRON",
+        "ADDERALL"
+      ],
+      "reactions": [
+        "Depression",
+        "Hepatic fibrosis",
+        "Mood altered",
+        "Blood pressure increased",
+        "Fibromyalgia"
+      ],
+      "report_id": "15383652"
+    },
+    {
+      "drugs": [
+        "EVENING PRIMROSE",
+        "REBIF",
+        "TERIFLUNOMIDE.",
+        "ADDERALL",
+        "BLACK COHOSH [CIMICIFUGA RACEMOSA]",
+        "VITAMIN B12 [VITAMIN B12 NOS]",
+        "VITAMIN D [VITAMIN D NOS]"
+      ],
+      "reactions": [
+        "Pain in extremity",
+        "Fatigue",
+        "Diarrhoea",
+        "Hypersensitivity",
+        "Hot flush",
+        "Multiple sclerosis relapse",
+        "Alopecia"
+      ],
+      "report_id": "15431414"
+    },
+    {
+      "drugs": [
+        "FOLIC ACID.",
+        "METHOCARBAMOL.",
+        "GUAIFENESIN.",
+        "MODAFINIL.",
+        "MONTELUKAST SODIUM.",
+        "NUVIGIL",
+        "TIZANIDINE HCL",
+        "ZYFLAMEND",
+        "XYREM",
+        "ALENDRONATE SODIUM.",
+        "EFFEXOR",
+        "XYREM",
+        "LOSARTAN POTASSIUM.",
+        "CALCIUM CARBONATE W/COLECALCIFEROL",
+        "FLUOXETINE HCL",
+        "IBUPROFEN.",
+        "CIMICIFUGA RACEMOSA",
+        "NARATRIPTAN",
+        "XYREM",
+        "MAGNESIUM",
+        "NARATRIPTAN HCL",
+        "VITAMIN D3",
+        "PRISTIQ EXTENDED-RELEASE",
+        "DIPHENHYDRAMINE.",
+        "SENNA LAXATIVE",
+        "XYREM",
+        "NORCO",
+        "TOPAMAX",
+        "HYDROCHLOROTHIAZIDE."
+      ],
+      "reactions": [
+        "Depression",
+        "Hypertension",
+        "Weight decreased"
+      ],
+      "report_id": "15452476"
+    },
+    {
+      "drugs": [
+        "XYREM",
+        "CIMICIFUGA RACEMOSA",
+        "DICLOFENAC SODIUM.",
+        "VITAMIN D3",
+        "NORCO",
+        "BIOTIN",
+        "DULOXETINE HCL",
+        "IBUPROFEN.",
+        "METOPROLOL SUCCINATE.",
+        "METFORMIN",
+        "NOVOLOG",
+        "GEMFIBROZIL.",
+        "ZOLPIDEM TARTRATE.",
+        "TRETINOIN.",
+        "AMLODIPINE BESYLATE.",
+        "BUSPAR",
+        "LEVEMIR",
+        "PROPRANOLOL",
+        "MELOXICAM.",
+        "XYREM",
+        "COCONUT OIL",
+        "LYRICA",
+        "LORATADINE.",
+        "ABILIFY",
+        "DIPHENOXYLATE/ATROPINE",
+        "XYREM",
+        "ADDERALL",
+        "ATORVASTATIN",
+        "DICYCLOVERINE",
+        "MOMETASONE FUROATE.",
+        "FLAXSEED",
+        "TOPIRAMATE.",
+        "OXYCODONE HYDROCHLORIDE W/OXYCODONE TEREPHTHA"
+      ],
+      "reactions": [
+        "Knee operation"
+      ],
+      "report_id": "15501386"
+    },
+    {
+      "drugs": [
+        "VITAMIIN E",
+        "CALCIUM 500+D3",
+        "VITAMIN D",
+        "XELJANZ",
+        "VITAMIN B12",
+        "BLACK COHOSH [CIMICIFUGA RACEMOSA]"
+      ],
+      "reactions": [
+        "Drug ineffective"
+      ],
+      "report_id": "15696762"
+    },
+    {
+      "drugs": [
+        "OMEPRAZOLE.",
+        "AZATHIOPRINE.",
+        "STELARA",
+        "PREDNISONE.",
+        "VITAMIN D",
+        "ALPRAZOLAM.",
+        "BUSCOPAN",
+        "TYLEX",
+        "STELARA",
+        "INDERAL",
+        "OMEGA-3 FATTY ACIDS",
+        "PREBICTAL",
+        "IMOSEC",
+        "CIMICIFUGA RACEMOSA",
+        "METICORTEN"
+      ],
+      "reactions": [
+        "Pain in extremity",
+        "Bone abscess",
+        "Product packaging issue",
+        "Decreased appetite",
+        "Product container issue",
+        "Nausea",
+        "Product dose omission"
+      ],
+      "report_id": "15782431"
+    },
+    {
+      "drugs": [
+        "COLLAGENASE SANTYL",
+        "DICLOFENAC",
+        "LOPERAMIDE",
+        "SODIUM CHLORIDE.",
+        "CHOLECALCIFEROL",
+        "MOMETASONE",
+        "PREDNISONE.",
+        "CETIRIZINE HYDROCHLORIDE.",
+        "XARELTO",
+        "ACETYLSALICYLIC ACID({=100 MG)",
+        "FUROSEMIDE.",
+        "LIDOCAINE.",
+        "TYLENOL",
+        "ASMANEX",
+        "LEFLUNOMIDE.",
+        "TETRYZOLINE HYDROCHLORIDE",
+        "ALBUTEROL [SALBUTAMOL]",
+        "ALBUTEROL [SALBUTAMOL]",
+        "OXYCONTIN",
+        "TOPIRAMATE.",
+        "ACETAMINOPHEN.",
+        "BLACK COHOSH [CIMICIFUGA RACEMOSA ROOT]",
+        "COLCHICINE.",
+        "ONDANSETRON",
+        "DICLOFENAC",
+        "SYNTHROID",
+        "VITAMIN B COMPLEX",
+        "TIZANIDINE.",
+        "VISINE A",
+        "XARELTO",
+        "METOPROLOL TARTRATE.",
+        "OMEPRAZOLE.",
+        "REQUIP",
+        "TOPAMAX",
+        "BIOTIN",
+        "FLONASE",
+        "MEFOXIN",
+        "PERCOCET",
+        "VITAMIN D",
+        "ZANTAC"
+      ],
+      "reactions": [
+        "Fatigue",
+        "Dizziness",
+        "Myalgia",
+        "Thrombosis",
+        "Vomiting",
+        "Haemoptysis",
+        "Epistaxis",
+        "Syncope"
+      ],
+      "report_id": "15879517"
+    },
+    {
+      "drugs": [
+        "CITALOPRAM",
+        "TIZANIDIN",
+        "SODIUM PROPIONATE",
+        "TAVEGIL [CLEMASTINE]",
+        "PASCOFLAIR [PASSIFLORA INCARNATA]",
+        "PARACETAMOL",
+        "METHYLPREDNISOLONE.",
+        "RITUXIMAB.",
+        "PREGABALIN.",
+        "OCRELIZUMAB.",
+        "OCTAGAM IMMUNE GLOBULIN (HUMAN)",
+        "MAGNESIUM",
+        "OCRELIZUMAB.",
+        "URBASON [METHYLPREDNISOLONE]",
+        "CIMICIFUGA RACEMOSA",
+        "JODID"
+      ],
+      "reactions": [
+        "Cystitis noninfective",
+        "Secondary immunodeficiency",
+        "Upper respiratory tract infection"
+      ],
+      "report_id": "15882995"
+    },
+    {
+      "drugs": [
+        "NEXIUM",
+        "PLAQUENIL [HYDROXYCHLOROQUINE PHOSPHATE]",
+        "CALCITRIOL.",
+        "RANITIDINE.",
+        "PANTOPRAZOLE",
+        "DEXILANT",
+        "ATENOLOL.",
+        "CYMBALTA",
+        "PREDNISONE.",
+        "LEVOTHYROXIN",
+        "TUMS [CALCIUM CARBONATE;MAGNESIUM CARBONATE;MAGNESIUM TRISILICATE]",
+        "PANTOPRAZOLE",
+        "PROTONIX",
+        "PEPCID AC",
+        "PREVACID",
+        "FOLIC ACID.",
+        "LISINOPRIL.",
+        "MYRBETRIQ",
+        "METHOTREXATE.",
+        "BLACK COHOSH [CIMICIFUGA RACEMOSA]",
+        "ZANTAC"
+      ],
+      "reactions": [
+        "Chronic kidney disease",
+        "Renal failure"
+      ],
+      "report_id": "16100533"
+    },
+    {
+      "drugs": [
+        "METRONIDAZOLE.",
+        "CIMICIFUGA RACEMOSA",
+        "VENLAFAXINE"
+      ],
+      "reactions": [
+        "Fatigue",
+        "Headache",
+        "Malaise",
+        "Hot flush",
+        "Vomiting",
+        "Ageusia",
+        "Rhinalgia",
+        "Nausea",
+        "Constipation"
+      ],
+      "report_id": "16138801"
+    },
+    {
+      "drugs": [
+        "ALEVE",
+        "ALLEGRA-D 24 HOUR",
+        "ESOMEPRAZOLE MAGNESIUM.",
+        "XYREM",
+        "ZANTAC",
+        "ANAPROX",
+        "XYREM",
+        "RESTASIS",
+        "FERROUS SULFATE.",
+        "PREVACID",
+        "VITAMIN D3",
+        "NORCO",
+        "SALMO SALAR OIL",
+        "XYREM",
+        "CEFDINIR.",
+        "DIFLUCAN",
+        "XYREM",
+        "PROAIR HFA",
+        "LYRICA",
+        "RITALIN",
+        "CIMICIFUGA RACEMOSA",
+        "ALLEGRA ALLERGY",
+        "CYTOMEL",
+        "KETOROLAC",
+        "CYANOCOBALAMIN.",
+        "CLOTRIMAZOLE.",
+        "IBUPROFEN."
+      ],
+      "reactions": [
+        "Seasonal allergy",
+        "Intentional product use issue",
+        "Sinusitis"
+      ],
+      "report_id": "16165560"
+    },
+    {
+      "drugs": [
+        "VENLAFAXINE",
+        "CIMICIFUGA RACEMOSA",
+        "METRONIDAZOLE."
+      ],
+      "reactions": [
+        "Headache",
+        "Rhinalgia",
+        "Nausea",
+        "Constipation",
+        "Malaise",
+        "Fatigue",
+        "Ageusia",
+        "Hot flush",
+        "Vomiting"
+      ],
+      "report_id": "16186023"
+    },
+    {
+      "drugs": [
+        "BLACK COHOSH [CIMICIFUGA RACEMOSA]",
+        "HYDROCHLOROTHIAZIDE.",
+        "ERGOCALCIFEROL.",
+        "ZOLPIDEM",
+        "MODAFINIL.",
+        "AUBAGIO",
+        "FERROUS SULFATE.",
+        "GABAPENTIN.",
+        "LEVOTHYROXINE SODIUM.",
+        "MELOXICAM.",
+        "VIIBRYD",
+        "OMEPRAZOLE.",
+        "MULTIVITAMINS;MINERALS"
+      ],
+      "reactions": [
+        "Fatigue",
+        "Diarrhoea"
+      ],
+      "report_id": "16192358"
+    },
+    {
+      "drugs": [
+        "TALTZ",
+        "MELOXICAM.",
+        "EXFORGE",
+        "METOPROLOL.",
+        "OPIPRAMOL",
+        "METYPRED [METHYLPREDNISOLONE]",
+        "ASPIRIN.",
+        "CIMICIFUGA RACEMOSA",
+        "DEKRISTOL"
+      ],
+      "reactions": [
+        "Subarachnoid haemorrhage"
+      ],
+      "report_id": "16376124"
+    },
+    {
+      "drugs": [
+        "REBIF",
+        "TRASTUZUMAB (UNKNOWN)",
+        "BRONCHICUM [CIMICIFUGA RACEMOSA EXTRACT;FOENICULUM VULGARE EXTRACT;FOE"
+      ],
+      "reactions": [
+        "Drug interaction",
+        "Type 2 diabetes mellitus",
+        "Breast cancer"
+      ],
+      "report_id": "16447307"
+    },
+    {
+      "drugs": [
+        "BLACK COHOSH [CIMICIFUGA RACEMOSA ROOT]",
+        "GINKGO BILOBA",
+        "ESTROGEL",
+        "DUPIXENT",
+        "DUPIXENT"
+      ],
+      "reactions": [
+        "Injection site pain",
+        "Dermatitis atopic",
+        "Therapy interrupted"
+      ],
+      "report_id": "16627060"
+    },
+    {
+      "drugs": [
+        "OCRELIZUMAB.",
+        "TIZANIDINE.",
+        "OCRELIZUMAB.",
+        "PREGABALIN.",
+        "TAVEGIL [CLEMASTINE]",
+        "MAGNESIUM",
+        "METHYLPREDNISOLONE.",
+        "PREGABALIN.",
+        "OCTAGAM IMMUNE GLOBULIN (HUMAN)",
+        "SODIUM PROPIONATE",
+        "JODID",
+        "INTRATECT",
+        "PARACETAMOL",
+        "CIMICIFUGA RACEMOSA",
+        "CITALOPRAM",
+        "URBASON [METHYLPREDNISOLONE]"
+      ],
+      "reactions": [
+        "Lymphopenia"
+      ],
+      "report_id": "16723276"
+    },
+    {
+      "drugs": [
+        "AUBAGIO",
+        "ASPIRIN [ACETYLSALICYLIC ACID]",
+        "INDERAL",
+        "CLARITIN [CLARITHROMYCIN]",
+        "B1",
+        "BLACK COHOSH [CIMICIFUGA RACEMOSA]",
+        "VITAMIN D3",
+        "LISINOPRIL.",
+        "NASACORT",
+        "ATORVASTATIN",
+        "PREMPRO",
+        "PROPRANOLOL",
+        "TYLENOL"
+      ],
+      "reactions": [
+        "Dizziness",
+        "Dyspnoea",
+        "Cystitis",
+        "Feeling abnormal"
+      ],
+      "report_id": "16935393"
+    },
+    {
+      "drugs": [
+        "CUVITRU",
+        "MELATONIN",
+        "LIPITOR",
+        "ACETAMINOPHEN.",
+        "FOLIC ACID.",
+        "TURMERIC [CURCUMA LONGA]",
+        "PATADAY",
+        "LAMOTRIGINE.",
+        "LORATADINE.",
+        "ASPIRIN [ACETYLSALICYLIC ACID]",
+        "VITAMIN D3",
+        "MIRALAX",
+        "CUVITRU",
+        "BLACK COHOSH [CIMICIFUGA RACEMOSA RHIZOME;CIMICIFUGA RACEMOSA ROOT]",
+        "SOY ISOFLAVONE",
+        "DIPHENHYDRAMINE.",
+        "EPINEPHRINE.",
+        "OMEPRAZOLE.",
+        "CALCIUM",
+        "ESTROVEN",
+        "LAMICTAL",
+        "LIDOCAINE.",
+        "PEPPERMINT OIL",
+        "THIAMINE.",
+        "CALCIUM +D3"
+      ],
+      "reactions": [
+        "Sinusitis",
+        "Respiratory disorder",
+        "Nasopharyngitis"
+      ],
+      "report_id": "16968625"
+    },
+    {
+      "drugs": [
+        "FERROUS SULFATE.",
+        "MODAFINIL.",
+        "AUBAGIO",
+        "OMEPRAZOLE.",
+        "HYDROCHLOROTHIAZIDE.",
+        "AUBAGIO",
+        "GABAPENTIN.",
+        "BLACK COHOSH [CIMICIFUGA RACEMOSA]",
+        "MELOXICAM.",
+        "ZOLPIDEM TARTRATE.",
+        "LEVOTHYROXINE SODIUM.",
+        "ERGOCALCIFEROL.",
+        "VIIBRYD"
+      ],
+      "reactions": [
+        "Diarrhoea",
+        "Alopecia",
+        "Urinary tract infection",
+        "Dehydration"
+      ],
+      "report_id": "16990961"
+    },
+    {
+      "drugs": [
+        "CUVITRU",
+        "BUTALBITAL, ACETAMINOPHEN, AND CAFFEINE",
+        "PROGESTERONE.",
+        "KETOCONAZOLE.",
+        "PROAIR HFA",
+        "FLUTICASONE PROPIONATE.",
+        "CUVITRU",
+        "FLUTICASONE.",
+        "EPIPEN",
+        "EPINEPHRINE.",
+        "FISH OIL",
+        "CETIRIZINE",
+        "DIPHENHYDRAMINE.",
+        "IBUPROFEN.",
+        "TIMOLOL MALEATE.",
+        "MENOPAUSE SUPPORT [CIMICIFUGA RACEMOSA;DIOSCOREA VILLOSA]",
+        "PROAIR HFA",
+        "LATANOPROST.",
+        "ACETAMINOPHEN.",
+        "AZELASTINE.",
+        "IMMUNE PLUS [LACTOFERRIN]",
+        "GINKGO EXTRACT"
+      ],
+      "reactions": [
+        "Sinusitis",
+        "Infusion site oedema",
+        "Infection",
+        "Drug ineffective",
+        "Infusion site discolouration",
+        "Rash"
+      ],
+      "report_id": "17008863"
+    },
+    {
+      "drugs": [
+        "XYREM",
+        "XYREM",
+        "XYREM",
+        "ALEVE",
+        "CIMICIFUGA RACEMOSA",
+        "SEROQUEL",
+        "CITALOPRAM",
+        "CITALOPRAM",
+        "CITALOPRAM",
+        "CITALOPRAM",
+        "TRAZODONE",
+        "ALPRAZOLAM",
+        "EXCEDRIN MIGRAINE",
+        "EXCEDRIN MIGRAINE",
+        "METHYLPHENIDATE",
+        "METHYLPHENIDATE",
+        "METRONIDAZOLE",
+        "METRONIDAZOLE",
+        "OMEPRAZOLE",
+        "OMEPRAZOLE",
+        "ALLEGRA ALLERGY",
+        "BLACK COHOSH",
+        "CONCERTA",
+        "LISINOPRIL",
+        "ASPIRIN",
+        "CRESTOR",
+        "METOPROLOL"
+      ],
+      "reactions": [
+        "Blood pressure increased",
+        "Transient ischaemic attack",
+        "Discomfort",
+        "Anxiety"
+      ],
+      "report_id": "17022059"
+    },
+    {
+      "drugs": [
+        "FERINJECT",
+        "CIMICIFUGA RACEMOSA RHIZOME",
+        "DAFALGAN",
+        "TAVEGYL",
+        "FERINJECT",
+        "FERINJECT"
+      ],
+      "reactions": [
+        "Feeling cold",
+        "Dyspnoea",
+        "Loss of consciousness",
+        "Pain",
+        "Chills",
+        "Product use in unapproved indication",
+        "Chest discomfort",
+        "Tachycardia"
+      ],
+      "report_id": "17184747"
+    },
+    {
+      "drugs": [
+        "CISPLATIN.",
+        "ETOPOSIDE.",
+        "DARATUMUMAB",
+        "LEVOFLOXACINE",
+        "GELTIM",
+        "SERELYS",
+        "TAVEGYL",
+        "PARACETAMOL",
+        "MOMETASONE",
+        "DARATUMUMAB",
+        "MAGNECAPS",
+        "AUGMENTIN",
+        "LYRICA",
+        "NIVOLUMAB",
+        "CIMICIFUGA RACEMOSA",
+        "DEXAMETHASONE.",
+        "CYCLOPHOSPHAMIDE.",
+        "FURADANTINE",
+        "DARATUMUMAB",
+        "LITICAN",
+        "AMOXICLAV",
+        "EUSAPRIM",
+        "DARATUMUMAB",
+        "DARATUMUMAB",
+        "ACICLOVIR",
+        "ALLOPURINOL.",
+        "NIVOLUMAB",
+        "CLEXANE",
+        "AACIDEXAM",
+        "DARATUMUMAB",
+        "DARATUMUMAB",
+        "MONTELUKAST",
+        "PARACETAMOL",
+        "MOLAXOLE",
+        "DARATUMUMAB",
+        "TRAMADOL.",
+        "HYDROCORTISONE.",
+        "SODIUM BICARBONATE.",
+        "PANTOMED",
+        "XANAX",
+        "DEXAMETHASONE.",
+        "FLUCONAZOLE."
+      ],
+      "reactions": [
+        "Toothache",
+        "Sinus tachycardia",
+        "Diverticulitis",
+        "Nausea",
+        "Thrombocytopenia",
+        "Neutropenia",
+        "Dyspnoea",
+        "Plasma cell myeloma"
+      ],
+      "report_id": "17189784"
+    },
+    {
+      "drugs": [
+        "BLACK COHOSH [CIMICIFUGA RACEMOSA]",
+        "LYRICA",
+        "POTASSIUM",
+        "LISINOPRIL.",
+        "AUBAGIO",
+        "NAPROXEN.",
+        "ATORVASTATIN",
+        "VITAMIN D3",
+        "TRAMADOL HCL",
+        "VESICARE",
+        "PREDNISONE.",
+        "BIOTIN",
+        "METFORMIN HCL",
+        "LEVOTHYROXIN",
+        "MULTIVITAMINS [VITAMINS NOS]"
+      ],
+      "reactions": [
+        "Fall"
+      ],
+      "report_id": "17216057"
+    },
+    {
+      "drugs": [
+        "CISPLATIN.",
+        "DARATUMUMAB",
+        "SODIUM BICARBONATE.",
+        "NIVOLUMAB",
+        "TRAMADOL.",
+        "AACIDEXAM",
+        "EUSAPRIM",
+        "DARATUMUMAB",
+        "DARATUMUMAB",
+        "DARATUMUMAB",
+        "SERELYS",
+        "PARACETAMOL",
+        "FURADANTIN",
+        "MOMETASONE",
+        "LEVOFLOXACIN.",
+        "AMOXICLAV",
+        "ALLOPURINOL.",
+        "CELLTOP 100 MG/5 ML, SOLUTION INJECTABLE POUR PERFUSION",
+        "DEXAMETHASONE.",
+        "DARATUMUMAB",
+        "LITICAN",
+        "LYRICA",
+        "PANTOMED",
+        "NIVOLUMAB",
+        "CLEXANE",
+        "ACICLOVIR",
+        "XANAX",
+        "GELTIM",
+        "AUGMENTIN",
+        "DARATUMUMAB",
+        "CIMICIFUGA RACEMOSA",
+        "FLUCONAZOLE.",
+        "TAVEGYL",
+        "MONTELUKAST",
+        "DARATUMUMAB",
+        "MAGNECAPS",
+        "PARACETAMOL",
+        "ENDOXAN 1000 MG - POUDRE POUR SOLUTION INJECTABLE",
+        "DEXAMETHASONE.",
+        "DONNAFYTA MENO",
+        "DARATUMUMAB",
+        "MOLAXOLE",
+        "HYDROCORTISONE."
+      ],
+      "reactions": [
+        "Thrombocytopenia",
+        "Diverticulitis",
+        "Neutropenia"
+      ],
+      "report_id": "17221330"
+    },
+    {
+      "drugs": [
+        "AACIDEXAM",
+        "FLUCONAZOLE.",
+        "TAVEGYL",
+        "DARATUMUMAB",
+        "NIVOLUMAB",
+        "DARATUMUMAB",
+        "CYCLOPHOSPHAMIDE/CYCLOPHOSPHAMIDE MONOHYDRATE",
+        "EUSAPRIM",
+        "DARATUMUMAB",
+        "LITICAN",
+        "HYDROCORTISONE.",
+        "DARATUMUMAB",
+        "CIMICIFUGA RACEMOSA/CIMICIFUGA RACEMOSA EXTRACT/CIMICIFUGA RACEMOSA ROOT/CIMICIFUGA RACEMOSA ROOT FL",
+        "TOCOPHEROL",
+        "FURADANTINE",
+        "CLEXANE",
+        "GELTIM",
+        "ALLOPURINOL.",
+        "DEXAMETHASONE.",
+        "DARATUMUMAB",
+        "LEVOFLOXACIN.",
+        "PARACETAMOL",
+        "DEXAMETHASONE.",
+        "LEVOFLOXACIN.",
+        "NIVOLUMAB",
+        "DARATUMUMAB",
+        "CISPLATIN.",
+        "ACICLOVIR",
+        "AMOXICILLIN/CLAVULANATE POTASSIUM",
+        "DARATUMUMAB",
+        "ETOPOSIDE.",
+        "MAGNECAPS",
+        "PARACETAMOL",
+        "PANTOMED",
+        "XANAX",
+        "MOLAXOLE",
+        "MONTELUKAST",
+        "NIVOLUMAB",
+        "DARATUMUMAB",
+        "DARATUMUMAB",
+        "MOMETASONE",
+        "LYRICA",
+        "SODIUM BICARBONATE.",
+        "TRAMADOL.",
+        "AUGMENTIN"
+      ],
+      "reactions": [
+        "Diverticulitis",
+        "Neutropenia",
+        "Thrombocytopenia"
+      ],
+      "report_id": "17236085"
+    },
+    {
+      "drugs": [
+        "CYCLOPHOSPHAMIDE.",
+        "EUSAPRIM [SULFAMETHOXAZOLE;TRIMETHOPRIM]",
+        "MAGNECAPS",
+        "PANTOMED [DEXPANTHENOL]",
+        "LYRICA",
+        "NIVOLUMAB",
+        "DARATUMUMAB",
+        "FLUCONAZOLE.",
+        "TAVEGYL",
+        "GELTIM",
+        "CIMICIFUGA RACEMOSA",
+        "PARACETAMOL",
+        "CLEXANE",
+        "ACICLOVIR",
+        "AACIDEXAM [DEXAMETHASONE]",
+        "CISPLATIN.",
+        "LEVOFLOXACINE [LEVOFLOXACIN]",
+        "SERELYS",
+        "XANAX",
+        "ETOPOSIDE.",
+        "DEXAMETHASONE.",
+        "MOMETASONE",
+        "LITICAN [ALIZAPRIDE]",
+        "SODIUM BICARBONATE.",
+        "MOLAXOLE",
+        "PARACETAMOL",
+        "FURADANTINE",
+        "TRAMADOL."
+      ],
+      "reactions": [
+        "Diverticulitis",
+        "Neutropenia",
+        "Thrombocytopenia"
+      ],
+      "report_id": "17257999"
+    },
+    {
+      "drugs": [
+        "PROZAC",
+        "LISINOPRIL.",
+        "VERAPAMIL",
+        "MELATONIN",
+        "AUBAGIO",
+        "ADDERALL",
+        "VITAMIN D3",
+        "CIMICIFUGA RACEMOSA",
+        "ADDERALL",
+        "ALPRAZOLAM.",
+        "CYMBALTA",
+        "AUBAGIO",
+        "AUBAGIO",
+        "METAXALONE.",
+        "FISH OIL",
+        "PROCHLORPERAZINE."
+      ],
+      "reactions": [
+        "Staphylococcal infection",
+        "Depression",
+        "Pain",
+        "Wrong technique in product usage process",
+        "Alopecia",
+        "Pruritus",
+        "Rash",
+        "Fatigue",
+        "Nerve injury"
+      ],
+      "report_id": "17315660"
+    },
+    {
+      "drugs": [
+        "DEXAMETHASONE.",
+        "CLEXANE",
+        "LEVOFLOXACINE [LEVOFLOXACIN]",
+        "DEXAMETHASONE.",
+        "ETOPOSIDE.",
+        "CISPLATIN.",
+        "CYCLOPHOSPHAMIDE.",
+        "MAGNECAPS",
+        "LITICAN [ALIZAPRIDE]",
+        "HYDROCORTISONE.",
+        "ACICLOVIR",
+        "MONTELUKAST",
+        "SERELYS",
+        "NIVOLUMAB",
+        "CIMICIFUGA RACEMOSA",
+        "FLUCONAZOLE.",
+        "GELTIM",
+        "XANAX",
+        "MOLAXOLE",
+        "PARACETAMOL",
+        "SODIUM BICARBONATE.",
+        "TAVEGYL",
+        "DEXAMETHASONE.",
+        "DARATUMUMAB",
+        "AACIDEXAM [DEXAMETHASONE]",
+        "TRAMADOL.",
+        "LYRICA",
+        "ALLOPURINOL.",
+        "MOMETASONE",
+        "FURADANTINE",
+        "PANTOMED [DEXPANTHENOL]",
+        "PARACETAMOL",
+        "EUSAPRIM [SULFAMETHOXAZOLE;TRIMETHOPRIM]",
+        "AMOXICLAV"
+      ],
+      "reactions": [
+        "Diverticulitis",
+        "Dyspnoea",
+        "Thrombocytopenia",
+        "Sinus tachycardia",
+        "Neutropenia",
+        "Toothache",
+        "Nausea",
+        "Plasma cell myeloma"
+      ],
+      "report_id": "17316665"
+    },
+    {
+      "drugs": [
+        "NIVOLUMAB",
+        "MOLAXOLE",
+        "GELTIM",
+        "GELTIM",
+        "SERELYS",
+        "CISPLATIN.",
+        "TRAMADOL.",
+        "MAGNECAPS",
+        "CLEXANE",
+        "MONTELUKAST",
+        "HYDROCORTISONE.",
+        "LEVOFLOXACINE",
+        "SODIUM BICARBONATE.",
+        "FURADANTINE",
+        "FURADANTINE",
+        "AMOXICLAV",
+        "PANTOMED",
+        "XANAX",
+        "DARATUMUMAB",
+        "DARATUMUMAB",
+        "ACICLOVIR",
+        "PARACETAMOL",
+        "CIMICIFUGA RACEMOSA",
+        "CIMICIFUGA RACEMOSA",
+        "XANAX",
+        "MAGNECAPS",
+        "FLUCONAZOLE.",
+        "LYRICA",
+        "ETOPOSIDE.",
+        "DEXAMETHASONE.",
+        "SODIUM BICARBONATE.",
+        "MOMETASONE",
+        "CLEXANE",
+        "EUSAPRIM",
+        "FLUCONAZOLE.",
+        "LYRICA",
+        "ALIZAPRIDE",
+        "CYCLOPHOSPHAMIDE.",
+        "DEXAMETHASONE.",
+        "NIVOLUMAB",
+        "PARACETAMOL",
+        "TRAMADOL.",
+        "MOMETASONE",
+        "ACICLOVIR",
+        "LITICAN",
+        "AACIDEXAM",
+        "TAVEGYL",
+        "SERELYS",
+        "ALLOPURINOL."
+      ],
+      "reactions": [
+        "Nausea",
+        "Toothache",
+        "Plasma cell myeloma",
+        "Dyspnoea",
+        "Thrombocytopenia",
+        "Diverticulitis",
+        "Neutropenia",
+        "Sinus tachycardia"
+      ],
+      "report_id": "17448100"
+    },
+    {
+      "drugs": [
+        "FOLIC ACID.",
+        "HYDRODIURIL",
+        "TOPAMAX",
+        "BLACK COHOSH [CIMICIFUGA RACEMOSA]",
+        "MSM [METHYLSULFONYLMETHANE]",
+        "NEUROTIN [GABAPENTIN]",
+        "NORCO",
+        "ZOCOR",
+        "DESYREL",
+        "PREDNISONE.",
+        "SYMBICORT",
+        "TURMERIC [CURCUMA LONGA]",
+        "BACTRIM",
+        "BIOTIN",
+        "CALCIUM 600 + VITAMIN D",
+        "ASPIRIN 81",
+        "AMLODIPINE BESILATE",
+        "MILK THISTLE",
+        "NEUROTIN [GABAPENTIN]",
+        "PROTONIX",
+        "VITAMIN B12",
+        "XELJANZ XR",
+        "ATENOLOL.",
+        "GARLIC (DEODORIZED)"
+      ],
+      "reactions": [
+        "Seasonal allergy",
+        "Vision blurred"
+      ],
+      "report_id": "17591266"
+    },
+    {
+      "drugs": [
+        "HUMAN IMMUNOGLOBULIN G",
+        "HUMAN IMMUNOGLOBULIN G",
+        "HUMAN IMMUNOGLOBULIN G",
+        "ACETAMINOPHEN",
+        "DEXTROSE",
+        "DIPHENHYDRAMINE",
+        "SODIUM CHLORIDE",
+        "EPINEPHRINE",
+        "RITUXAN",
+        "ASPIRIN",
+        "BLACK COHOSH [CIMICIFUGA RACEMOSA ROOT]",
+        "CALCIUM PLUS D3",
+        "MULTI-VITAMINS",
+        "VITAMIN D2",
+        "VITAMIN B12"
+      ],
+      "reactions": [
+        "Headache",
+        "Infusion related reaction",
+        "Therapy interrupted",
+        "Product availability issue"
+      ],
+      "report_id": "17616100"
+    },
+    {
+      "drugs": [
+        "VITAMIN B12",
+        "VITAMIN E",
+        "FERRALET [FERROUS GLUCONATE]",
+        "FOLIC ACID.",
+        "VITAMIN C",
+        "FERREX 150 FORTE",
+        "XYREM",
+        "OXYCODONE-ACET",
+        "NUVIGIL",
+        "PRAMIPEXOLE.",
+        "VITAMIN D [ERGOCALCIFEROL]",
+        "BLACK COHOSH [CIMICIFUGA RACEMOSA]",
+        "BIOTIN",
+        "XYREM",
+        "ENALAPRIL MALEATE.",
+        "FLUOXETINE HCL",
+        "TYLENOL EXTRA STRENGTH",
+        "XYREM",
+        "ADVIL [IBUPROFEN]",
+        "COENZYME Q10",
+        "GLUCOSAMINE CHONDROITIN [CHONDROITIN SULFATE;GLUCOSAMINE]",
+        "LUTEIN [XANTOFYL]"
+      ],
+      "reactions": [
+        "Surgery"
+      ],
+      "report_id": "17673809"
+    },
+    {
+      "drugs": [
+        "ECHINACEA HERB [ECHINACEA SPP.]",
+        "AUBAGIO",
+        "ASPIRIN [ACETYLSALICYLIC ACID]",
+        "CAT^S CLAW",
+        "BLACK COHOSH [CIMICIFUGA RACEMOSA]"
+      ],
+      "reactions": [
+        "Dry eye",
+        "Liver function test increased"
+      ],
+      "report_id": "18117303"
+    },
+    {
+      "drugs": [
+        "ORENITRAM",
+        "ORENITRAM",
+        "ADCIRCA",
+        "ASPIRIN [ACETYLSALICYLIC ACID]",
+        "BLACK COHOSH [CIMICIFUGA RACEMOSA RHIZOME;CIMICIFUGA RACEMOSA ROOT]",
+        "PROTONIX",
+        "ORENITRAM",
+        "ORENITRAM",
+        "CINNAMON BARK",
+        "THERAGRAN [VITAMINS NOS]",
+        "COENZYME Q10",
+        "ORENITRAM",
+        "VENTOLIN HFA",
+        "OXYGEN.",
+        "LIPITOR",
+        "K?TAB",
+        "ORENITRAM",
+        "PROCARDIA",
+        "HYDRODIURIL",
+        "OPSUMIT",
+        "SEMAGLUTIDE",
+        "SPIRIVA RESPIMAT",
+        "FLONASE",
+        "COZAAR",
+        "GLUCOPHAGE",
+        "ORENITRAM",
+        "ORENITRAM",
+        "ADCIRCA",
+        "SYMBICORT",
+        "CRANBERRY CONCENTRATE [ASCORBIC ACID;VACCINIUM MACROCARPON FRUIT]",
+        "LASIX",
+        "SINGULAIR",
+        "ALDACTONE",
+        "ORENITRAM",
+        "ELIQUIS",
+        "CALCIUM + MAGNESIUM + ZINK",
+        "FENUGREEK SEED",
+        "BYSTOLIC"
+      ],
+      "reactions": [
+        "Feeling abnormal",
+        "Nausea",
+        "Diarrhoea",
+        "Vomiting"
+      ],
+      "report_id": "18123197"
+    },
+    {
+      "drugs": [
+        "CITALOPRAM",
+        "PROPRANOLOL",
+        "XALATAN",
+        "VITAMIN D [ERGOCALCIFEROL]",
+        "DIPHENHYDRAMIN",
+        "CLONAZEPAM.",
+        "BLACK COHOSH [CIMICIFUGA RACEMOSA RHIZOME;CIMICIFUGA RACEMOSA ROOT]",
+        "NASACORT",
+        "LASIX",
+        "NUPLAZID",
+        "CARBIDOPA/LEVODOPA",
+        "TYLENOL",
+        "CRANBERRY [VACCINIUM SPP.]",
+        "DUPIXENT"
+      ],
+      "reactions": [
+        "Hallucination",
+        "Drug ineffective"
+      ],
+      "report_id": "18149726"
+    },
+    {
+      "drugs": [
+        "PREDNISONE.",
+        "NIACIN.",
+        "RIZATRIPTAN.",
+        "COLCHICINE.",
+        "CALCIUM + D3 [CALCIUM CARBONATE;COLECALCIFEROL]",
+        "DIPHENHYDRAMINE.",
+        "LIDOCAINE/PRILOCAINE",
+        "AMPHETAMINE",
+        "VICODIN",
+        "DEXTROSE.",
+        "MULTIVITAMIN (16)",
+        "DIAZEPAM.",
+        "VITAMIN C ACID",
+        "BLACK COHOSH [CIMICIFUGA RACEMOSA RHIZOME;CIMICIFUGA RACEMOSA ROOT]",
+        "TRAZODONE",
+        "B12 ACTIVE",
+        "ACETAMINOPHEN.",
+        "SODIUM CHLORIDE.",
+        "IRON",
+        "EPINEPHRINE.",
+        "EFFEXOR",
+        "VITAMINS NOS",
+        "GAMMAGARD LIQUID",
+        "VITAMIN B12",
+        "MIRALAX",
+        "REXULTI",
+        "IMITREX",
+        "PRIMIDONE.",
+        "PROBIOTIC 10",
+        "PREGABALIN +PHARMA",
+        "OMEPRAZOLE AND SODIUM BICARBONATE"
+      ],
+      "reactions": [
+        "Migraine",
+        "Illness",
+        "Freezing phenomenon",
+        "Fungal infection",
+        "Hyperhidrosis",
+        "Ankle fracture",
+        "Abdominal distension",
+        "Nausea"
+      ],
+      "report_id": "18270839"
+    },
+    {
+      "drugs": [
+        "LISINOPRIL.",
+        "TUSSIN [BUTAMIRATE CITRATE]",
+        "ASPIRIN [ACETYLSALICYLIC ACID]",
+        "TRAZODONE",
+        "MOBIC",
+        "CLARITIN?D NOS",
+        "PROBIOTICA",
+        "SYNJARDY XR",
+        "CARVEDILOL.",
+        "OZEMPIC",
+        "CALCIUM",
+        "SYNJARDY XR",
+        "TIZANIDINE.",
+        "BLACK COHOSH [CIMICIFUGA RACEMOSA]",
+        "PRILOSEC",
+        "OMEGA 3 [SALMON OIL]"
+      ],
+      "reactions": [
+        "Heart rate increased",
+        "Extra dose administered",
+        "Hypotension",
+        "Stress cardiomyopathy"
+      ],
+      "report_id": "18314662"
+    },
+    {
+      "drugs": [
+        "ASPIRIN (E.C.)",
+        "ZOVIRAX",
+        "LYRICA",
+        "LYRICA",
+        "WELLBUTRIN SR",
+        "ESTRACE",
+        "B COMPLEX [BIOTIN;CHOLINE BITARTRATE;CYANOCOBALAMIN;FOLIC ACID;INOSITO",
+        "BLACK COHOSH [CIMICIFUGA RACEMOSA]",
+        "VITAMIN D3",
+        "ADEKS",
+        "TOPAMAX",
+        "WELLBUTRIN SR",
+        "FLONASE",
+        "LAMICTAL",
+        "CALCIUM CARBONATE W/VITAMIN D [CALCIUM CARBONATE;COLECALCIFEROL]",
+        "LYRICA",
+        "LYRICA",
+        "ZYRTEC",
+        "ESTRACE",
+        "LYRICA"
+      ],
+      "reactions": [
+        "Hypoacusis"
+      ],
+      "report_id": "18346361"
+    },
+    {
+      "drugs": [
+        "BLACK COHOSH [CIMICIFUGA RACEMOSA]",
+        "BLACK COHOSH [CIMICIFUGA RACEMOSA]",
+        "DULOXETINE.",
+        "MODAFINIL."
+      ],
+      "reactions": [
+        "Mania",
+        "Drug interaction"
+      ],
+      "report_id": "18480381"
+    },
+    {
+      "drugs": [
+        "CYMBALTA",
+        "SYSTANE BALANCE",
+        "FIBER",
+        "ROPINIROLE.",
+        "HEPARIN",
+        "PATADAY",
+        "TYLENOL",
+        "PROBIOTICS NOS",
+        "BLACK COHOSH [CIMICIFUGA RACEMOSA]",
+        "HUMAN NORMAL IMMUNOGLOBULIN; LIQUID",
+        "LACTAID",
+        "NEXIUM I.V.",
+        "FOLIC ACID.",
+        "MULTIVITAMINS [VITAMINS NOS]",
+        "EPINEPHRINE.",
+        "MESTINON",
+        "SUPER",
+        "ZYRTEC SUMITOMO",
+        "ABILIFY",
+        "GABAPENTIN ^PCD^",
+        "TRAZODONE",
+        "TURMERIC [CURCUMA LONGA RHIZOME]",
+        "CITRACAL [CALCIUM CITRATE]",
+        "KEPPRA",
+        "SODIUM CHLORIDE.",
+        "LMX4",
+        "PATADAY",
+        "TEGRETOL",
+        "HUMAN NORMAL IMMUNOGLOBULIN; LIQUID",
+        "GABAPENTIN.",
+        "LASIX",
+        "ACETAMINOPHEN.",
+        "BENZTROPINE MESYLATE COREPHARMA",
+        "ALEVE PM",
+        "ESOMEPRAZOLE MAGNESIUM.",
+        "DIPHENHYDRAMINE."
+      ],
+      "reactions": [
+        "Headache",
+        "Fatigue",
+        "Injection site pain"
+      ],
+      "report_id": "18513068"
+    },
+    {
+      "drugs": [
+        "OTEZLA",
+        "MULTIVITAMINS;MINERALS",
+        "BLACK COHOSH [CIMICIFUGA RACEMOSA]",
+        "TOPAMAX",
+        "OTEZLA",
+        "SKYRIZI",
+        "EZETIMIBE.",
+        "OLANZAPINE.",
+        "TOPIRAMATE.",
+        "TALTZ",
+        "FLUOXETINE",
+        "METOPROLOL.",
+        "CLOBETASOL",
+        "VALACYCLOVIR",
+        "ZOMIG",
+        "METOPROLOL SUCCINATE."
+      ],
+      "reactions": [
+        "Therapeutic product effect incomplete",
+        "Product dose omission issue",
+        "Psoriasis",
+        "Arthritis"
+      ],
+      "report_id": "18522705"
+    },
+    {
+      "drugs": [
+        "XYREM",
+        "FIBER LAXATIVE",
+        "CLOBETASOL PROPIONATE.",
+        "LOSARTAN POTASSIUM.",
+        "NYSTATIN AND TRIAMCINOLONE",
+        "PANTOPRAZOLE SODIUM.",
+        "LORAZEPAM.",
+        "METHOTREXATE.",
+        "XYREM",
+        "TOPAMAX",
+        "BENZONATATE.",
+        "DOXYCYCLINE HYCLATE.",
+        "LYRICA",
+        "ASPIRIN EC",
+        "OTEZLA",
+        "CARISOPRODOL.",
+        "CITALOPRAM",
+        "CLOBETASOL",
+        "MICROGESTIN FE",
+        "FLEXERIL [CEFIXIME]",
+        "BELSOMRA",
+        "LOSARTAN AND HYDROCHLOROTHIAZIDE",
+        "AMLODIPINE BESYLATE.",
+        "BLACK COHOSH [CIMICIFUGA RACEMOSA RHIZOME;CIMICIFUGA RACEMOSA ROOT]",
+        "BACLOFEN.",
+        "GABAPENTIN.",
+        "NAPROXEN.",
+        "ZOLPIDEM TARTRATE.",
+        "HYDROCODONE/ACETAMINOPHEN",
+        "FENTANYL.",
+        "SAVELLA",
+        "NUCYNTA",
+        "AMITRIPTYLINE HCL",
+        "BENTYL",
+        "LEVOTHYROXINE.",
+        "TACROLIMUS.",
+        "VOLTAREN [DICLOFENAC]",
+        "RITUXAN",
+        "NAPROSYN",
+        "HYDROXYZINE HCL",
+        "SINGULAIR",
+        "METHOCARBAMOL.",
+        "PILOCARPINE HCL",
+        "QUETIAPINE FUMARATE.",
+        "STELARA",
+        "CLONAZEPAM.",
+        "FAMOTIDINE.",
+        "CYMBALTA",
+        "TYLENOL EXTRA STRENGTH",
+        "VITAMIN D [COLECALCIFEROL]",
+        "SOMA",
+        "CONCERTA",
+        "BUPROPION HCL",
+        "FLUOCINONIDE.",
+        "ZOLOFT",
+        "TOPIRAMATE.",
+        "FOLBEE",
+        "MORPHINE SULFATE.",
+        "XYREM",
+        "SUNOSI",
+        "ALVESCO",
+        "CELEXA [CELECOXIB]",
+        "BOSWELLIA SERRATA",
+        "VITAMIN B COMPLEX",
+        "WILLOW BARK",
+        "MELOXICAM.",
+        "HUMIRA",
+        "METHYLPHENIDATE.",
+        "VENTOLIN HFA",
+        "MIRAPEX",
+        "PAXIL [PIROXICAM]",
+        "SERTRALINE HCL",
+        "TEMAZEPAM."
+      ],
+      "reactions": [
+        "Inflammation",
+        "Cholecystostomy",
+        "Haemorrhoids",
+        "Dehydration",
+        "Crying"
+      ],
+      "report_id": "18588533"
+    },
+    {
+      "drugs": [
+        "NEXAVAR",
+        "CALCITRATE",
+        "VITAMIN D3",
+        "PREGABALIN.",
+        "PROCHLORPERAZINE MALEATE.",
+        "NEXAVAR",
+        "AMLODIPINE BESYLATE.",
+        "LEVOTHYROXINE SODIUM.",
+        "NEXAVAR",
+        "PROBIOTIC [BIFIDOBACTERIUM LACTIS]",
+        "DOXYCYCLINE.",
+        "ZOLPIDEM TARTRATE.",
+        "FLUCONAZOLE.",
+        "ONDANSETRON",
+        "BLACK COHOSH [CIMICIFUGA RACEMOSA]"
+      ],
+      "reactions": [
+        "Hypothyroidism",
+        "Gastric disorder",
+        "Diarrhoea",
+        "Fatigue",
+        "Off label use",
+        "Fatigue",
+        "Colitis",
+        "Diarrhoea",
+        "Weight decreased",
+        "Blood pressure increased",
+        "Constipation",
+        "Flatulence"
+      ],
+      "report_id": "18795216"
+    },
+    {
+      "drugs": [
+        "CLONIDINE.",
+        "VRAYLAR",
+        "BLACK COHOSH [CIMICIFUGA RACEMOSA]",
+        "LAMICTAL",
+        "SINGULAIR",
+        "ORENCIA",
+        "ORENCIA",
+        "ORENCIA",
+        "LORATADINE.",
+        "CYMBALTA",
+        "CLONAZEPAM.",
+        "PLAQUENIL"
+      ],
+      "reactions": [
+        "Uterine disorder",
+        "Product storage error"
+      ],
+      "report_id": "18937516"
+    },
+    {
+      "drugs": [
+        "EFFEXOR XR",
+        "PROZAC",
+        "BLACK COHOSH [CIMICIFUGA RACEMOSA]"
+      ],
+      "reactions": [
+        "Nausea",
+        "Off label use"
+      ],
+      "report_id": "18940914"
+    },
+    {
+      "drugs": [
+        "COVID?19 VACCINE NOS.",
+        "VITAMIN D1",
+        "VITAMIN E",
+        "LEVOFLOXACIN.",
+        "PREDNISONE.",
+        "B?COMPLEX [VITAMIN B COMPLEX]",
+        "RULOX [ROXITHROMYCIN]",
+        "VITAMIN C",
+        "HYDROXYZINE HCL",
+        "CETIRIZINE",
+        "AZELASTINE.",
+        "IPRATROPIUM",
+        "VENLAFAXINE",
+        "OMEPRAZOLE.",
+        "ALKA?SELTZER",
+        "BLACK COHOSH [CIMICIFUGA RACEMOSA]",
+        "GLUCOSAMINE",
+        "POTASSIUM",
+        "CLOBETASOL 0.05%",
+        "CLOBETASOL PROPIONATE.",
+        "OTEZLA",
+        "GARLIC NATURAL"
+      ],
+      "reactions": [
+        "Anxiety"
+      ],
+      "report_id": "19150563"
+    },
+    {
+      "drugs": [
+        "SALBUTAMOL",
+        "FLUVOXAMINE MALEATE.",
+        "HALOPERIDOL.",
+        "LAMOTRIGINE.",
+        "ZIPRASIDONE.",
+        "SEVOFLURANE.",
+        "ALTHAEA OFFICINALIS",
+        "GLYCOPYRROLATE.",
+        "MIDAZOLAM.",
+        "OLANZAPINE.",
+        "FENTANYL.",
+        "PROPOFOL.",
+        "CIMICIFUGA RACEMOSA",
+        "MELATONIN",
+        "KETAMINE",
+        "SUXAMETHONIUM",
+        "OXYGEN.",
+        "JUNIPERUS OXYCEDRUS",
+        "LACOSAMIDE.",
+        "PROPRANOLOL HYDROCHLORIDE.",
+        "PROPOFOL.",
+        "SUXAMETHONIUM",
+        "GUANFACINE.",
+        "CANNABIS SATIVA",
+        "GLYCOPYRROLATE.",
+        "PAROXETINE.",
+        "ZONISAMIDE."
+      ],
+      "reactions": [
+        "Hypotension",
+        "Pulseless electrical activity",
+        "Bradycardia",
+        "Overdose",
+        "Drug interaction",
+        "Cardiac arrest"
+      ],
+      "report_id": "19241540"
+    },
+    {
+      "drugs": [
+        "FENTANYL.",
+        "GUANFACINE.",
+        "CANNABIS SATIVA",
+        "ZONISAMIDE.",
+        "KETAMINE HYDROCHLORIDE INJECTION",
+        "PROPRANOLOL HYDROCHLORIDE.",
+        "MIDAZOLAM.",
+        "PROPOFOL.",
+        "PROPOFOL.",
+        "LAMOTRIGINE.",
+        "CIMICIFUGA RACEMOSA",
+        "MELATONIN",
+        "SALBUTAMOL",
+        "SUCCINYLCHOLINE",
+        "SEVOFLURANE.",
+        "HALOPERIDOL.",
+        "JUNIPERUS OXYCEDRUS",
+        "OLANZAPINE.",
+        "OXYGEN.",
+        "FLUVOXAMINE",
+        "SUCCINYLCHOLINE",
+        "ALTHAEA OFFICINALIS",
+        "LACOSAMIDE.",
+        "PAROXETINE.",
+        "GLYCOPYRROLATE.",
+        "ZIPRASIDONE."
+      ],
+      "reactions": [
+        "Overdose",
+        "Cardiac arrest",
+        "Pulseless electrical activity",
+        "Drug interaction",
+        "Bradycardia",
+        "Hypotension"
+      ],
+      "report_id": "19243719"
+    },
+    {
+      "drugs": [
+        "FENTANYL.",
+        "GUANFACINE.",
+        "SUCCINYLCHOLINE",
+        "OXYGEN.",
+        "SALBUTAMOL",
+        "PROPRANOLOL",
+        "PAROXETINE.",
+        "MIDAZOLAM.",
+        "CANNABIS SATIVA",
+        "SEVOFLURANE.",
+        "JUNIPERUS OXYCEDRUS",
+        "LACOSAMIDE.",
+        "ZONISAMIDE.",
+        "KETAMINE",
+        "ZIPRASIDONE.",
+        "MELATONIN",
+        "HALOPERIDOL.",
+        "FLUVOXAMINE",
+        "GLYCOPYRROLATE.",
+        "OLANZAPINE.",
+        "LAMOTRIGINE.",
+        "ALTHAEA OFFICINALIS",
+        "CIMICIFUGA RACEMOSA",
+        "PROPOFOL."
+      ],
+      "reactions": [
+        "Product use in unapproved indication",
+        "Pulseless electrical activity",
+        "Drug interaction",
+        "Overdose",
+        "Bradycardia",
+        "Hypotension",
+        "Drug interaction",
+        "Cardiac arrest"
+      ],
+      "report_id": "19247124"
+    },
+    {
+      "drugs": [
+        "KETAMINE",
+        "OLANZAPINE.",
+        "OXYGEN.",
+        "LAMOTRIGINE.",
+        "PAROXETINE.",
+        "PROPRANOLOL HYDROCHLORIDE.",
+        "SUCCINYLCHOLINE",
+        "MELATONIN",
+        "JUNIPERUS OXYCEDRUS",
+        "SEVOFLURANE, USP",
+        "PROPOFOL.",
+        "FENTANYL.",
+        "LACOSAMIDE.",
+        "GLYCOPYRROLATE.",
+        "MIDAZOLAM.",
+        "SALBUTAMOL",
+        "CIMICIFUGA RACEMOSA",
+        "ZIPRASIDONE.",
+        "PROPOFOL.",
+        "GUANFACINE.",
+        "HALOPERIDOL.",
+        "ALTHAEA OFFICINALIS",
+        "CANNABIS SATIVA",
+        "SUCCINYLCHOLINE",
+        "FLUVOXAMINE",
+        "GLYCOPYRROLATE.",
+        "ZONISAMIDE."
+      ],
+      "reactions": [
+        "Bradycardia",
+        "Overdose",
+        "Hypotension",
+        "Pulseless electrical activity",
+        "Drug interaction",
+        "Cardiac arrest"
+      ],
+      "report_id": "19252607"
+    },
+    {
+      "drugs": [
+        "GLYCOPYRROLATE.",
+        "ZIPRASIDONE.",
+        "LAMOTRIGINE TABLETS",
+        "ZONISAMIDE.",
+        "JUNIPERUS OXYCEDRUS",
+        "KETAMINE",
+        "FENTANYL CITRATE.",
+        "SUCCINYLCHOLINE CHLORIDE.",
+        "OXYGEN.",
+        "PROPOFOL INJECTABLE EMULSION",
+        "PROPOFOL INJECTABLE EMULSION",
+        "FLUVOXAMINE",
+        "OLANZAPINE ODT 10 MG",
+        "LACOSAMIDE.",
+        "MELATONIN",
+        "PAROXETINE.",
+        "SALBUTAMOL",
+        "SUCCINYLCHOLINE CHLORIDE.",
+        "PROPRANOLOL HYDROCHLORIDE.",
+        "GUANFACINE.",
+        "SEVOFLURANE 1.9 PERCENTAGE",
+        "CIMICIFUGA RACEMOSA",
+        "MIDAZOLAM.",
+        "CANNABIS SATIVA",
+        "GLYCOPYRROLATE.",
+        "ALTHAEA OFFICINALIS",
+        "HALOPERIDOL."
+      ],
+      "reactions": [
+        "Pulseless electrical activity",
+        "Bradycardia",
+        "Drug interaction",
+        "Hypotension",
+        "Overdose",
+        "Cardiac arrest"
+      ],
+      "report_id": "19253874"
+    },
+    {
+      "drugs": [
+        "KETAMINE",
+        "SUCCINYLCHOLINE",
+        "GLYCOPYRROLATE.",
+        "SALBUTAMOL",
+        "PROPOFOL.",
+        "ALTHAEA OFFICINALIS",
+        "CANNABIS SATIVA",
+        "LACOSAMIDE.",
+        "CIMICIFUGA RACEMOSA",
+        "FLUVOXAMINE",
+        "LAMOTRIGINE.",
+        "OXYGEN.",
+        "OLANZAPINE.",
+        "PROPRANOLOL HYDROCHLORIDE.",
+        "PROPOFOL.",
+        "SEVOFLURANE.",
+        "GLYCOPYRROLATE.",
+        "ZONISAMIDE.",
+        "MIDAZOLAM.",
+        "FENTANYL.",
+        "GUANFACINE.",
+        "SUCCINYLCHOLINE",
+        "ZIPRASIDONE.",
+        "MELATONIN",
+        "HALOPERIDOL.",
+        "PAROXETINE.",
+        "JUNIPERUS OXYCEDRUS"
+      ],
+      "reactions": [
+        "Bradycardia",
+        "Drug interaction",
+        "Overdose",
+        "Cardiac arrest",
+        "Hypotension",
+        "Pulseless electrical activity"
+      ],
+      "report_id": "19260080"
+    },
+    {
+      "drugs": [
+        "SUCCINYLCHOLINE CHLORIDE.",
+        "SEVOFLURANE.",
+        "ALTHAEA OFFICINALIS",
+        "MELATONIN",
+        "LAMOTRIGINE.",
+        "KETAMINE HCL",
+        "PROPANOLOL HCL",
+        "PROPOFOL.",
+        "GUANFACINE.",
+        "HALOPERIDOL.",
+        "CANNABIS SATIVA",
+        "PAROXETINE.",
+        "LACOSAMIDE.",
+        "GLYCOPYRROLATE [GLYCOPYRRONIUM]",
+        "GLYCOPYRROLATE [GLYCOPYRRONIUM]",
+        "ZIPRASIDONE.",
+        "OXYGEN.",
+        "SALBUTAMOL",
+        "PROPOFOL.",
+        "SUCCINYLCHOLINE CHLORIDE.",
+        "ZONISAMIDE.",
+        "MIDAZOLAM.",
+        "OLANZAPINE.",
+        "FENTANYL CITRATE.",
+        "FLUVOXAMINE",
+        "JUNIPERUS OXYCEDRUS",
+        "CIMICIFUGA RACEMOSA",
+        "ALBUTEROL [SALBUTAMOL]"
+      ],
+      "reactions": [
+        "Pulseless electrical activity",
+        "Overdose",
+        "Hypotension",
+        "Bradycardia",
+        "Drug interaction",
+        "Cardiac arrest"
+      ],
+      "report_id": "19265190"
+    },
+    {
+      "drugs": [
+        "PROPOFOL.",
+        "SUCCINYLCHOLINE CHLORIDE.",
+        "GUANFACINE.",
+        "KETAMINE",
+        "GLYCOPYRRONIUM",
+        "ZIPRASIDONE.",
+        "SUCCINYLCHOLINE",
+        "PROPRANOLOL HYDROCHLORIDE.",
+        "CANNABIS SATIVA",
+        "JUNIPERUS OXYCEDRUS",
+        "SEVOFLURANE.",
+        "FLUVOXAMINE",
+        "CIMICIFUGA RACEMOSA",
+        "HALOPERIDOL.",
+        "LAMOTRIGINE.",
+        "MIDAZOLAM.",
+        "OXYGEN.",
+        "GLYCOPYRROLATE.",
+        "FENTANYL.",
+        "ALTHAEA OFFICINALIS",
+        "LACOSAMIDE.",
+        "PAROXETINE.",
+        "SALBUTAMOL",
+        "ZONISAMIDE.",
+        "PROPOFOL.",
+        "MELATONIN",
+        "OLANZAPINE."
+      ],
+      "reactions": [
+        "Pulseless electrical activity",
+        "Hypotension",
+        "Cardiac arrest",
+        "Drug interaction",
+        "Overdose",
+        "Bradycardia"
+      ],
+      "report_id": "19270904"
+    },
+    {
+      "drugs": [
+        "GUANFACINE.",
+        "BLACK COHOSH [CIMICIFUGA RACEMOSA]",
+        "MARSHMALLOW [ALTHAEA OFFICINALIS]",
+        "ALBUTEROL [SALBUTAMOL]",
+        "MELATONIN",
+        "PROPRANOLOL",
+        "LACOSAMIDE.",
+        "MIDAZOLAM.",
+        "FENTANYL.",
+        "SUCCINYLCHOLINE [SUXAMETHONIUM CHLORIDE]",
+        "ZIPRASIDONE.",
+        "SEVOFLURANE.",
+        "PROPOFOL.",
+        "FLUVOXAMINE",
+        "ZONISAMIDE.",
+        "HEMP SEED OIL",
+        "KETAMINE",
+        "PAROXETINE.",
+        "HALOPERIDOL.",
+        "JUNIPER OIL",
+        "PROPOFOL.",
+        "SUCCINYLCHOLINE [SUXAMETHONIUM CHLORIDE]",
+        "OLANZAPINE.",
+        "LAMOTRIGINE."
+      ],
+      "reactions": [
+        "Cardiac arrest",
+        "Drug level increased",
+        "Overdose",
+        "Drug interaction"
+      ],
+      "report_id": "19425483"
+    },
+    {
+      "drugs": [
+        "OLANZAPINE.",
+        "PAROXETINE.",
+        "JUNIPER OIL",
+        "ZONISAMIDE.",
+        "LAMOTRIGINE.",
+        "MARSHMALLOW [ALTHAEA OFFICINALIS]",
+        "HEMP SEED OIL",
+        "MELATONIN",
+        "HALOPERIDOL.",
+        "PROPRANOLOL",
+        "ALBUTEROL SULFATE  INHALATION SOLUTION",
+        "GUANFACINE.",
+        "LACOSAMIDE.",
+        "FLUVOXAMINE",
+        "ZIPRASIDONE.",
+        "BLACK COHOSH [CIMICIFUGA RACEMOSA]"
+      ],
+      "reactions": [
+        "Overdose",
+        "Serotonin syndrome"
+      ],
+      "report_id": "19426181"
+    },
+    {
+      "drugs": [
+        "ECHINACEA ANGUSTIFOLIA DRY EXTRACT;PANCREATIN;PYRIDOXINE HYDROCHLORIDE",
+        "BLACK COHOSH [CIMICIFUGA RACEMOSA]",
+        "EXCEDRIN [ACETYLSALICYLIC ACID;CAFFEINE;SALICYLAMIDE]",
+        "DUPIXENT",
+        "RANITIDINE."
+      ],
+      "reactions": [
+        "Dermatitis atopic"
+      ],
+      "report_id": "19497395"
+    },
+    {
+      "drugs": [
+        "BIOTIN [BIOTIN;CALCIUM PHOSPHATE DIBASIC]",
+        "SELENIUM",
+        "ASPIRIN.",
+        "BLACK COHOSH [CIMICIFUGA RACEMOSA]",
+        "CALCIUM 500+D",
+        "VITAMIN D3",
+        "FERROUS GLUCONATE",
+        "CULTURELLE",
+        "HYDROCODONE BITARTRATE.",
+        "VITAMIN B12 [VITAMIN B12 NOS]",
+        "JAKAFI"
+      ],
+      "reactions": [
+        "Product dose omission issue",
+        "Hypersensitivity"
+      ],
+      "report_id": "19605592"
+    },
+    {
+      "drugs": [
+        "FOSAMAX",
+        "ALENDRONATE SODIUM",
+        "CALCIUM\\VITAMIN D",
+        "PATANASE",
+        "PATANASE",
+        "CIMICIFUGA RACEMOSA",
+        "CIMICIFUGA RACEMOSA",
+        "METICORTEN"
+      ],
+      "reactions": [
+        "Stress fracture",
+        "Femur fracture",
+        "Low turnover osteopathy",
+        "Urinary retention postoperative",
+        "Appendicitis",
+        "Iron deficiency anaemia",
+        "Plasma cell myeloma",
+        "Osteoporosis",
+        "Interstitial lung disease",
+        "Gastritis erosive",
+        "Femur fracture",
+        "Spinal compression fracture",
+        "Hip fracture",
+        "Lumbar vertebral fracture",
+        "Mitral valve incompetence",
+        "Barrett^s oesophagus",
+        "Spinal compression fracture",
+        "Hypercholesterolaemia",
+        "Skin lesion",
+        "Haemorrhoids",
+        "Photopsia",
+        "Tenosynovitis stenosans",
+        "Kyphosis",
+        "Trigger finger",
+        "Intervertebral disc degeneration",
+        "Soft tissue injury",
+        "Road traffic accident",
+        "Vitreous floaters",
+        "Upper-airway cough syndrome",
+        "Upper respiratory tract infection",
+        "Repetitive strain injury",
+        "Diverticulum",
+        "Uterine leiomyoma",
+        "Irritable bowel syndrome",
+        "Occult blood positive",
+        "Mitral valve disease",
+        "Hypertensive heart disease",
+        "Anxiety",
+        "Hepatic cyst",
+        "Pulmonary mass",
+        "C-reactive protein increased",
+        "Cardiovascular disorder",
+        "Weight decreased",
+        "Scoliosis",
+        "Fall",
+        "Limb injury",
+        "Tonsillar disorder",
+        "Hypercalcaemia",
+        "Urinary tract infection",
+        "Osteopenia",
+        "Body height decreased",
+        "Hypertension",
+        "Cardiac murmur",
+        "Sinus disorder",
+        "Gait disturbance",
+        "Urinary tract infection",
+        "Urine calcium decreased",
+        "Blood parathyroid hormone increased",
+        "Thyroid mass",
+        "Osteoarthritis",
+        "Left ventricular hypertrophy",
+        "Fall",
+        "Pain in extremity",
+        "Adverse event",
+        "Paraesthesia",
+        "Humerus fracture",
+        "Nausea",
+        "Neck pain",
+        "Spinal pain"
+      ],
+      "report_id": "19622899"
+    },
+    {
+      "drugs": [
+        "CLONAZEPAM.",
+        "NIVOLUMAB",
+        "MULTIVITAMIN [ASCORBIC ACID;BIOTIN;CALCIUM PANTOTHENATE;CYANOCOBALAMIN",
+        "VENLAFAXINE HCL",
+        "MELATONIN",
+        "BLACK COHOSH [CIMICIFUGA RACEMOSA]",
+        "TRAZODONE",
+        "BEMPEGALDESLEUKIN",
+        "ALBUTEROL SULFATE.",
+        "ACIDOPHILUS",
+        "LIRAGLUTIDE",
+        "BUPROPION HCL"
+      ],
+      "reactions": [
+        "Cytokine release syndrome"
+      ],
+      "report_id": "19670074"
+    },
+    {
+      "drugs": [
+        "ECHINACEA [ECHINACEA PURPUREA]",
+        "BLACK COHOSH [CIMICIFUGA RACEMOSA]",
+        "EXCEDRIN",
+        "DUPIXENT",
+        "RANITIDINE."
+      ],
+      "reactions": [
+        "Dermatitis atopic"
+      ],
+      "report_id": "19745850"
+    },
+    {
+      "drugs": [
+        "IBUPROFEN.",
+        "BLACK COHOSH [CIMICIFUGA RACEMOSA]",
+        "BENADRYL",
+        "VITAMIN C",
+        "BIOTIN",
+        "LYRICA",
+        "KEVZARA"
+      ],
+      "reactions": [
+        "Product use in unapproved indication",
+        "Blood triglycerides increased",
+        "Blood cholesterol increased"
+      ],
+      "report_id": "19775516"
+    },
+    {
+      "drugs": [
+        "PROPRANOLOL HYDROCHLORIDE",
+        "PROPRANOLOL HYDROCHLORIDE",
+        "SUCCINYLCHOLINE",
+        "SUCCINYLCHOLINE",
+        "GUANFACINE",
+        "PROPOFOL",
+        "PROPOFOL",
+        "SEVOFLURANE",
+        "FENTANYL",
+        "FLUVOXAMINE",
+        "KETAMINE",
+        "LACOSAMIDE",
+        "GLYCOPYRROLATE",
+        "GLYCOPYRROLATE",
+        "ZONISAMIDE",
+        "ALBUTEROL",
+        "ALTHAEA OFFICINALIS",
+        "MELATONIN",
+        "CIMICIFUGA RACEMOSA",
+        "ZIPRASIDONE",
+        "MIDAZOLAM",
+        "OLANZAPINE",
+        "HALOPERIDOL",
+        "LAMOTRIGINE",
+        "CANNABIS SATIVA FLOWERING TOP",
+        "PAROXETINE",
+        "OXYGEN",
+        "JUNIPERUS OXYCEDRUS"
+      ],
+      "reactions": [
+        "Pulseless electrical activity",
+        "Cardiac arrest",
+        "Hypotension",
+        "Bradycardia",
+        "Drug interaction",
+        "Overdose",
+        "Product use in unapproved indication",
+        "Product use issue",
+        "Off label use"
+      ],
+      "report_id": "19803369"
+    },
+    {
+      "drugs": [
+        "BORON/CALCIUM/CIMICIFUGA RACEMOSA EXTRACT/FOLIC ACID/GLYCINE MAX EXTRACT/MAGNOLIA OFFICINALIS/NICOTI",
+        "ESTRADIOL.",
+        "HYDROCODONE",
+        "OMEPRAZOLE.",
+        "MELOXICAM.",
+        "TRAMADOL.",
+        "GABAPENTINE"
+      ],
+      "reactions": [
+        "Musculoskeletal stiffness"
+      ],
+      "report_id": "19874813"
+    },
+    {
+      "drugs": [
+        "INGREZZA",
+        "LATUDA",
+        "DULOXETINE",
+        "DULOXETINE",
+        "TRAZODONE",
+        "TRAZODONE",
+        "VITAMIN B12",
+        "NORVASC",
+        "FLORINEF ACETATE",
+        "PYRIDOSTIGMINE",
+        "ARIPIPRAZOLE",
+        "ZYPREXA",
+        "ZYPREXA",
+        "BLACK COHOSH [CIMICIFUGA RACEMOSA RHIZOME;CIMICIFUGA RACEMOSA ROOT]",
+        "VRAYLAR",
+        "VRAYLAR"
+      ],
+      "reactions": [
+        "Parkinsonism"
+      ],
+      "report_id": "19913635"
+    },
+    {
+      "drugs": [
+        "OTEZLA",
+        "OTEZLA",
+        "FREEDOM",
+        "METFORMIN HYDROCHLORIDE",
+        "ZINC",
+        "OMEPRAZOLE",
+        "ZOFRAN",
+        "PROAIR DIGIHALER",
+        "RIZATRIPTAN BENZOATE",
+        "MENOPAUSE SUPPORT [CIMICIFUGA RACEMOSA;DIOSCOREA VILLOSA]",
+        "SULFASALAZINE",
+        "ASPIRIN",
+        "CALCIUM",
+        "CALCIPOTRIENE",
+        "CHOLECALCIFEROL",
+        "NAPROXEN",
+        "DICLOFENAC SODIUM",
+        "DOXEPIN HCL",
+        "DULOXETINE HYDROCHLORIDE",
+        "ESTRING",
+        "FLUTICASONE PROPIONATE",
+        "HUMALOG",
+        "HYDROCODONE",
+        "PHENYLEPHRINE",
+        "JARDIANCE",
+        "LOSARTAN",
+        "POTASSIUM",
+        "MAGNESIUM",
+        "MELOXICAM",
+        "MULTI COMPLETE"
+      ],
+      "reactions": [
+        "Adverse event"
+      ],
+      "report_id": "20121675"
+    },
+    {
+      "drugs": [
+        "OTEZLA",
+        "METFORMIN HYDROCHLORIDE",
+        "ZINC",
+        "OMEPRAZOLE",
+        "ZOFRAN",
+        "PROAIR DIGIHALER",
+        "RIZATRIPTAN BENZOATE",
+        "MENOPAUSE SUPPORT [CIMICIFUGA RACEMOSA;DIOSCOREA VILLOSA]",
+        "SULFASALAZINE",
+        "TRANZ",
+        "ASPIRIN",
+        "CALCIUM",
+        "CALCIPOTRIENE",
+        "CHOLECALCIFEROL",
+        "NAPROXEN",
+        "DICLOFENAC SODIUM",
+        "DOXEPIN HCL",
+        "DULOXETINE HYDROCHLORIDE",
+        "ESTRING",
+        "FLUTICASONE PROPIONATE",
+        "HUMALOG HD KWIKPEN",
+        "HYDROCODONE",
+        "PHENYLEPHRINE",
+        "JARDIANCE",
+        "LOSARTAN POTASSIUM",
+        "MAGNESIUM",
+        "MELOXICAM"
+      ],
+      "reactions": [
+        "Product dose omission issue"
+      ],
+      "report_id": "20228942"
+    },
+    {
+      "drugs": [
+        "DUPIXENT",
+        "BLACK COHOSH [CIMICIFUGA RACEMOSA ROOT]",
+        "HALOBETASOL PROP",
+        "VENLAFAXINE HCL",
+        "ASPIRIN",
+        "PANTOPRAZOLE SODIUM",
+        "SYNTHROID",
+        "EUCRISA",
+        "ATORVASTATIN CALCIUM",
+        "CLOBETASOL PROPIONATE"
+      ],
+      "reactions": [
+        "Rash"
+      ],
+      "report_id": "20675692"
+    },
+    {
+      "drugs": [
+        "DUPIXENT",
+        "BLACK COHOSH [CIMICIFUGA RACEMOSA ROOT]",
+        "ACETAMINOPHEN\\CAFFEINE",
+        "RANITIDINE",
+        "ECHINACEA EXTRACT [ECHINACEA PURPUREA EXTRACT]"
+      ],
+      "reactions": [
+        "Discomfort",
+        "Stress",
+        "Dermatitis atopic",
+        "Rash",
+        "Product dose omission issue"
+      ],
+      "report_id": "20786136"
+    },
+    {
+      "drugs": [
+        "IBRANCE",
+        "SYMBICORT",
+        "FASLODEX",
+        "VITAMIN B COMPLEX",
+        "ZINC",
+        "ACETYLCYSTEINE",
+        "BLACK COHOSH [CIMICIFUGA RACEMOSA RHIZOME;CIMICIFUGA RACEMOSA ROOT]",
+        "GAMMA E"
+      ],
+      "reactions": [
+        "Fatigue",
+        "Feeling abnormal"
+      ],
+      "report_id": "20925096"
+    },
+    {
+      "drugs": [
+        "DOCETAXEL",
+        "PREDNISONE",
+        "CITRACAL CALCIUM PLUS VIT D3",
+        "IBUPROFEN",
+        "VITAMINS",
+        "OMEPRAZOLE",
+        "VITAMIN C",
+        "EFFEXOR",
+        "AUGMENTIN",
+        "DEXAMETHASONE",
+        "SODIUM CHLORIDE",
+        "DURAGESIC",
+        "DURAGESIC",
+        "PREDNISONE",
+        "PREDNISONE",
+        "LIDOCAINE\\PRILOCAINE",
+        "ONDANSETRON HYDROCHLORIDE",
+        "CETIRIZINE HYDROCHLORIDE",
+        "BLACK COHOSH [CIMICIFUGA RACEMOSA ROOT]",
+        "FERROUS SULFATE"
+      ],
+      "reactions": [
+        "Blood creatine phosphokinase increased"
+      ],
+      "report_id": "21014183"
+    },
+    {
+      "drugs": [
+        "XYWAV",
+        "XYWAV",
+        "XYWAV",
+        "ALCOHOL",
+        "ADDERALL",
+        "GEODON",
+        "EFFEXOR",
+        "CRESTOR",
+        "BLACK COHOSH [ACTAEA RACEMOSA]",
+        "WAKIX",
+        "BARIATRIC ADVANTAGE ULTRA MULTI WITH IRON",
+        "LINZESS",
+        "LINZESS"
+      ],
+      "reactions": [
+        "Drug abuse",
+        "Alcohol abuse"
+      ],
+      "report_id": "21701911"
+    },
+    {
+      "drugs": [
+        "BETASERON",
+        "METOPROLOL",
+        "PROZAC",
+        "BACLOFEN",
+        "ARIMIDEX",
+        "XANAX",
+        "ASCORBIC ACID\\ZINC",
+        "BLACK COHOSH [ACTAEA RACEMOSA]",
+        "OXITRIPTAN"
+      ],
+      "reactions": [
+        "Drug ineffective"
+      ],
+      "report_id": "21728766"
+    },
+    {
+      "drugs": [
+        "DUPIXENT",
+        "DUPIXENT",
+        "VITAMIN D3",
+        "RITALIN",
+        "GABAPENTIN",
+        "ACETYLCYSTEINE",
+        "BLACK COHOSH [ACTAEA RACEMOSA]",
+        "MAGNESIUM"
+      ],
+      "reactions": [
+        "Product use in unapproved indication"
+      ],
+      "report_id": "21842911"
+    },
+    {
+      "drugs": [
+        "STIVARGA",
+        "STIVARGA",
+        "STIVARGA",
+        "LEVOFLOXACIN INFOMED FLUIDS",
+        "METHADONE",
+        "SPIRONOLACTONE",
+        "POTASSIUM CHLORIDE",
+        "CRESTOR",
+        "GABAPENTIN",
+        "METHYLPHENIDATE",
+        "OXYCODONE",
+        "LEVOTHYROXINE",
+        "OMEPRAZOLE",
+        "ACTAEA RACEMOSA",
+        "DIETARY SUPPLEMENT",
+        "BIOTIN"
+      ],
+      "reactions": [
+        "Electrolyte depletion",
+        "Paraesthesia",
+        "Hypoaesthesia",
+        "Drug interaction",
+        "Pain",
+        "Diarrhoea",
+        "Muscle spasms",
+        "Off label use",
+        "Temperature intolerance",
+        "Skin reaction",
+        "Skin exfoliation",
+        "Pain in extremity",
+        "Nausea",
+        "Vomiting",
+        "Back pain",
+        "Arthralgia"
+      ],
+      "report_id": "22116417"
+    },
+    {
+      "drugs": [
+        "ELIGARD",
+        "ELIGARD",
+        "ENZALUTAMIDE",
+        "LYCOPENE",
+        "VITAMIN B COMPLEX",
+        "FISH OIL",
+        "CETIRIZINE HYDROCHLORIDE",
+        "LORATADINE",
+        "LUPRON DEPOT",
+        "BLACK COHOSH [ACTAEA RACEMOSA ROOT]",
+        "VITAMIN D3",
+        "ZINC",
+        "ASPIRIN",
+        "ATORVASTATIN",
+        "CARVEDILOL"
+      ],
+      "reactions": [
+        "Balance disorder",
+        "Coordination abnormal",
+        "Asthenia"
+      ],
+      "report_id": "23521301"
+    },
+    {
+      "drugs": [
+        "INBRIJA",
+        "B COMPLEX+C",
+        "BLACK COHOSH [ACTAEA RACEMOSA ROOT]",
+        "FIBER FORMULA",
+        "FISH OIL",
+        "MELATONIN",
+        "NO IRON MULTIPLE VITAMIN WITH MINERALS",
+        "ST. JOHN^S WORT",
+        "VITAMIN E WITH FOLIC ACID",
+        "ADVIL",
+        "ALBUTEROL SULFATE",
+        "ATIVAN",
+        "VITAMIN B COMPLEX",
+        "CHLORTHALIDONE",
+        "DICLOFENAC",
+        "EFFEXOR",
+        "ESTRADIOL",
+        "METAMUCIL CALCIUM",
+        "MIRALAX",
+        "VITAMINS NOS",
+        "PRAMIPEXOLE",
+        "PROPRANOLOL",
+        "PROVERA",
+        "SINEMET",
+        "SINEMET CR",
+        "SYMBICORT",
+        "EVENING PRIMROSE OIL [OENOTHERA BIENNIS]",
+        "PYRIDOXINE HYDROCHLORIDE"
+      ],
+      "reactions": [
+        "Death"
+      ],
+      "report_id": "23689657"
+    },
+    {
+      "drugs": [
+        "CIMZIA",
+        "EPINEPHRINE [EPINEPHRINE HYDROCHLORIDE]",
+        "MAGNESIUM ACETATE",
+        "LEVOTHYROXINE SODIUM",
+        "MELOXICAM",
+        "TRAMADOL HCL",
+        "CYCLOBENZAPRINE HYDROCHLORIDE",
+        "B COMPLEX [AMINOBENZOIC ACID;BIOTIN;CALCIUM PANTOTHENATE;CHOLINE BITAR",
+        "MENOPAUSE SUPPORT [ACTAEA RACEMOSA ROOT WITH RHIZOME;GLYCINE MAX SEED]",
+        "GLUTATHIONE REDUCED",
+        "IRON",
+        "GLUCOSAMINE + CHONDORITIN",
+        "CHILDREN^S BENADRYL ALLERGY + SINUS"
+      ],
+      "reactions": [
+        "Pain",
+        "Neck pain",
+        "Musculoskeletal chest pain",
+        "Alopecia",
+        "Urticaria",
+        "Throat irritation",
+        "Drug ineffective"
+      ],
+      "report_id": "23818704"
+    },
+    {
+      "drugs": [
+        "SIMPONI",
+        "SIMPONI",
+        "DULOXETINE",
+        "CYCLOBENZAPRINE",
+        "ACTAEA RACEMOSA",
+        "ROSUVASTATIN",
+        "PRIMULA SPP. OIL",
+        "PASSION FLOWER",
+        "BENAZEPRIL HYDROCHLORIDE"
+      ],
+      "reactions": [
+        "Infection"
+      ],
+      "report_id": "23863327"
+    },
+    {
+      "drugs": [
+        "ELIQUIS",
+        "ELIQUIS",
+        "ELIQUIS",
+        "ELIQUIS",
+        "ELIQUIS",
+        "ELIQUIS",
+        "OLEA EUROPAEA LEAF",
+        "ALOE VERA JUICE",
+        "NONI JUICE",
+        "LUTEIN",
+        "BILBERRY [VACCINIUM MYRTILLUS]",
+        "LIVER CLEANSE [ACTAEA RACEMOSA ROOT;ANGELICA ARCHANGELICA ROOT;BETA VU",
+        "SELENIUM FORTE",
+        "ORGANIC ZINC",
+        "MAGNESIUM GLYCINATE",
+        "MINERALS",
+        "ALPHA LIPOIC ACID"
+      ],
+      "reactions": [
+        "Bronchiectasis",
+        "Haemoptysis",
+        "Pulmonary thrombosis",
+        "Dizziness",
+        "Fall",
+        "Fatigue",
+        "Off label use"
+      ],
+      "report_id": "25091927"
+    },
+    {
+      "drugs": [
+        "TAVALISSE",
+        "FERROUS SULFATE",
+        "BLACK COHOSH [ACTAEA RACEMOSA RHIZOME;ACTAEA RACEMOSA ROOT]",
+        "VITAMIN D NOS",
+        "FLONASE",
+        "LIPITOR",
+        "MAGNESIUM",
+        "METAMUCIL",
+        "NEURIVAS",
+        "VITAMIN C",
+        "ZYRTEC",
+        "JARDIANCE",
+        "METFORMIN",
+        "OMEPRAZOLE",
+        "HERBALS\\TURMERIC",
+        "HAIR/SKIN NAILS",
+        "VITAMINS NOS"
+      ],
+      "reactions": [
+        "Diarrhoea"
+      ],
+      "report_id": "25409763"
+    },
+    {
+      "drugs": [
+        "YUTREPIA",
+        "ZINC",
+        "DOCUSATE SODIUM",
+        "BREZTRI",
+        "GREEN TEA EXTRACT [CAMELLIA SINENSIS LEAF]",
+        "ALBUTEROL SULFATE",
+        "CINNAMON\\HERBALS",
+        "SILDENAFIL CITRATE",
+        "HERBALS\\TURMERIC",
+        "QUERCETIN",
+        "ACETYLCYSTEINE",
+        "OXYGEN",
+        "SENOKOT",
+        "GINKGO",
+        "NEURIVAS",
+        "BLACK COHOSH [ACTAEA RACEMOSA RHIZOME;ACTAEA RACEMOSA ROOT]",
+        "ASIAN GINSENG",
+        "GINGER ROOT EXTRACT"
+      ],
+      "reactions": [
+        "Loss of consciousness",
+        "Hypotension",
+        "Hypersomnia"
+      ],
+      "report_id": "26021757"
+    },
+    {
+      "drugs": [
+        "NUPLAZID",
+        "BLACK COHOSH [ACTAEA RACEMOSA RHIZOME;ACTAEA RACEMOSA ROOT]",
+        "CALCIUM",
+        "CARBIDOPA\\LEVODOPA",
+        "ESCITALOPRAM",
+        "TERBINAFINE"
+      ],
+      "reactions": [
+        "Hallucination",
+        "Gait disturbance",
+        "Confusional state",
+        "Drug ineffective"
+      ],
+      "report_id": "26161145"
+    },
+    {
+      "drugs": [
+        "TAMIFLU",
+        "JOSACINE",
+        "DAFALGAN",
+        "ECAZIDE",
+        "FENOFIBRATE",
+        "CONTRAMAL",
+        "ACTAEA RACEMOSA",
+        "NASONEX",
+        "BECOTIDE"
+      ],
+      "reactions": [
+        "BURNING SENSATION",
+        "DERMATITIS BULLOUS",
+        "ERYTHEMA"
+      ],
+      "report_id": "6538104-X"
+    },
+    {
+      "drugs": [
+        "CATAPRES",
+        "CATAPRES",
+        "BLACK COHOSH EXTRACT",
+        "SOY ISOFLAVONES"
+      ],
+      "reactions": [
+        "Drug ineffective",
+        "Crying",
+        "Emotional disorder",
+        "Dizziness"
+      ],
+      "report_id": "10035164"
+    },
+    {
+      "drugs": [
+        "BLACK COHOSH EXTRACT",
+        "NAPROXEN.",
+        "PREDNISOLONE (UNKNOWN)",
+        "ZAPAIN",
+        "SERTRALINE",
+        "ECHINACEA                          /01323501/",
+        "AMITRIPTYLINE",
+        "LACTULOSE.",
+        "SENNA",
+        "CITRAMAG                           /01815501/",
+        "OMEPRAZOLE."
+      ],
+      "reactions": [
+        "Thirst",
+        "Fatigue",
+        "Tremor",
+        "Heart rate increased",
+        "Hyperhidrosis",
+        "Micturition urgency",
+        "Ear pain",
+        "Night sweats"
+      ],
+      "report_id": "10713382"
+    },
+    {
+      "drugs": [
+        "OCUVITE",
+        "PROCHLORPERAZINE MALEATE.",
+        "ASPIRIN.",
+        "ALBUTEROL SULFATE.",
+        "VITAMIN D3",
+        "GABAPENTIN.",
+        "POTASSIUM",
+        "CALCIUM",
+        "FISH OIL",
+        "TRIAMTERENE/HYDROCHLOROTHIAZIDE",
+        "BLACK COHOSH EXTRACT",
+        "ATENOLOL.",
+        "POMALYST",
+        "DEXAMETHASONE.",
+        "MAGNESIUM",
+        "CELEBREX"
+      ],
+      "reactions": [
+        "Nasal congestion",
+        "Hypoacusis",
+        "Cerumen impaction"
+      ],
+      "report_id": "10784676"
+    },
+    {
+      "drugs": [
+        "VITAMIN C",
+        "CRANBERRY.",
+        "ALPHA LIPOIC ACID",
+        "BIOTIN",
+        "COD LIVER OIL",
+        "GLUCOSAMINE",
+        "BILBERRY",
+        "FISH OIL",
+        "MELATONIN",
+        "GRAPE SEED",
+        "TURMERIC",
+        "METFORMIN",
+        "MOVE FREE MAINTAINS + REPAIRS",
+        "VITAMIN C",
+        "VITAMIN D3",
+        "GARLIC.",
+        "FLAXSEED",
+        "VITAMIN B12",
+        "CHLORTHALIDONE.",
+        "EVENING PRIMROSE OIL",
+        "EVENING PRIMROSE OIL",
+        "TYLENOL EXTRA STRENGTH",
+        "NATURE MADE CALCIUM WITH VITAMIN D",
+        "GINKO BILOBA",
+        "AROMASIN",
+        "LISINOPRIL.",
+        "CHROMIUM/CINNAMON",
+        "COENZYME Q10",
+        "ZINC",
+        "BLACK COHOSH EXTRACT",
+        "ASPIRIN.",
+        "BORAGE OIL",
+        "AROMASIN",
+        "LUTEIN",
+        "COCONUT OIL",
+        "ZEAXANTHIN",
+        "CHROMIUM/CINNAMON",
+        "FLAXSEED",
+        "MAGNESIUM"
+      ],
+      "reactions": [
+        "Cough",
+        "Nasopharyngitis",
+        "Cataract",
+        "Drug dose omission",
+        "Hot flush",
+        "Breast mass"
+      ],
+      "report_id": "10926068"
+    },
+    {
+      "drugs": [
+        "MIRENA",
+        "COD LIVER OIL",
+        "EVENING PRIMROSE OIL",
+        "CENTRUM",
+        "BLACK COHOSH EXTRACT"
+      ],
+      "reactions": [
+        "Sleep disorder",
+        "Panic reaction"
+      ],
+      "report_id": "11361258"
+    },
+    {
+      "drugs": [
+        "FISH OIL",
+        "ONE-A-DAY",
+        "LISINOPRIL.",
+        "CELEBREX",
+        "SIMVASTATIN.",
+        "SEROQUEL",
+        "NIAPREN",
+        "TOPAMAX",
+        "BLACK COHOSH EXTRACT",
+        "XANAX",
+        "LORTAB",
+        "TRAZODONE",
+        "CYMBALTA"
+      ],
+      "reactions": [
+        "Bone fragmentation",
+        "Migraine",
+        "Swelling"
+      ],
+      "report_id": "11461718"
+    },
+    {
+      "drugs": [
+        "RANEXA",
+        "CINNAMON OIL",
+        "PANTOPRAZOLE",
+        "LOSARTIN",
+        "MELOXICAM.",
+        "CARVEDILOL.",
+        "BLACK COHOSH EXTRACT",
+        "PLAVIX",
+        "LEVOFLOXACIN.",
+        "FISH OIL",
+        "COENZYME Q10",
+        "LEVOFLOXACIN.",
+        "SIMVASTATIN.",
+        "JANUMET",
+        "VITAMIN D",
+        "VITAMIN B COMPLEX"
+      ],
+      "reactions": [
+        "Balance disorder",
+        "Hypoaesthesia",
+        "Pain",
+        "Vision blurred",
+        "Weight increased",
+        "Dizziness",
+        "Musculoskeletal stiffness",
+        "Exophthalmos",
+        "Photophobia"
+      ],
+      "report_id": "11830380"
+    },
+    {
+      "drugs": [
+        "FOCALIN",
+        "TESTOSTERONE ENANTATE",
+        "XYREM",
+        "XYREM",
+        "PROGESTERONE.",
+        "WELLBUTRIN SR",
+        "XYREM",
+        "BLACK COHOSH EXTRACT"
+      ],
+      "reactions": [
+        "Arthropathy"
+      ],
+      "report_id": "12413994"
+    },
+    {
+      "drugs": [
+        "XYREM",
+        "XYREM",
+        "ESTRADIOL.",
+        "FLEXERIL",
+        "MYRBETRIQ",
+        "NEURONTIN",
+        "AMBIEN",
+        "XYREM",
+        "XYREM",
+        "KLONOPIN",
+        "KLONOPIN",
+        "MIRALAX",
+        "PREMARIN",
+        "METHADONE HCL",
+        "SIMVASTATIN.",
+        "XYREM",
+        "LANTUS",
+        "NOVOLOG",
+        "PREMARIN",
+        "LANTUS",
+        "BLACK COHOSH EXTRACT",
+        "LYRICA",
+        "LISINOPRIL.",
+        "MOVANTIK",
+        "PREMARIN",
+        "CLONIDINE.",
+        "HUMALOG",
+        "LIDODERM",
+        "METFORMIN HCL",
+        "AMPHETAMINE",
+        "MOVANTIK",
+        "MYRBETRIQ",
+        "BROMFED DM",
+        "TAMIFLU",
+        "XYREM",
+        "ULTRAM",
+        "LIDODERM",
+        "MULTIVITAMINS",
+        "ADDERALL",
+        "DURAGESIC"
+      ],
+      "reactions": [
+        "Myocardial infarction",
+        "Diabetes mellitus",
+        "Arrhythmia",
+        "Sleep apnoea syndrome"
+      ],
+      "report_id": "12484560"
+    },
+    {
+      "drugs": [
+        "WOMENS ROGAINE",
+        "EXFORGE",
+        "ESTROGEN",
+        "VITAMIN C",
+        "VITAMIN D",
+        "POTASSIUM CHLORIDE.",
+        "POTASSIUM",
+        "WOMENS ROGAINE",
+        "SALMON OIL",
+        "BLACK COHOSH EXTRACT"
+      ],
+      "reactions": [
+        "Hair growth abnormal",
+        "Underdose",
+        "Hair colour changes",
+        "Drug administered at inappropriate site"
+      ],
+      "report_id": "12559841"
+    },
+    {
+      "drugs": [
+        "XYREM",
+        "NOVOLOG",
+        "ESTRADIOL.",
+        "BROMFED",
+        "XYREM",
+        "XYREM",
+        "XYREM",
+        "METFORMIN HCL",
+        "BLACK COHOSH EXTRACT",
+        "MULTIVITAMINS",
+        "TAMIFLU",
+        "AMBIEN",
+        "DURAGESIC",
+        "ADDERALL",
+        "FLEXERIL",
+        "MOVANTIK",
+        "CLONIDINE.",
+        "ULTRAM",
+        "HUMALOG",
+        "LIDODERM",
+        "KLONOPIN",
+        "XYREM",
+        "PREMARIN",
+        "MIRALAX",
+        "METHADONE HCL",
+        "LYRICA",
+        "XYREM",
+        "PREMARIN",
+        "LANTUS",
+        "LISINOPRIL.",
+        "AMPHETAMINE",
+        "SIMVASTATIN.",
+        "NEURONTIN"
+      ],
+      "reactions": [
+        "Intentional product use issue",
+        "Activities of daily living impaired",
+        "Pain in extremity",
+        "Myalgia",
+        "Enuresis"
+      ],
+      "report_id": "12709094"
+    },
+    {
+      "drugs": [
+        "BENADRYL ALLERGY",
+        "NORCO",
+        "CEPHALEXIN.",
+        "METRONIDAZOLE.",
+        "MAGNESIUM GLYCINATE",
+        "VITAMIN D3",
+        "VITAMIN B COMPLEX",
+        "CLARITIN",
+        "FOCALIN",
+        "HYDROCODONE/ACETAMINOPHEN",
+        "WELLBUTRIN",
+        "TESTOSTERONE.",
+        "SUPER B 50 COMPLEX",
+        "BLACK COHOSH EXTRACT",
+        "XYREM",
+        "XYREM",
+        "XYREM",
+        "PROGESTERONE."
+      ],
+      "reactions": [
+        "Aphonia"
+      ],
+      "report_id": "12916947"
+    },
+    {
+      "drugs": [
+        "XYREM",
+        "NUVIGIL",
+        "PREDNISONE.",
+        "NORCO",
+        "VITAMIN B COMPLEX",
+        "XYREM",
+        "MAGNESIUM GLYCINATE",
+        "WELLBUTRIN",
+        "SUPER B 50 COMPLEX",
+        "VITAMIN D3",
+        "BLACK COHOSH EXTRACT",
+        "XYREM",
+        "METRONIDAZOLE.",
+        "PROGESTERONE."
+      ],
+      "reactions": [
+        "Bronchitis",
+        "Allergy to arthropod sting",
+        "Fatigue",
+        "Swelling face",
+        "Diarrhoea",
+        "Laceration",
+        "Weight decreased",
+        "Anxiety"
+      ],
+      "report_id": "12971191"
+    },
+    {
+      "drugs": [
+        "LEVSIN",
+        "PROBIOTIC",
+        "HYDROCORTISONE ACETATE.",
+        "SULFAZINE",
+        "HUMIRA",
+        "BLACK COHOSH EXTRACT",
+        "ZOFRAN",
+        "MULTIVITAMIN"
+      ],
+      "reactions": [
+        "Haemorrhoids"
+      ],
+      "report_id": "13048426"
+    },
+    {
+      "drugs": [
+        "XYREM",
+        "VITAMIN C",
+        "IRON",
+        "BLACK COHOSH EXTRACT",
+        "XYREM",
+        "FENTANYL.",
+        "PROVIGIL",
+        "AMANTADINE HCL",
+        "TRIGGER",
+        "CLONAZEPAM.",
+        "XYREM",
+        "VITAMIN D                          /00107901/",
+        "FISH OIL 1-A-DAY + VITAMIN D3",
+        "SUMATRIPTAN SUCCINATE.",
+        "EXCEDRIN MIGRAINE"
+      ],
+      "reactions": [
+        "Hallucination",
+        "Somnambulism",
+        "Therapeutic response decreased",
+        "Stress",
+        "Feeling abnormal",
+        "Insomnia",
+        "Fall"
+      ],
+      "report_id": "13325716"
+    },
+    {
+      "drugs": [
+        "TELOTRISTAT ETHYL",
+        "LORATIDINE",
+        "LOSARTAN POTASSIUM.",
+        "OXYCODONE-ACETAMINOPHEN",
+        "VITAMIN B",
+        "VITAMIN D3 COMPLETE",
+        "TELOTRISTAT ETHYL",
+        "ENBREL",
+        "MULTIVITAMINS/FLUORIDE",
+        "SUMATRIPTAN.",
+        "BLACK COHOSH EXTRACT",
+        "DICYCLOMINE",
+        "SERTRALINE",
+        "CRANBERRY EXTRACT",
+        "DULERA",
+        "PROMETHAZINE",
+        "PROPRANOLOL",
+        "TRAZODONE",
+        "TELOTRISTAT ETHYL",
+        "NEURONTIN",
+        "ONDANSETRON",
+        "LEVOTHYROXINE.",
+        "LORAZEPAM.",
+        "VITAMIN C",
+        "WELLBUTRIN",
+        "SANDOSTATIN LAR DEPOT",
+        "GAS-X",
+        "PROCTOSOL",
+        "SAVELLA",
+        "WELCHOL"
+      ],
+      "reactions": [
+        "Abdominal pain",
+        "Depression",
+        "Nausea",
+        "Headache",
+        "Crying",
+        "Anxiety",
+        "Vomiting",
+        "Frequent bowel movements",
+        "Panic attack"
+      ],
+      "report_id": "13615657"
+    },
+    {
+      "drugs": [
+        "XYREM",
+        "XYREM",
+        "XYREM",
+        "XYREM",
+        "TRIGGER",
+        "CLONAZEPAM",
+        "BLACK COHOSH EXTRACT",
+        "FENTANYL",
+        "PROVIGIL",
+        "ASCORBIC ACID",
+        "ERGOCALCIFEROL",
+        "AMANTADINE HYDROCHLORIDE",
+        "FISH OIL 1-A-DAY + VITAMIN D3",
+        "IRON",
+        "SUMATRIPTAN SUCCINATE",
+        "EXCEDRIN MIGRAINE"
+      ],
+      "reactions": [
+        "Multiple sclerosis",
+        "Unresponsive to stimuli",
+        "Psychotic disorder",
+        "Mania",
+        "Visual impairment",
+        "Altered state of consciousness",
+        "Drug abuse",
+        "Fall",
+        "Stress",
+        "Wrong dose",
+        "Intentional product use issue"
+      ],
+      "report_id": "13879169"
+    },
+    {
+      "drugs": [
+        "DICYCLOMINE",
+        "SERTRALINE",
+        "VITAMIN C",
+        "VITAMIN D3 COMPLETE",
+        "WELCHOL",
+        "MULTIVITAMINS/FLUORIDE",
+        "SAVELLA",
+        "SUMATRIPTAN.",
+        "TELOTRISTAT ETHYL",
+        "DULERA",
+        "NEURONTIN",
+        "OXYCODONE-ACETAMINOPHEN",
+        "PROPRANOLOL",
+        "WELLBUTRIN",
+        "TELOTRISTAT ETHYL",
+        "CRANBERRY EXTRACT",
+        "SANDOSTATIN LAR DEPOT",
+        "LORATIDINE",
+        "TRAZODONE",
+        "VITAMIN B",
+        "TELOTRISTAT ETHYL",
+        "LORAZEPAM.",
+        "LOSARTAN POTASSIUM.",
+        "PROCTOSOL",
+        "ENBREL",
+        "GAS-X",
+        "BLACK COHOSH EXTRACT",
+        "LEVOTHYROXINE.",
+        "ONDANSETRON",
+        "PROMETHAZINE"
+      ],
+      "reactions": [
+        "Drug intolerance"
+      ],
+      "report_id": "14045058"
+    },
+    {
+      "drugs": [
+        "WOMENS ROGAINE UNSCENTED",
+        "METOPROLOL.",
+        "METOPROLOL.",
+        "ATORVASTATIN",
+        "PANTOPRAZOLE",
+        "BLACK COHOSH EXTRACT",
+        "ASPIRIN.",
+        "WOMENS ROGAINE UNSCENTED",
+        "CLOPIDOGREL",
+        "EVENING PRIMROSE OIL"
+      ],
+      "reactions": [
+        "Alopecia",
+        "Wrong technique in product usage process",
+        "Incorrect dose administered",
+        "Contraindicated product administered"
+      ],
+      "report_id": "14055384"
+    },
+    {
+      "drugs": [
+        "AMLODIPINE",
+        "REMIFEMIN",
+        "CO Q 10                            /00517201/",
+        "DOCUSATE;IRON",
+        "PRESERVISION AREDS",
+        "SYSTANE (HYPROMELLOSE 2910 (4000 MPA.S))",
+        "ASPIRIN                            /00002701/",
+        "PROPRANOLOL",
+        "HYDRALAZINE HCL",
+        "PANTOPRAZOLE",
+        "CO Q 10                            /00517201/",
+        "CALTRATE VIT",
+        "CALCIUM +D                         /00944201/",
+        "BLACK COHOSH EXTRACT",
+        "REFRESH LIQUIGEL",
+        "KEFLEX",
+        "GABAPENTIN.",
+        "CITALOPRAM",
+        "AMITRIPTYLINE HCL",
+        "VITAMIN B2                         /00154901/",
+        "VITAMIN E                          /00110501/",
+        "MULTIVITAMINS WITH IRON            /01825001/",
+        "FOLIC ACID.",
+        "ATORVASTATIN",
+        "LOPERAMIDE HCL",
+        "EYLEA",
+        "VITAMIN B COMPLEX",
+        "VITAMIN B COMPLEX WITH C",
+        "EYLEA",
+        "TYLENOL EXTRA STRENGTH",
+        "BENICAR",
+        "FUROSEMIDE.",
+        "ARTIFICIAL TEARS                   /00222401/"
+      ],
+      "reactions": [
+        "Uveitis",
+        "Blindness transient",
+        "Blindness unilateral"
+      ],
+      "report_id": "14427577"
+    },
+    {
+      "drugs": [
+        "TELOTRISTAT ETHYL",
+        "TELOTRISTAT ETHYL",
+        "PROCTOSOL",
+        "CRANBERRY EXTRACT",
+        "DICYCLOMINE",
+        "LORATIDINE",
+        "ONDANSETRON",
+        "OXYCODONE-ACETAMINOPHEN",
+        "PROPRANOLOL",
+        "SANDOSTATIN LAR DEPOT",
+        "ENBREL",
+        "LEVOTHYROXINE.",
+        "MULTIVITAMINS/FLUORIDE",
+        "NEURONTIN",
+        "WELLBUTRIN",
+        "GAS-X",
+        "LORAZEPAM.",
+        "PROMETHAZINE",
+        "SUMATRIPTAN.",
+        "WELCHOL",
+        "SAVELLA",
+        "SERTRALINE",
+        "VITAMIN D3 COMPLETE",
+        "TELOTRISTAT ETHYL",
+        "BLACK COHOSH EXTRACT",
+        "TRAZODONE",
+        "VITAMIN C",
+        "DULERA",
+        "LOSARTAN POTASSIUM.",
+        "VITAMIN B"
+      ],
+      "reactions": [
+        "Nasopharyngitis",
+        "Fatigue",
+        "Cough",
+        "Off label use"
+      ],
+      "report_id": "14439750"
+    },
+    {
+      "drugs": [
+        "XYREM",
+        "BLACK COHOSH EXTRACT",
+        "IBUPROFEN.",
+        "VITAMIN D3",
+        "BIOTIN",
+        "TRAZODONE",
+        "METOPROLOL SUCCINATE.",
+        "VITAMIN C",
+        "ADDERALL",
+        "MAGNESIUM",
+        "XYREM",
+        "XYREM",
+        "VITAMIN B COMPLEX",
+        "XYREM",
+        "XYREM",
+        "VYVANSE",
+        "COCONUT OIL",
+        "TYLENOL EXTRA STRENGTH",
+        "XYREM"
+      ],
+      "reactions": [
+        "Ejection fraction decreased",
+        "Drug effect prolonged",
+        "Feeling drunk",
+        "Flushing",
+        "Chest pain",
+        "Pain",
+        "Transient ischaemic attack",
+        "Cardiac disorder",
+        "Tremor",
+        "Confusional state",
+        "Chest discomfort",
+        "Intentional product use issue",
+        "Condition aggravated",
+        "Heart rate increased",
+        "Somnambulism",
+        "Ventricular extrasystoles",
+        "Cardiac flutter",
+        "Dyspnoea",
+        "Palpitations",
+        "Peripheral swelling",
+        "Somnolence",
+        "Fatigue"
+      ],
+      "report_id": "14742576"
+    },
+    {
+      "drugs": [
+        "ADDERALL",
+        "OXYCODONE HYDROCHLORIDE.",
+        "MODAFINIL.",
+        "EFFEXOR",
+        "BLACK COHOSH EXTRACT",
+        "TRAMADOL HCL",
+        "NORCO",
+        "IRON",
+        "XYREM",
+        "ASCOMP WITH CODEINE",
+        "CALCIUM CITRATE WITH VITAMIN D",
+        "SYNTHROID",
+        "ESTROVEN",
+        "ASPIRIN EC",
+        "NUVIGIL",
+        "XYREM",
+        "MORPHINE SULF"
+      ],
+      "reactions": [
+        "Limb injury"
+      ],
+      "report_id": "14842054"
+    },
+    {
+      "drugs": [
+        "ASPIRIN [ACETYLSALICYLIC ACID]",
+        "ATENOLOL.",
+        "ASPIR 81",
+        "VITAMIN D [COLECALCIFEROL]",
+        "AUBAGIO",
+        "AUBAGIO",
+        "BLACK COHOSH EXTRACT",
+        "ZANAFLEX",
+        "AUBAGIO",
+        "EFFEXOR",
+        "CYMBALTA"
+      ],
+      "reactions": [
+        "Diarrhoea",
+        "Fall",
+        "Decreased appetite",
+        "Flushing",
+        "Nephrolithiasis",
+        "Gastric disorder",
+        "Nausea"
+      ],
+      "report_id": "15061716"
+    },
+    {
+      "drugs": [
+        "XELJANZ",
+        "XELJANZ",
+        "XELJANZ",
+        "VOLTARENE",
+        "ELIDEL",
+        "HYDROXYCHLOROQUINE",
+        "PREVACID",
+        "MELOXICAM",
+        "FISH OIL",
+        "ZINC",
+        "FOSAMAX",
+        "VITAMIN D2",
+        "SINGULAIR",
+        "MAGNESIUM OXIDE",
+        "CURCUMIN",
+        "CALCIUM",
+        "MELATONIN",
+        "VITAMIN C",
+        "BLACK COHOSH EXTRACT",
+        "CITRACAL PLUS D",
+        "VITAMIN B COMPLEX",
+        "AZELAIC ACID",
+        "ZYRTEC"
+      ],
+      "reactions": [
+        "Rotator cuff syndrome",
+        "Drug ineffective",
+        "Tracheobronchitis",
+        "Laboratory test abnormal",
+        "Musculoskeletal stiffness",
+        "Migraine",
+        "Ill-defined disorder",
+        "Bacterial infection",
+        "Product prescribing error"
+      ],
+      "report_id": "15100955"
+    },
+    {
+      "drugs": [
+        "PRALUENT",
+        "FARXIGA",
+        "ZETIA",
+        "ASPIRIN [ACETYLSALICYLIC ACID]",
+        "GLIMEPIRIDE.",
+        "IMIPRAMINE",
+        "SOOLANTRA",
+        "LISINOPRIL.",
+        "DESONIDE.",
+        "METFORMIN",
+        "BLACK COHOSH EXTRACT",
+        "LIVALO"
+      ],
+      "reactions": [
+        "Blood blister",
+        "Skin lesion"
+      ],
+      "report_id": "15478321"
+    },
+    {
+      "drugs": [
+        "ALLERGY MEDICINE",
+        "SYNTHROID",
+        "LISINOPRIL.",
+        "NEXIUM",
+        "PREMARIN",
+        "VITAMIN D3",
+        "BLACK COHOSH EXTRACT",
+        "CORAL CALCIUM PLUS VITAMIN D3"
+      ],
+      "reactions": [
+        "Cartilage atrophy",
+        "Dysplasia",
+        "Vomiting",
+        "Blood pressure increased",
+        "Pain",
+        "Arthritis",
+        "Gastrooesophageal reflux disease",
+        "Loss of consciousness",
+        "Diabetes mellitus",
+        "Amnesia",
+        "Fluid retention",
+        "Burn oesophageal",
+        "Drug dependence",
+        "Gastric disorder",
+        "Joint swelling",
+        "Mental disorder"
+      ],
+      "report_id": "15693875"
+    },
+    {
+      "drugs": [
+        "VITAMIN D3",
+        "TECFIDERA",
+        "AMPYRA",
+        "CALCIUM 500/D",
+        "MULTI VITAMIN DAILY",
+        "BLACK COHOSH EXTRACT"
+      ],
+      "reactions": [
+        "Migraine",
+        "Drug ineffective"
+      ],
+      "report_id": "15874291"
+    },
+    {
+      "drugs": [
+        "BUSPIRONE HCL",
+        "CYANOCOBALAMIN.",
+        "TURMERIC CURCUMIN",
+        "CALCIUM + D",
+        "TARCEVA",
+        "VENTOLIN HFA",
+        "FLONASE",
+        "CELXA",
+        "MECLIZINE HCL",
+        "ANASTROZOLE.",
+        "CETIRIZINE HCL",
+        "ONDANSETRON",
+        "AMLODIPINE BESYLATE.",
+        "AZELASTINE HCL",
+        "FOLIC ACID.",
+        "OMEPRAZOLE.",
+        "BLACK COHOSH EXTRACT"
+      ],
+      "reactions": [
+        "Nausea",
+        "Vomiting",
+        "Rash",
+        "Blister",
+        "Diarrhoea"
+      ],
+      "report_id": "16395224"
+    },
+    {
+      "drugs": [
+        "CELEXA",
+        "OMEPRAZOLE.",
+        "VENTOLIN HFA",
+        "AMLODIPINE",
+        "BLACK COHOSH EXTRACT",
+        "BURPIRONE",
+        "CYANOCOBALAMIN.",
+        "FOLIC ACID.",
+        "ERLOTINIB",
+        "CETIRIZINE",
+        "FLONASE",
+        "MECLIZINE",
+        "TURMERIC CURCUMIN",
+        "CALCIUM+D",
+        "ANASTROZOLE.",
+        "AZELASTINE HCL"
+      ],
+      "reactions": [
+        "Gastrooesophageal reflux disease"
+      ],
+      "report_id": "16464209"
+    },
+    {
+      "drugs": [
+        "SINEMET",
+        "CELEXA [CELECOXIB]",
+        "ULTRAM",
+        "LOTENSIN",
+        "DRISDOL",
+        "MEVACOR",
+        "PRED FORTE",
+        "BLACK COHOSH EXTRACT",
+        "LYRICA",
+        "PRILOSEC",
+        "ZANAFLEX",
+        "TYLENOL",
+        "ZANAFLEX",
+        "NORVASC",
+        "CELEXA",
+        "ANTIVERT",
+        "ACTOS",
+        "ZANTAC",
+        "ULTRAM"
+      ],
+      "reactions": [
+        "Aspiration",
+        "Gout",
+        "Delirium"
+      ],
+      "report_id": "16682392"
+    },
+    {
+      "drugs": [
+        "MODAFINIL.",
+        "OMEPRAZOLE.",
+        "XYREM",
+        "VITAMIN C",
+        "ALLEGRA ALLERGY",
+        "HYDROXYZINE HYDROCHLORIDE.",
+        "XIIDRA",
+        "XYREM",
+        "XYREM",
+        "FENTANYL.",
+        "LORATADINE.",
+        "FLOVENT",
+        "IBUPROFEN.",
+        "XYREM",
+        "CLONAZEPAM.",
+        "AMLODIPINE BESYLATE.",
+        "PROCHLORPERAZINE EDISYLATE.",
+        "EXCEDRIN MIGRAINE",
+        "PRAZOSIN.",
+        "XYREM",
+        "AMANTADINE HCL",
+        "CLONAZEPAM.",
+        "BLACK COHOSH EXTRACT",
+        "SUMATRIPTAN SUCCINATE.",
+        "VIT D"
+      ],
+      "reactions": [
+        "Face injury",
+        "Fall",
+        "Tooth injury"
+      ],
+      "report_id": "16876571"
+    },
+    {
+      "drugs": [
+        "VITAMIN D3",
+        "FIBERCON",
+        "PRIMROSE OIL",
+        "EPIPEN",
+        "MOVE FREE [CHONDROITIN SULFATE;GLUCOSAMINE]",
+        "ASPIRIN 81",
+        "VITAMIN B12",
+        "FIBERCON",
+        "RESVERATROL",
+        "NITROGLYCERIN.",
+        "ENALAPRIL",
+        "BENADRYL",
+        "BLACK COHOSH EXTRACT",
+        "OMEGA 3 FISH OIL [FISH OIL]",
+        "MAGNESIUM",
+        "MILK THISTLE",
+        "CRANBERRY.",
+        "CALCIUM VITAMIN D",
+        "ZINC.",
+        "FLAXSEED OIL NATURE MADE"
+      ],
+      "reactions": [
+        "Hyperhidrosis",
+        "Immunodeficiency",
+        "Temperature intolerance",
+        "Palpitations",
+        "Glucose tolerance impaired",
+        "Blood cholesterol increased",
+        "Emphysema",
+        "Drug ineffective",
+        "Incorrect product administration duration",
+        "Thyrotoxic crisis",
+        "Panic attack"
+      ],
+      "report_id": "17192103"
+    },
+    {
+      "drugs": [
+        "HUMAN IMMUNOGLOBULIN G",
+        "HUMAN IMMUNOGLOBULIN G",
+        "HUMAN IMMUNOGLOBULIN G",
+        "DIPHENHYDRAMINE",
+        "EPINEPHRINE",
+        "TRAZODONE HCL",
+        "XANAX",
+        "DEXILANT",
+        "VISTARIL",
+        "METFORMIN",
+        "FLUTICASONE PROPIONATE",
+        "ZANTAC",
+        "PROAIR DIGIHALER",
+        "HYDROXYZINE HYDROCHLORIDE",
+        "ACETAMINOPHEN",
+        "ALLEGRA-D",
+        "CYCLOBENZAPRINE HYDROCHLORIDE",
+        "SINGULAIR",
+        "OXYGEN",
+        "IRON",
+        "PROZAC",
+        "GABAPENTIN",
+        "NARATRIPTAN HYDROCHLORIDE",
+        "COLACE",
+        "LIPITOR",
+        "IBUPROFEN",
+        "MOBIC",
+        "VRAYLAR",
+        "TOPAMAX",
+        "ADVAIR HFA",
+        "VITAMIN C",
+        "LMX",
+        "FLONASE",
+        "DIPHENHYDRAMINE HYDROCHLORIDE",
+        "OZEMPIC",
+        "SUBOXONE",
+        "LOSARTAN POTASSIUM",
+        "SEROQUEL",
+        "MEMANTINE",
+        "LIDOCAINE",
+        "AZITHROMYCIN",
+        "BLACK COHOSH EXTRACT"
+      ],
+      "reactions": [
+        "Sepsis",
+        "Cystitis",
+        "Pneumonia",
+        "Pulmonary fibrosis",
+        "COVID-19 pneumonia",
+        "Urinary tract infection",
+        "Product dose omission issue",
+        "Thermal burn",
+        "Contusion",
+        "Anxiety",
+        "Blood pressure increased"
+      ],
+      "report_id": "18050539"
+    },
+    {
+      "drugs": [
+        "ARIMIDEX",
+        "LISINOPRIL.",
+        "OMEPRAZOLE.",
+        "COLACE",
+        "AZOPT",
+        "TIMOLOL MALEATE.",
+        "FENTANYL.",
+        "ALPRAZOLAM.",
+        "ASPIRIN 81",
+        "FISH OIL MAXIMUM STRENGTH",
+        "HUMALOG KWIKPEN",
+        "BLACK COHOSH EXTRACT",
+        "IBRANCE",
+        "CALCIUM 600+D3",
+        "GABAPENTIN.",
+        "NORCO"
+      ],
+      "reactions": [
+        "Hospitalisation"
+      ],
+      "report_id": "19183869"
+    },
+    {
+      "drugs": [
+        "TAVALISSE",
+        "BLACK COHOSH EXTRACT",
+        "CALCIUM\\CHOLECALCIFEROL",
+        "GLUCOSAMINE + CHONDROITIN + MSM",
+        "HERBALS",
+        "VITAMINS",
+        "OMEGA 3 COMPLETE",
+        "TEMAZEPAM",
+        "TYLENOL",
+        "CYANOCOBALAMIN"
+      ],
+      "reactions": [
+        "Abdominal discomfort",
+        "Flatulence",
+        "Abdominal pain upper",
+        "Diarrhoea"
+      ],
+      "report_id": "20921546"
+    },
+    {
+      "drugs": [
+        "PAXLOVID",
+        "LEVOTHYROXINE",
+        "ERGOCALCIFEROL",
+        "MECLIZINE",
+        "DICYCLOMINE",
+        "DIAZEPAM",
+        "ATORVASTATIN",
+        "DICLOFENAC",
+        "MONTELUKAST",
+        "GABAPENTIN",
+        "ALEVE",
+        "EXCEDRIN MIGRAINE",
+        "BLACK COHOSH EXTRACT",
+        "IMODIUM A-D",
+        "VITAMINS"
+      ],
+      "reactions": [
+        "Diarrhoea",
+        "Gastrointestinal pain",
+        "Sleep disorder",
+        "Dysgeusia"
+      ],
+      "report_id": "21101181"
+    },
+    {
+      "drugs": [
+        "PREMARIN",
+        "PREMARIN",
+        "PREMARIN",
+        "LYRICA",
+        "HERBALS\\WITHANIA SOMNIFERA ROOT",
+        "BLACK COHOSH EXTRACT"
+      ],
+      "reactions": [
+        "Intentional product misuse",
+        "Therapeutic product effect incomplete"
+      ],
+      "report_id": "22198033"
+    },
+    {
+      "drugs": [
+        "LISINOPRIL",
+        "BREO ELLIPTA INHALER",
+        "MONTELUKAST SOD",
+        "XOPENEX INHALER",
+        "MELOXICAM",
+        "TRAMADOL HCL",
+        "LEVOTHYROXINE",
+        "FLONASE",
+        "ALLEGRA",
+        "NEXIUM",
+        "ONE A DAY WOMEN^S 50+",
+        "CALCIUM PLUS VITAMIN D3 + ZINC",
+        "SYSTANE COMPLETE LUBRICANT EYE DROPS",
+        "ZINC",
+        "VITAMIN D3",
+        "BLACK COHOSH EXTRACT"
+      ],
+      "reactions": [
+        "Hypersensitivity",
+        "Rhinorrhoea",
+        "Cough",
+        "Pharyngeal swelling",
+        "Dyspnoea",
+        "Dysphagia",
+        "Skin exfoliation",
+        "Hypertension",
+        "Dysphonia"
+      ],
+      "report_id": "22743201"
+    },
+    {
+      "drugs": [
+        "MOUNJARO",
+        "MOUNJARO",
+        "MOUNJARO",
+        "MOUNJARO",
+        "MOUNJARO",
+        "MOUNJARO",
+        "MOUNJARO",
+        "MOUNJARO",
+        "MOUNJARO",
+        "MOUNJARO",
+        "MOUNJARO",
+        "MOUNJARO",
+        "MOUNJARO",
+        "MOUNJARO",
+        "MOUNJARO",
+        "MOUNJARO",
+        "POTASSIUM CITRATE ANHYDROUS",
+        "SOLIFENACIN",
+        "GABAPENTIN",
+        "QULIPTA",
+        "METOPROLOL",
+        "TRAZODONE",
+        "AMBEREN",
+        "BLACK COHOSH EXTRACT",
+        "POTASSIUM",
+        "CALCIUM ASCORBATE",
+        "VITAMINS NOS",
+        "MELATONIN",
+        "MAGNESIUM OXIDE"
+      ],
+      "reactions": [
+        "Impaired gastric emptying",
+        "Vomiting",
+        "Nausea",
+        "Constipation",
+        "Abdominal pain",
+        "Diarrhoea",
+        "Gastrointestinal hypomotility",
+        "Panic attack",
+        "Anxiety",
+        "Off label use"
+      ],
+      "report_id": "24193395"
+    },
+    {
+      "drugs": [
+        "XYREM",
+        "XYREM",
+        "DEXEDRINE SPANSULE",
+        "ALPRAZOLAM",
+        "CYCLOBENZAPRINE ER",
+        "D3 +K2",
+        "VITAMIN B COMPLEX",
+        "BLACK COHOSH EXTRACT"
+      ],
+      "reactions": [
+        "Mixed connective tissue disease"
+      ],
+      "report_id": "24709920"
+    },
+    {
+      "drugs": [
+        "VYEPTI",
+        "BLACK COHOSH EXTRACT",
+        "COQ10 [CONJUGATED LINOLEIC ACID;LINUM USITATISSIMUM SEED OIL;UBIDECARE",
+        "DIPHENHYDRAMINE HYDROCHLORIDE",
+        "EPINEPHRINE",
+        "FENOFIBRATE",
+        "GABAPENTIN",
+        "LABETALOL HYDROCHLORIDE",
+        "LANSOPRAZOLE",
+        "LIPITOR",
+        "MUCUS RELIEF ER",
+        "RIZATRIPTAN BENZOATE",
+        "ROPINIROLE HYDROCHLORIDE",
+        "SINGULAIR",
+        "SPIRONOLACTONE",
+        "ZYRTEC"
+      ],
+      "reactions": [
+        "Drug ineffective",
+        "Tenderness"
+      ],
+      "report_id": "24906618"
+    },
+    {
+      "drugs": [
+        "ORGOVYX",
+        "ORGOVYX",
+        "MELOXICAM",
+        "VITAMIN C",
+        "VITAMIN E",
+        "ZINC",
+        "ALPHA LIPOIC ACID",
+        "DIETARY SUPPLEMENT\\HERBALS\\MILK THISTLE",
+        "CRANBERRY",
+        "GINGER",
+        "OMEGA-3 FATTY ACIDS",
+        "VITAMIN D",
+        "CHOLESTYRAMINE",
+        "PSYLLIUM HUSK",
+        "MAGNESIUM",
+        "DIETARY SUPPLEMENT\\HERBALS",
+        "SELENIUM",
+        "GLUTATHIONE",
+        "BROCCOLI",
+        "TAMSULOSIN",
+        "BLACK COHOSH EXTRACT",
+        "HERBALS\\TURMERIC",
+        "POLLENS",
+        "MUPIROCIN"
+      ],
+      "reactions": [
+        "Suicidal ideation",
+        "Micturition urgency",
+        "Memory impairment",
+        "Brain fog",
+        "Palpitations",
+        "Decreased appetite",
+        "Muscle spasms",
+        "Chills",
+        "Nerve compression",
+        "Amnesia",
+        "Pain",
+        "Intervertebral disc protrusion",
+        "Sleep disorder",
+        "Decreased activity",
+        "Motor dysfunction",
+        "Abdominal discomfort",
+        "Dizziness",
+        "Nausea",
+        "Pain in extremity",
+        "Hot flush",
+        "Hyperhidrosis",
+        "Arthralgia",
+        "Fatigue",
+        "Asthenia",
+        "Product dose omission issue"
+      ],
+      "report_id": "24943519"
+    },
+    {
+      "drugs": [
+        "ORGOVYX",
+        "ALFUZOSIN HYDROCHLORIDE",
+        "ALLEGRA ALLERGY",
+        "ASCORBIC ACID",
+        "ASPIRIN",
+        "BACLOFEN",
+        "BLACK COHOSH EXTRACT",
+        "CLOPIDOGREL BISULFATE",
+        "COLACE",
+        "EZETIMIBE",
+        "FLONASE ALLERGY RELIEF",
+        "FOLIC ACID",
+        "GABAPENTIN",
+        "GLUCOSAMINE SULFATE",
+        "DIETARY SUPPLEMENT\\GRAPE SEED EXTRACT",
+        "HYDROCHLOROTHIAZIDE",
+        "LEVSIN SL",
+        "LOSARTAN POTASSIUM",
+        "MAGNESIUM GLUCONATE",
+        "METAMUCIL",
+        "MIRTAZAPINE",
+        "MINERALS\\VITAMINS",
+        "NEURIVAS",
+        "NORTRIPTYLINE HYDROCHLORIDE",
+        "PANTOPRAZOLE SODIUM",
+        "PROCARDIA",
+        "REPATHA",
+        "SELENIUM",
+        "TRAMADOL HCL",
+        "VASCEPA",
+        "VITAMIN B COMPLEX"
+      ],
+      "reactions": [
+        "Sinus operation",
+        "Dry mouth",
+        "Weight increased",
+        "Hot flush",
+        "Incorrect dose administered"
+      ],
+      "report_id": "25117861"
+    },
+    {
+      "drugs": [
+        "VYEPTI",
+        "MELOXICAM",
+        "GINGER ROOT EXTRACT",
+        "MIRALAX",
+        "BUPROPION HYDROCHLORIDE",
+        "BENADRYL ALLERGY",
+        "BLACK COHOSH EXTRACT",
+        "ONDANSETRON HYDROCHLORIDE",
+        "ZONISAMIDE",
+        "ALPRAZOLAM",
+        "RIZATRIPTAN BENZOATE",
+        "PEPCID",
+        "ESCITALOPRAM OXALATE"
+      ],
+      "reactions": [
+        "Drug ineffective"
+      ],
+      "report_id": "25235548"
+    },
+    {
+      "drugs": [
+        "ORGOVYX",
+        "ALFUZOSIN HYDROCHLORIDE",
+        "ALLEGRA ALLERGY",
+        "ASCORBIC ACID",
+        "ASPIRIN",
+        "BACLOFEN",
+        "BLACK COHOSH EXTRACT",
+        "CLOPIDOGREL BISULFATE",
+        "COLACE",
+        "EZETIMIBE",
+        "FLONASE ALLERGY RELIEF",
+        "FOLIC ACID",
+        "GABAPENTIN",
+        "GLUCOSAMINE SULFATE",
+        "DIETARY SUPPLEMENT\\GRAPE SEED EXTRACT",
+        "HYDROCHLOROTHIAZIDE",
+        "LEVSIN SL",
+        "LOSARTAN POTASSIUM",
+        "MAGNESIUM GLUCONATE",
+        "METAMUCIL",
+        "MIRTAZAPINE",
+        "MINERALS\\VITAMINS",
+        "NEURIVAS",
+        "NORTRIPTYLINE HYDROCHLORIDE",
+        "PANTOPRAZOLE SODIUM",
+        "PROCARDIA",
+        "REPATHA",
+        "SELENIUM",
+        "TRAMADOL HCL",
+        "VASCEPA",
+        "VITAMIN B COMPLEX"
+      ],
+      "reactions": [
+        "Sinus operation",
+        "Dry mouth",
+        "Emotional disorder",
+        "Night sweats",
+        "Weight increased",
+        "Hot flush",
+        "Incorrect dose administered"
+      ],
+      "report_id": "25713965"
+    },
+    {
+      "drugs": [
+        "DUPIXENT",
+        "DUPIXENT",
+        "VITAMINS",
+        "HAIR SKIN NAILS",
+        "AMLODIPINE BESYLATE",
+        "PANTOPRAZOLE SODIUM",
+        "MONTELUKAST SODIUM",
+        "VORICONAZOLE",
+        "BLACK COHOSH EXTRACT",
+        "LEVOTHYROXINE SODIUM",
+        "LEVOTHYROXINE SODIUM",
+        "OMEPRAZOLE",
+        "ZYRTEC"
+      ],
+      "reactions": [
+        "Vertigo",
+        "Insomnia",
+        "Oral herpes",
+        "Arthralgia"
+      ],
+      "report_id": "26035015"
+    },
+    {
+      "drugs": [
+        "HYDROXYZINE",
+        "REGLAN",
+        "SEROQUEL",
+        "VYVANSE",
+        "VITAMIN D",
+        "TIOTROPIUM BROMIDE",
+        "FLUTICASONE PROPIONATE",
+        "ALLEGRA-D                          /01367401/",
+        "PHENERGAN HCL",
+        "DIPROLENE",
+        "TRINSICON",
+        "LIBRIUM ^ICN^",
+        "ZYRTEC",
+        "CHLORDIAZEPOXIDE W/CLIDINIUM BROMIDE",
+        "PAXIL",
+        "CYPROHEPTADINE HYDROCHLORIDE",
+        "HYDROXYZINE",
+        "REMERON",
+        "IMMUNE GLOBULIN NOS",
+        "RHUPH20",
+        "ACEBUTOLOL",
+        "RHUPH20",
+        "MIDRIN",
+        "SYNTHROID",
+        "ASMANEX TWISTHALER",
+        "VENTOLIN",
+        "CATAPRES /USA/",
+        "OMEPRAZOLE",
+        "EPIPEN",
+        "XOPENEX",
+        "PROMETHAZINE HYDROCHLORIDE",
+        "ESTRADIOL",
+        "CARAFATE",
+        "VITAMIN E",
+        "BLACK COHOSH EXTRACT"
+      ],
+      "reactions": [
+        "TOXICITY TO VARIOUS AGENTS"
+      ],
+      "report_id": "7500103-9"
+    },
+    {
+      "drugs": [
+        "NEXIUM",
+        "CITRACAL PLUS D",
+        "LOTREL",
+        "FERROUS GLUC",
+        "TEGRETOL",
+        "PROMETHAZINE",
+        "BLACK COHOSH EXTRACT",
+        "NEXIUM",
+        "BUPROPRION SR",
+        "LYRICA",
+        "BIOTIN",
+        "MECLIZINE",
+        "AMBIEN",
+        "DIFLUNISAL.",
+        "URSODTAL",
+        "PREDNISOLONE.",
+        "HYDROCODONE ACETAMINOPHEN",
+        "ORENCIA",
+        "HYDROXYZINE HCL"
+      ],
+      "reactions": [
+        "Drug dose omission",
+        "Gastrooesophageal reflux disease",
+        "Malaise"
+      ],
+      "report_id": "8506874"
+    },
+    {
+      "drugs": [
+        "NEXIUM",
+        "NEXIUM",
+        "NEXIUM",
+        "PRILOSEC",
+        "PRILOSEC OTC",
+        "FISH OIL",
+        "ASPIRIN",
+        "MULTIVITAMIN",
+        "FOLIC ACID",
+        "VITAMIN E",
+        "HYDROCODONE",
+        "FAMOTIDINE",
+        "ALIGN",
+        "CALCIUM",
+        "MECLIZINE",
+        "ACIDOPHILUS",
+        "DIGESTIVE ADVANTAGE DAILY PROBIOTIC",
+        "DICYCLOMINE",
+        "BLACK COHOSH EXTRACT",
+        "CYCLOBENZAOR",
+        "ACETAMINOPHEN",
+        "COLLAGEN I FLEX",
+        "LORAZEPAM",
+        "MELOXICAM",
+        "AMITRIPTYLLINE",
+        "PRAVASTATIN",
+        "NAPROXEN",
+        "SUSENTIX",
+        "ACTIVA",
+        "METAMUSCIL",
+        "SEVERAL DIFFERENT LATA",
+        "PROTONIX",
+        "PREVACID",
+        "ACIDFLEX"
+      ],
+      "reactions": [
+        "Genital disorder female",
+        "Cardiac disorder",
+        "Blood pressure abnormal",
+        "Dizziness",
+        "Intervertebral disc protrusion",
+        "Gastric disorder",
+        "Osteoporosis",
+        "Multiple fractures",
+        "Musculoskeletal pain",
+        "Pain in extremity",
+        "Carpal tunnel syndrome",
+        "Back disorder",
+        "Musculoskeletal discomfort",
+        "Musculoskeletal disorder",
+        "Liver disorder",
+        "Calcium deficiency",
+        "Lactose intolerance",
+        "Arthralgia",
+        "Hepatic enzyme increased"
+      ],
+      "report_id": "8592863"
+    },
+    {
+      "drugs": [
+        "NORETHINDRONE AND ETHINYL ESTRADIOL",
+        "BLACK COHOSH EXTRACT",
+        "NORMABEL",
+        "METFORMIN"
+      ],
+      "reactions": [
+        "Deep vein thrombosis",
+        "Back pain",
+        "Groin pain",
+        "Pain in extremity"
+      ],
+      "report_id": "8971623"
+    },
+    {
+      "drugs": [
+        "REVLIMID (LENALIDOMIDE) (25 MILLIGRAM, CAPSULES)",
+        "ATENOLOL(ATENOLOL) (TABLETS)",
+        "BLACK COHOSH EXTRACT(CIMICIFUGA RACEMOSA EXTRACT)(UNKNOWN)",
+        "CALCIUM(CALCIUM)(TABLETS)",
+        "CELEBREX(CELECOXIB)(CAPSULES)",
+        "FISH OIL(FISH OIL)(CAPSULES)",
+        "IRON(IRON)(TABLETS)",
+        "MAGNESIUM(MAGNESIUM)(TABLETS)",
+        "OCUVITE(OCUVITE)(TABLETS)",
+        "POTASSIUM(POTASSIUM)(UNKNOWN)"
+      ],
+      "reactions": [
+        "Headache",
+        "Nausea",
+        "Vomiting"
+      ],
+      "report_id": "9516480"
+    },
+    {
+      "drugs": [
+        "LETAIRIS",
+        "ASPIRIN.",
+        "OMEGA-3 ACIDS",
+        "BLACK COHOSH EXTRACT"
+      ],
+      "reactions": [
+        "Oedema"
+      ],
+      "report_id": "9696842"
+    },
+    {
+      "drugs": [
+        "HUMIRA",
+        "METHOTREXATE",
+        "HYDROCODONE",
+        "ALPRAZOLAM XR",
+        "MECLIZINE",
+        "CLONAZEPAM",
+        "FOLIC ACID",
+        "PREDNISONE",
+        "SERTRALINE",
+        "METHYLPHENIDATE",
+        "METOPROLOL TARTRATE",
+        "BLACK COHOSH EXTRACT",
+        "CALCIUM PLUS D"
+      ],
+      "reactions": [
+        "Fatigue",
+        "Throat irritation",
+        "Dysarthria"
+      ],
+      "report_id": "9945116"
+    },
+    {
+      "drugs": [
+        "HUMIRA",
+        "CITRUCEL",
+        "METHOTREXATE",
+        "HYDROCODONE",
+        "SERTRALINE",
+        "CALCIUM PLUS VITAMIN D",
+        "MECLIZINE",
+        "METHYLPHENIDATE.",
+        "METOPROLOL TARTRATE.",
+        "CLONAZEPAM.",
+        "FOLIC ACID.",
+        "HUMIRA",
+        "PREDNISONE.",
+        "RITALIN",
+        "BLACK COHOSH EXTRACT",
+        "ALPRAZOLAM."
+      ],
+      "reactions": [
+        "Influenza",
+        "Product quality issue",
+        "Fear of injection",
+        "Fatigue",
+        "Pain in extremity",
+        "Pyrexia",
+        "Erythema",
+        "Viral infection",
+        "Hypophagia",
+        "Vomiting",
+        "Chills",
+        "Faeces discoloured",
+        "Mucous stools",
+        "Headache",
+        "Vomiting",
+        "Diarrhoea",
+        "Pain",
+        "Haemoptysis",
+        "Asthenia",
+        "Somnolence",
+        "Productive cough",
+        "Nausea"
+      ],
+      "report_id": "9946968"
+    },
+    {
+      "drugs": [
+        "HUMIRA",
+        "METHOTREXATE",
+        "HYDROCODONE",
+        "ALPRAZOLAM XR",
+        "MECLIZINE",
+        "CLONAZEPAM",
+        "SERTRALINE",
+        "METHYLPHENIDATE",
+        "METOPROLOL TARTRATE",
+        "BLACK COHOSH EXTRACT",
+        "CALCIUM PLUS D"
+      ],
+      "reactions": [
+        "Fatigue",
+        "Pyrexia",
+        "Productive cough",
+        "Diarrhoea"
+      ],
+      "report_id": "9950691"
+    },
+    {
+      "drugs": [
+        "HUMIRA",
+        "METHOTREXATE",
+        "HYDROCODONE",
+        "ALPRAZOLAM",
+        "MECLIZINE",
+        "CLONAZEPAM",
+        "FOLIC ACID",
+        "SERTRALINE",
+        "METHYLPHENIDATE",
+        "METOPROLOL TARTRATE",
+        "BLACK COHOSH EXTRACT",
+        "CITRACAL + D",
+        "PREDNISONE"
+      ],
+      "reactions": [
+        "Road traffic accident",
+        "Contusion",
+        "Post-traumatic neck syndrome",
+        "Pain"
+      ],
+      "report_id": "9960573"
+    },
+    {
+      "drugs": [
+        "HUMIRA",
+        "ASPIRIN",
+        "VITAMIN D",
+        "BLACK COHOSH EXTRACT",
+        "NEXIUM",
+        "ROPINIROLE HCL",
+        "MIRTAZAPINE",
+        "SIMVASTATIN",
+        "LISINOPRIL",
+        "TOPROL",
+        "GEMFIBROZIL",
+        "OXYCONTIN",
+        "PERCOCET"
+      ],
+      "reactions": [
+        "Upper respiratory tract infection",
+        "No therapeutic response"
+      ],
+      "report_id": "9985282"
+    }
+  ],
+  "confidence": "low",
+  "note": "Co-occurrence signals only. Not a confirmed interaction source. Verify against NIH ODS, MedlinePlus, or PubMed before using."
+}

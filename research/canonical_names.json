@@ -1,0 +1,509 @@
+{
+  "_comment": "Keys are canonical names (lowercase_underscores, NIH ODS authority per D-13). Values are alias arrays. Every compound encountered during extraction MUST appear here before a record is written.",
+  "vitamin_d3": {
+    "aliases": [
+      "cholecalciferol",
+      "vitamin d",
+      "vitamin d3",
+      "vitamin d-3",
+      "calcitriol"
+    ],
+    "timing_properties": {
+      "requires_food": true
+    }
+  },
+  "magnesium": {
+    "aliases": [
+      "magnesium glycinate",
+      "magnesium citrate",
+      "magnesium oxide",
+      "mag",
+      "magnesium bisglycinate",
+      "magnesium malate",
+      "magnesium l-threonate"
+    ],
+    "timing_properties": {
+      "requires_food": true
+    }
+  },
+  "omega_3_fatty_acids": [
+    "fish oil",
+    "omega-3",
+    "omega 3",
+    "epa",
+    "dha",
+    "epa/dha",
+    "fish oil concentrate",
+    "omega-3 fatty acids"
+  ],
+  "vitamin_c": [
+    "ascorbic acid",
+    "ascorbate",
+    "l-ascorbic acid",
+    "vitamin c",
+    "sodium ascorbate",
+    "calcium ascorbate"
+  ],
+  "vitamin_b12": {
+    "aliases": [
+      "cobalamin",
+      "cyanocobalamin",
+      "methylcobalamin",
+      "adenosylcobalamin",
+      "vitamin b-12",
+      "vitamin b 12"
+    ],
+    "timing_properties": {
+      "preferred_time_of_day": "morning"
+    }
+  },
+  "zinc": [
+    "zinc gluconate",
+    "zinc picolinate",
+    "zinc citrate",
+    "zinc sulfate",
+    "zinc acetate"
+  ],
+  "probiotic": {
+    "aliases": [
+      "lactobacillus",
+      "bifidobacterium",
+      "probiotic supplement",
+      "probiotics",
+      "lactobacillus acidophilus",
+      "lactobacillus rhamnosus"
+    ],
+    "timing_properties": {
+      "requires_empty_stomach": true
+    }
+  },
+  "melatonin": {
+    "aliases": [
+      "n-acetyl-5-methoxytryptamine"
+    ],
+    "timing_properties": {
+      "preferred_time_of_day": "evening"
+    }
+  },
+  "ashwagandha": {
+    "aliases": [
+      "withania somnifera",
+      "indian ginseng",
+      "winter cherry"
+    ],
+    "timing_properties": {
+      "preferred_time_of_day": "evening"
+    }
+  },
+  "coenzyme_q10": {
+    "aliases": [
+      "coq10",
+      "ubiquinol",
+      "ubiquinone",
+      "co-enzyme q10",
+      "co q10",
+      "coenzyme q-10"
+    ],
+    "timing_properties": {
+      "requires_food": true
+    }
+  },
+  "iron": {
+    "aliases": [
+      "ferrous sulfate",
+      "ferrous gluconate",
+      "ferric iron",
+      "ferrous fumarate",
+      "iron supplement",
+      "ferrous bisglycinate"
+    ],
+    "timing_properties": {
+      "requires_empty_stomach": true,
+      "avoid_with_caffeine": true
+    }
+  },
+  "vitamin_e": {
+    "aliases": [
+      "tocopherol",
+      "alpha-tocopherol",
+      "tocotrienol",
+      "d-alpha tocopherol",
+      "dl-alpha tocopherol",
+      "mixed tocopherols"
+    ],
+    "timing_properties": {
+      "requires_food": true
+    }
+  },
+  "turmeric_curcumin": [
+    "turmeric",
+    "curcumin",
+    "curcuma longa",
+    "diferuloylmethane"
+  ],
+  "vitamin_a": {
+    "aliases": [
+      "retinol",
+      "retinyl palmitate",
+      "retinyl acetate",
+      "beta-carotene",
+      "preformed vitamin a",
+      "provitamin a"
+    ],
+    "timing_properties": {
+      "requires_food": true
+    }
+  },
+  "collagen": [
+    "collagen peptides",
+    "hydrolyzed collagen",
+    "collagen protein",
+    "marine collagen",
+    "bovine collagen",
+    "type i collagen",
+    "type ii collagen"
+  ],
+  "biotin": [
+    "vitamin h",
+    "vitamin b7",
+    "d-biotin",
+    "coenzyme r"
+  ],
+  "vitamin_k2": {
+    "aliases": [
+      "menaquinone",
+      "mk-7",
+      "mk-4",
+      "vitamin k",
+      "menatetrenone",
+      "menaquinone-7"
+    ],
+    "timing_properties": {
+      "requires_food": true
+    }
+  },
+  "folic_acid": [
+    "folate",
+    "vitamin b9",
+    "l-methylfolate",
+    "5-mthf",
+    "methylfolate",
+    "pteroylglutamic acid"
+  ],
+  "vitamin_b6": [
+    "pyridoxine",
+    "pyridoxal",
+    "pyridoxamine",
+    "pyridoxal-5-phosphate",
+    "p5p",
+    "vitamin b-6"
+  ],
+  "calcium": [
+    "calcium carbonate",
+    "calcium citrate",
+    "calcium gluconate",
+    "calcium phosphate",
+    "calcium malate"
+  ],
+  "vitamin_b_complex": [
+    "b complex",
+    "b-complex",
+    "vitamin b complex",
+    "b vitamins",
+    "b-vitamins",
+    "b vitamin complex"
+  ],
+  "green_tea_extract": {
+    "aliases": [
+      "egcg",
+      "epigallocatechin gallate",
+      "camellia sinensis",
+      "green tea",
+      "green tea polyphenols"
+    ],
+    "timing_properties": {
+      "avoid_with_caffeine": true
+    }
+  },
+  "berberine": [
+    "berberine hcl",
+    "berberine hydrochloride",
+    "berberis"
+  ],
+  "alpha_lipoic_acid": [
+    "ala",
+    "thioctic acid",
+    "alpha lipoic acid",
+    "lipoic acid",
+    "r-lipoic acid",
+    "r-ala"
+  ],
+  "ginkgo_biloba": [
+    "ginkgo",
+    "maidenhair tree",
+    "ginkgo biloba extract",
+    "egb 761",
+    "ginkgo biloba leaf extract"
+  ],
+  "st_johns_wort": {
+    "aliases": [
+      "hypericum perforatum",
+      "st. john's wort",
+      "hypericin",
+      "hyperforin",
+      "saint john's wort"
+    ],
+    "timing_properties": {
+      "preferred_time_of_day": "morning"
+    }
+  },
+  "milk_thistle": [
+    "silymarin",
+    "silybum marianum",
+    "milk thistle extract",
+    "silybin",
+    "silibinin"
+  ],
+  "valerian": {
+    "aliases": [
+      "valeriana officinalis",
+      "valerian root",
+      "valerian extract",
+      "valerenic acid"
+    ],
+    "timing_properties": {
+      "preferred_time_of_day": "evening"
+    }
+  },
+  "black_cohosh": [
+    "cimicifuga racemosa",
+    "actaea racemosa",
+    "black cohosh extract",
+    "remifemin"
+  ],
+  "echinacea": [
+    "echinacea purpurea",
+    "echinacea angustifolia",
+    "purple coneflower",
+    "echinacea extract"
+  ],
+  "glucosamine": [
+    "glucosamine sulfate",
+    "glucosamine hcl",
+    "glucosamine hydrochloride",
+    "n-acetyl glucosamine"
+  ],
+  "chondroitin": [
+    "chondroitin sulfate",
+    "chondroitin sulfate sodium",
+    "bovine chondroitin"
+  ],
+  "garlic": [
+    "allium sativum",
+    "garlic extract",
+    "aged garlic extract",
+    "allicin",
+    "garlic oil",
+    "kyolic garlic"
+  ],
+  "saw_palmetto": [
+    "serenoa repens",
+    "sabal palm",
+    "saw palmetto extract",
+    "saw palmetto berry"
+  ],
+  "rhodiola_rosea": {
+    "aliases": [
+      "arctic root",
+      "golden root",
+      "rhodiola",
+      "rosavin",
+      "salidroside",
+      "rhodiola extract"
+    ],
+    "timing_properties": {
+      "preferred_time_of_day": "morning"
+    }
+  },
+  "5_htp": {
+    "aliases": [
+      "5-hydroxytryptophan",
+      "5-htp",
+      "l-5-htp",
+      "oxitriptan"
+    ],
+    "timing_properties": {
+      "preferred_time_of_day": "evening"
+    }
+  },
+  "elderberry": [
+    "sambucus nigra",
+    "black elderberry",
+    "elderberry extract",
+    "sambucol",
+    "elderberry syrup"
+  ],
+  "creatine": [
+    "creatine monohydrate",
+    "creatine ethyl ester",
+    "creatine hcl",
+    "creatine phosphate",
+    "phosphocreatine"
+  ],
+  "nac": [
+    "n-acetyl cysteine",
+    "n-acetylcysteine",
+    "acetylcysteine",
+    "n-acetyl-l-cysteine"
+  ],
+  "selenium": [
+    "selenium yeast",
+    "selenomethionine",
+    "sodium selenite",
+    "selenium selenate",
+    "l-selenomethionine"
+  ],
+  "copper": [
+    "copper gluconate",
+    "copper sulfate",
+    "cupric sulfate",
+    "copper bisglycinate"
+  ],
+  "potassium": [
+    "potassium chloride",
+    "potassium citrate",
+    "potassium gluconate",
+    "potassium bicarbonate"
+  ],
+  "phosphatidylserine": [
+    "ps",
+    "phosphatidyl serine",
+    "soy phosphatidylserine",
+    "sunflower phosphatidylserine"
+  ],
+  "lions_mane": [
+    "hericium erinaceus",
+    "lion's mane mushroom",
+    "lion's mane extract",
+    "yamabushitake"
+  ],
+  "iodine": [
+    "potassium iodide",
+    "sodium iodide",
+    "kelp",
+    "iodide",
+    "lugol's iodine"
+  ],
+  "niacin_vitamin_b3": [
+    "niacin",
+    "nicotinic acid",
+    "nicotinamide",
+    "vitamin b3",
+    "niacinamide",
+    "flush-free niacin",
+    "inositol hexanicotinate"
+  ],
+  "nmn": [
+    "nicotinamide mononucleotide",
+    "beta-nmn",
+    "b-nmn",
+    "nad+ precursor"
+  ],
+  "chromium": [
+    "chromium picolinate",
+    "chromium polynicotinate",
+    "chromium gtf",
+    "trivalent chromium"
+  ],
+  "resveratrol": [
+    "trans-resveratrol",
+    "resveratrol extract",
+    "polygonum cuspidatum",
+    "grape skin extract"
+  ],
+  "quercetin": [
+    "quercetin dihydrate",
+    "quercetin phytosome",
+    "bioflavonoid",
+    "quercetin 3-glucoside"
+  ],
+  "atorvastatin": [
+    "lipitor",
+    "atorvastatin calcium"
+  ],
+  "metformin": [
+    "glucophage",
+    "fortamet",
+    "metformin hydrochloride",
+    "metformin hcl"
+  ],
+  "levothyroxine": [
+    "synthroid",
+    "levoxyl",
+    "tirosint"
+  ],
+  "lisinopril": [
+    "zestril",
+    "prinivil"
+  ],
+  "amlodipine": [
+    "norvasc"
+  ],
+  "metoprolol": [
+    "lopressor",
+    "toprol xl",
+    "toprol-xl"
+  ],
+  "omeprazole": [
+    "prilosec"
+  ],
+  "losartan": [
+    "cozaar"
+  ],
+  "sertraline": [
+    "zoloft",
+    "sertraline hcl"
+  ],
+  "gabapentin": [
+    "neurontin"
+  ],
+  "escitalopram": [
+    "lexapro",
+    "escitalopram oxalate"
+  ],
+  "rosuvastatin": [
+    "crestor"
+  ],
+  "pantoprazole": [
+    "protonix"
+  ],
+  "hydrochlorothiazide": [
+    "microzide",
+    "hctz"
+  ],
+  "bupropion": [
+    "wellbutrin",
+    "zyban",
+    "wellbutrin xl",
+    "wellbutrin sr"
+  ],
+  "warfarin": [
+    "coumadin"
+  ],
+  "semaglutide": [
+    "ozempic",
+    "wegovy",
+    "rybelsus"
+  ],
+  "fluoxetine": [
+    "prozac",
+    "sarafem"
+  ],
+  "amoxicillin": [
+    "amoxil",
+    "trimox"
+  ],
+  "montelukast": [
+    "singulair"
+  ]
+}

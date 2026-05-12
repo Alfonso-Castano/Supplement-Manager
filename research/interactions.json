@@ -1,0 +1,1044 @@
+[
+  {
+    "compound_a": "calcium",
+    "compound_b": "levothyroxine",
+    "compound_a_type": "supplement",
+    "compound_b_type": "drug",
+    "interaction_type": "absorption_competition",
+    "severity": "advisory",
+    "confidence": "high",
+    "effect": "Calcium carbonate supplements interfere with levothyroxine absorption. FDA-approved label instructs patients to avoid taking levothyroxine within 4 hours of taking calcium supplements.",
+    "suggested_action": "Take levothyroxine at least 4 hours away from calcium supplements.",
+    "timing_relevant": true,
+    "citations": [
+      "https://ods.od.nih.gov/factsheets/Calcium-HealthProfessional/"
+    ],
+    "date_added": "2026-05-06"
+  },
+  {
+    "compound_a": "vitamin_k2",
+    "compound_b": "warfarin",
+    "compound_a_type": "supplement",
+    "compound_b_type": "drug",
+    "interaction_type": "unsafe_combination",
+    "severity": "critical",
+    "confidence": "high",
+    "effect": "Vitamin K is a cofactor for prothrombin synthesis, essential for blood clotting. Warfarin antagonizes vitamin K activity. Excess vitamin K intake reduces warfarin effectiveness and INR (International Normalized Ratio).",
+    "suggested_action": "Maintain consistent vitamin K intake. Monitor INR regularly. Consult doctor before supplementing.",
+    "timing_relevant": false,
+    "citations": [
+      "https://ods.od.nih.gov/factsheets/VitaminK-HealthProfessional/"
+    ],
+    "date_added": "2026-05-06"
+  },
+  {
+    "compound_a": "iron",
+    "compound_b": "levothyroxine",
+    "compound_a_type": "supplement",
+    "compound_b_type": "drug",
+    "interaction_type": "absorption_competition",
+    "severity": "advisory",
+    "confidence": "high",
+    "effect": "Iron reduces levothyroxine absorption by 20-30% when taken concurrently through competitive binding in the gastrointestinal tract.",
+    "suggested_action": "Take iron at least 4 hours away from levothyroxine.",
+    "timing_relevant": true,
+    "citations": [
+      "https://ods.od.nih.gov/factsheets/Iron-HealthProfessional/"
+    ],
+    "date_added": "2026-05-06"
+  },
+  {
+    "compound_a": "magnesium",
+    "compound_b": "levothyroxine",
+    "compound_a_type": "supplement",
+    "compound_b_type": "drug",
+    "interaction_type": "absorption_competition",
+    "severity": "advisory",
+    "confidence": "medium",
+    "effect": "Magnesium can reduce levothyroxine absorption through chelation in the gastrointestinal tract.",
+    "suggested_action": "Take magnesium at least 4-6 hours away from levothyroxine.",
+    "timing_relevant": true,
+    "citations": [
+      "https://ods.od.nih.gov/factsheets/Magnesium-HealthProfessional/"
+    ],
+    "date_added": "2026-05-06"
+  },
+  {
+    "compound_a": "ginkgo_biloba",
+    "compound_b": "warfarin",
+    "compound_a_type": "supplement",
+    "compound_b_type": "drug",
+    "interaction_type": "unsafe_combination",
+    "severity": "critical",
+    "confidence": "medium",
+    "effect": "Ginkgo may enhance warfarin's anticoagulant effect, increasing bleeding risk through potentiation of anticoagulant activity.",
+    "suggested_action": "Avoid combining ginkgo with warfarin. Consider alternatives. Consult your doctor.",
+    "timing_relevant": false,
+    "citations": [
+      "https://www.mskcc.org/cancer-care/integrative-medicine/herbs/ginkgo"
+    ],
+    "date_added": "2026-05-06"
+  },
+  {
+    "compound_a": "omega_3_fatty_acids",
+    "compound_b": "warfarin",
+    "compound_a_type": "supplement",
+    "compound_b_type": "drug",
+    "interaction_type": "unsafe_combination",
+    "severity": "advisory",
+    "confidence": "medium",
+    "effect": "Omega-3 fatty acids may have mild anticoagulant effects, potentially potentiating warfarin's anticoagulant action when combined. The effect is related to consistent intake level, not timing of doses.",
+    "suggested_action": "Monitor INR. Maintain consistent omega-3 intake. Inform your doctor.",
+    "timing_relevant": false,
+    "citations": [
+      "https://ods.od.nih.gov/factsheets/Omega3FattyAcids-HealthProfessional/"
+    ],
+    "date_added": "2026-05-06"
+  },
+  {
+    "compound_a": "st_johns_wort",
+    "compound_b": "sertraline",
+    "compound_a_type": "supplement",
+    "compound_b_type": "drug",
+    "interaction_type": "unsafe_combination",
+    "severity": "critical",
+    "confidence": "medium",
+    "effect": "St. John's Wort and sertraline both increase serotonin levels. Concurrent use may cause serotonin syndrome with symptoms including agitation, confusion, rapid heart rate, high blood pressure, and dilated pupils.",
+    "suggested_action": "Avoid combining St. John's Wort with sertraline. Consult doctor before switching between them.",
+    "timing_relevant": false,
+    "citations": [
+      "https://www.mskcc.org/cancer-care/integrative-medicine/herbs/st-johns-wort"
+    ],
+    "date_added": "2026-05-06"
+  },
+  {
+    "compound_a": "vitamin_e",
+    "compound_b": "warfarin",
+    "compound_a_type": "supplement",
+    "compound_b_type": "drug",
+    "interaction_type": "unsafe_combination",
+    "severity": "advisory",
+    "confidence": "medium",
+    "effect": "High-dose vitamin E (>400 IU/day) may potentiate warfarin's anticoagulant effect, increasing bleeding risk.",
+    "suggested_action": "Monitor INR with high-dose vitamin E. Take at different times if possible.",
+    "timing_relevant": true,
+    "citations": [
+      "https://ods.od.nih.gov/factsheets/VitaminE-HealthProfessional/"
+    ],
+    "date_added": "2026-05-06"
+  },
+  {
+    "compound_a": "garlic",
+    "compound_b": "warfarin",
+    "compound_a_type": "supplement",
+    "compound_b_type": "drug",
+    "interaction_type": "unsafe_combination",
+    "severity": "advisory",
+    "confidence": "medium",
+    "effect": "Garlic may potentiate warfarin's anticoagulant effect through inhibition of platelet aggregation.",
+    "suggested_action": "Monitor INR. Maintain consistent garlic intake. Inform your doctor.",
+    "timing_relevant": false,
+    "citations": [
+      "https://www.mskcc.org/cancer-care/integrative-medicine/herbs/garlic"
+    ],
+    "date_added": "2026-05-06"
+  },
+  {
+    "compound_a": "calcium",
+    "compound_b": "iron",
+    "compound_a_type": "supplement",
+    "compound_b_type": "supplement",
+    "interaction_type": "absorption_competition",
+    "severity": "advisory",
+    "confidence": "high",
+    "effect": "Calcium reduces iron absorption by competing for absorption sites and forming insoluble complexes in the intestine.",
+    "suggested_action": "Take iron and calcium at least 2 hours apart.",
+    "timing_relevant": true,
+    "citations": [
+      "https://ods.od.nih.gov/factsheets/Iron-HealthProfessional/"
+    ],
+    "date_added": "2026-05-06"
+  },
+  {
+    "compound_a": "zinc",
+    "compound_b": "iron",
+    "compound_a_type": "supplement",
+    "compound_b_type": "supplement",
+    "interaction_type": "absorption_competition",
+    "severity": "advisory",
+    "confidence": "medium",
+    "effect": "Both zinc and iron compete for absorption in the intestine, potentially reducing the bioavailability of both minerals.",
+    "suggested_action": "Take zinc and iron at separate times, preferably 2+ hours apart.",
+    "timing_relevant": true,
+    "citations": [
+      "https://ods.od.nih.gov/factsheets/Zinc-HealthProfessional/"
+    ],
+    "date_added": "2026-05-06"
+  },
+  {
+    "compound_a": "vitamin_c",
+    "compound_b": "iron",
+    "compound_a_type": "supplement",
+    "compound_b_type": "supplement",
+    "interaction_type": "synergy",
+    "severity": "advisory",
+    "confidence": "high",
+    "effect": "Vitamin C enhances iron absorption by reducing ferric iron to ferrous form, increasing bioavailability of iron.",
+    "suggested_action": "Take iron with vitamin C for enhanced absorption.",
+    "timing_relevant": false,
+    "citations": [
+      "https://ods.od.nih.gov/factsheets/Iron-HealthProfessional/"
+    ],
+    "date_added": "2026-05-06"
+  },
+  {
+    "compound_a": "vitamin_d3",
+    "compound_b": "calcium",
+    "compound_a_type": "supplement",
+    "compound_b_type": "supplement",
+    "interaction_type": "synergy",
+    "severity": "advisory",
+    "confidence": "high",
+    "effect": "Vitamin D is essential for calcium absorption in the intestine. Concurrent use enhances bone health outcomes.",
+    "suggested_action": "Take vitamin D3 and calcium together for optimal absorption.",
+    "timing_relevant": false,
+    "citations": [
+      "https://ods.od.nih.gov/factsheets/Calcium-HealthProfessional/"
+    ],
+    "date_added": "2026-05-06"
+  },
+  {
+    "compound_a": "turmeric_curcumin",
+    "compound_b": "warfarin",
+    "compound_a_type": "supplement",
+    "compound_b_type": "drug",
+    "interaction_type": "unsafe_combination",
+    "severity": "critical",
+    "confidence": "medium",
+    "effect": "Preclinical studies and a case report suggest turmeric can increase risk of bleeding when combined with anticoagulants including warfarin.",
+    "suggested_action": "Avoid combining turmeric supplements with warfarin. Monitor INR closely. Consult your doctor before use.",
+    "timing_relevant": false,
+    "citations": [
+      "https://www.mskcc.org/cancer-care/integrative-medicine/herbs/turmeric"
+    ],
+    "date_added": "2026-05-06"
+  },
+  {
+    "compound_a": "turmeric_curcumin",
+    "compound_b": "losartan",
+    "compound_a_type": "supplement",
+    "compound_b_type": "drug",
+    "interaction_type": "unsafe_combination",
+    "severity": "advisory",
+    "confidence": "low",
+    "effect": "Curcumin potentiated the blood pressure-lowering effects of losartan in hypertensive rats. Clinical significance is undetermined.",
+    "suggested_action": "Monitor blood pressure. Inform your doctor if taking both turmeric supplements and losartan.",
+    "timing_relevant": false,
+    "citations": [
+      "https://www.mskcc.org/cancer-care/integrative-medicine/herbs/turmeric"
+    ],
+    "date_added": "2026-05-06"
+  },
+  {
+    "compound_a": "melatonin",
+    "compound_b": "warfarin",
+    "compound_a_type": "supplement",
+    "compound_b_type": "drug",
+    "interaction_type": "unsafe_combination",
+    "severity": "advisory",
+    "confidence": "medium",
+    "effect": "Oral melatonin intake is associated with lower plasma levels of factor VIII and fibrinogen, which may increase bleeding risk when combined with anticoagulants such as warfarin. The effect is pharmacological, not timing-dependent.",
+    "suggested_action": "Monitor INR. Inform your doctor if taking melatonin with warfarin or other blood thinners.",
+    "timing_relevant": false,
+    "citations": [
+      "https://www.mskcc.org/cancer-care/integrative-medicine/herbs/melatonin"
+    ],
+    "date_added": "2026-05-06"
+  },
+  {
+    "compound_a": "milk_thistle",
+    "compound_b": "warfarin",
+    "compound_a_type": "supplement",
+    "compound_b_type": "drug",
+    "interaction_type": "unsafe_combination",
+    "severity": "advisory",
+    "confidence": "medium",
+    "effect": "Concurrent use of a supplement containing milk thistle led to an increase in INR from 2.64 to 4.12 in a patient on warfarin for mitral valve replacement. INR normalized after stopping the supplement.",
+    "suggested_action": "Monitor INR closely if taking milk thistle with warfarin. Report any unusual bruising or bleeding to your doctor.",
+    "timing_relevant": false,
+    "citations": [
+      "https://www.mskcc.org/cancer-care/integrative-medicine/herbs/milk-thistle"
+    ],
+    "date_added": "2026-05-06"
+  },
+  {
+    "compound_a": "resveratrol",
+    "compound_b": "warfarin",
+    "compound_a_type": "supplement",
+    "compound_b_type": "drug",
+    "interaction_type": "unsafe_combination",
+    "severity": "advisory",
+    "confidence": "medium",
+    "effect": "Resveratrol may increase bleeding risk when taken with anticoagulants such as warfarin.",
+    "suggested_action": "Monitor INR. Inform your doctor before taking resveratrol with warfarin.",
+    "timing_relevant": false,
+    "citations": [
+      "https://www.mskcc.org/cancer-care/integrative-medicine/herbs/resveratrol"
+    ],
+    "date_added": "2026-05-06"
+  },
+  {
+    "compound_a": "quercetin",
+    "compound_b": "warfarin",
+    "compound_a_type": "supplement",
+    "compound_b_type": "drug",
+    "interaction_type": "unsafe_combination",
+    "severity": "advisory",
+    "confidence": "medium",
+    "effect": "A 79-year-old man on stable warfarin therapy for atrial fibrillation presented with elevated INR following quercetin supplementation.",
+    "suggested_action": "Monitor INR. Avoid quercetin supplements without medical supervision when on warfarin.",
+    "timing_relevant": false,
+    "citations": [
+      "https://www.mskcc.org/cancer-care/integrative-medicine/herbs/quercetin"
+    ],
+    "date_added": "2026-05-06"
+  },
+  {
+    "compound_a": "quercetin",
+    "compound_b": "losartan",
+    "compound_a_type": "supplement",
+    "compound_b_type": "drug",
+    "interaction_type": "unsafe_combination",
+    "severity": "advisory",
+    "confidence": "low",
+    "effect": "Quercetin increased the systemic exposure of losartan in a murine model. Clinical relevance is not established.",
+    "suggested_action": "Monitor blood pressure. Inform your doctor if taking quercetin supplements with losartan.",
+    "timing_relevant": false,
+    "citations": [
+      "https://www.mskcc.org/cancer-care/integrative-medicine/herbs/quercetin"
+    ],
+    "date_added": "2026-05-06"
+  },
+  {
+    "compound_a": "green_tea_extract",
+    "compound_b": "iron",
+    "compound_a_type": "supplement",
+    "compound_b_type": "supplement",
+    "interaction_type": "absorption_competition",
+    "severity": "advisory",
+    "confidence": "medium",
+    "effect": "Green tea tannins inhibit iron absorption in the gut. Taking green tea extract with iron supplements reduces iron bioavailability.",
+    "suggested_action": "Take iron supplements at a different time from green tea or green tea extract. Separate by at least 2 hours.",
+    "timing_relevant": true,
+    "citations": [
+      "https://www.mskcc.org/cancer-care/integrative-medicine/herbs/green-tea"
+    ],
+    "date_added": "2026-05-06"
+  },
+  {
+    "compound_a": "st_johns_wort",
+    "compound_b": "fluoxetine",
+    "compound_a_type": "supplement",
+    "compound_b_type": "drug",
+    "interaction_type": "unsafe_combination",
+    "severity": "critical",
+    "confidence": "medium",
+    "effect": "St. John's Wort combined with fluoxetine increases serotonergic effect and may cause serotonin syndrome. Additionally, St. John's Wort may reduce fluoxetine effectiveness through CYP enzyme induction.",
+    "suggested_action": "Avoid combining St. John's Wort with fluoxetine. Consult doctor before switching between them.",
+    "timing_relevant": false,
+    "citations": [
+      "https://www.mskcc.org/cancer-care/integrative-medicine/herbs/st-johns-wort"
+    ],
+    "date_added": "2026-05-06"
+  },
+  {
+    "compound_a": "coenzyme_q10",
+    "compound_b": "rosuvastatin",
+    "compound_a_type": "supplement",
+    "compound_b_type": "drug",
+    "interaction_type": "synergy",
+    "severity": "advisory",
+    "confidence": "medium",
+    "effect": "Rosuvastatin inhibits HMG-CoA reductase, the enzyme responsible for both cholesterol and CoQ10 synthesis. Statins including rosuvastatin reduce endogenous CoQ10 levels, making supplementation potentially beneficial.",
+    "suggested_action": "Consider CoQ10 supplementation if experiencing muscle-related side effects from rosuvastatin. Discuss with your doctor.",
+    "timing_relevant": false,
+    "citations": [
+      "https://www.mskcc.org/cancer-care/integrative-medicine/herbs/coenzyme-q10"
+    ],
+    "date_added": "2026-05-06"
+  },
+  {
+    "compound_a": "zinc",
+    "compound_b": "hydrochlorothiazide",
+    "compound_a_type": "supplement",
+    "compound_b_type": "drug",
+    "interaction_type": "unsafe_combination",
+    "severity": "advisory",
+    "confidence": "medium",
+    "effect": "Thiazide diuretics including hydrochlorothiazide increase zinc excretion in the urine, decreasing serum zinc concentrations and potentially causing zinc deficiency.",
+    "suggested_action": "Monitor zinc status when on long-term hydrochlorothiazide. Consider zinc supplementation if deficiency is suspected.",
+    "timing_relevant": false,
+    "citations": [
+      "https://ods.od.nih.gov/factsheets/Zinc-HealthProfessional/"
+    ],
+    "date_added": "2026-05-06"
+  },
+  {
+    "compound_a": "magnesium",
+    "compound_b": "hydrochlorothiazide",
+    "compound_a_type": "supplement",
+    "compound_b_type": "drug",
+    "interaction_type": "unsafe_combination",
+    "severity": "advisory",
+    "confidence": "medium",
+    "effect": "Chronic treatment with thiazide diuretics such as hydrochlorothiazide increases loss of magnesium in the urine, potentially leading to magnesium depletion.",
+    "suggested_action": "Monitor magnesium levels with long-term hydrochlorothiazide use. Supplement magnesium if blood levels are low.",
+    "timing_relevant": false,
+    "citations": [
+      "https://ods.od.nih.gov/factsheets/Magnesium-HealthProfessional/"
+    ],
+    "date_added": "2026-05-06"
+  },
+  {
+    "compound_a": "vitamin_b12",
+    "compound_b": "metformin",
+    "compound_a_type": "supplement",
+    "compound_b_type": "drug",
+    "interaction_type": "unsafe_combination",
+    "severity": "advisory",
+    "confidence": "medium",
+    "effect": "Metformin, used as first-line treatment for prediabetes and diabetes, might reduce the absorption of vitamin B12 and significantly reduce serum vitamin B12 concentrations.",
+    "suggested_action": "Monitor vitamin B12 levels periodically when on long-term metformin. Supplement B12 if levels are low.",
+    "timing_relevant": false,
+    "citations": [
+      "https://ods.od.nih.gov/factsheets/VitaminB12-HealthProfessional/"
+    ],
+    "date_added": "2026-05-06"
+  },
+  {
+    "compound_a": "coenzyme_q10",
+    "compound_b": "atorvastatin",
+    "compound_a_type": "supplement",
+    "compound_b_type": "drug",
+    "interaction_type": "synergy",
+    "severity": "advisory",
+    "confidence": "medium",
+    "effect": "Atorvastatin inhibits HMG-CoA reductase, the enzyme responsible for both cholesterol and CoQ10 synthesis. Endogenous CoQ10 levels may be reduced by atorvastatin and other statins.",
+    "suggested_action": "Consider CoQ10 supplementation if experiencing muscle-related side effects from atorvastatin. Discuss with your doctor.",
+    "timing_relevant": false,
+    "citations": [
+      "https://www.mskcc.org/cancer-care/integrative-medicine/herbs/coenzyme-q10"
+    ],
+    "date_added": "2026-05-06"
+  },
+  {
+    "compound_a": "magnesium",
+    "compound_b": "omeprazole",
+    "compound_a_type": "supplement",
+    "compound_b_type": "drug",
+    "interaction_type": "unsafe_combination",
+    "severity": "advisory",
+    "confidence": "medium",
+    "effect": "Proton pump inhibitors (PPIs) as a class, including omeprazole, can cause hypomagnesemia when taken for prolonged periods (typically more than one year). The FDA has issued a safety communication on this PPI class effect.",
+    "suggested_action": "Monitor serum magnesium levels with long-term omeprazole use. Consider magnesium supplementation if levels are low.",
+    "timing_relevant": false,
+    "citations": [
+      "https://ods.od.nih.gov/factsheets/Magnesium-HealthProfessional/"
+    ],
+    "date_added": "2026-05-06"
+  },
+  {
+    "compound_a": "magnesium",
+    "compound_b": "pantoprazole",
+    "compound_a_type": "supplement",
+    "compound_b_type": "drug",
+    "interaction_type": "unsafe_combination",
+    "severity": "advisory",
+    "confidence": "medium",
+    "effect": "Proton pump inhibitors (PPIs) as a class, including pantoprazole, can cause hypomagnesemia when taken for prolonged periods (typically more than one year). The FDA has issued a safety communication on this PPI class effect.",
+    "suggested_action": "Monitor serum magnesium levels with long-term pantoprazole use. Consider magnesium supplementation if levels are low.",
+    "timing_relevant": false,
+    "citations": [
+      "https://ods.od.nih.gov/factsheets/Magnesium-HealthProfessional/"
+    ],
+    "date_added": "2026-05-06"
+  },
+  {
+    "compound_a": "potassium",
+    "compound_b": "losartan",
+    "compound_a_type": "supplement",
+    "compound_b_type": "drug",
+    "interaction_type": "unsafe_combination",
+    "severity": "critical",
+    "confidence": "medium",
+    "effect": "Angiotensin receptor blockers such as losartan reduce urinary potassium excretion, which can lead to hyperkalemia. Potassium supplementation in patients on losartan increases this risk.",
+    "suggested_action": "Monitor potassium levels. Avoid potassium supplements unless directed by your doctor while on losartan.",
+    "timing_relevant": false,
+    "citations": [
+      "https://ods.od.nih.gov/factsheets/Potassium-HealthProfessional/"
+    ],
+    "date_added": "2026-05-06"
+  },
+  {
+    "compound_a": "5_htp",
+    "compound_b": "sertraline",
+    "compound_a_type": "supplement",
+    "compound_b_type": "drug",
+    "interaction_type": "unsafe_combination",
+    "severity": "critical",
+    "confidence": "medium",
+    "effect": "5-HTP increases serotonin synthesis. Patients taking SSRIs such as sertraline should avoid 5-HTP due to the theoretical potential for serotonin syndrome — a serious condition with symptoms including agitation, rapid heartbeat, high temperature, and seizures.",
+    "suggested_action": "Avoid combining 5-HTP with sertraline or any SSRI. Consult your doctor before use.",
+    "timing_relevant": false,
+    "citations": [
+      "https://www.mskcc.org/cancer-care/integrative-medicine/herbs/5-htp"
+    ],
+    "date_added": "2026-05-06"
+  },
+  {
+    "compound_a": "probiotic",
+    "compound_b": "amoxicillin",
+    "compound_a_type": "supplement",
+    "compound_b_type": "drug",
+    "interaction_type": "timing_conflict",
+    "severity": "advisory",
+    "confidence": "medium",
+    "effect": "Antibiotics including amoxicillin disrupt gut microbiota and reduce probiotic bacteria viability. Taking probiotics at the same time as amoxicillin may render the probiotics ineffective as the antibiotic kills them before they can colonize.",
+    "suggested_action": "Take probiotics at least 2 hours after each amoxicillin dose. Continue probiotics for 1-2 weeks after completing the antibiotic course to restore gut flora.",
+    "timing_relevant": true,
+    "timing_window_hours": 2,
+    "citations": [
+      "https://ods.od.nih.gov/factsheets/Probiotics-HealthProfessional/"
+    ],
+    "date_added": "2026-05-06"
+  },
+  {
+    "compound_a": "berberine",
+    "compound_b": "semaglutide",
+    "compound_a_type": "supplement",
+    "compound_b_type": "drug",
+    "interaction_type": "synergy",
+    "severity": "advisory",
+    "confidence": "medium",
+    "effect": "Berberine and semaglutide (a GLP-1 receptor agonist) both lower blood glucose through complementary mechanisms. Combined use may produce additive blood sugar lowering, increasing the risk of hypoglycemia.",
+    "suggested_action": "Monitor blood glucose closely when combining berberine with semaglutide. Report any episodes of low blood sugar to your doctor. Dose adjustments may be needed.",
+    "timing_relevant": false,
+    "citations": [
+      "https://www.mskcc.org/cancer-care/integrative-medicine/herbs/berberine"
+    ],
+    "date_added": "2026-05-06"
+  },
+  {
+    "compound_a": "valerian",
+    "compound_b": "gabapentin",
+    "compound_a_type": "supplement",
+    "compound_b_type": "drug",
+    "interaction_type": "unsafe_combination",
+    "severity": "advisory",
+    "confidence": "medium",
+    "effect": "Valerian has CNS depressant properties through GABA-ergic mechanisms. Combined use with gabapentin, which also has sedating effects, may produce additive or enhanced sedation, dizziness, and cognitive impairment.",
+    "suggested_action": "Use caution when combining valerian with gabapentin. Avoid driving or operating machinery. Consult your doctor before use.",
+    "timing_relevant": false,
+    "citations": [
+      "https://ods.od.nih.gov/factsheets/Valerian-HealthProfessional/"
+    ],
+    "date_added": "2026-05-06"
+  },
+  {
+    "compound_a": "copper",
+    "compound_b": "zinc",
+    "compound_a_type": "supplement",
+    "compound_b_type": "supplement",
+    "interaction_type": "absorption_competition",
+    "severity": "advisory",
+    "confidence": "high",
+    "effect": "High-dose zinc supplementation (generally above 40 mg/day) reduces copper absorption by inducing metallothionein in intestinal cells, which binds copper and prevents its entry into systemic circulation. Long-term high-dose zinc can cause copper deficiency.",
+    "suggested_action": "Avoid high-dose zinc supplementation without adequate copper. If taking zinc above 15 mg/day long-term, use a formula that includes copper (typical ratio: 10-15 mg zinc to 1 mg copper).",
+    "timing_relevant": false,
+    "citations": [
+      "https://ods.od.nih.gov/factsheets/Copper-HealthProfessional/"
+    ],
+    "date_added": "2026-05-06"
+  },
+  {
+    "compound_a": "niacin_vitamin_b3",
+    "compound_b": "atorvastatin",
+    "compound_a_type": "supplement",
+    "compound_b_type": "drug",
+    "interaction_type": "unsafe_combination",
+    "severity": "advisory",
+    "confidence": "medium",
+    "effect": "High-dose niacin (at least 1 g/day) combined with statins such as atorvastatin significantly increases the risk of myopathy and potentially rhabdomyolysis, a serious muscle breakdown condition.",
+    "suggested_action": "Avoid high-dose niacin with atorvastatin without close medical supervision. Report any muscle pain, weakness, or dark urine immediately.",
+    "timing_relevant": false,
+    "citations": [
+      "https://ods.od.nih.gov/factsheets/Niacin-HealthProfessional/"
+    ],
+    "date_added": "2026-05-06"
+  },
+  {
+    "compound_a": "nac",
+    "compound_b": "warfarin",
+    "compound_a_type": "supplement",
+    "compound_b_type": "drug",
+    "interaction_type": "unsafe_combination",
+    "severity": "advisory",
+    "confidence": "medium",
+    "effect": "N-acetylcysteine may potentiate the anticoagulant effect of warfarin, increasing INR and bleeding risk. Case reports of elevated INR have been documented in patients taking both.",
+    "suggested_action": "Monitor INR closely if taking NAC with warfarin. Report any unusual bruising or bleeding to your doctor.",
+    "timing_relevant": false,
+    "citations": [
+      "https://www.mskcc.org/cancer-care/integrative-medicine/herbs/n-acetylcysteine"
+    ],
+    "date_added": "2026-05-06"
+  },
+  {
+    "compound_a": "iodine",
+    "compound_b": "levothyroxine",
+    "compound_a_type": "supplement",
+    "compound_b_type": "drug",
+    "interaction_type": "unsafe_combination",
+    "severity": "advisory",
+    "confidence": "medium",
+    "effect": "Excess iodine supplementation can interfere with thyroid hormone synthesis and regulation, potentially reducing the effectiveness of levothyroxine therapy or triggering thyroid dysfunction in susceptible individuals.",
+    "suggested_action": "Avoid high-dose iodine supplements when on levothyroxine without medical supervision. Discuss any iodine supplementation with your doctor.",
+    "timing_relevant": false,
+    "citations": [
+      "https://ods.od.nih.gov/factsheets/Iodine-HealthProfessional/"
+    ],
+    "date_added": "2026-05-06"
+  },
+  {
+    "compound_a": "ashwagandha",
+    "compound_b": "levothyroxine",
+    "compound_a_type": "supplement",
+    "compound_b_type": "drug",
+    "interaction_type": "unsafe_combination",
+    "severity": "advisory",
+    "confidence": "medium",
+    "effect": "Ashwagandha may stimulate thyroid hormone production and increase serum T3 and T4 levels. Patients already receiving levothyroxine may experience hyperthyroid symptoms if ashwagandha further elevates thyroid hormone levels.",
+    "suggested_action": "Monitor thyroid function tests if starting ashwagandha while on levothyroxine. Consult your doctor before combining these.",
+    "timing_relevant": false,
+    "citations": [
+      "https://ods.od.nih.gov/factsheets/Ashwagandha-HealthProfessional/"
+    ],
+    "date_added": "2026-05-06"
+  },
+  {
+    "compound_a": "vitamin_a",
+    "compound_b": "warfarin",
+    "compound_a_type": "supplement",
+    "compound_b_type": "drug",
+    "interaction_type": "unsafe_combination",
+    "severity": "advisory",
+    "confidence": "medium",
+    "effect": "High-dose vitamin A supplementation may enhance warfarin's anticoagulant effect and increase bleeding risk. Vitamin A affects the synthesis of vitamin K-dependent clotting factors.",
+    "suggested_action": "Avoid high-dose vitamin A supplements with warfarin. Monitor INR. Stay within recommended daily intake unless instructed otherwise by your doctor.",
+    "timing_relevant": false,
+    "citations": [
+      "https://ods.od.nih.gov/factsheets/VitaminA-HealthProfessional/"
+    ],
+    "date_added": "2026-05-06"
+  },
+  {
+    "compound_a": "alpha_lipoic_acid",
+    "compound_b": "metformin",
+    "compound_a_type": "supplement",
+    "compound_b_type": "drug",
+    "interaction_type": "synergy",
+    "severity": "advisory",
+    "confidence": "medium",
+    "effect": "Alpha-lipoic acid and metformin both improve insulin sensitivity and lower blood glucose through partly complementary mechanisms. Combined use may produce additive glucose-lowering effects with increased risk of hypoglycemia.",
+    "suggested_action": "Monitor blood glucose closely when combining alpha-lipoic acid with metformin. Discuss with your doctor before starting this combination.",
+    "timing_relevant": false,
+    "citations": [
+      "https://www.mskcc.org/cancer-care/integrative-medicine/herbs/alpha-lipoic-acid"
+    ],
+    "date_added": "2026-05-06"
+  },
+  {
+    "compound_a": "chromium",
+    "compound_b": "metformin",
+    "compound_a_type": "supplement",
+    "compound_b_type": "drug",
+    "interaction_type": "synergy",
+    "severity": "advisory",
+    "confidence": "medium",
+    "effect": "Chromium picolinate enhances insulin action and can lower blood glucose in a manner complementary to metformin. Combined use may have additive glucose-lowering effects, increasing the risk of hypoglycemia.",
+    "suggested_action": "Monitor blood glucose when combining chromium with metformin. Inform your doctor before starting chromium supplementation.",
+    "timing_relevant": false,
+    "citations": [
+      "https://ods.od.nih.gov/factsheets/Chromium-HealthProfessional/"
+    ],
+    "date_added": "2026-05-06"
+  },
+  {
+    "compound_a": "st_johns_wort",
+    "compound_b": "amlodipine",
+    "compound_a_type": "supplement",
+    "compound_b_type": "drug",
+    "interaction_type": "unsafe_combination",
+    "severity": "advisory",
+    "confidence": "medium",
+    "effect": "St. John's Wort is a potent inducer of CYP3A4, the enzyme primarily responsible for metabolizing amlodipine. Co-administration can significantly reduce amlodipine plasma levels, potentially reducing its blood pressure lowering effectiveness.",
+    "suggested_action": "Avoid St. John's Wort when taking amlodipine. Monitor blood pressure. Consult your doctor.",
+    "timing_relevant": false,
+    "citations": [
+      "https://www.mskcc.org/cancer-care/integrative-medicine/herbs/st-johns-wort"
+    ],
+    "date_added": "2026-05-06"
+  },
+  {
+    "compound_a": "potassium",
+    "compound_b": "lisinopril",
+    "compound_a_type": "supplement",
+    "compound_b_type": "drug",
+    "interaction_type": "unsafe_combination",
+    "severity": "critical",
+    "confidence": "medium",
+    "effect": "ACE inhibitors including lisinopril reduce urinary potassium excretion by blocking angiotensin II-mediated aldosterone secretion, raising serum potassium. Potassium supplementation in patients on lisinopril significantly increases the risk of dangerous hyperkalemia (elevated blood potassium), which can cause cardiac arrhythmias.",
+    "suggested_action": "Avoid potassium supplements while on lisinopril unless specifically directed by your doctor. Monitor potassium levels regularly.",
+    "timing_relevant": false,
+    "citations": [
+      "https://ods.od.nih.gov/factsheets/Potassium-HealthProfessional/"
+    ],
+    "date_added": "2026-05-06"
+  },
+  {
+    "compound_a": "coenzyme_q10",
+    "compound_b": "metoprolol",
+    "compound_a_type": "supplement",
+    "compound_b_type": "drug",
+    "interaction_type": "synergy",
+    "severity": "advisory",
+    "confidence": "medium",
+    "effect": "Beta-blockers including metoprolol may reduce endogenous CoQ10 levels through inhibition of CoQ10-synthesizing enzymes. CoQ10 supplementation may partially offset metoprolol-associated CoQ10 depletion.",
+    "suggested_action": "Consider CoQ10 supplementation if experiencing fatigue or reduced exercise tolerance with metoprolol. Discuss with your doctor.",
+    "timing_relevant": false,
+    "citations": [
+      "https://www.mskcc.org/cancer-care/integrative-medicine/herbs/coenzyme-q10"
+    ],
+    "date_added": "2026-05-06"
+  },
+  {
+    "compound_a": "5_htp",
+    "compound_b": "escitalopram",
+    "compound_a_type": "supplement",
+    "compound_b_type": "drug",
+    "interaction_type": "unsafe_combination",
+    "severity": "critical",
+    "confidence": "medium",
+    "effect": "5-HTP increases serotonin synthesis. Combined use with SSRIs such as escitalopram creates risk of serotonin syndrome — a potentially life-threatening condition characterized by agitation, fever, rapid heart rate, and cardiovascular instability.",
+    "suggested_action": "Avoid combining 5-HTP with escitalopram or any SSRI. Consult your doctor before use.",
+    "timing_relevant": false,
+    "citations": [
+      "https://www.mskcc.org/cancer-care/integrative-medicine/herbs/5-htp"
+    ],
+    "date_added": "2026-05-06"
+  },
+  {
+    "compound_a": "st_johns_wort",
+    "compound_b": "bupropion",
+    "compound_a_type": "supplement",
+    "compound_b_type": "drug",
+    "interaction_type": "unsafe_combination",
+    "severity": "advisory",
+    "confidence": "medium",
+    "effect": "St. John's Wort combined with bupropion may increase the risk of seizures and serotonin-related effects through combined serotonergic activity. Both lower the seizure threshold.",
+    "suggested_action": "Avoid combining St. John's Wort with bupropion. Consult your doctor before combining any herbal supplement with bupropion.",
+    "timing_relevant": false,
+    "citations": [
+      "https://www.mskcc.org/cancer-care/integrative-medicine/herbs/st-johns-wort"
+    ],
+    "date_added": "2026-05-06"
+  },
+  {
+    "compound_a": "st_johns_wort",
+    "compound_b": "montelukast",
+    "compound_a_type": "supplement",
+    "compound_b_type": "drug",
+    "interaction_type": "unsafe_combination",
+    "severity": "advisory",
+    "confidence": "medium",
+    "effect": "St. John's Wort is a potent inducer of CYP3A4 and CYP2C8/2C9 enzymes. It may significantly reduce montelukast plasma levels through enhanced hepatic metabolism, potentially decreasing its effectiveness in treating asthma or allergic rhinitis.",
+    "suggested_action": "Avoid St. John's Wort when taking montelukast. Monitor asthma or allergy symptoms for worsening. Consult your doctor.",
+    "timing_relevant": false,
+    "citations": [
+      "https://www.mskcc.org/cancer-care/integrative-medicine/herbs/st-johns-wort"
+    ],
+    "date_added": "2026-05-06"
+  },
+  {
+    "compound_a": "folic_acid",
+    "compound_b": "sertraline",
+    "compound_a_type": "supplement",
+    "compound_b_type": "drug",
+    "interaction_type": "synergy",
+    "severity": "advisory",
+    "confidence": "medium",
+    "effect": "Folate deficiency is associated with reduced response to SSRI antidepressants. Clinical evidence suggests that folic acid supplementation may enhance antidepressant response in patients on SSRIs including sertraline, particularly in those with inadequate folate status.",
+    "suggested_action": "Ensure adequate folate intake when on sertraline. Consider folic acid supplementation if response to sertraline is suboptimal. Discuss with your prescriber.",
+    "timing_relevant": false,
+    "citations": [
+      "https://ods.od.nih.gov/factsheets/Folate-HealthProfessional/"
+    ],
+    "date_added": "2026-05-06"
+  },
+  {
+    "compound_a": "vitamin_b6",
+    "compound_b": "magnesium",
+    "compound_a_type": "supplement",
+    "compound_b_type": "supplement",
+    "interaction_type": "synergy",
+    "severity": "advisory",
+    "confidence": "medium",
+    "effect": "Vitamin B6 and magnesium have a bidirectional synergistic relationship: vitamin B6 facilitates magnesium transport into cells, and magnesium is required for the conversion of vitamin B6 to its active pyridoxal-5-phosphate form. Combined supplementation is used therapeutically.",
+    "suggested_action": "Vitamin B6 and magnesium can be taken together. Standard formulations that combine them (e.g., for stress or sleep) exploit this synergy.",
+    "timing_relevant": false,
+    "citations": [
+      "https://ods.od.nih.gov/factsheets/VitaminB6-HealthProfessional/"
+    ],
+    "date_added": "2026-05-06"
+  },
+  {
+    "compound_a": "vitamin_b_complex",
+    "compound_b": "metformin",
+    "compound_a_type": "supplement",
+    "compound_b_type": "drug",
+    "interaction_type": "synergy",
+    "severity": "advisory",
+    "confidence": "medium",
+    "effect": "Metformin reduces vitamin B12 absorption, which is one of the key components of vitamin B-complex supplements. Long-term metformin use can lead to B12 deficiency. Vitamin B-complex supplementation can help offset metformin-induced B12 depletion.",
+    "suggested_action": "Consider vitamin B-complex supplementation to counteract potential B12 depletion from long-term metformin use. Monitor B12 levels periodically.",
+    "timing_relevant": false,
+    "citations": [
+      "https://ods.od.nih.gov/factsheets/VitaminB12-HealthProfessional/"
+    ],
+    "date_added": "2026-05-06"
+  },
+  {
+    "compound_a": "collagen",
+    "compound_b": "vitamin_c",
+    "compound_a_type": "supplement",
+    "compound_b_type": "supplement",
+    "interaction_type": "synergy",
+    "severity": "advisory",
+    "confidence": "high",
+    "effect": "Vitamin C is an essential cofactor for the hydroxylation of proline and lysine residues in procollagen, a critical step in collagen synthesis. Adequate vitamin C is required for normal collagen formation. Taking vitamin C alongside collagen peptide supplements may enhance the body's ability to synthesize new collagen.",
+    "suggested_action": "Take collagen supplements together with vitamin C to support collagen synthesis. Most collagen products recommend co-ingestion with vitamin C.",
+    "timing_relevant": false,
+    "citations": [
+      "https://ods.od.nih.gov/factsheets/VitaminC-HealthProfessional/"
+    ],
+    "date_added": "2026-05-06"
+  },
+  {
+    "compound_a": "biotin",
+    "compound_b": "levothyroxine",
+    "compound_a_type": "supplement",
+    "compound_b_type": "drug",
+    "interaction_type": "timing_conflict",
+    "severity": "advisory",
+    "confidence": "medium",
+    "effect": "High-dose biotin supplements (typically 10 mg or more) can cause falsely elevated thyroid hormone levels and falsely suppressed TSH on biotin-streptavidin immunoassay-based lab tests. This may lead to incorrect changes in levothyroxine dose. The FDA issued a safety communication about this in 2017.",
+    "suggested_action": "Stop biotin supplements at least 2 days before thyroid blood tests. Inform your doctor and laboratory about biotin supplementation.",
+    "timing_relevant": true,
+    "timing_window_hours": 48,
+    "citations": [
+      "https://ods.od.nih.gov/factsheets/Biotin-HealthProfessional/"
+    ],
+    "date_added": "2026-05-06"
+  },
+  {
+    "compound_a": "glucosamine",
+    "compound_b": "warfarin",
+    "compound_a_type": "supplement",
+    "compound_b_type": "drug",
+    "interaction_type": "unsafe_combination",
+    "severity": "advisory",
+    "confidence": "medium",
+    "effect": "Glucosamine may potentiate warfarin's anticoagulant effect. Multiple case reports describe significant INR elevation in patients on stable warfarin therapy who began glucosamine supplementation.",
+    "suggested_action": "Monitor INR closely when starting or stopping glucosamine with warfarin. Report any unusual bruising or bleeding to your doctor.",
+    "timing_relevant": false,
+    "citations": [
+      "https://www.mskcc.org/cancer-care/integrative-medicine/herbs/glucosamine"
+    ],
+    "date_added": "2026-05-06"
+  },
+  {
+    "compound_a": "chondroitin",
+    "compound_b": "warfarin",
+    "compound_a_type": "supplement",
+    "compound_b_type": "drug",
+    "interaction_type": "unsafe_combination",
+    "severity": "advisory",
+    "confidence": "medium",
+    "effect": "Chondroitin sulfate is structurally similar to heparin and may have mild anticoagulant properties. Chondroitin (often combined with glucosamine) may potentiate warfarin's anticoagulant effect, increasing bleeding risk.",
+    "suggested_action": "Monitor INR closely if taking chondroitin (often as glucosamine-chondroitin) with warfarin. Report unusual bleeding to your doctor.",
+    "timing_relevant": false,
+    "citations": [
+      "https://medlineplus.gov/druginfo/natural/744.html"
+    ],
+    "date_added": "2026-05-06"
+  },
+  {
+    "compound_a": "echinacea",
+    "compound_b": "warfarin",
+    "compound_a_type": "supplement",
+    "compound_b_type": "drug",
+    "interaction_type": "unsafe_combination",
+    "severity": "advisory",
+    "confidence": "medium",
+    "effect": "Echinacea has immunomodulating properties and may affect CYP450 enzyme activity, potentially altering warfarin metabolism in unpredictable ways. Some sources report increased INR; others suggest possible reduction in warfarin effectiveness.",
+    "suggested_action": "Inform your doctor about echinacea use when on warfarin. Monitor INR for unexpected changes in either direction.",
+    "timing_relevant": false,
+    "citations": [
+      "https://www.mskcc.org/cancer-care/integrative-medicine/herbs/echinacea"
+    ],
+    "date_added": "2026-05-06"
+  },
+  {
+    "compound_a": "black_cohosh",
+    "compound_b": "warfarin",
+    "compound_a_type": "supplement",
+    "compound_b_type": "drug",
+    "interaction_type": "unsafe_combination",
+    "severity": "advisory",
+    "confidence": "medium",
+    "effect": "Black cohosh may have anticoagulant properties and can interact with warfarin. Case reports have described bleeding complications and INR elevation in patients taking anticoagulants concurrently with black cohosh.",
+    "suggested_action": "Monitor INR if combining black cohosh with warfarin. Inform your doctor. Avoid black cohosh before surgery.",
+    "timing_relevant": false,
+    "citations": [
+      "https://ods.od.nih.gov/factsheets/BlackCohosh-HealthProfessional/"
+    ],
+    "date_added": "2026-05-06"
+  },
+  {
+    "compound_a": "saw_palmetto",
+    "compound_b": "warfarin",
+    "compound_a_type": "supplement",
+    "compound_b_type": "drug",
+    "interaction_type": "unsafe_combination",
+    "severity": "advisory",
+    "confidence": "medium",
+    "effect": "Saw palmetto may inhibit platelet aggregation and has anticoagulant properties. Case reports describe elevated INR and postoperative bleeding in patients taking saw palmetto with anticoagulant therapy.",
+    "suggested_action": "Discontinue saw palmetto at least 2 weeks before surgery. Monitor INR if taking with warfarin. Inform your doctor.",
+    "timing_relevant": false,
+    "citations": [
+      "https://www.mskcc.org/cancer-care/integrative-medicine/herbs/saw-palmetto"
+    ],
+    "date_added": "2026-05-06"
+  },
+  {
+    "compound_a": "rhodiola_rosea",
+    "compound_b": "warfarin",
+    "compound_a_type": "supplement",
+    "compound_b_type": "drug",
+    "interaction_type": "unsafe_combination",
+    "severity": "advisory",
+    "confidence": "medium",
+    "effect": "Rhodiola rosea may affect CYP3A4 metabolism, potentially altering warfarin levels. Additionally, rhodiola may have mild antiplatelet effects that could contribute to increased bleeding risk when combined with anticoagulants.",
+    "suggested_action": "Monitor INR if combining rhodiola rosea with warfarin. Inform your doctor about any herbal supplement use.",
+    "timing_relevant": false,
+    "citations": [
+      "https://www.mskcc.org/cancer-care/integrative-medicine/herbs/rhodiola"
+    ],
+    "date_added": "2026-05-06"
+  },
+  {
+    "compound_a": "elderberry",
+    "compound_b": "warfarin",
+    "compound_a_type": "supplement",
+    "compound_b_type": "drug",
+    "interaction_type": "unsafe_combination",
+    "severity": "advisory",
+    "confidence": "medium",
+    "effect": "Elderberry has immunomodulating and potential mild antiplatelet properties. When taken with anticoagulants such as warfarin, elderberry may contribute to increased bleeding risk through additive effects on platelet function.",
+    "suggested_action": "Inform your doctor about elderberry supplementation when on warfarin. Monitor INR for changes.",
+    "timing_relevant": false,
+    "citations": [
+      "https://www.mskcc.org/cancer-care/integrative-medicine/herbs/elderberry"
+    ],
+    "date_added": "2026-05-06"
+  },
+  {
+    "compound_a": "creatine",
+    "compound_b": "hydrochlorothiazide",
+    "compound_a_type": "supplement",
+    "compound_b_type": "drug",
+    "interaction_type": "unsafe_combination",
+    "severity": "advisory",
+    "confidence": "medium",
+    "effect": "Creatine supplementation increases intramuscular water retention, which conflicts with hydrochlorothiazide's diuretic action and may increase the risk of dehydration and electrolyte imbalance. Additionally, creatine metabolism produces creatinine, which may interfere with kidney function monitoring in patients on hydrochlorothiazide.",
+    "suggested_action": "Maintain adequate hydration when combining creatine with hydrochlorothiazide. Inform your doctor about creatine use before kidney function tests.",
+    "timing_relevant": false,
+    "citations": [
+      "https://www.mskcc.org/cancer-care/integrative-medicine/herbs/creatine"
+    ],
+    "date_added": "2026-05-06"
+  },
+  {
+    "compound_a": "selenium",
+    "compound_b": "warfarin",
+    "compound_a_type": "supplement",
+    "compound_b_type": "drug",
+    "interaction_type": "unsafe_combination",
+    "severity": "advisory",
+    "confidence": "medium",
+    "effect": "High-dose selenium supplementation may potentiate the anticoagulant effect of warfarin through modulation of platelet aggregation and effects on coagulation factor synthesis.",
+    "suggested_action": "Avoid high-dose selenium supplements with warfarin. Monitor INR. Stay within tolerable upper intake levels (400 mcg/day).",
+    "timing_relevant": false,
+    "citations": [
+      "https://ods.od.nih.gov/factsheets/Selenium-HealthProfessional/"
+    ],
+    "date_added": "2026-05-06"
+  },
+  {
+    "compound_a": "phosphatidylserine",
+    "compound_b": "warfarin",
+    "compound_a_type": "supplement",
+    "compound_b_type": "drug",
+    "interaction_type": "unsafe_combination",
+    "severity": "advisory",
+    "confidence": "medium",
+    "effect": "Phosphatidylserine may have mild anticoagulant effects, potentially potentiating warfarin's anticoagulant action when combined, increasing the risk of bleeding.",
+    "suggested_action": "Monitor INR if taking phosphatidylserine with warfarin. Inform your doctor about phosphatidylserine supplementation.",
+    "timing_relevant": false,
+    "citations": [
+      "https://www.mskcc.org/cancer-care/integrative-medicine/herbs/phosphatidylserine"
+    ],
+    "date_added": "2026-05-06"
+  },
+  {
+    "compound_a": "lions_mane",
+    "compound_b": "warfarin",
+    "compound_a_type": "supplement",
+    "compound_b_type": "drug",
+    "interaction_type": "unsafe_combination",
+    "severity": "advisory",
+    "confidence": "medium",
+    "effect": "Limited laboratory evidence on Hericium erinaceus (lion's mane) mushroom shows it has minimal direct antiplatelet activity in vitro, but clinical interaction data with anticoagulants is lacking. The immunomodulatory beta-glucan content may have unpredictable effects in patients on warfarin.",
+    "suggested_action": "Use caution when combining lion's mane with warfarin or other anticoagulants. Clinical interaction data is limited. Inform your doctor.",
+    "timing_relevant": false,
+    "citations": [
+      "https://pubmed.ncbi.nlm.nih.gov/31842490/"
+    ],
+    "date_added": "2026-05-06"
+  },
+  {
+    "compound_a": "nmn",
+    "compound_b": "metformin",
+    "compound_a_type": "supplement",
+    "compound_b_type": "drug",
+    "interaction_type": "synergy",
+    "severity": "advisory",
+    "confidence": "medium",
+    "effect": "NMN (nicotinamide mononucleotide) and metformin share renal organic cation transporter pathways (OCT2/MATE). Both also influence cellular energy metabolism: NMN boosts NAD+ levels supporting mitochondrial function, while metformin activates AMPK through complex I inhibition. Combined use may produce complementary metabolic effects.",
+    "suggested_action": "Monitor blood glucose when combining NMN supplementation with metformin. Discuss with your doctor before combining these agents. Clinical interaction data is limited.",
+    "timing_relevant": false,
+    "citations": [
+      "https://pubmed.ncbi.nlm.nih.gov/35527512/"
+    ],
+    "date_added": "2026-05-06"
+  }
+]

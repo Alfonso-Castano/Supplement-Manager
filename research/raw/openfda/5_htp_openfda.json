@@ -1,0 +1,7850 @@
+{
+  "canonical_name": "5_htp",
+  "query_variants": [
+    "5 HTP",
+    "5-HYDROXYTRYPTOPHAN",
+    "5-HTP",
+    "L-5-HTP"
+  ],
+  "total_reports_fetched": 278,
+  "co_occurrence_reports": 278,
+  "co_occurrences": [
+    {
+      "drugs": [
+        "LOVAZA",
+        "CRESTOR",
+        "TELMISARTAN + HYDROCHLOROTHIAZIDE",
+        "TEKTURNA",
+        "MOBIC",
+        "NEXIUM",
+        "SYNTHROID",
+        "SINGULAIR",
+        "ALLEGRA",
+        "VITAMIN D",
+        "KLONOPIN",
+        "PROZAC",
+        "BABY ASPIRIN",
+        "MULTIVITAMIN",
+        "5-HTP",
+        "CONCURRENT MEDICATIONS"
+      ],
+      "reactions": [
+        "Diabetes mellitus"
+      ],
+      "report_id": "10079746"
+    },
+    {
+      "drugs": [
+        "NUTRASEA HP (OMEGA-3 MARINE TRIGLYCERIDES)",
+        "5-HTP (OXITRIPTAN)",
+        "TYLENOL",
+        "PROMETRIUM",
+        "ESTROGEL",
+        "ESTROGEL",
+        "ESTROGEL"
+      ],
+      "reactions": [
+        "Plantar fasciitis",
+        "Migraine with aura",
+        "Neuralgia",
+        "Product use in unapproved indication",
+        "Product use issue",
+        "Oedema",
+        "Breast pain",
+        "Underdose"
+      ],
+      "report_id": "10173967"
+    },
+    {
+      "drugs": [
+        "LITHIUM CARBONATE.",
+        "ESTROVEN",
+        "ZOFRAN",
+        "GABA",
+        "MULTIVITAMINS",
+        "5 HTP",
+        "VITAMIN D",
+        "LITHIUM CARBONATE.",
+        "SONATA",
+        "OMEPRAZOLE.",
+        "EPS JARRODOPHILUS",
+        "FISH OIL",
+        "RANITIDINE HCL",
+        "ADDERALL XR",
+        "DIGESTIVE ENZYMES",
+        "L GLUTAMINE",
+        "CALCIUM-MAGNESIUM-VITAMIN D",
+        "SEROQUEL",
+        "L TYROSINE",
+        "HYDROCODONE ACETAMINOPHEN",
+        "ATROVENT HFA",
+        "ALPRAZOLAM.",
+        "ZOLOFT",
+        "VALERIAN ROOT",
+        "INOSITOL",
+        "ABILIFY",
+        "MIRAPEX"
+      ],
+      "reactions": [
+        "Tremor",
+        "Self injurious behaviour",
+        "Anxiety",
+        "Tic",
+        "Hypomania",
+        "Drug hypersensitivity",
+        "Disturbance in attention",
+        "Activities of daily living impaired",
+        "Depression",
+        "Social avoidant behaviour",
+        "Fibromyalgia"
+      ],
+      "report_id": "10366047"
+    },
+    {
+      "drugs": [
+        "MULTI-VITAMIN",
+        "VITAMIN B COMPLEX",
+        "FLONASE",
+        "FISH OIL",
+        "5-HTP",
+        "LUPRON DEPOT",
+        "EXTRA D VITAMIN D",
+        "MAGNESIUM/POTASSIUM COMBINATION",
+        "MILK THISTLE",
+        "RESOLVE HERBAL COMBINATION",
+        "IRON",
+        "SAFFRON"
+      ],
+      "reactions": [
+        "Migraine",
+        "Depression",
+        "Weight decreased"
+      ],
+      "report_id": "10546979"
+    },
+    {
+      "drugs": [
+        "CRANBERRY SUPPLEMENTS",
+        "VITAMIN 5 HTP",
+        "PLAN B ONE-STEP",
+        "VITAMIN B1"
+      ],
+      "reactions": [
+        "Coital bleeding",
+        "Menstruation irregular"
+      ],
+      "report_id": "10616553"
+    },
+    {
+      "drugs": [
+        "DULOXETINE HYDROCHLORIDE.",
+        "GABAPENTIN.",
+        "DULOXETINE HYDROCHLORIDE.",
+        "5-HTP"
+      ],
+      "reactions": [
+        "Insomnia",
+        "Disturbance in attention",
+        "Nausea",
+        "Bruxism",
+        "Dysphonia",
+        "Suicidal ideation",
+        "Dizziness",
+        "Anxiety",
+        "Night sweats",
+        "Intentional product misuse",
+        "Dry mouth",
+        "Fatigue",
+        "Decreased appetite",
+        "Tremor"
+      ],
+      "report_id": "10662698"
+    },
+    {
+      "drugs": [
+        "FOLIC ACID.",
+        "VITAMIN E",
+        "BIOTIN",
+        "ARGININE",
+        "MAGNESIUM",
+        "PLAN B ONE-STEP",
+        "FOLIC ACID.",
+        "MULTIVITAMIN",
+        "FISH OIL",
+        "FISH OIL",
+        "VITAMIN D3",
+        "LYSINE",
+        "VITAMIN 5-HTP",
+        "VITAMIN E",
+        "VITAMIN D3",
+        "LYSINE",
+        "BIOTIN"
+      ],
+      "reactions": [
+        "Menstruation irregular"
+      ],
+      "report_id": "10740887"
+    },
+    {
+      "drugs": [
+        "PREGNENOLONE",
+        "5-HTP",
+        "MELATONIN",
+        "CELLCEPT",
+        "PREDNISON",
+        "NOVOTHYRAL",
+        "VI-DE 3",
+        "ZALDIAR",
+        "DHEA",
+        "SANDIMMUNE",
+        "MAGNESIOCARD",
+        "ESOMEPRAZOL",
+        "OPIUM"
+      ],
+      "reactions": [
+        "Cytomegalovirus test positive",
+        "Respiratory syncytial virus infection"
+      ],
+      "report_id": "10801202"
+    },
+    {
+      "drugs": [
+        "OXYCODONE",
+        "MIRALAX",
+        "OXYCONTIN",
+        "DIAZEPAM.",
+        "NATURAL FIBRE",
+        "5-HTP",
+        "MAXALT",
+        "NEXIUM",
+        "EX LAX",
+        "HUMIRA",
+        "DIAZEPAM.",
+        "FENOFIBRATE.",
+        "VITAMINS NOS",
+        "STOOL SOFTENER"
+      ],
+      "reactions": [
+        "Fatigue",
+        "Weight increased",
+        "Peripheral swelling",
+        "Peripheral swelling"
+      ],
+      "report_id": "10806305"
+    },
+    {
+      "drugs": [
+        "ST. JOHN^S WORT",
+        "5-HTP",
+        "HYDROCODONE/ACETAMINOPHEN",
+        "HYDROCODONE/ACETAMINOPHEN",
+        "ADVAIR HFA",
+        "SIMVASTATIN.",
+        "LEVOTHYROXINE",
+        "TYROSINE",
+        "IBUPROFEN.",
+        "PLACEBO",
+        "SAW PALMETTO",
+        "CINNAMON.",
+        "GINKO BILOBA",
+        "CHROMIUM",
+        "NEXIUM",
+        "LISINOPRIL.",
+        "GARLIC.",
+        "FLEXERIL",
+        "NEXIUM",
+        "METFORMIN",
+        "MELATONIN",
+        "PLACEBO",
+        "LORAZEPAM."
+      ],
+      "reactions": [
+        "Suicide attempt",
+        "Overdose",
+        "Depression",
+        "Chest pain"
+      ],
+      "report_id": "10846480"
+    },
+    {
+      "drugs": [
+        "5-HTP",
+        "PAXIL",
+        "ONDANSETRON",
+        "XYREM",
+        "PROGESTERONE.",
+        "MOTRIN IB",
+        "ATIVAN",
+        "CYANOCOBALAMIN.",
+        "TAURINE",
+        "TRYPTOPHAN",
+        "XYREM",
+        "PRILOSEC",
+        "VITAMIN C",
+        "XYREM",
+        "VITAMIN B6",
+        "PREDNISONE."
+      ],
+      "reactions": [
+        "Off label use",
+        "Lower limb fracture"
+      ],
+      "report_id": "10872047"
+    },
+    {
+      "drugs": [
+        "WHEY PROTEIN",
+        "VYVANSE",
+        "5 HTP                              /00439301/",
+        "L-GLUTAMINE                        /00503401/",
+        "B6",
+        "B COMPLEX B12",
+        "VYVANSE",
+        "MULTIVITAMIN                       /07504101/",
+        "TAURINE",
+        "L-GLUTAMINE                        /00503401/"
+      ],
+      "reactions": [
+        "Product quality issue",
+        "Palpitations",
+        "Drug effect decreased"
+      ],
+      "report_id": "10922054"
+    },
+    {
+      "drugs": [
+        "CONCERTA",
+        "5 HTP",
+        "CONCERTA"
+      ],
+      "reactions": [
+        "Drug ineffective"
+      ],
+      "report_id": "10928974"
+    },
+    {
+      "drugs": [
+        "PROZAC",
+        "PAXIL",
+        "UDO^S SUPER8 PROBIOTIC",
+        "LIPOSOMAL GABA",
+        "L-TRYPTOPHAN",
+        "C-COMPLEX",
+        "NORDIC NATURALS PROEFA OMEGAS",
+        "LICORICE EXTRACT",
+        "KIRKMAN ADULT MULTIVITAMIN AND MINERAL",
+        "VITAMIN B COMPLEX",
+        "VITAMIN D",
+        "PHENITROPIC",
+        "VITAMIN E",
+        "MAGNESIUM",
+        "5-HTP"
+      ],
+      "reactions": [
+        "Panic attack",
+        "Anhedonia",
+        "Acne",
+        "Educational problem",
+        "Agoraphobia",
+        "Dysphemia",
+        "Dizziness",
+        "Myalgia",
+        "Sensory disturbance",
+        "Irritability",
+        "Time perception altered",
+        "Confusional state",
+        "Diarrhoea",
+        "Gastrooesophageal reflux disease",
+        "Hyperaesthesia",
+        "Photophobia",
+        "Dysgeusia",
+        "Anxiety",
+        "Agitation",
+        "Inappropriate affect",
+        "Fatigue",
+        "Drug withdrawal syndrome",
+        "Depression",
+        "Amnesia",
+        "Urinary tract infection",
+        "Loss of consciousness",
+        "Disturbance in attention",
+        "Paraesthesia",
+        "Temperature regulation disorder",
+        "Immunodeficiency",
+        "Hyperhidrosis",
+        "Arthralgia",
+        "Exaggerated startle response",
+        "Penis disorder",
+        "Head discomfort",
+        "Tardive dyskinesia",
+        "Crying",
+        "Activities of daily living impaired",
+        "Language disorder",
+        "Hyperacusis",
+        "Disturbance in sexual arousal",
+        "Weight decreased"
+      ],
+      "report_id": "10967019"
+    },
+    {
+      "drugs": [
+        "SOVALDI",
+        "AUGMENTIN",
+        "MULTIVITAMIN                       /07504101/",
+        "RIBAVIRIN.",
+        "HYDROXYTRYPTOPHAN 5 HTP",
+        "OMEPRAZOLE."
+      ],
+      "reactions": [
+        "Agitation",
+        "Tremor",
+        "Inappropriate affect",
+        "Skin burning sensation",
+        "Disorientation",
+        "Influenza like illness",
+        "Chills"
+      ],
+      "report_id": "11023297"
+    },
+    {
+      "drugs": [
+        "SALMON OIL",
+        "XARELTO",
+        "EDTA",
+        "XARELTO",
+        "LISINOPRIL.",
+        "PSYLLIUM HUSK",
+        "SUPER B COMPLEX",
+        "5 HTP",
+        "METOPROLOL"
+      ],
+      "reactions": [
+        "Inappropriate schedule of drug administration",
+        "Nasopharyngitis"
+      ],
+      "report_id": "11034403"
+    },
+    {
+      "drugs": [
+        "OXYMORPHONE ER",
+        "COQ10",
+        "MULTIVITAMIN",
+        "OXYMORPHONE ER",
+        "PREDNISONE.",
+        "URIBEL",
+        "D3",
+        "FLAX OIL",
+        "5-HTP",
+        "VITAMIN B12",
+        "OXYCONTIN",
+        "OMEPRAZOLE.",
+        "FOLIC ACID.",
+        "MAGNESIUM MALATE",
+        "ACIDOPHILUS",
+        "METHOTREXATE",
+        "QUERCETIN/NETTLE",
+        "OXYMORPHONE ER",
+        "OPANA ER",
+        "L-LYSINE"
+      ],
+      "reactions": [
+        "Product solubility abnormal",
+        "Drug effect decreased",
+        "Dizziness",
+        "Malaise",
+        "Chest discomfort",
+        "Product substitution issue",
+        "Disorientation",
+        "Product quality issue",
+        "Product physical issue",
+        "Breakthrough pain"
+      ],
+      "report_id": "11077998"
+    },
+    {
+      "drugs": [
+        "AMPYRA",
+        "HYDROXYZINE HCL",
+        "TEGADERM",
+        "METHIMAZOLE.",
+        "NUEDEXTA",
+        "SOLU-MEDROL",
+        "ACYCLOVIR.",
+        "CLONAZEPAM.",
+        "EMLA",
+        "TRAMADOL",
+        "5-HTP",
+        "VESICARE",
+        "VITAMIN D",
+        "ALEMTUZUMAB",
+        "ALEMTUZUMAB",
+        "BACLOFEN.",
+        "GABAPENTIN."
+      ],
+      "reactions": [
+        "Muscular weakness",
+        "Dysphonia",
+        "Condition aggravated",
+        "Basedow^s disease"
+      ],
+      "report_id": "11090493"
+    },
+    {
+      "drugs": [
+        "KUVAN",
+        "SINEMET",
+        "5-HTP                              /00439301/"
+      ],
+      "reactions": [
+        "Irritability"
+      ],
+      "report_id": "11090768"
+    },
+    {
+      "drugs": [
+        "NUVIGIL",
+        "XYREM",
+        "5-HTP",
+        "S-ADENOSYLMETHIONINE SULFATE P-TOLUENESULFONATE",
+        "EXCEDRIN",
+        "FIORICET",
+        "IBUPROFEN."
+      ],
+      "reactions": [
+        "Snoring",
+        "Sleep apnoea syndrome"
+      ],
+      "report_id": "11093808"
+    },
+    {
+      "drugs": [
+        "WARFARIN",
+        "AMLODIPINE",
+        "5 HTP",
+        "CARVEDILOL.",
+        "COUMADIN",
+        "OMEPRAZOLE.",
+        "HYDROCODONE BITARTRATE AND ACETAMINOPHEN",
+        "LYRICA",
+        "LYRICA",
+        "WARFARIN",
+        "CINNAMON AND CHROMIUM",
+        "CITALOPRAM",
+        "DOCUSATE SODIUM.",
+        "SIMVASTATIN."
+      ],
+      "reactions": [
+        "Cardiac disorder",
+        "Vaginal haemorrhage",
+        "Drug ineffective",
+        "Product label issue",
+        "Haemorrhage",
+        "Cerebrovascular accident",
+        "Vaginal haemorrhage",
+        "Diabetes mellitus",
+        "Thrombosis",
+        "Vaginal haemorrhage"
+      ],
+      "report_id": "11106422"
+    },
+    {
+      "drugs": [
+        "L-LYSINE",
+        "OMAPRAZOLE",
+        "PREDNISONE.",
+        "OXYMORPHONE ER",
+        "OMAPRAZOLE",
+        "OPANA ER/OXYMORPHONE ER",
+        "5-HTP",
+        "VITAMIN B12",
+        "FLAX OIL CAPSULES",
+        "OXYCONIN IR",
+        "QUEROETIN/NETTLE",
+        "COQ10",
+        "FOLIC ACID.",
+        "MULTIVITAMIN",
+        "METHOTREXATE",
+        "URIBEL",
+        "D3",
+        "MAGNESIUM MALATE",
+        "OXYMORPHONE ER",
+        "OXYMORPHONE ER"
+      ],
+      "reactions": [
+        "Product substitution issue",
+        "Feeling abnormal",
+        "Drug effect incomplete",
+        "Drug effect decreased",
+        "Nausea",
+        "Product formulation issue",
+        "Chest discomfort",
+        "Overdose",
+        "Poor quality sleep",
+        "Dyspnoea",
+        "Fear",
+        "Dizziness",
+        "Euphoric mood",
+        "Product quality issue",
+        "Activities of daily living impaired"
+      ],
+      "report_id": "11111941"
+    },
+    {
+      "drugs": [
+        "BOTOX",
+        "IRON",
+        "IGG SUPPORT",
+        "5 HTP",
+        "VITAMIN D",
+        "OMEGA 3 FISH OILS",
+        "TRAZODONE",
+        "MAGNESIUM",
+        "PRENATAL VITAMIN",
+        "SOMA",
+        "NORCO"
+      ],
+      "reactions": [
+        "Influenza like illness",
+        "Abdominal pain upper",
+        "Dyspnoea",
+        "Depression",
+        "Insomnia",
+        "Polymenorrhoea",
+        "Chest pain",
+        "Asthenia",
+        "Muscle tightness",
+        "Muscle spasms",
+        "Speech disorder",
+        "Anxiety",
+        "Bladder disorder",
+        "Dysphagia",
+        "Presyncope",
+        "Hyperhidrosis",
+        "Thinking abnormal",
+        "Nausea",
+        "Pyrexia"
+      ],
+      "report_id": "11115210"
+    },
+    {
+      "drugs": [
+        "5-HTP",
+        "D3",
+        "CARVEDILOL.",
+        "CQ-10",
+        "METFORMIN",
+        "KRILL",
+        "DILTIAZEM",
+        "VITAMIN B COMPLEX",
+        "PRAVACHOL",
+        "ASA",
+        "LANTUS",
+        "MG"
+      ],
+      "reactions": [
+        "Dysstasia",
+        "Dyspepsia",
+        "Muscle spasms",
+        "Mental impairment",
+        "Memory impairment",
+        "Neck pain",
+        "Muscular weakness",
+        "Gait disturbance",
+        "Musculoskeletal pain",
+        "Constipation"
+      ],
+      "report_id": "11116463"
+    },
+    {
+      "drugs": [
+        "WARFARIN",
+        "5 HTP",
+        "LYRICA",
+        "AMLODIPINE",
+        "SIMVASTATIN.",
+        "HYDROCODONE BITARTRATE AND ACETAMINOPHEN",
+        "CITALOPRAM",
+        "5 HTP",
+        "CARVEDILOL.",
+        "OMEPRAZOLE.",
+        "DOCUSATE SODIUM.",
+        "CINNAMON AND CHROMIUM"
+      ],
+      "reactions": [
+        "Type 2 diabetes mellitus"
+      ],
+      "report_id": "11116701"
+    },
+    {
+      "drugs": [
+        "5 HTP",
+        "DOCUSATE SODIUM.",
+        "CITALOPRAM",
+        "AMLODIPINE",
+        "CINNAMON AND CHROMIUM",
+        "5 HTP",
+        "OMEPRAZOLE.",
+        "LYRICA",
+        "CARVEDILOL.",
+        "SIMVASTATIN.",
+        "HYDROCODONE BITARTRATE AND ACETAMINOPHEN"
+      ],
+      "reactions": [
+        "Drug ineffective"
+      ],
+      "report_id": "11117040"
+    },
+    {
+      "drugs": [
+        "IMITREX",
+        "KEFLEX",
+        "ZITHROMAX",
+        "NYSTATIN.",
+        "MULTIVITAMINS",
+        "CLARITIN",
+        "5-HTP",
+        "IPRATROPIUM BROMIDE.",
+        "CIPRO",
+        "LEVAQUIN",
+        "CODEINE",
+        "VERAMYST",
+        "VIAGRA",
+        "ALBUTEROL SULFATE.",
+        "MEDROL",
+        "TESSALON",
+        "TRAMADOL HYDROCHLORIDE.",
+        "ZYRTEC",
+        "ULTRAVATE"
+      ],
+      "reactions": [
+        "Meniscus injury",
+        "Arthralgia"
+      ],
+      "report_id": "11135191"
+    },
+    {
+      "drugs": [
+        "MILK THISTLE",
+        "MIRALAX",
+        "CALCIUM",
+        "BIOTIN",
+        "5-HTP",
+        "PROBIOTIC",
+        "VITAMIN K",
+        "HARVONI",
+        "VITAMIN D",
+        "SUMATRIPTAN."
+      ],
+      "reactions": [
+        "Fatigue",
+        "Headache",
+        "Retching"
+      ],
+      "report_id": "11135639"
+    },
+    {
+      "drugs": [
+        "WARFARIN",
+        "CITALOPRAM",
+        "CHROMIUM",
+        "LYRICA",
+        "OMEPRAZOLE.",
+        "CINNAMON.",
+        "5-HTP",
+        "DOCUSATE SODIUM.",
+        "SIMVASTATIN.",
+        "HYDROCODONE BITARTRATE AND ACETAMINOPHEN",
+        "FUROSEMIDE TABLETS 20MG",
+        "CARVEDILOL.",
+        "AMLODIPINE"
+      ],
+      "reactions": [
+        "Cerebrovascular accident",
+        "Thrombosis",
+        "Cardiac pacemaker insertion",
+        "Vaginal haemorrhage",
+        "Vaginal haemorrhage"
+      ],
+      "report_id": "11144136"
+    },
+    {
+      "drugs": [
+        "KUVAN",
+        "MADOPAR",
+        "KUVAN",
+        "5-HTP                              /00439301/"
+      ],
+      "reactions": [
+        "Tremor",
+        "Liver injury",
+        "Lipids increased",
+        "Counterfeit drug administered"
+      ],
+      "report_id": "11167893"
+    },
+    {
+      "drugs": [
+        "MULTIVITAMIN                       /00097801/",
+        "5-HTP                              /00439301/",
+        "TYLENOL",
+        "CIPRALEX",
+        "SOYA LECITHIN",
+        "GLUCOSAMINE CHONDROITIN MSM",
+        "TRUVADA",
+        "VIMOVO",
+        "VITAMIN B COMPLEX",
+        "WELLBUTRIN",
+        "REACTINE                           /00884302/",
+        "SENOKOT-S",
+        "VALACYCLOVIR",
+        "PROBIOTIC                          /06395501/",
+        "ZOPICLONE"
+      ],
+      "reactions": [
+        "Off label use",
+        "HIV infection",
+        "Drug ineffective",
+        "Multiple-drug resistance"
+      ],
+      "report_id": "11186221"
+    },
+    {
+      "drugs": [
+        "MULTIVITAMINS",
+        "CELECOXIB.",
+        "5-HTP",
+        "CELECOXIB.",
+        "CELECOXIB.",
+        "FISH OIL",
+        "KEFLEX",
+        "OMEGA 3-6-9"
+      ],
+      "reactions": [
+        "Diarrhoea",
+        "Dysstasia",
+        "Drug effect incomplete",
+        "Pain",
+        "Ulcer",
+        "Pain in extremity",
+        "Epistaxis",
+        "Nausea",
+        "Abdominal pain upper",
+        "Abdominal pain"
+      ],
+      "report_id": "11189991"
+    },
+    {
+      "drugs": [
+        "SYNTHROID",
+        "HYDROXYTRYPTOPHAN 5 HTP",
+        "TORLOS-H",
+        "CONCOR PLUS",
+        "SYNTHROID",
+        "SYNTHROID",
+        "GLIFAGE",
+        "FENOFIBRATE.",
+        "ALDACTONE",
+        "ANACAPS",
+        "SYNTHROID"
+      ],
+      "reactions": [
+        "Diabetes mellitus",
+        "Thyroid neoplasm"
+      ],
+      "report_id": "11240672"
+    },
+    {
+      "drugs": [
+        "ASPIRIN.",
+        "TOPROL XL",
+        "PRILOSEC",
+        "MELATONIN",
+        "L-CYSTEINE                         /00164801/",
+        "INDERAL",
+        "LIPITOR",
+        "MULTI-VIT",
+        "VITAMIN B COMPLEX",
+        "L-LYSINE",
+        "EFFIENT",
+        "LISINOPRIL.",
+        "SYNTHROID",
+        "XANAX",
+        "PERCOCET",
+        "VITAMIN C",
+        "5-HTP",
+        "VITAMIN D3"
+      ],
+      "reactions": [
+        "Asthenia",
+        "Fatigue",
+        "Joint injury",
+        "Contusion",
+        "Anxiety",
+        "Panic attack"
+      ],
+      "report_id": "11299172"
+    },
+    {
+      "drugs": [
+        "5 HTP",
+        "LORAZEPAM.",
+        "FISH OIL",
+        "SYNTHROID",
+        "CALCIUM",
+        "GLUTAMINE"
+      ],
+      "reactions": [
+        "Nervousness"
+      ],
+      "report_id": "11313224"
+    },
+    {
+      "drugs": [
+        "VITAMIN D3",
+        "CALCIUM",
+        "FLONASE",
+        "LOSARTAN POTASSIUM.",
+        "FLONASE",
+        "5-HTP",
+        "FLONASE",
+        "EYEBRIGHT",
+        "INSULIN PUMP",
+        "ADVIL ALLERGY AND CONGESTION RELIEF",
+        "FISH OIL",
+        "NOVOLOG INSULIN",
+        "MAGNESIUM",
+        "COQ10"
+      ],
+      "reactions": [
+        "Physical product label issue",
+        "Anger",
+        "Anxiety",
+        "Irritability",
+        "Mood swings",
+        "Blood glucose increased",
+        "Menstrual disorder",
+        "Dyspnoea",
+        "Depressed level of consciousness",
+        "Insomnia"
+      ],
+      "report_id": "11394019"
+    },
+    {
+      "drugs": [
+        "KLONOPIN",
+        "REGLAN",
+        "REGLAN",
+        "FISH OIL",
+        "STRIBILD",
+        "SEROQUEL",
+        "BUSPIRONE",
+        "PROPRANOLOL",
+        "5 HTP                              /00439301/",
+        "EFFEXOR",
+        "TEMAZEPAM.",
+        "PROVIGIL",
+        "VITAMIN D                          /00107901/",
+        "LIPITOR",
+        "AMBIEN",
+        "MARINOL                            /00003301/"
+      ],
+      "reactions": [
+        "Abdominal pain",
+        "Pyrexia"
+      ],
+      "report_id": "11414359"
+    },
+    {
+      "drugs": [
+        "MELATONIN",
+        "CYMBALTA",
+        "5-HTP",
+        "ATIVAN"
+      ],
+      "reactions": [
+        "Drug ineffective",
+        "Thyroid disorder",
+        "Drug interaction",
+        "Adrenal insufficiency"
+      ],
+      "report_id": "11454295"
+    },
+    {
+      "drugs": [
+        "5-HTP",
+        "CYMBALTA",
+        "CYMBALTA"
+      ],
+      "reactions": [
+        "Drug prescribing error"
+      ],
+      "report_id": "11462942"
+    },
+    {
+      "drugs": [
+        "FIORICET",
+        "NUVIGIL",
+        "XYREM",
+        "EXCEDRIN",
+        "IBUPROFEN.",
+        "S-ADENOSYLMETHIONINE SULFATE P-TOLUENESULFONATE",
+        "5-HTP"
+      ],
+      "reactions": [
+        "Apnoea",
+        "Snoring"
+      ],
+      "report_id": "11473436"
+    },
+    {
+      "drugs": [
+        "XYREM",
+        "XYREM",
+        "XYREM",
+        "5-HTP [OXITRIPTAN;PYRIDOXINE HYDROCHLORIDE;VALERIANA OFFICINALIS ROOT]",
+        "CEFIXIME",
+        "INOSITOL",
+        "NITROFURANTOIN",
+        "ULTRAM",
+        "ZOLOFT",
+        "FLUOXETINE"
+      ],
+      "reactions": [
+        "Snoring",
+        "Post-traumatic stress disorder",
+        "Condition aggravated",
+        "Anxiety",
+        "Depression",
+        "Lyme disease",
+        "Lipoma"
+      ],
+      "report_id": "11474230"
+    },
+    {
+      "drugs": [
+        "5 HTP",
+        "ADRENAL",
+        "FLEXERIL",
+        "LICORICE.",
+        "ARMOUR THYROID",
+        "NEURONTIN",
+        "XYREM",
+        "SYNTHROID",
+        "MULTIVITAMIN",
+        "COPAXONE",
+        "ULTRAM",
+        "VALERIAN ROOT",
+        "XYREM",
+        "CYTOMEL",
+        "LEXAPRO",
+        "XYREM",
+        "MECLIZINE HCL",
+        "DONG QUAI COMPLEX",
+        "GINGER ROOT",
+        "YUCCA",
+        "XYREM",
+        "ACIPHEX",
+        "FISH OIL",
+        "TRACE MINERALS",
+        "VYVANSE"
+      ],
+      "reactions": [
+        "Unevaluable event",
+        "Road traffic accident"
+      ],
+      "report_id": "11476253"
+    },
+    {
+      "drugs": [
+        "TYLENOL WITH CODEINE",
+        "ONDANSETRON ODT",
+        "PRILOSEC",
+        "XYREM",
+        "CYANOCOBALAMIN.",
+        "5-HTP",
+        "ATIVAN",
+        "MOTRIN",
+        "ESTROGEN NOS W/PROGESTERONE",
+        "PREDNISONE.",
+        "PROBIOTIC",
+        "VITAMIN C",
+        "PAXIL",
+        "TAURINE",
+        "XYREM",
+        "XYREM",
+        "VITAMIN B6",
+        "MOTRIN",
+        "PYRIDOXINE HCL",
+        "TRYPTOPHAN"
+      ],
+      "reactions": [
+        "Pharyngitis streptococcal"
+      ],
+      "report_id": "11476370"
+    },
+    {
+      "drugs": [
+        "ONDANSETRON ODT",
+        "MOTRIN",
+        "CYANOCOBALAMIN.",
+        "TAURINE",
+        "ATIVAN",
+        "XYREM",
+        "XYREM",
+        "PREDNISONE.",
+        "PAXIL",
+        "XYREM",
+        "PEPCID AC",
+        "TYLENOL WITH CODEINE",
+        "PRILOSEC",
+        "TRYPTOPHAN",
+        "VITAMIN B6",
+        "VITAMIN C",
+        "PYRIDOXINE HYDROCHLORIDE.",
+        "5 HTP",
+        "PROGESTERONE.",
+        "PROBIOTIC"
+      ],
+      "reactions": [
+        "Dyspepsia"
+      ],
+      "report_id": "11476595"
+    },
+    {
+      "drugs": [
+        "XYREM",
+        "VALERIAN ROOT",
+        "5-HTP",
+        "XYREM",
+        "MELATONIN"
+      ],
+      "reactions": [
+        "Constipation",
+        "Eye pain",
+        "Intentional product use issue"
+      ],
+      "report_id": "11476946"
+    },
+    {
+      "drugs": [
+        "XYREM",
+        "SERTRALINE",
+        "NUVIGIL",
+        "VYVANSE",
+        "5-HTP",
+        "OMEGA 3-6-9",
+        "MULTIVITAMINS W/MINERALS",
+        "XYREM",
+        "XYREM",
+        "FOLATE OPTIMIZED",
+        "VITAMIN D"
+      ],
+      "reactions": [
+        "Peripheral coldness"
+      ],
+      "report_id": "11477369"
+    },
+    {
+      "drugs": [
+        "XYREM",
+        "XYREM",
+        "XYREM",
+        "NUVIGIL",
+        "5-HTP",
+        "XYREM",
+        "XYREM"
+      ],
+      "reactions": [
+        "Pruritus",
+        "Insomnia",
+        "Anxiety",
+        "Dizziness",
+        "Tremor",
+        "Unevaluable event"
+      ],
+      "report_id": "11478752"
+    },
+    {
+      "drugs": [
+        "XYREM",
+        "XYREM",
+        "ADDERALL",
+        "5-HTP",
+        "MODAFINIL.",
+        "EXCEDRIN MIGRAINE"
+      ],
+      "reactions": [
+        "Condition aggravated",
+        "Poor quality sleep"
+      ],
+      "report_id": "11478850"
+    },
+    {
+      "drugs": [
+        "XYREM",
+        "PEPCID AC",
+        "PRILOSEC",
+        "5-HTP",
+        "XYREM",
+        "ONDANSETRON",
+        "TYLENOL WITH CODEINE",
+        "PREDNISONE.",
+        "PAXIL",
+        "TAURINE",
+        "PROBIOTIC",
+        "PYRIDOXINE HYDROCHLORIDE.",
+        "VITAMIN B6",
+        "ATIVAN",
+        "CYANOCOBALAMIN.",
+        "PROGESTERONE W/ESTROGENS",
+        "VITAMIN C",
+        "XYREM",
+        "MOTRIN",
+        "TRYPTOPHAN",
+        "MOTRIN IB"
+      ],
+      "reactions": [
+        "Constipation"
+      ],
+      "report_id": "11479232"
+    },
+    {
+      "drugs": [
+        "ADDERALL",
+        "MODAFINIL.",
+        "EXCEDRIN MIGRAINE",
+        "XYREM",
+        "XYREM",
+        "5-HTP"
+      ],
+      "reactions": [
+        "Infection",
+        "Nasopharyngitis",
+        "Incorrect dosage administered",
+        "Confusional state"
+      ],
+      "report_id": "11479778"
+    },
+    {
+      "drugs": [
+        "RISPERDAL",
+        "5-HTP",
+        "INVEGA SUSTENNA",
+        "HALDOL",
+        "INVEGA SUSTENNA"
+      ],
+      "reactions": [
+        "Suicidal ideation",
+        "Anxiety",
+        "Discomfort",
+        "Aphasia",
+        "Hypoaesthesia",
+        "Feeling abnormal",
+        "Inappropriate schedule of drug administration",
+        "Dysstasia",
+        "Decreased interest",
+        "Restless legs syndrome",
+        "Malaise",
+        "Liver disorder",
+        "Adverse event",
+        "Anorgasmia",
+        "Feeling abnormal",
+        "Anhedonia",
+        "Tic",
+        "Drug level increased",
+        "Bedridden",
+        "Cognitive disorder",
+        "Spermatozoa abnormal",
+        "Erectile dysfunction",
+        "Blood prolactin increased",
+        "Cognitive disorder",
+        "Disturbance in social behaviour",
+        "Liver injury",
+        "Weight increased",
+        "Depressed mood",
+        "Somnolence",
+        "Adverse event",
+        "Slow speech"
+      ],
+      "report_id": "11480697"
+    },
+    {
+      "drugs": [
+        "TESTOSTERONE.",
+        "IBUPROFEN.",
+        "ELIDEL",
+        "VITAMIN B COMPLEX",
+        "DHEA AFL",
+        "ESCITALOPRAM",
+        "MELATONIN",
+        "DICYCLOMINE",
+        "LORAZEPAM.",
+        "ARMOUR THYROID",
+        "PLAQUENIL",
+        "IRON",
+        "VITAMIN D3",
+        "CALCIUM +D3",
+        "ALL OTHER THERAPEUTIC PRODUCTS",
+        "XYREM",
+        "HYDROXYTRYPTOPHAN 5 HTP",
+        "BUDESONIDE.",
+        "ZYRTEC"
+      ],
+      "reactions": [
+        "Insomnia",
+        "Balance disorder",
+        "Oral herpes",
+        "Dizziness",
+        "Nausea",
+        "Hypoaesthesia",
+        "Confusional state",
+        "Condition aggravated",
+        "Memory impairment",
+        "Wrong technique in product usage process",
+        "Head injury",
+        "Contusion",
+        "Hypersensitivity",
+        "Nocturia",
+        "Constipation",
+        "Dehydration",
+        "Hypoaesthesia oral",
+        "Pain",
+        "Tremor"
+      ],
+      "report_id": "11483251"
+    },
+    {
+      "drugs": [
+        "PAXIL",
+        "PROBIOTIC",
+        "PROGESTERONE W/ESTROGENS",
+        "XYREM",
+        "TYLENOL WITH CODEINE NO.3",
+        "ONDANSETRON ODT",
+        "XYREM",
+        "MOTRIN",
+        "PRILOSEC",
+        "TRYPTOPHAN",
+        "VITAMIN B6",
+        "VITAMIN C",
+        "TAURINE",
+        "5-HTP",
+        "MOTRIN IB",
+        "PREDNISONE.",
+        "CYANOCOBALAMIN.",
+        "PYRIDOXINE HCL",
+        "ATIVAN"
+      ],
+      "reactions": [
+        "Product use issue",
+        "Oropharyngeal pain"
+      ],
+      "report_id": "11488380"
+    },
+    {
+      "drugs": [
+        "RITALIN SR",
+        "PROVIGIL",
+        "PLAVIX",
+        "XYREM",
+        "ASPIRIN EC",
+        "XYREM",
+        "BLACK COHOSH",
+        "NORCO",
+        "XYREM",
+        "5-HTP"
+      ],
+      "reactions": [
+        "Back pain"
+      ],
+      "report_id": "11488824"
+    },
+    {
+      "drugs": [
+        "APO?VALPROIC",
+        "PHENYTOIN [PHENYTOIN SODIUM]",
+        "5?HTP [OXITRIPTAN]",
+        "VALPROIC ACID [VALPROATE SODIUM]",
+        "CARBIDOPA.",
+        "CLONAZEPAM.",
+        "KEPPRA",
+        "PHENYTOIN [PHENYTOIN SODIUM]",
+        "CARBIDOPA."
+      ],
+      "reactions": [
+        "Serotonin syndrome",
+        "Myoclonus",
+        "Somnolence"
+      ],
+      "report_id": "11528533"
+    },
+    {
+      "drugs": [
+        "FISH OIL",
+        "VITAMIN B12",
+        "ZOLOFT",
+        "LEVOTHYROXINE.",
+        "5-HTP 100MG NATURES BOUNTY",
+        "DIETARY SUPPLEMENT",
+        "TRAZODONE",
+        "VITAMIN D",
+        "MULTIVITAMIN"
+      ],
+      "reactions": [
+        "Diarrhoea",
+        "Pyrexia",
+        "Confusional state",
+        "Headache",
+        "Vomiting",
+        "Serotonin syndrome"
+      ],
+      "report_id": "11535149"
+    },
+    {
+      "drugs": [
+        "5-HTP",
+        "MULTIVITAMIN",
+        "B6 SUPPLEMENT",
+        "ESCITALOPRAM 10MG",
+        "VITAMIN C",
+        "CALCIUM"
+      ],
+      "reactions": [
+        "Alopecia"
+      ],
+      "report_id": "11592908"
+    },
+    {
+      "drugs": [
+        "METHOCARBAMAL",
+        "NITROFURANTOIN MONOHYD MACRO",
+        "JUICE PLUS WHOLE FOOD SUPPLEMENTS",
+        "ESZOPICLONE.",
+        "OXYCODONE-ACETAMINOPHEN",
+        "OMEGA-3 + VITAMIN D3 CAPS",
+        "METOPROLOL SUCCINATE ER",
+        "ALPRAZOLAM.",
+        "MELATONIN",
+        "MOVE FREE ULTRA",
+        "ASTAXANTHIN",
+        "GABAPENTIN.",
+        "RANITIDINE HCL",
+        "5 HTP /00439301/"
+      ],
+      "reactions": [
+        "Feeling hot",
+        "Rash",
+        "Peripheral swelling",
+        "Body temperature increased",
+        "Asthenia",
+        "Tremor",
+        "Gait disturbance",
+        "Somnolence",
+        "Balance disorder",
+        "Fatigue",
+        "Confusional state"
+      ],
+      "report_id": "11628370"
+    },
+    {
+      "drugs": [
+        "TRILEPTAL",
+        "NORCO",
+        "VITAMIN D",
+        "MELATONIN",
+        "ADVAIR HFA",
+        "XANAX",
+        "MVI",
+        "GABAPENTIN.",
+        "ALBUTEROL.",
+        "ZYRTEC",
+        "BIRTH CONTROL",
+        "IBUPROFEN.",
+        "GILENYA",
+        "DULOXETINE.",
+        "BENADRYL",
+        "TUMS",
+        "5-HTP",
+        "OMEGA 3",
+        "VITAMIN B12"
+      ],
+      "reactions": [
+        "Choking sensation",
+        "Chest discomfort",
+        "Muscle spasms"
+      ],
+      "report_id": "11629221"
+    },
+    {
+      "drugs": [
+        "B COMPLEX                          /00322001/",
+        "SUBUTEX",
+        "5 HTP                              /00439301/",
+        "MELATONIN",
+        "SUBOXONE",
+        "L TYROSINE",
+        "B COMPLEX                          /00322001/",
+        "SUBUTEX",
+        "FISH OIL",
+        "SUBUTEX",
+        "SUBUTEX",
+        "L TYROSINE"
+      ],
+      "reactions": [
+        "Food craving",
+        "Anger",
+        "Muscle spasms",
+        "Emotional disorder",
+        "Abdominal pain upper",
+        "Insomnia",
+        "Somnolence",
+        "Tooth disorder",
+        "Feeling abnormal",
+        "Underdose",
+        "Drug dependence",
+        "Product preparation error",
+        "Decreased appetite",
+        "Anxiety",
+        "Grief reaction",
+        "Nervousness",
+        "Drug withdrawal syndrome",
+        "Weight increased"
+      ],
+      "report_id": "11638224"
+    },
+    {
+      "drugs": [
+        "ADVIL",
+        "BELVIQ",
+        "AMLODIPINE",
+        "ZYRTEC",
+        "BELVIQ",
+        "5-HTP",
+        "LORTAB"
+      ],
+      "reactions": [
+        "Alopecia"
+      ],
+      "report_id": "11649319"
+    },
+    {
+      "drugs": [
+        "LYRICA",
+        "GABAPENTIN.",
+        "CLONAZEPAM.",
+        "5-HTP",
+        "FISH OIL OMEGA 3, 6, AND 9",
+        "GINKGO BILOBA",
+        "FIBER",
+        "CHLORZOXAZONE.",
+        "SLOW MAG",
+        "POTASSIUM",
+        "GABAPENTIN.",
+        "NEXIUM 24HR",
+        "NAPROXEN.",
+        "DULOXETINE HYDROCHLORIDE.",
+        "SLOW MAG",
+        "ZINC",
+        "CLONAZEPAM.",
+        "RESTASIS",
+        "VITAMIN D3",
+        "METOPROLOL",
+        "PERI-COLACE",
+        "LYRICA",
+        "LUTEIN",
+        "TUMS"
+      ],
+      "reactions": [
+        "Weight increased"
+      ],
+      "report_id": "11668916"
+    },
+    {
+      "drugs": [
+        "XYREM",
+        "BETHANECHOL",
+        "PREGNENOLONE",
+        "SINGULAIR",
+        "TOPAMAX",
+        "LEVETIRACETAM.",
+        "NEUROCHOLINE [CITICOLINE SODIUM]",
+        "ROPINIROLE HCL",
+        "XYREM",
+        "NEXIUM",
+        "5?HTP [OXITRIPTAN]",
+        "BETHANECHOL",
+        "BIOFLAVONOID",
+        "VITAMIN D [ERGOCALCIFEROL]",
+        "ZINC.",
+        "HYDROXYCHLOROQUINE [HYDROXYCHLOROQUINE SULFATE]",
+        "KEPPRA",
+        "SULFAZINE",
+        "VITAMIN C",
+        "LYRICA",
+        "CYCLOBENZAPRINE.",
+        "GABAPENTIN.",
+        "PERCOCET",
+        "NEILMED SINUS RINSE",
+        "HYOSCYAMINE.",
+        "SOMA",
+        "ARMOUR THYROID",
+        "NALTREXONE",
+        "ACYCLOVIR [ACICLOVIR]",
+        "ADDERALL",
+        "METAMUCIL",
+        "PROBIOTIC ACIDOPHILUS [LACTOBACILLUS ACIDOPHILUS]",
+        "VITAMIN D [ERGOCALCIFEROL]",
+        "EXELON",
+        "EXELON",
+        "BACLOFEN.",
+        "ASPIRIN [ACETYLSALICYLIC ACID]",
+        "FOLIC ACID.",
+        "LEVOTHYROXINE.",
+        "NALTREXONE",
+        "CALCIUM",
+        "N?ACETYLCYSTEINE",
+        "NUVIGIL",
+        "XYREM",
+        "CONTRAVE",
+        "POLY?IRON [POLYSACCHARIDE?IRON COMPLEX]",
+        "LIOTHYRONINE",
+        "BOTOX",
+        "LYSINE",
+        "MELOXICAM.",
+        "FLONASE",
+        "LIOTHYRONINE",
+        "FLUDROCORTISONE",
+        "PANTOPRAZOLE",
+        "MAXALT",
+        "FIORICET",
+        "TRAMADOL.",
+        "PROVIGIL",
+        "AMANTADINE.",
+        "MAGNESIUM",
+        "METHYLPHENIDATE.",
+        "ASTELIN [DIPROPHYLLINE]",
+        "PERIOGARD",
+        "ALPHA LIPOIC ACID",
+        "LEVOTHYROXINE.",
+        "LEVOTHYROXINE.",
+        "BENADRYL ALLERGY",
+        "BUPROPION.",
+        "LITHIUM.",
+        "ACYCLOVIR [ACICLOVIR]",
+        "TIZANIDINE.",
+        "VITAMIN B?COMPLEX VITAMIN C",
+        "BACLOFEN.",
+        "PRAMIPEXOLE.",
+        "IRON",
+        "VITAMIN B2",
+        "VITAMIN B12 [HYDROXOCOBALAMIN]"
+      ],
+      "reactions": [
+        "Withdrawal syndrome",
+        "Ankle fracture",
+        "Fall",
+        "Suicidal ideation"
+      ],
+      "report_id": "11877512"
+    },
+    {
+      "drugs": [
+        "VITAMIN E",
+        "OMEPRAZOLE DR",
+        "5-HTP",
+        "VITAMIN D3",
+        "MULTIPLE VITAM KIRKLAND BRAND",
+        "VITAMIN MULTIPLE",
+        "VITAMIN B12",
+        "CQ-10",
+        "VITAMIN C",
+        "CALCIUM",
+        "FLAX OIL",
+        "SALMON OIL",
+        "MELATONE",
+        "GINKO BILABUA"
+      ],
+      "reactions": [
+        "Asthenia",
+        "Gastrooesophageal reflux disease",
+        "Pruritus",
+        "Oesophagitis",
+        "Peripheral swelling",
+        "Skin discolouration",
+        "Vomiting",
+        "Movement disorder",
+        "Fatigue",
+        "Dyspnoea",
+        "Rash"
+      ],
+      "report_id": "11884466"
+    },
+    {
+      "drugs": [
+        "ORENITRAM",
+        "REVATIO",
+        "ABILIFY",
+        "PROZAC",
+        "NEURONTIN",
+        "CYTOMEL",
+        "SYNTHROID",
+        "TORSEMIDE.",
+        "COENZYME Q10",
+        "FISH OIL",
+        "5-HTP                              /00439301/",
+        "ORENITRAM",
+        "ALDACTONE",
+        "VITAMIN D                          /00107901/",
+        "PROGESTERONE."
+      ],
+      "reactions": [
+        "Depressed mood",
+        "Dizziness",
+        "Face oedema",
+        "Weight increased",
+        "Asthenia",
+        "Fluid retention",
+        "Localised oedema"
+      ],
+      "report_id": "11942636"
+    },
+    {
+      "drugs": [
+        "HUMIRA",
+        "METHOTREXATE",
+        "SELENIUM",
+        "HUMIRA",
+        "ARMOUR THYROID",
+        "VITAMIN D",
+        "VITAMIN B",
+        "CHLOROQUINE.",
+        "CYTOMEL",
+        "MULTIVITAMIN",
+        "5-HTP"
+      ],
+      "reactions": [
+        "Vomiting",
+        "Rheumatoid arthritis"
+      ],
+      "report_id": "11964130"
+    },
+    {
+      "drugs": [
+        "5-HTP",
+        "KRILL OIL",
+        "NOVOLOG",
+        "MEDTRONIC MINED INSULIN PUMP",
+        "DEXILANT"
+      ],
+      "reactions": [
+        "Chest pain"
+      ],
+      "report_id": "11965225"
+    },
+    {
+      "drugs": [
+        "PRISTIQ EXTENDED RELEASE",
+        "DIAZEPAM.",
+        "PRE NATAL FORMULA",
+        "5-HTP",
+        "CRANBERRY.",
+        "GERITOL",
+        "TRAMADOL.",
+        "PRILOSEC",
+        "ELAVIL",
+        "CRESTOR",
+        "ELAVIL",
+        "GABAPENTIN.",
+        "HYDROCODONE",
+        "COQ 10",
+        "KRILL OIL"
+      ],
+      "reactions": [
+        "Condition aggravated",
+        "Back pain",
+        "Lumbar spinal stenosis",
+        "Exostosis"
+      ],
+      "report_id": "11980284"
+    },
+    {
+      "drugs": [
+        "ZYFLAMEND",
+        "BIOTIN",
+        "GABAPENTIN.",
+        "SUBSYS",
+        "FENTANYL.",
+        "HUMIRA",
+        "HUMIRA",
+        "CELEBREX",
+        "ESTRADIOL.",
+        "ESTRADIOL.",
+        "GABAPENTIN.",
+        "FLAX OIL",
+        "ARAVA",
+        "CELEBREX",
+        "LEVOTHYROXINE.",
+        "ZYFLAMEND",
+        "VITAMIN D",
+        "COENZYME Q10",
+        "AMBIEN",
+        "5-HTP",
+        "FENTANYL.",
+        "EFFEXOR",
+        "BENADRYL",
+        "VITAMIN B6",
+        "KRILL OIL",
+        "MULTIVITAMIN",
+        "METOPROLOL."
+      ],
+      "reactions": [
+        "Osteoarthritis",
+        "Weight decreased",
+        "Odynophagia",
+        "Back pain",
+        "Decreased appetite",
+        "Synovial cyst",
+        "Mobility decreased",
+        "Anaemia",
+        "Impetigo",
+        "Coagulopathy",
+        "Bone pain"
+      ],
+      "report_id": "11998894"
+    },
+    {
+      "drugs": [
+        "HUMIRA",
+        "5-HTP",
+        "GABAPENTIN.",
+        "CELEBREX",
+        "NALTREXONE",
+        "OXYCODONE",
+        "HUMIRA",
+        "HUMIRA",
+        "HCG"
+      ],
+      "reactions": [
+        "Injection site bruising",
+        "Injection site haemorrhage",
+        "Incorrect dose administered"
+      ],
+      "report_id": "12005284"
+    },
+    {
+      "drugs": [
+        "MULTI VIT",
+        "5-HTP",
+        "IBUPROFEN.",
+        "NAPROXEN.",
+        "OMEGA 3",
+        "LEVAQUIN",
+        "VIT D-3"
+      ],
+      "reactions": [
+        "Tendonitis",
+        "Movement disorder",
+        "Musculoskeletal pain",
+        "Myalgia"
+      ],
+      "report_id": "12089189"
+    },
+    {
+      "drugs": [
+        "TROKENDI XR",
+        "TURMERIC",
+        "VITAMIN D",
+        "5-HTP",
+        "MINERALS (UNSPECIFIED)",
+        "PROGESTERONE.",
+        "PROBIOTIC (UNSPECIFIED)",
+        "DIGESTIVE ENZYME (UNSPECIFIED)",
+        "ADDERALL"
+      ],
+      "reactions": [
+        "Off label use",
+        "Fatigue",
+        "Aggression",
+        "Intraocular pressure increased",
+        "Vision blurred",
+        "Nightmare",
+        "Agitation",
+        "Migraine",
+        "Pain",
+        "Feeling abnormal",
+        "Depression",
+        "Insomnia",
+        "Muscle contractions involuntary",
+        "Anxiety",
+        "Amnesia",
+        "Nuclear magnetic resonance imaging abnormal",
+        "Increased appetite"
+      ],
+      "report_id": "12121240"
+    },
+    {
+      "drugs": [
+        "XYREM",
+        "NAPROXEN.",
+        "5 HTP",
+        "PEPCID AC",
+        "SEROQUEL",
+        "DESMOPRESSIN ACETATE.",
+        "IBUPROFEN.",
+        "MELATONIN",
+        "VITAMIN D3",
+        "XYREM",
+        "KLONOPIN",
+        "XYREM",
+        "CLARITIN",
+        "FLONASE",
+        "CITRACAL + D",
+        "ROBAXIN",
+        "TYLENOL EXTRA STRENGTH",
+        "CARNITOR",
+        "AMOXICILLIN.",
+        "SIMETHICONE (DIMETHICONE)",
+        "VALACYCLOVIR HYDROCHLORIDE."
+      ],
+      "reactions": [
+        "Bronchitis",
+        "Nasopharyngitis",
+        "Insomnia",
+        "Sinusitis",
+        "Sinus operation",
+        "Back pain"
+      ],
+      "report_id": "12122511"
+    },
+    {
+      "drugs": [
+        "CRANBERRY VITAMIN",
+        "GABAPENTIN.",
+        "ELAVIL",
+        "CRESTOR",
+        "KRILL OIL",
+        "HYDROCODONE",
+        "DIAZEPAM.",
+        "COQ10",
+        "GERITOL",
+        "ELAVIL",
+        "5-HTP",
+        "PRILOSEC",
+        "PRENATAL VITAMINS",
+        "TRAMADOL.",
+        "PRISTIQ EXTENDED RELEASE"
+      ],
+      "reactions": [
+        "Back pain",
+        "Exostosis",
+        "Lumbar spinal stenosis",
+        "Vertebral foraminal stenosis"
+      ],
+      "report_id": "12142450"
+    },
+    {
+      "drugs": [
+        "OXYCODONE",
+        "LEXAPRO",
+        "CALCIUM CITRATE",
+        "INULIN",
+        "CURCUMA LONGA",
+        "PROBIOTIC",
+        "FISH OIL",
+        "KELP",
+        "SELENIUM",
+        "N-ACETYLCYSTEINE",
+        "RITUXAN",
+        "IMMUNOGLOBULIN HUMAN NORMAL",
+        "ARMOUR THYROID",
+        "HYDROCORTISONE.",
+        "HYDROCORTISONE.",
+        "METHADONE",
+        "CYPROHEPTADINE.",
+        "CYCLOSPORINE.",
+        "THIAMINE.",
+        "QUERCETIN",
+        "TOCOTRIENOLS NOS",
+        "ALPHA LIPOIC ACID",
+        "HYDROCORTISONE.",
+        "RESVERATROL",
+        "CYANOCOBALAMIN.",
+        "FOLIC ACID.",
+        "VITAMIN K2",
+        "B-50",
+        "PAPAYA.",
+        "DOXYCLINE",
+        "HYDROCORTISONE.",
+        "UBIQUINOL",
+        "5-HTP",
+        "MELATONIN",
+        "IMBRUVICA",
+        "DURAGESIC (ORPHENADRINE CITRATE/PARACETAMOL)",
+        "ABSTRAL",
+        "VITAMIN D3",
+        "TOCOPHEROL",
+        "GINSENG",
+        "GRAPE SEED",
+        "PYRIDOXINE",
+        "VITAMIN K1",
+        "BROMELAIN",
+        "MANGANESE",
+        "THREONINE",
+        "PREDNISONE.",
+        "ALL OTHER THERAPEUTIC PRODUCTS",
+        "VITAMIN C WITH ROSE HIPS",
+        "EXTRACT GINGKO BILOBA"
+      ],
+      "reactions": [
+        "Blood alkaline phosphatase increased",
+        "Peripheral swelling",
+        "Alanine aminotransferase increased",
+        "Localised infection"
+      ],
+      "report_id": "12157777"
+    },
+    {
+      "drugs": [
+        "XYREM",
+        "LUNESTA",
+        "ADDERALL",
+        "5 HTP",
+        "ACIPHEX DR",
+        "FISH OIL",
+        "IBUPROFEN IB",
+        "TRACE MINERALS",
+        "ULTRAM",
+        "YUCCA",
+        "CEFDINIR.",
+        "OXYCODONE AND ACETAMINOPHEN",
+        "ROZEREM",
+        "COPAXONE",
+        "MULTIVITAMIN",
+        "ARMOUR THYROID",
+        "DONG QUAI",
+        "NEURONTIN",
+        "XYREM",
+        "CYTOMEL",
+        "FLEXERIL",
+        "VALERIAN",
+        "XYREM",
+        "CEFACLOR.",
+        "MECLIZINE",
+        "VYVANSE",
+        "SYNTHROID",
+        "CORDRAN",
+        "LEXAPRO",
+        "LICORICE.",
+        "ADRENAL"
+      ],
+      "reactions": [
+        "Clostridium difficile infection"
+      ],
+      "report_id": "12181940"
+    },
+    {
+      "drugs": [
+        "BYSTOLIC",
+        "BELSOMRA",
+        "VITAMIN D",
+        "MOBIC",
+        "LUPRON DEPOT",
+        "ALLEGRA",
+        "PRIMIDONE.",
+        "PRIMIDONE.",
+        "LEVOCARNITINE.",
+        "SYNTHROID",
+        "LISINOPRIL.",
+        "NORVASC",
+        "AMBIEN",
+        "TRAZODONE",
+        "ST. JOHN^S WORT",
+        "LAMICTAL",
+        "HALCION",
+        "LUNESTA",
+        "BYSTOLIC",
+        "DICYCLOMINE",
+        "TRILEPTAL",
+        "MULTIVITAMINS PLUS IRON",
+        "XANAX",
+        "MULTIVITAMIN AND MINERAL SUPPLEMENT",
+        "SONATA",
+        "VICODIN",
+        "XYREM",
+        "DICLOFENAC",
+        "CYMBALTA",
+        "METHOTREXATE",
+        "IRON",
+        "TOPROL XL",
+        "XYREM",
+        "HYDROXYTRYPTOPHAN 5 HTP",
+        "LYRICA",
+        "FLONASE",
+        "TIZANIDINE.",
+        "CALCIUM MAGNESIUM",
+        "PREVACID",
+        "BENTYL",
+        "VITAMINS A + D",
+        "XYREM",
+        "CLONAZEPAM.",
+        "CLONAZEPAM.",
+        "FLONASE",
+        "SYNTHROID",
+        "OMEGA 3 FISH OIL",
+        "XANAX",
+        "MUCINEX D",
+        "CELEXA"
+      ],
+      "reactions": [
+        "Delirium",
+        "Parasomnia"
+      ],
+      "report_id": "12185542"
+    },
+    {
+      "drugs": [
+        "PRILOSEC",
+        "DIAZEPAM.",
+        "COQ10",
+        "CRESTOR",
+        "5-HTP",
+        "PRENATAL VITAMIN",
+        "GERITOL",
+        "CRANBERRY VITAMIN",
+        "ELAVIL",
+        "GABAPENTIN.",
+        "ELAVIL",
+        "KRILL OIL",
+        "TRAMADOL.",
+        "PRISTIQ EXTENDED-RELEASE",
+        "HYDROCODONE"
+      ],
+      "reactions": [
+        "Back pain",
+        "Lumbar spinal stenosis",
+        "Vertebral foraminal stenosis",
+        "Exostosis"
+      ],
+      "report_id": "12237322"
+    },
+    {
+      "drugs": [
+        "CLARITIN",
+        "AZELASTINE",
+        "AMOXICILLIN.",
+        "FLONASE",
+        "5-HTP",
+        "XYREM",
+        "XYREM",
+        "BETAMETHASONE.",
+        "WELLBUTRIN",
+        "TRAMADOL HCL",
+        "EFFEXOR XR",
+        "VENTOLIN HFA",
+        "XYREM",
+        "AZITHROMYCIN ANHYDROUS.",
+        "MELATONIN"
+      ],
+      "reactions": [
+        "Joint injury"
+      ],
+      "report_id": "12284057"
+    },
+    {
+      "drugs": [
+        "XYREM",
+        "SPIRONOLACTONE.",
+        "LISINOPRIL.",
+        "XYREM",
+        "XYREM",
+        "PROAIR HFA",
+        "FOLIC ACID.",
+        "WARFARIN SODIUM.",
+        "CYANOCOBALAMIN.",
+        "PROBIOTIC ACIDOPHILUS",
+        "MODAFINIL.",
+        "XYREM",
+        "DULERA",
+        "PROZAC",
+        "BIOTIN",
+        "OMEGA 3 FISH OIL",
+        "MULTIPLE VITAMINS WITH MINERALS",
+        "PROZAC",
+        "COENZYME Q10",
+        "METOPROLOL.",
+        "ATIVAN",
+        "XYREM",
+        "DIGOXIN.",
+        "HYDROXYTRYPTOPHAN 5 HTP"
+      ],
+      "reactions": [
+        "Depression",
+        "Ventricular tachycardia",
+        "Sleep apnoea syndrome",
+        "Suicidal ideation"
+      ],
+      "report_id": "12288128"
+    },
+    {
+      "drugs": [
+        "RANITIDINE.",
+        "MELATONIN",
+        "SPIRIVA",
+        "XOLAIR",
+        "XOLAIR",
+        "ADVAIR HFA",
+        "THYROXINE",
+        "5-HTP",
+        "VENTOLIN",
+        "VITAMIN C",
+        "TECTA"
+      ],
+      "reactions": [
+        "Anxiety",
+        "Suicidal ideation",
+        "Drug intolerance"
+      ],
+      "report_id": "12304791"
+    },
+    {
+      "drugs": [
+        "LINZESS",
+        "ZOFRAN",
+        "XYREM",
+        "AMBIEN CR",
+        "QUILLIVANT XR",
+        "LYRICA",
+        "5-HTP",
+        "COENZYME Q10",
+        "FENTANYL.",
+        "MAGNESIUM OXIDE.",
+        "XYREM",
+        "ESTRADIOL.",
+        "LEVAQUIN",
+        "PROMETHAZINE",
+        "ULTRAM",
+        "XYREM",
+        "PROVIGIL",
+        "TRILEPTAL",
+        "XANAX",
+        "ZYRTEC",
+        "XYREM",
+        "RELPAX",
+        "REQUIP",
+        "TIZANIDINE HCL",
+        "ADDERALL XR",
+        "PROVIGIL",
+        "CYANOCOBALAMIN.",
+        "LEXAPRO",
+        "LISINOPRIL.",
+        "PROMETHAZINE",
+        "VITAMIN B COMPLEX",
+        "VITAMIN D2"
+      ],
+      "reactions": [
+        "Depression",
+        "Anxiety"
+      ],
+      "report_id": "12315911"
+    },
+    {
+      "drugs": [
+        "XYREM",
+        "FISH OIL",
+        "XYREM",
+        "THYROID",
+        "ADRENAL",
+        "MULTIVITAMINS",
+        "XYREM",
+        "WP-THYROID",
+        "XYREM",
+        "COD LIVER",
+        "NALTREXONE HCL",
+        "5 HTP",
+        "XYREM",
+        "XYREM",
+        "XYREM",
+        "MELATONIN"
+      ],
+      "reactions": [
+        "Yawning",
+        "Somnolence",
+        "Muscle fatigue",
+        "Dizziness",
+        "Initial insomnia",
+        "Headache",
+        "Emotional disorder",
+        "Sensory disturbance",
+        "Asthenia",
+        "Anxiety"
+      ],
+      "report_id": "12365026"
+    },
+    {
+      "drugs": [
+        "ALEVE",
+        "SEROQUEL",
+        "CLONAZEPAM.",
+        "XYREM",
+        "XYREM",
+        "PABA",
+        "STOOL SOFTENER",
+        "VITAMIN D3",
+        "ARMOUR THYROID",
+        "OXYCODONE HCL IR",
+        "XYREM",
+        "GENISTEIN",
+        "ASPIRIN ADULT",
+        "SELENIUM DR",
+        "EVENING PRIMROSE OIL",
+        "GLUCOSAMINE CHONDROITIN",
+        "VITAMIN B12",
+        "CLONIDINE HCL",
+        "BENAZEPRIL HYDROCHLORIDE.",
+        "MALIC ACID",
+        "TRIAMTERENE AND HYDROCHLOROTHIAZIDE",
+        "CLONAZEPAM.",
+        "LAMOTRIGINE.",
+        "XYREM",
+        "BREWERS YEAST",
+        "SALMON OIL",
+        "ATORVASTATIN",
+        "CYMBALTA",
+        "XYREM",
+        "PROBIOTIC",
+        "MAGNESIUM CITRATE.",
+        "OXYCONTIN",
+        "XYREM",
+        "5-HTP",
+        "LACTULOSE.",
+        "BENAZEPRIL HCL",
+        "HYDROCHLOROTHIAZIDE.",
+        "TIZANIDINE HYDROCHLORIDE.",
+        "DIAZEPAM.",
+        "NUCYNTA",
+        "FLAXSEED",
+        "GRAPE SEED EXTRACT",
+        "MULTIVITAMIN CHILD",
+        "SYNTHROID",
+        "SEROQUEL XR"
+      ],
+      "reactions": [
+        "Headache",
+        "Abdominal discomfort"
+      ],
+      "report_id": "12386412"
+    },
+    {
+      "drugs": [
+        "AMITIZA",
+        "CYTOMEL",
+        "ADDERALL XR",
+        "XYREM",
+        "SYNTHROID",
+        "VITAMIN B COMPLEX",
+        "VITAMIN D3",
+        "XYREM",
+        "ALDACTONE",
+        "RHODIOLA ROSEA",
+        "5-HTP",
+        "ACTICLATE"
+      ],
+      "reactions": [
+        "Therapeutic response unexpected",
+        "Pre-existing condition improved"
+      ],
+      "report_id": "12396821"
+    },
+    {
+      "drugs": [
+        "SEROQUEL",
+        "MG",
+        "5--HTP",
+        "K",
+        "AFRIN",
+        "VITAMIN D",
+        "VITAMIN B COMPLEX",
+        "FISH OIL"
+      ],
+      "reactions": [
+        "Eustachian tube patulous"
+      ],
+      "report_id": "12397771"
+    },
+    {
+      "drugs": [
+        "ADDERALL",
+        "ACCUTANE",
+        "MULTIVITAMIN",
+        "5 HTP",
+        "VALTREX",
+        "XYREM",
+        "XYREM",
+        "NUVIGIL",
+        "THYROID",
+        "XYREM",
+        "ZOLOFT"
+      ],
+      "reactions": [
+        "Unevaluable event",
+        "Fatigue",
+        "Myalgia"
+      ],
+      "report_id": "12401270"
+    },
+    {
+      "drugs": [
+        "KLONOPIN",
+        "ASPIRIN ADULT",
+        "RITALIN",
+        "5-HTP",
+        "MULTAQ",
+        "XYREM",
+        "XYREM",
+        "PROGESTERONE.",
+        "ATIVAN",
+        "DILTIAZEM HYDROCHLORIDE EXTENDED RELEASE",
+        "FLECAINIDE ACETATE.",
+        "SYNTHROID",
+        "ULTRAM",
+        "XYREM",
+        "METOPROLOL SUCCINATE ER",
+        "CYTOMEL",
+        "ARMOUR THYROID",
+        "PROPAFENONE HCL",
+        "ALPRAZOLAM ER",
+        "ZOLOFT",
+        "EFFEXOR XR",
+        "MELATONIN",
+        "XARELTO",
+        "AMITRIPTYLINE HCL",
+        "KLONOPIN",
+        "WELLBUTRIN SR",
+        "VALTREX",
+        "VITAMINS"
+      ],
+      "reactions": [
+        "Pharyngitis",
+        "Hyperthyroidism",
+        "Panic attack",
+        "Anxiety",
+        "Drug ineffective",
+        "Feeling abnormal"
+      ],
+      "report_id": "12406896"
+    },
+    {
+      "drugs": [
+        "VITAMIN B12",
+        "ZANTAC",
+        "CHROMIUM PICOLINATE",
+        "DRAMAMINE",
+        "TRILEPTAL",
+        "BIOTIN",
+        "CLARITIN",
+        "ADDERALL XR",
+        "ADDERALL",
+        "COENZYME Q10",
+        "VENTOLIN HFA",
+        "IBUPROFEN.",
+        "ADDERALL",
+        "BENADRYL ALLERGY",
+        "DIUREX",
+        "LAMOTRIGINE.",
+        "XYREM",
+        "5-HTP",
+        "ALEVE",
+        "XYREM",
+        "SYMBICORT",
+        "UNISOM SLEEP",
+        "VITAMIN D3",
+        "ADDERALL",
+        "TENEX",
+        "VITAMIN E",
+        "LAMOTRIGINE."
+      ],
+      "reactions": [
+        "Wrong technique in product usage process",
+        "Burning sensation",
+        "Myalgia",
+        "Neuralgia"
+      ],
+      "report_id": "12409635"
+    },
+    {
+      "drugs": [
+        "XYREM",
+        "XYREM",
+        "ACETYL L-CARNITINE",
+        "COENZYME Q10",
+        "DIPYRIDAMOLE.",
+        "NIASPAN ER",
+        "VITAMIN B12",
+        "DHEA",
+        "ARMOUR THYROID",
+        "CHROMIUM PICOLINATE",
+        "CLARITIN",
+        "LUTEIN",
+        "MULTIVITAMINS",
+        "SERIPHOS",
+        "VITAMIN C TR",
+        "FLUDROCORTISONE",
+        "PROGESTERONE.",
+        "VITAMINS",
+        "VESICARE",
+        "CRESTOR",
+        "ZOLOFT",
+        "DHEA",
+        "HYDROCORTISONE.",
+        "TRYPTOPHAN, L-",
+        "VITAMIN E",
+        "COENZYME Q10",
+        "NIASPAN",
+        "TEMAZEPAM.",
+        "TESTOSTERONE.",
+        "XYREM",
+        "5-HTP",
+        "ALPHA LIPOIC ACID",
+        "ARGININE",
+        "CALCIUM CARBONATE.",
+        "LEVOTHYROXINE.",
+        "PROGESTERONE.",
+        "TOCOMIN",
+        "VITAMIN B5",
+        "VITAMIN D3 COMPLETE",
+        "BACLOFEN.",
+        "DOXYCYCLINE HYC DR",
+        "MAGNESIUM CARBONATE",
+        "TYROSINE",
+        "VITAMIN A",
+        "BUSPAR",
+        "HUPERZINE A",
+        "B-COMPLEX + VITAMIN C",
+        "LIOTHYRONINE SODIUM (T3)",
+        "NITROGLYCERIN.",
+        "HYDROCORTISONE.",
+        "OXYTOCIN.",
+        "ALBUTEROL SULFATE.",
+        "ESTRIOL",
+        "NAC",
+        "NATTOKINASE",
+        "PREGNENOLONE MICRONIZED",
+        "TESTOSTERONE CYPIONATE.",
+        "NALTREXONE",
+        "ARMOUR THYROID",
+        "L-TYROSINE"
+      ],
+      "reactions": [
+        "Intentional product use issue"
+      ],
+      "report_id": "12420426"
+    },
+    {
+      "drugs": [
+        "XYREM",
+        "PENNSAID",
+        "TRIAMCINOLONE ACETONIDE.",
+        "KRILL OMEGA RED OIL",
+        "LIDOCAINE.",
+        "GLUTAMINE",
+        "SULFACETAMIDE SODIUM.",
+        "CHROMIUM PICOLINATE",
+        "FLEXERIL",
+        "TRETINOIN.",
+        "GEODON",
+        "LEVONORGESTREL W/ETHINYLESTRADIOL",
+        "ADDERALL",
+        "TRIAMCINOLONE",
+        "XYREM",
+        "ACANYA",
+        "5 HTP",
+        "L-GLUTAMINE",
+        "LEVOMILNACIPRAN",
+        "MULTIVITAMIN",
+        "CAMRESE LO",
+        "SOMA",
+        "PRILOSEC",
+        "SODIUM SULFACETAMIDE",
+        "XYREM",
+        "BENZOYL PEROXIDE W/CLINDAMYCIN",
+        "HYPERCARE",
+        "ZYPREXA ZYDIZ",
+        "EPIDERM",
+        "KLONOPIN",
+        "DOXYCYCLINE HYCLATE.",
+        "MUPIROCIN.",
+        "NUCYNTA",
+        "SAVELLA",
+        "TIGAN",
+        "WELLBUTRIN"
+      ],
+      "reactions": [
+        "Road traffic accident",
+        "Depression",
+        "Anxiety",
+        "Condition aggravated",
+        "Drug ineffective",
+        "Pain",
+        "Neck pain"
+      ],
+      "report_id": "12421272"
+    },
+    {
+      "drugs": [
+        "COENZYME Q-10",
+        "5-HTP",
+        "FLONASE ALLERGY RLF",
+        "ROBAXIN",
+        "TYLENOL",
+        "VALACYCLOVIR HCL",
+        "VITAMIN D3",
+        "CARNITOR",
+        "SEROQUEL",
+        "SIMETHICONE GAS RELIEF",
+        "ALBUTEROL SULF HFA",
+        "CITRACAL + D",
+        "PEPCID AC",
+        "AMOXICILLIN SODIUM",
+        "KLONOPIN",
+        "XYREM",
+        "AZELASTINE",
+        "NAPROXEN EC",
+        "DESMOPRESSIN",
+        "CLARITIN",
+        "IBUPROFEN.",
+        "MELATONIN"
+      ],
+      "reactions": [
+        "Haemorrhoidal haemorrhage",
+        "Condition aggravated",
+        "Faeces hard"
+      ],
+      "report_id": "12436983"
+    },
+    {
+      "drugs": [
+        "XYREM",
+        "VENTOLIN HFA",
+        "AZITHROMYCIN ANHYDROUS.",
+        "EFFEXOR XR",
+        "BETAMETHASONE VA",
+        "WELLBUTRIN SR",
+        "CLARITIN",
+        "AMOXICILLIN.",
+        "XYREM",
+        "XYREM",
+        "XYREM",
+        "FLONASE",
+        "5-HTP",
+        "XYREM",
+        "AZELASTINE",
+        "MELATONIN"
+      ],
+      "reactions": [
+        "Sinusitis"
+      ],
+      "report_id": "12437029"
+    },
+    {
+      "drugs": [
+        "XYREM",
+        "BACLOFEN.",
+        "CRANBERRY CONCENTRATE",
+        "EVENING PRIMROSE",
+        "CYMBALTA",
+        "5-HTP",
+        "SAVELLA",
+        "XYREM",
+        "MORPHINE SULFATE CR",
+        "TRAZODONE",
+        "LIDOCAINE/PRILOCAINE",
+        "SUBOXONE",
+        "PROSTATE HEALTH COMPLEX",
+        "ZINC ACETATE",
+        "OXYCODONE AND ACETAMINOPHEN",
+        "CALCIUM CARBONATE.",
+        "VITAMIN B COMPLEX",
+        "XYREM",
+        "ARMOUR THYROID",
+        "OMEGA 3 FISH OIL",
+        "VITAMIN C TR",
+        "VITAMIN E ACETATE"
+      ],
+      "reactions": [
+        "Penile pain"
+      ],
+      "report_id": "12438044"
+    },
+    {
+      "drugs": [
+        "CONCERTA",
+        "5-HTP",
+        "CONCERTA",
+        "SKELAXIN",
+        "FETZIMA",
+        "XYREM",
+        "ERGOCALCIFEROL.",
+        "SINGULAIR",
+        "CYMBALTA",
+        "XYREM",
+        "XYREM",
+        "VALTREX",
+        "PRISTIQ EXTENDED-RELEASE",
+        "PROZAC"
+      ],
+      "reactions": [
+        "Drug ineffective",
+        "Muscle spasms"
+      ],
+      "report_id": "12439287"
+    },
+    {
+      "drugs": [
+        "VITAMIN D",
+        "VIBERZI",
+        "IMODIUM",
+        "CURCUMIN",
+        "ALBUTEROL.",
+        "BUSPIRONE",
+        "ADVAIR HFA",
+        "POTASSIUM",
+        "MIRABEGRON",
+        "CLARITIN",
+        "PROBIOTICS",
+        "MECLIZINE",
+        "5-HTP",
+        "GLUCOSAMINE CHONDROITIN",
+        "SINGULAIR",
+        "VIBERZI",
+        "PRISTIQ EXTENDED-RELEASE",
+        "NIACIN."
+      ],
+      "reactions": [
+        "Frequent bowel movements",
+        "Wrong technique in product usage process",
+        "Faeces hard",
+        "Drug ineffective"
+      ],
+      "report_id": "12477676"
+    },
+    {
+      "drugs": [
+        "XYREM",
+        "EPIPEN",
+        "CHLORZOXAZONE.",
+        "EPIPEN",
+        "FEXOFENADINE HYDROCHLORIDE.",
+        "ALPHA LIPOIC ACID",
+        "MAGNESIUM GLUCONATE",
+        "PROBIOTIC",
+        "FISH OIL",
+        "AMITRIPTYLINE HCL",
+        "NALTREXONE",
+        "XYREM",
+        "CROMOLYN SODIUM.",
+        "DEXAMETHASONE.",
+        "MOLYBDENUM",
+        "QUERCETIN DIHYDRATE",
+        "SLIPPERY ELM",
+        "VITAMIN B12",
+        "VERAPAMIL",
+        "EXCEDRIN MIGRAINE",
+        "ASCORBIC ACID.",
+        "CETIRIZINE HYDROCHLORIDE.",
+        "CIMETIDINE",
+        "GLUTATHIONE",
+        "VITAMIN B6",
+        "VYVANSE",
+        "GUAIFENESIN.",
+        "L-METHIONINE",
+        "TAURINE",
+        "LORATADINE.",
+        "LYRICA",
+        "ACIDOPHILIS",
+        "CROMOLYN",
+        "SUMATRIPTAN SUCCINATE.",
+        "HYDROCORTISONE.",
+        "GASTROCROM",
+        "VIVELLE-DOT",
+        "COQ10",
+        "FLAXSEED",
+        "NADOLOL.",
+        "ALLERGAN",
+        "CURCUMIN",
+        "SALT",
+        "AZITHROMYCIN ANHYDROUS.",
+        "MINOCYCLINE HCL",
+        "FLONASE",
+        "VITAMIN D3",
+        "5 HTP",
+        "CALCIUM CARBONATE.",
+        "PROGESTERONE.",
+        "DILTIAZEM.",
+        "XYREM",
+        "MIGRANAL",
+        "BIOTIN",
+        "NALTREXONE",
+        "KETOCONAZOLE."
+      ],
+      "reactions": [
+        "Road traffic accident",
+        "Fibromyalgia",
+        "Essential tremor"
+      ],
+      "report_id": "12479199"
+    },
+    {
+      "drugs": [
+        "5-HTP",
+        "XANAX",
+        "XYREM",
+        "NALTREXONE HYDROCHLORIDE.",
+        "PROBIOTIC",
+        "BENICAR",
+        "GABAPENTIN.",
+        "ARMOUR THYROID",
+        "MELATONIN",
+        "MULTIVITAMINS WITH MINERALS",
+        "GABAPENTIN.",
+        "MAGNESIUM OXIDE.",
+        "XYREM",
+        "XYREM",
+        "XANAX"
+      ],
+      "reactions": [
+        "Unevaluable event",
+        "Insomnia"
+      ],
+      "report_id": "12479267"
+    },
+    {
+      "drugs": [
+        "ZINC",
+        "VIAGRA",
+        "XYREM",
+        "ADDERALL",
+        "WELLBUTRIN XL",
+        "WELLBUTRIN",
+        "XYREM",
+        "PRISTIQ EXTENDED-RELEASE",
+        "LEXAPRO",
+        "5-HTP",
+        "CYCLOBENZAPRINE HCL",
+        "NUVIGIL",
+        "FISH OIL",
+        "TUSSIONEX PENNKINETIC",
+        "XYREM",
+        "CLARITIN-D 12 HOUR",
+        "POTASSIUM CITRATE.",
+        "NUVIGIL",
+        "ALLEGRA",
+        "CIALIS",
+        "XANAX"
+      ],
+      "reactions": [
+        "Urinary retention",
+        "Urine flow decreased"
+      ],
+      "report_id": "12490455"
+    },
+    {
+      "drugs": [
+        "FLEXERIL",
+        "HYDROXYZINE HYDROCHLORIDE.",
+        "ADDERALL",
+        "ADDERALL XR",
+        "ARMOUR THYROID",
+        "TRAMADOL HCL",
+        "TRAZODONE HYDROCHLORIDE.",
+        "ACCOLATE",
+        "AMBIEN CR",
+        "NALTREXONE HYDROCHLORIDE.",
+        "SONATA",
+        "SUMATRIPTAN SUCCINATE.",
+        "ZANAFLEX",
+        "ZOFRAN",
+        "CLONAZEPAM.",
+        "GABA SUPPLEMENT",
+        "SOMA",
+        "AMBIEN",
+        "DILAUDID",
+        "KETAMINE",
+        "XYREM",
+        "5-HTP",
+        "EXCEDRIN MIGRAINE",
+        "XANAX",
+        "XYREM",
+        "DIAZEPAM.",
+        "NYSTATIN.",
+        "HYDRALAZINE HYDROCHLORIDE.",
+        "XYREM",
+        "DOXYCYCLINE HYCLATE.",
+        "LUNESTA",
+        "URISPAS",
+        "HYDROMORPHONE HCL"
+      ],
+      "reactions": [
+        "Tachycardia",
+        "Insomnia"
+      ],
+      "report_id": "12490780"
+    },
+    {
+      "drugs": [
+        "KUVAN",
+        "LEVODOPA",
+        "5-HYDROXYTRYPTOPHAN"
+      ],
+      "reactions": [
+        "Respiratory failure",
+        "Pneumonia",
+        "Choreoathetosis"
+      ],
+      "report_id": "10057210"
+    },
+    {
+      "drugs": [
+        "FLUOXETINE",
+        "5-HYDROXYTRYPTOPHAN",
+        "MELATONIN",
+        "OMEGA-3 ACIDS"
+      ],
+      "reactions": [
+        "Crying",
+        "Hyperventilation",
+        "Mood swings",
+        "Anger",
+        "Withdrawal syndrome"
+      ],
+      "report_id": "10086069"
+    },
+    {
+      "drugs": [
+        "FLUOXETINE",
+        "5-HYDROXYTRYPTOPHAN",
+        "MELATONIN",
+        "OMEGA-3 FATTY ACIDS"
+      ],
+      "reactions": [
+        "Mood swings",
+        "Crying",
+        "Hyperventilation",
+        "Anger",
+        "Withdrawal syndrome"
+      ],
+      "report_id": "10102376"
+    },
+    {
+      "drugs": [
+        "FLUOXETINE (FLUOXETINE)",
+        "5-HYDROXYTRYPTOPHAN (OXITRIPTAN)",
+        "MELATONIN (MELATONIN)"
+      ],
+      "reactions": [
+        "Withdrawal syndrome",
+        "Mood swings",
+        "Crying",
+        "Hyperventilation",
+        "Anger"
+      ],
+      "report_id": "10142800"
+    },
+    {
+      "drugs": [
+        "FLUOXETINE",
+        "5-HYDROXYTRYPTOPHAN",
+        "MELATONIN",
+        "OMEGA-3 ACIDS"
+      ],
+      "reactions": [
+        "Withdrawal syndrome",
+        "Mood swings",
+        "Crying",
+        "Hyperventilation",
+        "Anger"
+      ],
+      "report_id": "10145504"
+    },
+    {
+      "drugs": [
+        "MIRENA",
+        "5-HYDROXYTRYPTOPHAN",
+        "CIPROFLOXACIN",
+        "CO CODAMOL",
+        "IBUPROFEN",
+        "TRIMETHOPRIM"
+      ],
+      "reactions": [
+        "Abdominal pain",
+        "Decreased appetite",
+        "Back pain",
+        "Feeling hot",
+        "Malaise",
+        "Groin pain",
+        "Hypoaesthesia",
+        "Abdominal pain lower",
+        "Nausea",
+        "Pain in extremity",
+        "Arthralgia"
+      ],
+      "report_id": "10254816"
+    },
+    {
+      "drugs": [
+        "ATIVAN",
+        "5-HYDROXYTRYPTOPHAN",
+        "PYRIDOXINE HCL CRYSTAL (PRYIDOXINE HYDROCHLORIDE)",
+        "TRYPTOPHAN (TRYPTOPHAN; I-)",
+        "PHENOBARBITAL.",
+        "B-12 SHOT (CYANOCOBALAMIN)",
+        "PRILOSEC (OMEPRAZOLE)",
+        "PREDNISONE.",
+        "MOTRIN IB CAPLET (IBUPROFEN)",
+        "ALL OTHER THERAPUETIC PRODUCTS (TAURINE PRODUCTS)",
+        "XYREM",
+        "PAXIL",
+        "VITAMIN B6 (VITAMIN B6)",
+        "PROGESTERONE W/ESTROGENS (ESTROGEN NOS, PROGESTERONE)",
+        "PROBIOTICS",
+        "ONDANSETRON ODT (ODANSETRON HYDROCHLRIDE)",
+        "VITAMIN C"
+      ],
+      "reactions": [
+        "Depression",
+        "Off label use",
+        "Crying",
+        "Condition aggravated",
+        "Convulsion"
+      ],
+      "report_id": "10355396"
+    },
+    {
+      "drugs": [
+        "CALCIUM",
+        "METOPROLOL",
+        "5-HYDROXYTRYPTOPHAN",
+        "LISINOPRIL.",
+        "GLUCOSAMINE",
+        "BAYER LOW DOSE",
+        "OMEPRAZOLE."
+      ],
+      "reactions": [
+        "Rash",
+        "Haemorrhage subcutaneous"
+      ],
+      "report_id": "10571525"
+    },
+    {
+      "drugs": [
+        "XANAX",
+        "TRAMADOL",
+        "LYRICA",
+        "ASHWAGANDHA",
+        "MAGNESIUM",
+        "5-HYDROXYTRYPTOPHAN",
+        "ADVIL PM",
+        "EPSOM SALT",
+        "SOMA"
+      ],
+      "reactions": [
+        "Drug ineffective"
+      ],
+      "report_id": "10614175"
+    },
+    {
+      "drugs": [
+        "YAZ",
+        "5-HYDROXYTRYPTOPHAN"
+      ],
+      "reactions": [
+        "Metrorrhagia"
+      ],
+      "report_id": "11221616"
+    },
+    {
+      "drugs": [
+        "5-HYDROXYTRYPTOPHAN",
+        "ROZEREM",
+        "LEVOTHYROXINE."
+      ],
+      "reactions": [
+        "Headache",
+        "Feeling abnormal",
+        "Feeling of body temperature change",
+        "Somnolence"
+      ],
+      "report_id": "11389562"
+    },
+    {
+      "drugs": [
+        "POTASSIUM",
+        "FIBER GUMMIES",
+        "DULOXETINE HYDROCHLORIDE.",
+        "TUMS",
+        "VITAMIN D3",
+        "GABAPENTIN.",
+        "COLACE",
+        "LINZESS",
+        "GINKO BILOBA",
+        "LYRICA",
+        "CLONAZEPAM.",
+        "METOPROLOL",
+        "RESTASIS",
+        "SLOW MAG",
+        "5-HYDROXYTRYPTOPHAN",
+        "WELLBUTRIN",
+        "CHLORZOXAZONE.",
+        "ZINC",
+        "MORPHINE",
+        "ONDANSETRON",
+        "LUTEIN",
+        "BUSPAR",
+        "ONDANSETRON",
+        "L-LYSINE",
+        "CLONAZEPAM.",
+        "NEXIUM",
+        "NAPROXEN."
+      ],
+      "reactions": [
+        "Aphasia",
+        "Laryngitis",
+        "Eye movement disorder",
+        "Blood pressure increased",
+        "Blood potassium decreased",
+        "Serotonin syndrome",
+        "Monoparesis"
+      ],
+      "report_id": "11788473"
+    },
+    {
+      "drugs": [
+        "MULTI B VITAMIN",
+        "VHEA (SIC)",
+        "OMEGA 369",
+        "GLUCOSAMINE CHONDRIOTIN",
+        "5 HYDROXYTRYPTOPHAN",
+        "DAILY HAIR SKIN NAIL VITAMIN",
+        "VITAMIN E",
+        "CLEAN + CLEAR SKINCARE PRODUCTS",
+        "VITAMIN D",
+        "FOLIC ACID.",
+        "MILKY OATS"
+      ],
+      "reactions": [
+        "Product container issue",
+        "Visual impairment",
+        "Accidental exposure to product",
+        "Corneal abrasion"
+      ],
+      "report_id": "11926005"
+    },
+    {
+      "drugs": [
+        "5-HYDROXYTRYPTOPHAN",
+        "CLOVERINE SALVE",
+        "VITAMIN D3",
+        "SELENUM",
+        "KRILL OIL",
+        "IODINE.",
+        "VITAMIN C",
+        "OTEZLA",
+        "FOLIC ACID.",
+        "VITAMIN K2 AND D3",
+        "CLOBETASOL",
+        "VITAMIN B12",
+        "MAGNESIUM"
+      ],
+      "reactions": [
+        "Headache"
+      ],
+      "report_id": "12302225"
+    },
+    {
+      "drugs": [
+        "XYREM",
+        "XYREM",
+        "XYREM",
+        "XYREM",
+        "5-HYDROXYTRYPTOPHAN"
+      ],
+      "reactions": [
+        "Sleep apnoea syndrome",
+        "Back pain"
+      ],
+      "report_id": "12347140"
+    },
+    {
+      "drugs": [
+        "OMEGA-3 FISH OIL",
+        "EPIPEN",
+        "OXYCODONE",
+        "VITAMIN D",
+        "TESTOSTERONE CYPIONATE.",
+        "COQ10",
+        "GLUTATHIONE CRYSTALS",
+        "DIPHENHYDRAMINE.",
+        "5-HYDROXYTRYPTOPHAN (5-HTP)",
+        "GLUCOSAMINE SULFATE",
+        "HIZENTRA",
+        "METFORMIN",
+        "LISINOPRIL.",
+        "PRENOLONE",
+        "HIZENTRA",
+        "MAGNESIUM CHLORIDE.",
+        "ARMOUR THYROID",
+        "MELATONIN",
+        "HIZENTRA",
+        "ACIDOPHILUS"
+      ],
+      "reactions": [
+        "Laceration"
+      ],
+      "report_id": "12528445"
+    },
+    {
+      "drugs": [
+        "PAROXETINE.",
+        "GAVISCON ADVANCE",
+        "VITAMIN D                          /00107901/",
+        "CYCLIZINE HYDROCHLORIDE",
+        "VITAMIN C",
+        "VITAMIN B COMPLEX",
+        "FORTISIP",
+        "IBUPROFEN.",
+        "OMEPRAZOLE.",
+        "PROPRANOLOL",
+        "FISH OIL OMEGA 3",
+        "L-5-HYDROXYTRYPTOPHAN",
+        "MAGNESIUM"
+      ],
+      "reactions": [
+        "Chills",
+        "Anger",
+        "Condition aggravated",
+        "Palpitations",
+        "Photophobia",
+        "Anxiety",
+        "Weight decreased",
+        "Hypoaesthesia",
+        "Rash",
+        "Mood swings",
+        "Visual impairment",
+        "Dyschromatopsia",
+        "Salivary hypersecretion",
+        "Back pain",
+        "Depression",
+        "Vomiting",
+        "Thirst",
+        "Withdrawal syndrome",
+        "Peripheral coldness",
+        "Hypervigilance",
+        "Hyperacusis",
+        "Agitation",
+        "Decreased appetite",
+        "Dizziness",
+        "Vertigo",
+        "Chest pain",
+        "Dyskinesia",
+        "Hypersensitivity",
+        "Insomnia",
+        "Suicidal ideation",
+        "Hyperhidrosis"
+      ],
+      "report_id": "12565326"
+    },
+    {
+      "drugs": [
+        "TEVA UK PROPRANOLOL",
+        "GAVISCON ADVANCE",
+        "OMEPRAZOLE.",
+        "VITAMIN C",
+        "PAROXETINE HYDROCHLORIDE.",
+        "IBUPROFEN.",
+        "5-HYDROXYTRYPTOPHAN",
+        "OMEGA-3 FISH OIL",
+        "VITAMIN D",
+        "FORTISIP",
+        "VITAMIN B COMPLEX STRONG",
+        "CYCLIZINE HYDROCHLORIDE",
+        "MAGNESIUM"
+      ],
+      "reactions": [
+        "Mood swings",
+        "Decreased appetite",
+        "Back pain",
+        "Dizziness",
+        "Photophobia",
+        "Chills",
+        "Withdrawal syndrome",
+        "Vomiting",
+        "Hypoaesthesia",
+        "Hyperacusis",
+        "Chest pain",
+        "Dyschromatopsia",
+        "Visual impairment",
+        "Vertigo",
+        "Hyperhidrosis",
+        "Condition aggravated",
+        "Depression",
+        "Hypervigilance",
+        "Salivary hypersecretion",
+        "Anger",
+        "Anxiety",
+        "Palpitations",
+        "Rash",
+        "Dyskinesia",
+        "Suicidal ideation",
+        "Insomnia",
+        "Peripheral coldness",
+        "Agitation",
+        "Hypersensitivity",
+        "Thirst"
+      ],
+      "report_id": "12568209"
+    },
+    {
+      "drugs": [
+        "MAGNESIUM MALATE",
+        "MINERAL 650",
+        "ZYRTEK (CETIRIZINE HYDROCHLORIDE)",
+        "MIRENA",
+        "FOLATE (AS METAFOLIN, L-5-HTHF)",
+        "5-HTP (5-HYDROXYTRYPTOPHAN)",
+        "METHYL B-12 (METHYCOBALAMIN)"
+      ],
+      "reactions": [
+        "Anxiety",
+        "Depression",
+        "Amenorrhoea",
+        "Loss of employment"
+      ],
+      "report_id": "12679464"
+    },
+    {
+      "drugs": [
+        "XELJANZ",
+        "ATENOLOL.",
+        "XELJANZ XR",
+        "5-HYDROXYTRYPTOPHAN"
+      ],
+      "reactions": [
+        "Cold sweat",
+        "Body temperature abnormal",
+        "Chills",
+        "Productive cough",
+        "Chromaturia",
+        "Abdominal discomfort",
+        "Pulmonary congestion",
+        "Choking",
+        "Pollakiuria",
+        "Headache",
+        "Abdominal pain upper",
+        "Oropharyngeal pain"
+      ],
+      "report_id": "12746672"
+    },
+    {
+      "drugs": [
+        "LYRICA",
+        "COENZYME Q10",
+        "LEVSIN SL",
+        "XYZAL",
+        "LEVOTHYROXINE.",
+        "MELOXICAM.",
+        "EPIPEN",
+        "GLUCOSAMINE",
+        "MELATONIN",
+        "BACTROBAN",
+        "BREO ELLIPTA",
+        "CHEWABLE C",
+        "BEANO",
+        "GABAPENTIN.",
+        "LYRICA",
+        "VITAMIN D3",
+        "FLONASE",
+        "CALCIUM PLUS D3",
+        "PROAIR HFA",
+        "GLUCOSAMINE AND CHONDROITIN",
+        "ONDANSETRON",
+        "ALBUTEROL.",
+        "PROAIR HFA",
+        "XANAX",
+        "XANAX",
+        "XANAX",
+        "VITAMIN D3",
+        "COENZYME Q10",
+        "VITAMIN B12",
+        "EPIPEN",
+        "NORCO",
+        "RALOXIFENE.",
+        "CALCIUM CITRATE +D",
+        "KEFLEX",
+        "VITAMIN B12",
+        "FLONASE",
+        "LEVOTHYROXINE.",
+        "MELATONIN",
+        "FLUTICASONE PROPIONATE.",
+        "IRON",
+        "BUPROPION.",
+        "LIPITOR",
+        "NEURONTIN",
+        "MOBIC",
+        "HYDROCODONE",
+        "LEVOCETIRIZINE",
+        "HYOSCYAMINE.",
+        "5-HYDROXYTRYPTOPHAN",
+        "ACETAMINOPHEN.",
+        "LYRICA",
+        "BIOTIN",
+        "WELLBUTRIN SR",
+        "DSS",
+        "BACTROBAN",
+        "OMEPRAZOLE.",
+        "TRAZODONE",
+        "VITAMIN E",
+        "BUPROPION.",
+        "ALPRAZOLAM.",
+        "FERROUS SULFATE.",
+        "SUPER B COMPLEX",
+        "5-HYDROXYTRYPTOPHAN"
+      ],
+      "reactions": [
+        "Spinal fracture",
+        "Pre-existing condition improved",
+        "Therapeutic response unexpected",
+        "Spinal fracture",
+        "Dizziness",
+        "Influenza"
+      ],
+      "report_id": "12795240"
+    },
+    {
+      "drugs": [
+        "HEPARIN PF",
+        "COQ10 UBIQUINOL",
+        "5-HYDROXYTRYPTOPHAN",
+        "SELENIUM",
+        "VICODIN HP",
+        "MIRALAX",
+        "IBRANCE",
+        "TURMERIC ROOT EXTRACT",
+        "ROBAXIN",
+        "COPPER",
+        "VITAMIN D3",
+        "ZOFRAN",
+        "LIDOCAINE.",
+        "HEPARIN PF",
+        "CIPROFLOXACIN HCL",
+        "ATIVAN",
+        "VENTOLIN HFA",
+        "MAGNESIUM",
+        "HEPARIN SODIUM AND SODIUM CHLORIDE",
+        "HYDROXY CHLOROQUINE",
+        "OXYCODONE",
+        "LACTOBACILLUS ACIDOPHILUS",
+        "ANCEF",
+        "SYNTHROID",
+        "ONE-A-DAY",
+        "ATIVAN",
+        "FEMARA",
+        "BUMETANIDE.",
+        "VITAMIN C",
+        "CITRACAL",
+        "ATIVAN",
+        "COUMADIN",
+        "COLACE",
+        "PRILOSEC",
+        "POTASSIUM CHLORIDE.",
+        "DELTASONE",
+        "ALTEPLASE",
+        "FLAXSEED",
+        "OXYCONTIN",
+        "LIDOCAINE-PRILOCAINE"
+      ],
+      "reactions": [
+        "Hypergammaglobulinaemia benign monoclonal",
+        "Malignant neoplasm of spinal cord",
+        "Second primary malignancy",
+        "Breast cancer female",
+        "Brain neoplasm malignant"
+      ],
+      "report_id": "12974213"
+    },
+    {
+      "drugs": [
+        "ATIVAN",
+        "OMEGA 3",
+        "5-HYDROXYTRYPTOPHAN",
+        "COLACE",
+        "ROBAXIN",
+        "VITAMIN C",
+        "HYDROXYCHLOROQUINE SULFATE.",
+        "ZOFRAN",
+        "CURCUMA LONGA ROOT",
+        "LIDOCAINE W/PRILOCAINE",
+        "PRILOSEC",
+        "HEPARIN PF",
+        "CIPROFLOXACIN HCL",
+        "ATIVAN",
+        "FLAXSEED",
+        "FEMARA",
+        "COUMADIN",
+        "OXYCONTIN",
+        "VICODIN HP",
+        "LIDOCAINE.",
+        "IBRANCE",
+        "SYNTHROID",
+        "BUMETANIDE.",
+        "MAGNESIUM",
+        "PROBIOTIC",
+        "LACTOBACILLUS ACIDOPHILUS",
+        "ALTEPLASE",
+        "POTASSIUM CHLORIDE.",
+        "OXYCODONE",
+        "HEPARIN PF",
+        "ALTEPLASE",
+        "ANCEF",
+        "COQ10",
+        "SELENIUM",
+        "CATHFLO ACTIVASE",
+        "VENTOLIN HFA",
+        "COPPER",
+        "MIRALAX",
+        "DELTASONE",
+        "CITRACAL",
+        "HEPARIN SODIUM.",
+        "ATIVAN",
+        "UBIQUINOL",
+        "VITAMIN D3",
+        "HEPARIN PF"
+      ],
+      "reactions": [
+        "Hypergammaglobulinaemia benign monoclonal",
+        "Second primary malignancy",
+        "Neoplasm progression"
+      ],
+      "report_id": "13000837"
+    },
+    {
+      "drugs": [
+        "FOLATE",
+        "5-HYDROXYTRYPTOPHAN",
+        "KUVAN",
+        "L DOPA"
+      ],
+      "reactions": [
+        "Exposure during pregnancy"
+      ],
+      "report_id": "13056851"
+    },
+    {
+      "drugs": [
+        "LIOTHYRONINE",
+        "UBIQUINOL",
+        "VALACYCLOVIR",
+        "ALDENDRONATE SODIUM",
+        "VALACYCLOVIR",
+        "5-HYDROXYTRYPTOPHAN",
+        "METRONIDAZOLE GEL",
+        "DIPHENHYDRAMINE HYDROCHLORIDE.",
+        "FISH OIL",
+        "PREMARIN VAGINAL",
+        "N-ACETYLCYSTEINE",
+        "VITAMIN D3",
+        "BIOTIN",
+        "MULTIVITAMIN AND MINERAL SUPPLEMENT"
+      ],
+      "reactions": [
+        "Product colour issue",
+        "Product substitution issue",
+        "Bladder irritation"
+      ],
+      "report_id": "13255009"
+    },
+    {
+      "drugs": [
+        "IMITREX",
+        "5-HYDROXYTRYPTOPHAN",
+        "LUTEIN",
+        "ZOMIG",
+        "AVONEX",
+        "FROVA",
+        "MELATONIN",
+        "AVONEX",
+        "VITAMIN D",
+        "ESTROGEN",
+        "VITAMIN B12",
+        "RELPAX",
+        "ZOLOFT",
+        "MAXALT",
+        "PROGESTERONE.",
+        "FLONASE",
+        "TURMERIC ROOT EXTRACT"
+      ],
+      "reactions": [
+        "Vitreous detachment",
+        "Retinal artery occlusion"
+      ],
+      "report_id": "13337871"
+    },
+    {
+      "drugs": [
+        "KUVAN",
+        "L DOPA",
+        "5-HYDROXYTRYPTOPHAN",
+        "FOLATE"
+      ],
+      "reactions": [
+        "Meconium aspiration syndrome",
+        "Foetal distress syndrome"
+      ],
+      "report_id": "13407321"
+    },
+    {
+      "drugs": [
+        "SERTRALINE",
+        "PROIRON",
+        "BUPROPRION XL",
+        "BUPROPRION XL",
+        "SILDENAFIL.",
+        "GLUTAMINE",
+        "CLK",
+        "KRE-ALKALYN",
+        "5-HYDROXYTRYPTOPHAN (NATROL)",
+        "CLA",
+        "CRAVING CRUSH",
+        "DIVALPROEX ER",
+        "T-BOOST",
+        "CYCLOBENZAPRINE.",
+        "BURN 60",
+        "CYCLE ARMOUR",
+        "MALIC ACID",
+        "MASS",
+        "JACKED MUSCLE EXTREME",
+        "SERTRALINE",
+        "GAIN272",
+        "LEAN MUSCLE",
+        "ULTIMATE MUSCLE",
+        "LIPRO 6",
+        "CLA PM",
+        "PRO-HORMONE X3",
+        "TESTX180",
+        "PRAZOSIN.",
+        "AM/PM BURNER",
+        "KYANI NITRO FX",
+        "QUADRA LEAN",
+        "HYDROXYZINE HYDROCHLORIDE."
+      ],
+      "reactions": [
+        "Compartment syndrome",
+        "Serotonin syndrome",
+        "Drug interaction",
+        "Food interaction",
+        "Rhabdomyolysis"
+      ],
+      "report_id": "14071385"
+    },
+    {
+      "drugs": [
+        "BUPROPION.",
+        "CYCLOBENZAPRINE.",
+        "SERTRALINE",
+        "BUPROPION.",
+        "PRAZOSIN.",
+        "SILDENAFIL.",
+        "HYDROXYZINE HYDROCHLORIDE.",
+        "DIVALPROEX ER",
+        "5-HYDROXYTRYPTOPHAN"
+      ],
+      "reactions": [
+        "Drug interaction",
+        "Rhabdomyolysis",
+        "Compartment syndrome",
+        "Serotonin syndrome",
+        "Food interaction"
+      ],
+      "report_id": "14085094"
+    },
+    {
+      "drugs": [
+        "SILDENAFIL.",
+        "BUPROPION/BUPROPION HYDROCHLORIDE",
+        "GLUTAMIC ACID",
+        "SERTRALINE",
+        "5-HYDROXYTRYPTOPHAN",
+        "HYDROXYZINE",
+        "VALPROIC ACID.",
+        "MALIC ACID",
+        "BUPROPION/BUPROPION HYDROCHLORIDE",
+        "PRAZOSIN.",
+        "CYCLOBENZAPRINE.",
+        "LINOLEIC ACID"
+      ],
+      "reactions": [
+        "Rhabdomyolysis",
+        "Musculoskeletal stiffness",
+        "Treatment noncompliance",
+        "Seizure",
+        "Serotonin syndrome",
+        "Emotional distress",
+        "Muscle spasms",
+        "Pain in extremity",
+        "Tenderness",
+        "Erythema",
+        "Hypoxia",
+        "Compartment syndrome",
+        "Peripheral swelling",
+        "Agitation",
+        "Clonus",
+        "Dyskinesia",
+        "Cyanosis",
+        "Drug interaction",
+        "Condition aggravated",
+        "Hyperthermia",
+        "Hypoaesthesia"
+      ],
+      "report_id": "14119167"
+    },
+    {
+      "drugs": [
+        "METFORMIN",
+        "ATORVASTATIN",
+        "LISINOPRIL.",
+        "ALEVE",
+        "5-HYDROXYTRYPTOPHAN"
+      ],
+      "reactions": [
+        "Product use issue"
+      ],
+      "report_id": "14242500"
+    },
+    {
+      "drugs": [
+        "SPIRICORT",
+        "CORTISONE",
+        "HYDROCORTISON GALEPHARM",
+        "RIVOTRIL",
+        "PREGNENOLONE",
+        "MAGNESIOCARD",
+        "HUMIRA",
+        "FERRUM HAUSMANN",
+        "RIVOTRIL",
+        "RIVOTRIL",
+        "CETALLERG",
+        "DORMICUM",
+        "HUMIRA",
+        "HUMIRA",
+        "CANNABIS OIL",
+        "VITAMINE B COMPLEX",
+        "BENZODIAZEPINE",
+        "NOVALGIN (METAMIZOLE SODIUM)",
+        "LAMICTAL DISP",
+        "FRAGMIN",
+        "SPIRICORT",
+        "5-HYDROXYTRYPTOPHAN",
+        "EUPHRASIA OFFICINALIS",
+        "VITAMIN D3",
+        "CIMIFEMIN FORTE",
+        "KCL RETARD HAUSMANN RET",
+        "PRO VITA D3",
+        "DHEA",
+        "SYMBICORT",
+        "EFFENTORA",
+        "OXIS TURBOHALER",
+        "TRAMAL"
+      ],
+      "reactions": [
+        "Alanine aminotransferase increased",
+        "Neutrophil count increased",
+        "Monocyte count decreased",
+        "Prothrombin time shortened",
+        "Eosinophil count decreased",
+        "Lymphocyte count decreased",
+        "Pyrexia",
+        "Gamma-glutamyltransferase increased",
+        "Partial seizures",
+        "Eczema",
+        "Epilepsy",
+        "Tachycardia",
+        "Haematocrit increased",
+        "Red blood cell count increased",
+        "Aspartate aminotransferase increased"
+      ],
+      "report_id": "14398503"
+    },
+    {
+      "drugs": [
+        "OMEGA",
+        "MAGNESIUM",
+        "SYNTHROID",
+        "VITAMIN D3",
+        "VITAMIN B12",
+        "MULTIVITAMINS",
+        "Q10",
+        "SYNTHROID",
+        "5-HYDROXYTRYPTOPHAN"
+      ],
+      "reactions": [
+        "Thyrotoxic crisis",
+        "Blood pressure increased",
+        "Palpitations",
+        "Chest pain"
+      ],
+      "report_id": "14925007"
+    },
+    {
+      "drugs": [
+        "VERAPAMIL (SR)",
+        "CITRUCEL",
+        "5?HYDROXYTRYPTOPHAN",
+        "NITROSTAT",
+        "POTASSIUM CHLORIDE (ER)",
+        "NEURONTIN",
+        "NORCO",
+        "SMZ?TMP",
+        "REMERON",
+        "LIDEX",
+        "DESONIDE.",
+        "D?MANNOSE",
+        "HYDRALAZINE HCL",
+        "KLONOPIN",
+        "AZELASTINE.",
+        "BENTYL",
+        "FISH OIL",
+        "ALBUTEROL.",
+        "HYDROCHLOROTHIAZIDE.",
+        "PRILOSEC",
+        "BIOTIN",
+        "BENADRYL",
+        "CHLOROPHYLL",
+        "MIRALAX",
+        "ASPIRIN.",
+        "LOSARTAN/HCTZ",
+        "LIDEX",
+        "CLOBETASOL",
+        "VENTOLIN HFA",
+        "LOPRESSOR",
+        "ISOSORBIDE.",
+        "TRAZODONE",
+        "VITAMIN D3",
+        "COQ10",
+        "METFORMIN",
+        "QVAR REDIHALER",
+        "FLONASE",
+        "HYDROXYZINE"
+      ],
+      "reactions": [
+        "Pain",
+        "Asthenia",
+        "Oral candidiasis",
+        "Wrong technique in product usage process",
+        "Myalgia"
+      ],
+      "report_id": "15084072"
+    },
+    {
+      "drugs": [
+        "L DOPA",
+        "5?HYDROXYTRYPTOPHAN",
+        "PRAMIPEXOLE.",
+        "CARBIDOPA.",
+        "PRAMIPEXOLE.",
+        "PRAMIPEXOLE.",
+        "ENTACAPONE.",
+        "SELEGILINE"
+      ],
+      "reactions": [
+        "Hypersexuality",
+        "Impulse-control disorder",
+        "Aggression",
+        "Initial insomnia"
+      ],
+      "report_id": "15435898"
+    },
+    {
+      "drugs": [
+        "HUMIRA",
+        "HYCOSAN",
+        "5-HYDROXYTRYPTOPHAN"
+      ],
+      "reactions": [
+        "Cataract",
+        "Inflammatory bowel disease",
+        "Corneal disorder",
+        "Visual acuity reduced",
+        "Corneal thickening",
+        "Acquired corneal dystrophy",
+        "Keratitis",
+        "Intraocular pressure increased",
+        "Corneal oedema"
+      ],
+      "report_id": "16156066"
+    },
+    {
+      "drugs": [
+        "DILTIAZEM.",
+        "OXCARBAZEPINE.",
+        "L-TYROSINE",
+        "BUSPIRONE HCL",
+        "D3 SUPPLEMENT",
+        "NEUPRO",
+        "ACETYLSALICYLIC ACID",
+        "5-HYDROXYTRYPTOPHAN",
+        "APOKYN",
+        "PROPRANOLOL",
+        "METHYLFOLATE"
+      ],
+      "reactions": [
+        "Blood pressure decreased",
+        "Headache"
+      ],
+      "report_id": "16442263"
+    },
+    {
+      "drugs": [
+        "CARBIDOPA.",
+        "PHENYTOIN.",
+        "LEVETIRACETAM.",
+        "5-HYDROXYTRYPTOPHAN",
+        "VALPROIC ACID.",
+        "VALPROIC ACID.",
+        "PHENYTOIN.",
+        "LEVETIRACETAM."
+      ],
+      "reactions": [
+        "Serotonin syndrome",
+        "Somnolence"
+      ],
+      "report_id": "16956669"
+    },
+    {
+      "drugs": [
+        "TRINTELLIX",
+        "LITHIUM.",
+        "L-5-HYDROXYTRYPTOPHAN"
+      ],
+      "reactions": [
+        "Irritability",
+        "Vertigo",
+        "Muscle twitching",
+        "Feeling abnormal",
+        "Diarrhoea",
+        "Nausea",
+        "Headache"
+      ],
+      "report_id": "17106391"
+    },
+    {
+      "drugs": [
+        "NEUPRO",
+        "DILTIAZEM 24",
+        "ASA",
+        "BUSPIRONE HYDROCHLORIDE.",
+        "METHYL FOLATE",
+        "THORNE",
+        "D3 SUPPLEMENT",
+        "5-HYDROXYTRYPTOPHAN",
+        "APOKYN",
+        "PROPRANOLOL",
+        "OXCARBAZEPINE.",
+        "L-TYROSINE"
+      ],
+      "reactions": [
+        "Somnolence",
+        "Nausea"
+      ],
+      "report_id": "17858224"
+    },
+    {
+      "drugs": [
+        "BISOPROLOL",
+        "LEVOTHYROXINE.",
+        "DIGITOXIN",
+        "RIVAROXABAN",
+        "AMLODIPINE",
+        "TELMISARTAN.",
+        "5?HYDROXYTRYPTOPHAN",
+        "LEVETIRACETAM."
+      ],
+      "reactions": [
+        "Bradycardia",
+        "Gastric pH increased",
+        "Anxiety",
+        "Atrial fibrillation",
+        "Insomnia"
+      ],
+      "report_id": "18589440"
+    },
+    {
+      "drugs": [
+        "LEVOTHYROXINE.",
+        "RIVAROXABAN",
+        "DIGITOXIN",
+        "TELMISARTAN.",
+        "LEVETIRACETAM.",
+        "AMLODIPINE",
+        "BISOPROLOL",
+        "L?5?HYDROXYTRYPTOPHAN"
+      ],
+      "reactions": [
+        "Atrial fibrillation",
+        "Insomnia",
+        "Gastric pH increased",
+        "Anxiety",
+        "Bradycardia"
+      ],
+      "report_id": "18598506"
+    },
+    {
+      "drugs": [
+        "DIGITOXIN",
+        "LEVETIRACETAM.",
+        "LEVOTHYROXINE SODIUM.",
+        "RIVAROXABAN",
+        "TELMISARTAN.",
+        "5?HYDROXYTRYPTOPHAN",
+        "BISOPROLOL",
+        "AMLODIPINE"
+      ],
+      "reactions": [
+        "Insomnia",
+        "Anxiety",
+        "Atrial fibrillation",
+        "Bradycardia",
+        "Gastric pH increased"
+      ],
+      "report_id": "18604068"
+    },
+    {
+      "drugs": [
+        "LEVETIRACETAM.",
+        "LEVETIRACETAM.",
+        "AMLODIPINE",
+        "RIVAROXABAN",
+        "BISOPROLOL",
+        "L?5?HYDROXYTRYPTOPHAN",
+        "TELMISARTAN.",
+        "DIGITOXIN",
+        "LEVOTHYROXIN"
+      ],
+      "reactions": [
+        "Atrial fibrillation",
+        "Insomnia",
+        "Anxiety",
+        "Gastric pH increased",
+        "Bradycardia"
+      ],
+      "report_id": "18605164"
+    },
+    {
+      "drugs": [
+        "AMLODIPINE",
+        "TELMISARTAN.",
+        "RIVAROXABAN",
+        "DIGITOXIN",
+        "LEVETIRACETAM.",
+        "BISOPROLOL",
+        "5?HYDROXYTRYPTOPHAN",
+        "LEVOTHYROXIN"
+      ],
+      "reactions": [
+        "Insomnia",
+        "Gastric pH increased",
+        "Atrial fibrillation",
+        "Bradycardia",
+        "Anxiety"
+      ],
+      "report_id": "18605197"
+    },
+    {
+      "drugs": [
+        "AMLODIPINE",
+        "DIGITOXIN",
+        "BISOPROLOL",
+        "TELMISARTAN.",
+        "LEVOTHYROXIN",
+        "5-HYDROXYTRYPTOPHAN",
+        "LEVETIRACETAM.",
+        "RIVAROXABAN"
+      ],
+      "reactions": [
+        "Bradycardia",
+        "Atrial fibrillation",
+        "Anxiety",
+        "Gastric pH increased",
+        "Insomnia"
+      ],
+      "report_id": "18605353"
+    },
+    {
+      "drugs": [
+        "LEVETIRACETAM.",
+        "5-HYDROXYTRYPTOPHAN",
+        "RIVAROXABAN",
+        "AMLODIPINE",
+        "BISOPROLOL",
+        "TELMISARTAN.",
+        "DIGITOXIN",
+        "LEVOTHYROXIN"
+      ],
+      "reactions": [
+        "Bradycardia",
+        "Atrial fibrillation",
+        "Gastric pH increased",
+        "Anxiety",
+        "Insomnia"
+      ],
+      "report_id": "18621943"
+    },
+    {
+      "drugs": [
+        "LEVOTHYROXIN",
+        "5?HYDROXYTRYPTOPHAN",
+        "LEVETIRACETAM.",
+        "AMLODIPINE",
+        "DIGITOXIN",
+        "RIVAROXABAN",
+        "TELMISARTAN.",
+        "BISOPROLOL"
+      ],
+      "reactions": [
+        "Bradycardia",
+        "Insomnia",
+        "Atrial fibrillation",
+        "Gastric pH increased",
+        "Anxiety"
+      ],
+      "report_id": "18643198"
+    },
+    {
+      "drugs": [
+        "TYSABRI",
+        "FISH OIL",
+        "FOLIC ACID.",
+        "TYSABRI",
+        "TIMOLOL MALEATE.",
+        "ACETAMINOPHEN.",
+        "VITAMIN D3",
+        "OXCARBAZEPINE.",
+        "PRAMOSONE",
+        "BISACODYL.",
+        "FLONASE",
+        "GLYCOLAX",
+        "METHYLCOBALAMIN.",
+        "TYSABRI",
+        "TYSABRI",
+        "DULCOLAX NOS",
+        "SYNTHROID",
+        "TROSPIUM",
+        "TYLENOL",
+        "AMPYRA",
+        "SENNA PLUS",
+        "TRAMADOL.",
+        "LACTULOSE.",
+        "LORATADINE.",
+        "METAMUCIL",
+        "PHENYLEPHRINE",
+        "PAROXETINE.",
+        "BENEFIBER",
+        "CRANBERRY.",
+        "NAMENDA",
+        "CHLOROPHYLL",
+        "TYSABRI",
+        "TYSABRI",
+        "GABAPENTIN.",
+        "VITAMIN B12",
+        "L?TRYPTOPHAN",
+        "5?HYDROXYTRYPTOPHAN"
+      ],
+      "reactions": [
+        "Insomnia",
+        "Prescribed underdose",
+        "Substance-induced psychotic disorder"
+      ],
+      "report_id": "19064884"
+    },
+    {
+      "drugs": [
+        "SERTRALINE",
+        "L?5?HYDROXYTRYPTOPHAN",
+        "SERTRALINE"
+      ],
+      "reactions": [
+        "Psychotic disorder"
+      ],
+      "report_id": "19467863"
+    },
+    {
+      "drugs": [
+        "TECFIDERA",
+        "TECFIDERA",
+        "HYDROCO/APAP",
+        "COENZYME Q10",
+        "GABAPENTIN.",
+        "PREDNISONE.",
+        "SERTRALINE",
+        "BRIMONIDINE TARTRATE.",
+        "DOCUSATE SODIUM.",
+        "DIPHENHYDRAMINE HYDROCHLORIDE.",
+        "VITAMIN E",
+        "ALPHAGAN P",
+        "METHOCARBAMOL.",
+        "SERTRALINE HCL",
+        "MILK OF MAGNESIA",
+        "ROSUVASTATIN.",
+        "ASPIRIN EC LOW DOSE",
+        "PSEUDOEPHEDRINE HCL",
+        "RESVERATROL",
+        "MELATONIN",
+        "VITAMIN D3",
+        "VITAMIN B COMPLEX",
+        "TECFIDERA",
+        "TECFIDERA",
+        "LIDOCAINE.",
+        "CALCIUM ROSUVASTATIN",
+        "CETIRIZINE HYDROCHLORIDE.",
+        "OMEPRAZOLE.",
+        "RESTASIS",
+        "L?THEANINE",
+        "5?HYDROXYTRYPTOPHAN",
+        "BLACK COHOSH"
+      ],
+      "reactions": [
+        "Arthralgia",
+        "Arterial disorder",
+        "Dry skin",
+        "Insomnia",
+        "Sensory disturbance",
+        "Degenerative bone disease",
+        "Internal carotid artery deformity",
+        "Chest discomfort",
+        "Bladder disorder",
+        "Pain in extremity",
+        "Sciatica",
+        "Neuralgia",
+        "Decreased immune responsiveness",
+        "Balance disorder",
+        "Headache",
+        "Micturition disorder",
+        "Musculoskeletal stiffness",
+        "Neuropathy peripheral",
+        "Dry eye",
+        "Back pain",
+        "Muscle spasticity",
+        "Visual impairment",
+        "Burning sensation",
+        "Dry mouth",
+        "Gastric disorder",
+        "Paraesthesia",
+        "Arthritis",
+        "Eye pain",
+        "Cataract",
+        "Cognitive disorder",
+        "Fatigue",
+        "Pain"
+      ],
+      "report_id": "19596487"
+    },
+    {
+      "drugs": [
+        "MYCOPHENOLATE MOFETIL",
+        "CALCIPOTRINE",
+        "UNSPECIFIED INGREDIENT",
+        "TOPICAL SOLUTION",
+        "DESOCIMETASONE",
+        "DOCUSATE",
+        "EURISA CRISABOROLE",
+        "TOPICAL OINTMENT",
+        "FAMOTIDINE",
+        "FINASTERIDE",
+        "HELIOCARE",
+        "HYDROXYZINE PAMOATE",
+        "MOMETASONE FUROATE",
+        "N-ACETYLCYSTEINE",
+        "NALTREXONE",
+        "PANZYGA IMMUNE GLOBULIN",
+        "BISOCRIP",
+        "SOOLANTRA IVERMECTIN",
+        "TADALAFIL",
+        "5-HPT 5- HYDROXYTRYPTOPHAN",
+        "ASPERCREME",
+        "LIDOCAINE",
+        "CALCIUIM",
+        "MAGNESIUM AND ZINC",
+        "MULLTIVITAMIN WITH MINERALS",
+        "VITAMIN D",
+        "GAMMA-AMBINOBUTYRIC ACID",
+        "MELATONIN",
+        "METHAMPHETAMINE",
+        "NIZORAL A-D",
+        "KETOCONAZOLE",
+        "OMEGA-3",
+        "TOPICAL SHAMPOO",
+        "ONE-A-DAY MEN^S HEALTH MULTIVITAMIN",
+        "MULTPLE VITAMINS",
+        "PRAMOXINE HYDROCHLORIDE",
+        "PROBIOTIC",
+        "PSYLLIUM",
+        "VALLERIAN ROOT",
+        "ZYRREC CETIRIZINE"
+      ],
+      "reactions": [
+        "Depressed mood",
+        "Fatigue",
+        "Confusional state",
+        "Thirst",
+        "Abdominal discomfort",
+        "Gastrointestinal disorder",
+        "Eczema",
+        "Rash pruritic",
+        "Rash erythematous",
+        "Rash"
+      ],
+      "report_id": "20501976"
+    },
+    {
+      "drugs": [
+        "ACETAMINOPHEN\\OXYCODONE HYDROCHLORIDE",
+        "ACETAMINOPHEN\\OXYCODONE HYDROCHLORIDE",
+        "ADDERALL",
+        "PERCOCET",
+        "NP THYROID",
+        "VIMPAT",
+        "GABAPENTIN",
+        "DIAZEPAM",
+        "PROGESTERONE",
+        "5-HTP (5-HYDROXYTRYPTOPHAN)",
+        "GABA (GAMMA-AMINOBUTYRIC ACID)",
+        "+ B-6 DHEA (DEHYDROEPIANDROSTERONE)",
+        "RAW ADRENAL GLANDULAR",
+        "RAW DESICCATED BOVINE THYROID"
+      ],
+      "reactions": [
+        "Headache",
+        "Migraine",
+        "Lip swelling",
+        "Gingival swelling",
+        "Aura"
+      ],
+      "report_id": "21139244"
+    },
+    {
+      "drugs": [
+        "ORALAIR",
+        "SINGULAIR",
+        "5-HYDROXYTRYPTOPHAN (5-HTP)",
+        "FISH OIL",
+        "CETIRIZINE",
+        "GUANFACINE",
+        "CLONIDINE",
+        "TRAZODONE",
+        "BENADRYL",
+        "ZOFRAN",
+        "IBUPROFEN",
+        "EPIPEN JR"
+      ],
+      "reactions": [
+        "Urticaria",
+        "Blood glucose increased",
+        "Fatigue"
+      ],
+      "report_id": "24054657"
+    },
+    {
+      "drugs": [
+        "ZELNORM",
+        "5-HYDROXYTRYPTOPHAN",
+        "CORAL CALCIUM"
+      ],
+      "reactions": [
+        "ARTHRALGIA",
+        "CONDITION AGGRAVATED"
+      ],
+      "report_id": "4304020-7"
+    },
+    {
+      "drugs": [
+        "STRATTERA",
+        "5-HYDROXYTRYPTOPHAN"
+      ],
+      "reactions": [
+        "DEPRESSION"
+      ],
+      "report_id": "4441541-0"
+    },
+    {
+      "drugs": [
+        "PAXIL",
+        "5-HYDROXYTRYPTOPHAN"
+      ],
+      "reactions": [
+        "DRUG INEFFECTIVE",
+        "SLEEP DISORDER"
+      ],
+      "report_id": "4904991-1"
+    },
+    {
+      "drugs": [
+        "WELLBUTRIN",
+        "PROVIGIL",
+        "5-HYDROXYTRYPTOPHAN"
+      ],
+      "reactions": [
+        "DRUG INTERACTION",
+        "INSOMNIA"
+      ],
+      "report_id": "5221993-9"
+    },
+    {
+      "drugs": [
+        "ZYBAN",
+        "5-HYDROXYTRYPTOPHAN"
+      ],
+      "reactions": [
+        "NAUSEA",
+        "VOMITING"
+      ],
+      "report_id": "5366817-4"
+    },
+    {
+      "drugs": [
+        "REBIF",
+        "REBIF",
+        "REBIF",
+        "PREMPRO",
+        "CELEBREX",
+        "VITAMIN D",
+        "SYNTHROID",
+        "PRAVASTATIN",
+        "IBUPROFEN",
+        "COZAAR",
+        "DILTIAZEM",
+        "WELLBUTRIN",
+        "SEROQUEL",
+        "ZETIA",
+        "TRICOR",
+        "NEXIUM",
+        "PLAVIX",
+        "BENICAR",
+        "WELCHOL",
+        "CYMBALTA",
+        "ASPIRIN",
+        "NIASPAN",
+        "BACLOFEN",
+        "FISH OIL (FISH OIL)",
+        "B COMPLEX (B-KOMPLEX)",
+        "FLAXSEED OIL (LINUM USITATISSIMUM SEED OIL)",
+        "IRON (IRON)",
+        "CALCIUM (CALCIUM)",
+        "COENZYME Q10",
+        "5-HYDROXYTRYPTOPHAN (OXITRIPTAN)",
+        "PRESERVISION (PRESERVISION LUTEIN EYE VITA. + MIN. SUP. SOFTG.)",
+        "GLUCOSAMINE AND CHONDROITIN (GLUCOSAMINE W/CHONDROITIN SULFATE)",
+        "METHOTREXATE"
+      ],
+      "reactions": [
+        "ANAEMIA",
+        "CORONARY ARTERY OCCLUSION",
+        "DIZZINESS",
+        "ECZEMA",
+        "FEELING COLD",
+        "HEART RATE INCREASED",
+        "HYPERHIDROSIS",
+        "IN-STENT ARTERIAL RESTENOSIS",
+        "LYMPHOCYTE COUNT INCREASED",
+        "MYOCARDIAL INFARCTION",
+        "NAUSEA",
+        "SINUSITIS",
+        "WHITE BLOOD CELL COUNT DECREASED"
+      ],
+      "report_id": "6687184-X"
+    },
+    {
+      "drugs": [
+        "BIOPTEN (SAPROPTERIN HYDROCHLORIDE)",
+        "BIOPTEN (SAPROPTERIN HYDROCHLORIDE)",
+        "BIOPTEN (SAPROPTERIN HYDROCHLORIDE)",
+        "BIOPTEN (SAPROPTERIN HYDROCHLORIDE)",
+        "KUVAN",
+        "CARBIDOPA AND LEVODOPA",
+        "5-HYDROXYTRYPTOPHAN"
+      ],
+      "reactions": [
+        "AMIMIA",
+        "AMNESIA",
+        "ASTHENIA",
+        "CLONUS",
+        "DIZZINESS",
+        "EYE MOVEMENT DISORDER",
+        "INAPPROPRIATE SCHEDULE OF DRUG ADMINISTRATION",
+        "LEUKOCYTOSIS",
+        "LOSS OF CONSCIOUSNESS",
+        "SOMNOLENCE",
+        "TREATMENT NONCOMPLIANCE",
+        "TREMOR",
+        "VISION BLURRED"
+      ],
+      "report_id": "5724491-9"
+    },
+    {
+      "drugs": [
+        "CERNEVIT-12",
+        "OCTACOSANOL",
+        "CALAMUS",
+        "LACTOBACILLUS ACIDOPHILUS",
+        "RHODIOLA",
+        "5-HYDROXYTRYPTOPHAN",
+        "ANIRACETAM",
+        "BACOPA MONNIERA",
+        "BIFIDOBACTERIUM BIFIDUS",
+        "CALCIUM",
+        "CHROMIUM",
+        "CHROMIUM PICOLINATE",
+        "COENZYME Q10",
+        "COLA ACUMINATA",
+        "LINOLEIC ACID",
+        "ECLIPTA ALBA",
+        "ELETTARIA CARDAMOMUM",
+        "FOLIC ACID",
+        "FUCOXANTHIN",
+        "GINGER",
+        "GINSENG",
+        "GLUCURONOLACTONE",
+        "GREEN TEA EXTRACT",
+        "GUARANA",
+        "HOODIA GORDONII",
+        "HYDROCOYLE ASIATICA",
+        "LEVOCARNITINE",
+        "LEPIDIUM MEYENII",
+        "MAGNESIUM",
+        "MAGNESIUM CITRATE",
+        "MULTI-VITAMINS",
+        "NICOTINAMIDE",
+        "NADIDE",
+        "PSYLLIUM",
+        "RHODIOLA ROSEA",
+        "S-ADENOSYL-L-METHIONINE",
+        "SELENIUM",
+        "SIBERIAN GINSENG",
+        "ST JOHNS WORT",
+        "SUCROSE",
+        "THEOBROMINE",
+        "TINOSPORA CORDIFOLIA",
+        "VITAMIN A",
+        "NICOTINIC ACID",
+        "VITAMIN B6",
+        "ASCORBIC ACID",
+        "VITAMIN E",
+        "WITHANIA SOMNIFERA",
+        "ZINC",
+        "COLA NITIDA",
+        "CAMELIA SINENSIS"
+      ],
+      "reactions": [
+        "MANIA"
+      ],
+      "report_id": "6428211-4"
+    },
+    {
+      "drugs": [
+        "CARNITOR (LEVOCARNITINE) DOSAGE UNKNOWN",
+        "5-HYDROXYTRYPTOPHAN",
+        "1-OCTACOSANOL",
+        "ANIRACETAM",
+        "BACOPA MONNIERA",
+        "BIFIDOBACTERIUM BIFIDUS",
+        "CALAMUS",
+        "CALCIUM",
+        "CHROMIUM",
+        "CHROMIUM PICOLINATE",
+        "COENZYME Q10",
+        "COLA ACUMINATA",
+        "CONJUGATED LINOLCIC ACID",
+        "ECLIPTA ALBA",
+        "ELETTARIA CARDAMORNUM",
+        "FOLIC ACID",
+        "FUCOXANTHIN",
+        "GINGER",
+        "GINSENG",
+        "GLUCURONOLACTONE",
+        "GREEN TEA EXTRACT",
+        "GUARANA",
+        "HOODIA GORDONI I",
+        "HYDROCOYLE ASIATICA",
+        "LACTOBACILLUS ACIDOPHILUS",
+        "LEPIDIUM MEYENI I",
+        "MAGNESIUM",
+        "MAGNESIUM CITRATE",
+        "MULTI-VITAMIN",
+        "MULTI-VITAMIN",
+        "NICOTINAMIDE",
+        "NICOTINAMIDE ADENINE DINUCLEOTIDE",
+        "PSYLLIUM",
+        "RHODIOLA",
+        "RHODIOLA ROSEA",
+        "S-ADENOSYL-L-METHI ONINE",
+        "SELENIUM",
+        "SIBERIAN GINSENG",
+        "ST JOHNS WORT",
+        "SUCROSE",
+        "THEOBROMINE",
+        "TINOSPORA CORDIFOLIA",
+        "VITAMIN A",
+        "VITAMIN B3",
+        "VITAMIN B6",
+        "ASCORBIC ACID",
+        "VITAMIN E",
+        "WITHANIA SOMNIFERA",
+        "ZINC"
+      ],
+      "reactions": [
+        "MANIA"
+      ],
+      "report_id": "6469726-2"
+    },
+    {
+      "drugs": [
+        "CHANTIX",
+        "THYROID TAB",
+        "ZYRTEC",
+        "ALBUTEROL SULFATE",
+        "MAGNESIUM",
+        "FISH OIL",
+        "5-HYDROXYTRYPTOPHAN"
+      ],
+      "reactions": [
+        "MOOD SWINGS",
+        "NERVOUSNESS"
+      ],
+      "report_id": "6857293-0"
+    },
+    {
+      "drugs": [
+        "ZYPREXA",
+        "TRAZODONE",
+        "L-5-HYDROXYTRYPTOPHAN",
+        "CHANTIX",
+        "ABILIFY",
+        "CHANTIX",
+        "DEPAKOTE",
+        "THORAZINE",
+        "TRAZODONE",
+        "INVEGA SUSTENNA",
+        "PROZAC",
+        "VISTARIL",
+        "CHANTIX",
+        "HALOPERIDOL.",
+        "ZIPRASIDONE.",
+        "TRICOR",
+        "LITHIUM.",
+        "VITAMINS",
+        "CHANTIX",
+        "GEODON",
+        "VISTARIL"
+      ],
+      "reactions": [
+        "Dry mouth",
+        "Thinking abnormal",
+        "Loss of consciousness",
+        "Mental disorder",
+        "Paranoia",
+        "Intentional overdose",
+        "Seizure",
+        "Muscle spasms",
+        "Post-traumatic stress disorder",
+        "Psychotic disorder",
+        "Depression",
+        "Amnesia",
+        "Anxiety",
+        "Dissociative disorder",
+        "Abnormal dreams",
+        "Abulia",
+        "Nausea",
+        "Poverty of speech",
+        "Hallucination",
+        "Diabetic complication",
+        "Nightmare",
+        "Insomnia",
+        "Aggression",
+        "Anger",
+        "Anhedonia",
+        "Suicide attempt",
+        "Restlessness",
+        "Bipolar disorder",
+        "Delusion",
+        "Chest pain",
+        "Weight decreased"
+      ],
+      "report_id": "7546652"
+    },
+    {
+      "drugs": [
+        "CLONAZEPAM",
+        "EMSAM",
+        "5-HYDROXYTRYPTOPHAN",
+        "LYRICA",
+        "SAM-E"
+      ],
+      "reactions": [
+        "DRUG INEFFECTIVE",
+        "DEPRESSION"
+      ],
+      "report_id": "7385283-0"
+    },
+    {
+      "drugs": [
+        "VITAMIN D",
+        "YAZ",
+        "YAZ",
+        "ASCORBIC ACID",
+        "YAZ",
+        "MULTI-VITAMIN",
+        "5-HYDROXYTRYPTOPHAN",
+        "DIGESTIVE ADVANTAGE IBS"
+      ],
+      "reactions": [
+        "PAIN",
+        "DEEP VEIN THROMBOSIS",
+        "INJURY"
+      ],
+      "report_id": "8157139-7"
+    },
+    {
+      "drugs": [
+        "5-HYDROXYTRYPTOPHAN",
+        "VARENICLINE TARTRATE",
+        "MORPHINE",
+        "OXEZE",
+        "IMOVANE",
+        "SPIRIVA",
+        "MELATONIN"
+      ],
+      "reactions": [
+        "CEREBROVASCULAR ACCIDENT",
+        "RASH MACULAR"
+      ],
+      "report_id": "7782221-3"
+    },
+    {
+      "drugs": [
+        "LYRICA",
+        "NEURONTIN",
+        "POTASSIUM",
+        "VITAMIN E",
+        "LOVAZA",
+        "MARIJUANA",
+        "ALPRAZOLAM",
+        "ALPRAZOLAM",
+        "5-HYDROXYTRYPTOPHAN"
+      ],
+      "reactions": [
+        "DEPRESSION",
+        "MEMORY IMPAIRMENT",
+        "PAIN IN EXTREMITY",
+        "DYSPNOEA",
+        "SKIN INFECTION",
+        "ASTHENIA",
+        "NEURALGIA",
+        "MUSCLE SPASMS",
+        "EYE IRRITATION",
+        "PYREXIA",
+        "TACHYCARDIA",
+        "EUPHORIC MOOD",
+        "ARTHRALGIA",
+        "DISORIENTATION",
+        "HEADACHE",
+        "PAIN",
+        "MULTIPLE SCLEROSIS",
+        "PANIC ATTACK",
+        "HYPERSENSITIVITY",
+        "MYALGIA",
+        "NECK PAIN",
+        "PIGMENTATION DISORDER",
+        "RHEUMATIC FEVER",
+        "SCAB",
+        "INSOMNIA",
+        "HYPOTONIA"
+      ],
+      "report_id": "8118384-X"
+    },
+    {
+      "drugs": [
+        "YAZ",
+        "OCELLA",
+        "IBUPROFEN",
+        "HYDROCODONE W/ACETAMINOPHEN",
+        "5-HYDROXYTRYPTOPHAN",
+        "LEVOTHYROXINE",
+        "FLEXERIL"
+      ],
+      "reactions": [
+        "Deep vein thrombosis",
+        "Pain",
+        "Pain",
+        "Injury",
+        "General physical health deterioration",
+        "Anxiety",
+        "Emotional distress"
+      ],
+      "report_id": "8572999"
+    },
+    {
+      "drugs": [
+        "XYREM",
+        "XYREM",
+        "TRAZODONE HYDROCHLORIDE",
+        "ESZOPICLONE",
+        "TIAGABINE HCL",
+        "5-HYDROXYTRYPTOPHAN"
+      ],
+      "reactions": [
+        "MULTIPLE INJURIES"
+      ],
+      "report_id": "8519195-3"
+    },
+    {
+      "drugs": [
+        "LEVOTHYROXINE",
+        "PROZAC",
+        "5-HYDROXYTRYPTOPHAN"
+      ],
+      "reactions": [
+        "Depression",
+        "Product substitution issue",
+        "Weight increased",
+        "Decreased interest",
+        "Mania"
+      ],
+      "report_id": "8821232"
+    },
+    {
+      "drugs": [
+        "YAZ",
+        "YASMIN",
+        "OCELLA",
+        "IBUPROFEN",
+        "IRON",
+        "PROMETHAZINE W/CODEINE",
+        "CALCIUM",
+        "5-HYDROXYTRYPTOPHAN",
+        "AFRIN"
+      ],
+      "reactions": [
+        "Pulmonary embolism"
+      ],
+      "report_id": "8841919"
+    },
+    {
+      "drugs": [
+        "FENTANYL CITRATE",
+        "5-HYDROXYTRYPTOPHAN",
+        "ARGININE",
+        "ASTAXANTHIN",
+        "DIABETA",
+        "LYSINE",
+        "MELATONIN",
+        "MILK THISTLE",
+        "MULTIVITAMIN",
+        "OMEGA-3",
+        "OMEPRAZOLE, DELAYED RELEASE",
+        "PRASTERONE",
+        "PSYLLIUM SEED WITH DEXTROSE",
+        "RED YEAST RICE",
+        "ZOLOFT",
+        "VITAMIN B COMPLEX/FOLIC ACID"
+      ],
+      "reactions": [
+        "Sedation",
+        "Respiratory rate decreased"
+      ],
+      "report_id": "9015290"
+    },
+    {
+      "drugs": [
+        "YAZ",
+        "YASMIN",
+        "FISH OIL",
+        "5-HYDROXYTRYPTOPHAN",
+        "MAGNESSIUM CARBONATE",
+        "SPIRULINA"
+      ],
+      "reactions": [
+        "Gallbladder disorder",
+        "Biliary dyskinesia",
+        "Injury",
+        "Pain",
+        "Emotional distress"
+      ],
+      "report_id": "9215049"
+    },
+    {
+      "drugs": [
+        "MIRENA",
+        "MIRENA",
+        "DHEA",
+        "PREGNENOLONE",
+        "5-HYDROXYTRYPTOPHAN",
+        "DM"
+      ],
+      "reactions": [
+        "Menorrhagia",
+        "Vaginal haemorrhage",
+        "Uterine leiomyoma",
+        "Menstruation delayed",
+        "Loss of consciousness",
+        "Drug ineffective",
+        "Abdominal pain",
+        "Dizziness",
+        "Nausea",
+        "Off label use"
+      ],
+      "report_id": "9341409"
+    },
+    {
+      "drugs": [
+        "RITUXAN",
+        "SEROQUEL",
+        "PREMARIN",
+        "HYDROCHLOROTHIAZIDE/IRBESARTAN",
+        "RITUXAN",
+        "ACTEMRA",
+        "ACETAMINOPHEN.",
+        "L-5-HYDROXYTRYPTOPHAN",
+        "ACTEMRA",
+        "DIPHENHYDRAMINE HCL",
+        "ARAVA",
+        "ACETYLSALICYLIC ACID",
+        "ACTEMRA",
+        "ACTEMRA",
+        "METHYLPREDNISOLONE."
+      ],
+      "reactions": [
+        "Delirium",
+        "Urinary tract infection",
+        "Productive cough",
+        "Pneumonia",
+        "Chronic obstructive pulmonary disease",
+        "Hypoxia",
+        "Oxygen saturation decreased",
+        "Infection",
+        "Weight decreased",
+        "Cystitis",
+        "Dyspnoea",
+        "Blood pressure fluctuation",
+        "Heart rate irregular",
+        "Injection site extravasation",
+        "Joint swelling",
+        "Cough",
+        "Gastric ulcer",
+        "Lymphoma",
+        "Back pain"
+      ],
+      "report_id": "9645816"
+    },
+    {
+      "drugs": [
+        "LOVAZA",
+        "CRESTOR",
+        "TELMISARTAN + HYDROCHLOROTHIAZIDE",
+        "TEKTURNA",
+        "MOBIC",
+        "NEXIUM",
+        "SYNTHROID",
+        "SINGULAIR",
+        "ALLEGRA",
+        "VITAMIN D",
+        "KLONOPIN",
+        "PROZAC",
+        "BABY ASPIRIN",
+        "MULTIVITAMIN",
+        "5-HTP",
+        "CONCURRENT MEDICATIONS"
+      ],
+      "reactions": [
+        "Diabetes mellitus"
+      ],
+      "report_id": "10079746"
+    },
+    {
+      "drugs": [
+        "NUTRASEA HP (OMEGA-3 MARINE TRIGLYCERIDES)",
+        "5-HTP (OXITRIPTAN)",
+        "TYLENOL",
+        "PROMETRIUM",
+        "ESTROGEL",
+        "ESTROGEL",
+        "ESTROGEL"
+      ],
+      "reactions": [
+        "Plantar fasciitis",
+        "Migraine with aura",
+        "Neuralgia",
+        "Product use in unapproved indication",
+        "Product use issue",
+        "Oedema",
+        "Breast pain",
+        "Underdose"
+      ],
+      "report_id": "10173967"
+    },
+    {
+      "drugs": [
+        "LITHIUM CARBONATE.",
+        "ESTROVEN",
+        "ZOFRAN",
+        "GABA",
+        "MULTIVITAMINS",
+        "5 HTP",
+        "VITAMIN D",
+        "LITHIUM CARBONATE.",
+        "SONATA",
+        "OMEPRAZOLE.",
+        "EPS JARRODOPHILUS",
+        "FISH OIL",
+        "RANITIDINE HCL",
+        "ADDERALL XR",
+        "DIGESTIVE ENZYMES",
+        "L GLUTAMINE",
+        "CALCIUM-MAGNESIUM-VITAMIN D",
+        "SEROQUEL",
+        "L TYROSINE",
+        "HYDROCODONE ACETAMINOPHEN",
+        "ATROVENT HFA",
+        "ALPRAZOLAM.",
+        "ZOLOFT",
+        "VALERIAN ROOT",
+        "INOSITOL",
+        "ABILIFY",
+        "MIRAPEX"
+      ],
+      "reactions": [
+        "Tremor",
+        "Self injurious behaviour",
+        "Anxiety",
+        "Tic",
+        "Hypomania",
+        "Drug hypersensitivity",
+        "Disturbance in attention",
+        "Activities of daily living impaired",
+        "Depression",
+        "Social avoidant behaviour",
+        "Fibromyalgia"
+      ],
+      "report_id": "10366047"
+    },
+    {
+      "drugs": [
+        "MULTI-VITAMIN",
+        "VITAMIN B COMPLEX",
+        "FLONASE",
+        "FISH OIL",
+        "5-HTP",
+        "LUPRON DEPOT",
+        "EXTRA D VITAMIN D",
+        "MAGNESIUM/POTASSIUM COMBINATION",
+        "MILK THISTLE",
+        "RESOLVE HERBAL COMBINATION",
+        "IRON",
+        "SAFFRON"
+      ],
+      "reactions": [
+        "Migraine",
+        "Depression",
+        "Weight decreased"
+      ],
+      "report_id": "10546979"
+    },
+    {
+      "drugs": [
+        "CRANBERRY SUPPLEMENTS",
+        "VITAMIN 5 HTP",
+        "PLAN B ONE-STEP",
+        "VITAMIN B1"
+      ],
+      "reactions": [
+        "Coital bleeding",
+        "Menstruation irregular"
+      ],
+      "report_id": "10616553"
+    },
+    {
+      "drugs": [
+        "DULOXETINE HYDROCHLORIDE.",
+        "GABAPENTIN.",
+        "DULOXETINE HYDROCHLORIDE.",
+        "5-HTP"
+      ],
+      "reactions": [
+        "Insomnia",
+        "Disturbance in attention",
+        "Nausea",
+        "Bruxism",
+        "Dysphonia",
+        "Suicidal ideation",
+        "Dizziness",
+        "Anxiety",
+        "Night sweats",
+        "Intentional product misuse",
+        "Dry mouth",
+        "Fatigue",
+        "Decreased appetite",
+        "Tremor"
+      ],
+      "report_id": "10662698"
+    },
+    {
+      "drugs": [
+        "FOLIC ACID.",
+        "VITAMIN E",
+        "BIOTIN",
+        "ARGININE",
+        "MAGNESIUM",
+        "PLAN B ONE-STEP",
+        "FOLIC ACID.",
+        "MULTIVITAMIN",
+        "FISH OIL",
+        "FISH OIL",
+        "VITAMIN D3",
+        "LYSINE",
+        "VITAMIN 5-HTP",
+        "VITAMIN E",
+        "VITAMIN D3",
+        "LYSINE",
+        "BIOTIN"
+      ],
+      "reactions": [
+        "Menstruation irregular"
+      ],
+      "report_id": "10740887"
+    },
+    {
+      "drugs": [
+        "PREGNENOLONE",
+        "5-HTP",
+        "MELATONIN",
+        "CELLCEPT",
+        "PREDNISON",
+        "NOVOTHYRAL",
+        "VI-DE 3",
+        "ZALDIAR",
+        "DHEA",
+        "SANDIMMUNE",
+        "MAGNESIOCARD",
+        "ESOMEPRAZOL",
+        "OPIUM"
+      ],
+      "reactions": [
+        "Cytomegalovirus test positive",
+        "Respiratory syncytial virus infection"
+      ],
+      "report_id": "10801202"
+    },
+    {
+      "drugs": [
+        "OXYCODONE",
+        "MIRALAX",
+        "OXYCONTIN",
+        "DIAZEPAM.",
+        "NATURAL FIBRE",
+        "5-HTP",
+        "MAXALT",
+        "NEXIUM",
+        "EX LAX",
+        "HUMIRA",
+        "DIAZEPAM.",
+        "FENOFIBRATE.",
+        "VITAMINS NOS",
+        "STOOL SOFTENER"
+      ],
+      "reactions": [
+        "Fatigue",
+        "Weight increased",
+        "Peripheral swelling",
+        "Peripheral swelling"
+      ],
+      "report_id": "10806305"
+    },
+    {
+      "drugs": [
+        "ST. JOHN^S WORT",
+        "5-HTP",
+        "HYDROCODONE/ACETAMINOPHEN",
+        "HYDROCODONE/ACETAMINOPHEN",
+        "ADVAIR HFA",
+        "SIMVASTATIN.",
+        "LEVOTHYROXINE",
+        "TYROSINE",
+        "IBUPROFEN.",
+        "PLACEBO",
+        "SAW PALMETTO",
+        "CINNAMON.",
+        "GINKO BILOBA",
+        "CHROMIUM",
+        "NEXIUM",
+        "LISINOPRIL.",
+        "GARLIC.",
+        "FLEXERIL",
+        "NEXIUM",
+        "METFORMIN",
+        "MELATONIN",
+        "PLACEBO",
+        "LORAZEPAM."
+      ],
+      "reactions": [
+        "Suicide attempt",
+        "Overdose",
+        "Depression",
+        "Chest pain"
+      ],
+      "report_id": "10846480"
+    },
+    {
+      "drugs": [
+        "5-HTP",
+        "PAXIL",
+        "ONDANSETRON",
+        "XYREM",
+        "PROGESTERONE.",
+        "MOTRIN IB",
+        "ATIVAN",
+        "CYANOCOBALAMIN.",
+        "TAURINE",
+        "TRYPTOPHAN",
+        "XYREM",
+        "PRILOSEC",
+        "VITAMIN C",
+        "XYREM",
+        "VITAMIN B6",
+        "PREDNISONE."
+      ],
+      "reactions": [
+        "Off label use",
+        "Lower limb fracture"
+      ],
+      "report_id": "10872047"
+    },
+    {
+      "drugs": [
+        "WHEY PROTEIN",
+        "VYVANSE",
+        "5 HTP                              /00439301/",
+        "L-GLUTAMINE                        /00503401/",
+        "B6",
+        "B COMPLEX B12",
+        "VYVANSE",
+        "MULTIVITAMIN                       /07504101/",
+        "TAURINE",
+        "L-GLUTAMINE                        /00503401/"
+      ],
+      "reactions": [
+        "Product quality issue",
+        "Palpitations",
+        "Drug effect decreased"
+      ],
+      "report_id": "10922054"
+    },
+    {
+      "drugs": [
+        "CONCERTA",
+        "5 HTP",
+        "CONCERTA"
+      ],
+      "reactions": [
+        "Drug ineffective"
+      ],
+      "report_id": "10928974"
+    },
+    {
+      "drugs": [
+        "PROZAC",
+        "PAXIL",
+        "UDO^S SUPER8 PROBIOTIC",
+        "LIPOSOMAL GABA",
+        "L-TRYPTOPHAN",
+        "C-COMPLEX",
+        "NORDIC NATURALS PROEFA OMEGAS",
+        "LICORICE EXTRACT",
+        "KIRKMAN ADULT MULTIVITAMIN AND MINERAL",
+        "VITAMIN B COMPLEX",
+        "VITAMIN D",
+        "PHENITROPIC",
+        "VITAMIN E",
+        "MAGNESIUM",
+        "5-HTP"
+      ],
+      "reactions": [
+        "Panic attack",
+        "Anhedonia",
+        "Acne",
+        "Educational problem",
+        "Agoraphobia",
+        "Dysphemia",
+        "Dizziness",
+        "Myalgia",
+        "Sensory disturbance",
+        "Irritability",
+        "Time perception altered",
+        "Confusional state",
+        "Diarrhoea",
+        "Gastrooesophageal reflux disease",
+        "Hyperaesthesia",
+        "Photophobia",
+        "Dysgeusia",
+        "Anxiety",
+        "Agitation",
+        "Inappropriate affect",
+        "Fatigue",
+        "Drug withdrawal syndrome",
+        "Depression",
+        "Amnesia",
+        "Urinary tract infection",
+        "Loss of consciousness",
+        "Disturbance in attention",
+        "Paraesthesia",
+        "Temperature regulation disorder",
+        "Immunodeficiency",
+        "Hyperhidrosis",
+        "Arthralgia",
+        "Exaggerated startle response",
+        "Penis disorder",
+        "Head discomfort",
+        "Tardive dyskinesia",
+        "Crying",
+        "Activities of daily living impaired",
+        "Language disorder",
+        "Hyperacusis",
+        "Disturbance in sexual arousal",
+        "Weight decreased"
+      ],
+      "report_id": "10967019"
+    },
+    {
+      "drugs": [
+        "SOVALDI",
+        "AUGMENTIN",
+        "MULTIVITAMIN                       /07504101/",
+        "RIBAVIRIN.",
+        "HYDROXYTRYPTOPHAN 5 HTP",
+        "OMEPRAZOLE."
+      ],
+      "reactions": [
+        "Agitation",
+        "Tremor",
+        "Inappropriate affect",
+        "Skin burning sensation",
+        "Disorientation",
+        "Influenza like illness",
+        "Chills"
+      ],
+      "report_id": "11023297"
+    },
+    {
+      "drugs": [
+        "SALMON OIL",
+        "XARELTO",
+        "EDTA",
+        "XARELTO",
+        "LISINOPRIL.",
+        "PSYLLIUM HUSK",
+        "SUPER B COMPLEX",
+        "5 HTP",
+        "METOPROLOL"
+      ],
+      "reactions": [
+        "Inappropriate schedule of drug administration",
+        "Nasopharyngitis"
+      ],
+      "report_id": "11034403"
+    },
+    {
+      "drugs": [
+        "OXYMORPHONE ER",
+        "COQ10",
+        "MULTIVITAMIN",
+        "OXYMORPHONE ER",
+        "PREDNISONE.",
+        "URIBEL",
+        "D3",
+        "FLAX OIL",
+        "5-HTP",
+        "VITAMIN B12",
+        "OXYCONTIN",
+        "OMEPRAZOLE.",
+        "FOLIC ACID.",
+        "MAGNESIUM MALATE",
+        "ACIDOPHILUS",
+        "METHOTREXATE",
+        "QUERCETIN/NETTLE",
+        "OXYMORPHONE ER",
+        "OPANA ER",
+        "L-LYSINE"
+      ],
+      "reactions": [
+        "Product solubility abnormal",
+        "Drug effect decreased",
+        "Dizziness",
+        "Malaise",
+        "Chest discomfort",
+        "Product substitution issue",
+        "Disorientation",
+        "Product quality issue",
+        "Product physical issue",
+        "Breakthrough pain"
+      ],
+      "report_id": "11077998"
+    },
+    {
+      "drugs": [
+        "AMPYRA",
+        "HYDROXYZINE HCL",
+        "TEGADERM",
+        "METHIMAZOLE.",
+        "NUEDEXTA",
+        "SOLU-MEDROL",
+        "ACYCLOVIR.",
+        "CLONAZEPAM.",
+        "EMLA",
+        "TRAMADOL",
+        "5-HTP",
+        "VESICARE",
+        "VITAMIN D",
+        "ALEMTUZUMAB",
+        "ALEMTUZUMAB",
+        "BACLOFEN.",
+        "GABAPENTIN."
+      ],
+      "reactions": [
+        "Muscular weakness",
+        "Dysphonia",
+        "Condition aggravated",
+        "Basedow^s disease"
+      ],
+      "report_id": "11090493"
+    },
+    {
+      "drugs": [
+        "KUVAN",
+        "SINEMET",
+        "5-HTP                              /00439301/"
+      ],
+      "reactions": [
+        "Irritability"
+      ],
+      "report_id": "11090768"
+    },
+    {
+      "drugs": [
+        "NUVIGIL",
+        "XYREM",
+        "5-HTP",
+        "S-ADENOSYLMETHIONINE SULFATE P-TOLUENESULFONATE",
+        "EXCEDRIN",
+        "FIORICET",
+        "IBUPROFEN."
+      ],
+      "reactions": [
+        "Snoring",
+        "Sleep apnoea syndrome"
+      ],
+      "report_id": "11093808"
+    },
+    {
+      "drugs": [
+        "WARFARIN",
+        "AMLODIPINE",
+        "5 HTP",
+        "CARVEDILOL.",
+        "COUMADIN",
+        "OMEPRAZOLE.",
+        "HYDROCODONE BITARTRATE AND ACETAMINOPHEN",
+        "LYRICA",
+        "LYRICA",
+        "WARFARIN",
+        "CINNAMON AND CHROMIUM",
+        "CITALOPRAM",
+        "DOCUSATE SODIUM.",
+        "SIMVASTATIN."
+      ],
+      "reactions": [
+        "Cardiac disorder",
+        "Vaginal haemorrhage",
+        "Drug ineffective",
+        "Product label issue",
+        "Haemorrhage",
+        "Cerebrovascular accident",
+        "Vaginal haemorrhage",
+        "Diabetes mellitus",
+        "Thrombosis",
+        "Vaginal haemorrhage"
+      ],
+      "report_id": "11106422"
+    },
+    {
+      "drugs": [
+        "L-LYSINE",
+        "OMAPRAZOLE",
+        "PREDNISONE.",
+        "OXYMORPHONE ER",
+        "OMAPRAZOLE",
+        "OPANA ER/OXYMORPHONE ER",
+        "5-HTP",
+        "VITAMIN B12",
+        "FLAX OIL CAPSULES",
+        "OXYCONIN IR",
+        "QUEROETIN/NETTLE",
+        "COQ10",
+        "FOLIC ACID.",
+        "MULTIVITAMIN",
+        "METHOTREXATE",
+        "URIBEL",
+        "D3",
+        "MAGNESIUM MALATE",
+        "OXYMORPHONE ER",
+        "OXYMORPHONE ER"
+      ],
+      "reactions": [
+        "Product substitution issue",
+        "Feeling abnormal",
+        "Drug effect incomplete",
+        "Drug effect decreased",
+        "Nausea",
+        "Product formulation issue",
+        "Chest discomfort",
+        "Overdose",
+        "Poor quality sleep",
+        "Dyspnoea",
+        "Fear",
+        "Dizziness",
+        "Euphoric mood",
+        "Product quality issue",
+        "Activities of daily living impaired"
+      ],
+      "report_id": "11111941"
+    },
+    {
+      "drugs": [
+        "BOTOX",
+        "IRON",
+        "IGG SUPPORT",
+        "5 HTP",
+        "VITAMIN D",
+        "OMEGA 3 FISH OILS",
+        "TRAZODONE",
+        "MAGNESIUM",
+        "PRENATAL VITAMIN",
+        "SOMA",
+        "NORCO"
+      ],
+      "reactions": [
+        "Influenza like illness",
+        "Abdominal pain upper",
+        "Dyspnoea",
+        "Depression",
+        "Insomnia",
+        "Polymenorrhoea",
+        "Chest pain",
+        "Asthenia",
+        "Muscle tightness",
+        "Muscle spasms",
+        "Speech disorder",
+        "Anxiety",
+        "Bladder disorder",
+        "Dysphagia",
+        "Presyncope",
+        "Hyperhidrosis",
+        "Thinking abnormal",
+        "Nausea",
+        "Pyrexia"
+      ],
+      "report_id": "11115210"
+    },
+    {
+      "drugs": [
+        "5-HTP",
+        "D3",
+        "CARVEDILOL.",
+        "CQ-10",
+        "METFORMIN",
+        "KRILL",
+        "DILTIAZEM",
+        "VITAMIN B COMPLEX",
+        "PRAVACHOL",
+        "ASA",
+        "LANTUS",
+        "MG"
+      ],
+      "reactions": [
+        "Dysstasia",
+        "Dyspepsia",
+        "Muscle spasms",
+        "Mental impairment",
+        "Memory impairment",
+        "Neck pain",
+        "Muscular weakness",
+        "Gait disturbance",
+        "Musculoskeletal pain",
+        "Constipation"
+      ],
+      "report_id": "11116463"
+    },
+    {
+      "drugs": [
+        "WARFARIN",
+        "5 HTP",
+        "LYRICA",
+        "AMLODIPINE",
+        "SIMVASTATIN.",
+        "HYDROCODONE BITARTRATE AND ACETAMINOPHEN",
+        "CITALOPRAM",
+        "5 HTP",
+        "CARVEDILOL.",
+        "OMEPRAZOLE.",
+        "DOCUSATE SODIUM.",
+        "CINNAMON AND CHROMIUM"
+      ],
+      "reactions": [
+        "Type 2 diabetes mellitus"
+      ],
+      "report_id": "11116701"
+    },
+    {
+      "drugs": [
+        "5 HTP",
+        "DOCUSATE SODIUM.",
+        "CITALOPRAM",
+        "AMLODIPINE",
+        "CINNAMON AND CHROMIUM",
+        "5 HTP",
+        "OMEPRAZOLE.",
+        "LYRICA",
+        "CARVEDILOL.",
+        "SIMVASTATIN.",
+        "HYDROCODONE BITARTRATE AND ACETAMINOPHEN"
+      ],
+      "reactions": [
+        "Drug ineffective"
+      ],
+      "report_id": "11117040"
+    },
+    {
+      "drugs": [
+        "IMITREX",
+        "KEFLEX",
+        "ZITHROMAX",
+        "NYSTATIN.",
+        "MULTIVITAMINS",
+        "CLARITIN",
+        "5-HTP",
+        "IPRATROPIUM BROMIDE.",
+        "CIPRO",
+        "LEVAQUIN",
+        "CODEINE",
+        "VERAMYST",
+        "VIAGRA",
+        "ALBUTEROL SULFATE.",
+        "MEDROL",
+        "TESSALON",
+        "TRAMADOL HYDROCHLORIDE.",
+        "ZYRTEC",
+        "ULTRAVATE"
+      ],
+      "reactions": [
+        "Meniscus injury",
+        "Arthralgia"
+      ],
+      "report_id": "11135191"
+    },
+    {
+      "drugs": [
+        "MILK THISTLE",
+        "MIRALAX",
+        "CALCIUM",
+        "BIOTIN",
+        "5-HTP",
+        "PROBIOTIC",
+        "VITAMIN K",
+        "HARVONI",
+        "VITAMIN D",
+        "SUMATRIPTAN."
+      ],
+      "reactions": [
+        "Fatigue",
+        "Headache",
+        "Retching"
+      ],
+      "report_id": "11135639"
+    },
+    {
+      "drugs": [
+        "WARFARIN",
+        "CITALOPRAM",
+        "CHROMIUM",
+        "LYRICA",
+        "OMEPRAZOLE.",
+        "CINNAMON.",
+        "5-HTP",
+        "DOCUSATE SODIUM.",
+        "SIMVASTATIN.",
+        "HYDROCODONE BITARTRATE AND ACETAMINOPHEN",
+        "FUROSEMIDE TABLETS 20MG",
+        "CARVEDILOL.",
+        "AMLODIPINE"
+      ],
+      "reactions": [
+        "Cerebrovascular accident",
+        "Thrombosis",
+        "Cardiac pacemaker insertion",
+        "Vaginal haemorrhage",
+        "Vaginal haemorrhage"
+      ],
+      "report_id": "11144136"
+    },
+    {
+      "drugs": [
+        "KUVAN",
+        "MADOPAR",
+        "KUVAN",
+        "5-HTP                              /00439301/"
+      ],
+      "reactions": [
+        "Tremor",
+        "Liver injury",
+        "Lipids increased",
+        "Counterfeit drug administered"
+      ],
+      "report_id": "11167893"
+    },
+    {
+      "drugs": [
+        "MULTIVITAMIN                       /00097801/",
+        "5-HTP                              /00439301/",
+        "TYLENOL",
+        "CIPRALEX",
+        "SOYA LECITHIN",
+        "GLUCOSAMINE CHONDROITIN MSM",
+        "TRUVADA",
+        "VIMOVO",
+        "VITAMIN B COMPLEX",
+        "WELLBUTRIN",
+        "REACTINE                           /00884302/",
+        "SENOKOT-S",
+        "VALACYCLOVIR",
+        "PROBIOTIC                          /06395501/",
+        "ZOPICLONE"
+      ],
+      "reactions": [
+        "Off label use",
+        "HIV infection",
+        "Drug ineffective",
+        "Multiple-drug resistance"
+      ],
+      "report_id": "11186221"
+    },
+    {
+      "drugs": [
+        "MULTIVITAMINS",
+        "CELECOXIB.",
+        "5-HTP",
+        "CELECOXIB.",
+        "CELECOXIB.",
+        "FISH OIL",
+        "KEFLEX",
+        "OMEGA 3-6-9"
+      ],
+      "reactions": [
+        "Diarrhoea",
+        "Dysstasia",
+        "Drug effect incomplete",
+        "Pain",
+        "Ulcer",
+        "Pain in extremity",
+        "Epistaxis",
+        "Nausea",
+        "Abdominal pain upper",
+        "Abdominal pain"
+      ],
+      "report_id": "11189991"
+    },
+    {
+      "drugs": [
+        "SYNTHROID",
+        "HYDROXYTRYPTOPHAN 5 HTP",
+        "TORLOS-H",
+        "CONCOR PLUS",
+        "SYNTHROID",
+        "SYNTHROID",
+        "GLIFAGE",
+        "FENOFIBRATE.",
+        "ALDACTONE",
+        "ANACAPS",
+        "SYNTHROID"
+      ],
+      "reactions": [
+        "Diabetes mellitus",
+        "Thyroid neoplasm"
+      ],
+      "report_id": "11240672"
+    },
+    {
+      "drugs": [
+        "ASPIRIN.",
+        "TOPROL XL",
+        "PRILOSEC",
+        "MELATONIN",
+        "L-CYSTEINE                         /00164801/",
+        "INDERAL",
+        "LIPITOR",
+        "MULTI-VIT",
+        "VITAMIN B COMPLEX",
+        "L-LYSINE",
+        "EFFIENT",
+        "LISINOPRIL.",
+        "SYNTHROID",
+        "XANAX",
+        "PERCOCET",
+        "VITAMIN C",
+        "5-HTP",
+        "VITAMIN D3"
+      ],
+      "reactions": [
+        "Asthenia",
+        "Fatigue",
+        "Joint injury",
+        "Contusion",
+        "Anxiety",
+        "Panic attack"
+      ],
+      "report_id": "11299172"
+    },
+    {
+      "drugs": [
+        "5 HTP",
+        "LORAZEPAM.",
+        "FISH OIL",
+        "SYNTHROID",
+        "CALCIUM",
+        "GLUTAMINE"
+      ],
+      "reactions": [
+        "Nervousness"
+      ],
+      "report_id": "11313224"
+    },
+    {
+      "drugs": [
+        "VITAMIN D3",
+        "CALCIUM",
+        "FLONASE",
+        "LOSARTAN POTASSIUM.",
+        "FLONASE",
+        "5-HTP",
+        "FLONASE",
+        "EYEBRIGHT",
+        "INSULIN PUMP",
+        "ADVIL ALLERGY AND CONGESTION RELIEF",
+        "FISH OIL",
+        "NOVOLOG INSULIN",
+        "MAGNESIUM",
+        "COQ10"
+      ],
+      "reactions": [
+        "Physical product label issue",
+        "Anger",
+        "Anxiety",
+        "Irritability",
+        "Mood swings",
+        "Blood glucose increased",
+        "Menstrual disorder",
+        "Dyspnoea",
+        "Depressed level of consciousness",
+        "Insomnia"
+      ],
+      "report_id": "11394019"
+    },
+    {
+      "drugs": [
+        "KLONOPIN",
+        "REGLAN",
+        "REGLAN",
+        "FISH OIL",
+        "STRIBILD",
+        "SEROQUEL",
+        "BUSPIRONE",
+        "PROPRANOLOL",
+        "5 HTP                              /00439301/",
+        "EFFEXOR",
+        "TEMAZEPAM.",
+        "PROVIGIL",
+        "VITAMIN D                          /00107901/",
+        "LIPITOR",
+        "AMBIEN",
+        "MARINOL                            /00003301/"
+      ],
+      "reactions": [
+        "Abdominal pain",
+        "Pyrexia"
+      ],
+      "report_id": "11414359"
+    },
+    {
+      "drugs": [
+        "MELATONIN",
+        "CYMBALTA",
+        "5-HTP",
+        "ATIVAN"
+      ],
+      "reactions": [
+        "Drug ineffective",
+        "Thyroid disorder",
+        "Drug interaction",
+        "Adrenal insufficiency"
+      ],
+      "report_id": "11454295"
+    },
+    {
+      "drugs": [
+        "5-HTP",
+        "CYMBALTA",
+        "CYMBALTA"
+      ],
+      "reactions": [
+        "Drug prescribing error"
+      ],
+      "report_id": "11462942"
+    },
+    {
+      "drugs": [
+        "FIORICET",
+        "NUVIGIL",
+        "XYREM",
+        "EXCEDRIN",
+        "IBUPROFEN.",
+        "S-ADENOSYLMETHIONINE SULFATE P-TOLUENESULFONATE",
+        "5-HTP"
+      ],
+      "reactions": [
+        "Apnoea",
+        "Snoring"
+      ],
+      "report_id": "11473436"
+    },
+    {
+      "drugs": [
+        "XYREM",
+        "XYREM",
+        "XYREM",
+        "5-HTP [OXITRIPTAN;PYRIDOXINE HYDROCHLORIDE;VALERIANA OFFICINALIS ROOT]",
+        "CEFIXIME",
+        "INOSITOL",
+        "NITROFURANTOIN",
+        "ULTRAM",
+        "ZOLOFT",
+        "FLUOXETINE"
+      ],
+      "reactions": [
+        "Snoring",
+        "Post-traumatic stress disorder",
+        "Condition aggravated",
+        "Anxiety",
+        "Depression",
+        "Lyme disease",
+        "Lipoma"
+      ],
+      "report_id": "11474230"
+    },
+    {
+      "drugs": [
+        "5 HTP",
+        "ADRENAL",
+        "FLEXERIL",
+        "LICORICE.",
+        "ARMOUR THYROID",
+        "NEURONTIN",
+        "XYREM",
+        "SYNTHROID",
+        "MULTIVITAMIN",
+        "COPAXONE",
+        "ULTRAM",
+        "VALERIAN ROOT",
+        "XYREM",
+        "CYTOMEL",
+        "LEXAPRO",
+        "XYREM",
+        "MECLIZINE HCL",
+        "DONG QUAI COMPLEX",
+        "GINGER ROOT",
+        "YUCCA",
+        "XYREM",
+        "ACIPHEX",
+        "FISH OIL",
+        "TRACE MINERALS",
+        "VYVANSE"
+      ],
+      "reactions": [
+        "Unevaluable event",
+        "Road traffic accident"
+      ],
+      "report_id": "11476253"
+    },
+    {
+      "drugs": [
+        "TYLENOL WITH CODEINE",
+        "ONDANSETRON ODT",
+        "PRILOSEC",
+        "XYREM",
+        "CYANOCOBALAMIN.",
+        "5-HTP",
+        "ATIVAN",
+        "MOTRIN",
+        "ESTROGEN NOS W/PROGESTERONE",
+        "PREDNISONE.",
+        "PROBIOTIC",
+        "VITAMIN C",
+        "PAXIL",
+        "TAURINE",
+        "XYREM",
+        "XYREM",
+        "VITAMIN B6",
+        "MOTRIN",
+        "PYRIDOXINE HCL",
+        "TRYPTOPHAN"
+      ],
+      "reactions": [
+        "Pharyngitis streptococcal"
+      ],
+      "report_id": "11476370"
+    },
+    {
+      "drugs": [
+        "ONDANSETRON ODT",
+        "MOTRIN",
+        "CYANOCOBALAMIN.",
+        "TAURINE",
+        "ATIVAN",
+        "XYREM",
+        "XYREM",
+        "PREDNISONE.",
+        "PAXIL",
+        "XYREM",
+        "PEPCID AC",
+        "TYLENOL WITH CODEINE",
+        "PRILOSEC",
+        "TRYPTOPHAN",
+        "VITAMIN B6",
+        "VITAMIN C",
+        "PYRIDOXINE HYDROCHLORIDE.",
+        "5 HTP",
+        "PROGESTERONE.",
+        "PROBIOTIC"
+      ],
+      "reactions": [
+        "Dyspepsia"
+      ],
+      "report_id": "11476595"
+    },
+    {
+      "drugs": [
+        "XYREM",
+        "VALERIAN ROOT",
+        "5-HTP",
+        "XYREM",
+        "MELATONIN"
+      ],
+      "reactions": [
+        "Constipation",
+        "Eye pain",
+        "Intentional product use issue"
+      ],
+      "report_id": "11476946"
+    },
+    {
+      "drugs": [
+        "XYREM",
+        "SERTRALINE",
+        "NUVIGIL",
+        "VYVANSE",
+        "5-HTP",
+        "OMEGA 3-6-9",
+        "MULTIVITAMINS W/MINERALS",
+        "XYREM",
+        "XYREM",
+        "FOLATE OPTIMIZED",
+        "VITAMIN D"
+      ],
+      "reactions": [
+        "Peripheral coldness"
+      ],
+      "report_id": "11477369"
+    },
+    {
+      "drugs": [
+        "XYREM",
+        "XYREM",
+        "XYREM",
+        "NUVIGIL",
+        "5-HTP",
+        "XYREM",
+        "XYREM"
+      ],
+      "reactions": [
+        "Pruritus",
+        "Insomnia",
+        "Anxiety",
+        "Dizziness",
+        "Tremor",
+        "Unevaluable event"
+      ],
+      "report_id": "11478752"
+    },
+    {
+      "drugs": [
+        "XYREM",
+        "XYREM",
+        "ADDERALL",
+        "5-HTP",
+        "MODAFINIL.",
+        "EXCEDRIN MIGRAINE"
+      ],
+      "reactions": [
+        "Condition aggravated",
+        "Poor quality sleep"
+      ],
+      "report_id": "11478850"
+    },
+    {
+      "drugs": [
+        "XYREM",
+        "PEPCID AC",
+        "PRILOSEC",
+        "5-HTP",
+        "XYREM",
+        "ONDANSETRON",
+        "TYLENOL WITH CODEINE",
+        "PREDNISONE.",
+        "PAXIL",
+        "TAURINE",
+        "PROBIOTIC",
+        "PYRIDOXINE HYDROCHLORIDE.",
+        "VITAMIN B6",
+        "ATIVAN",
+        "CYANOCOBALAMIN.",
+        "PROGESTERONE W/ESTROGENS",
+        "VITAMIN C",
+        "XYREM",
+        "MOTRIN",
+        "TRYPTOPHAN",
+        "MOTRIN IB"
+      ],
+      "reactions": [
+        "Constipation"
+      ],
+      "report_id": "11479232"
+    },
+    {
+      "drugs": [
+        "ADDERALL",
+        "MODAFINIL.",
+        "EXCEDRIN MIGRAINE",
+        "XYREM",
+        "XYREM",
+        "5-HTP"
+      ],
+      "reactions": [
+        "Infection",
+        "Nasopharyngitis",
+        "Incorrect dosage administered",
+        "Confusional state"
+      ],
+      "report_id": "11479778"
+    },
+    {
+      "drugs": [
+        "RISPERDAL",
+        "5-HTP",
+        "INVEGA SUSTENNA",
+        "HALDOL",
+        "INVEGA SUSTENNA"
+      ],
+      "reactions": [
+        "Suicidal ideation",
+        "Anxiety",
+        "Discomfort",
+        "Aphasia",
+        "Hypoaesthesia",
+        "Feeling abnormal",
+        "Inappropriate schedule of drug administration",
+        "Dysstasia",
+        "Decreased interest",
+        "Restless legs syndrome",
+        "Malaise",
+        "Liver disorder",
+        "Adverse event",
+        "Anorgasmia",
+        "Feeling abnormal",
+        "Anhedonia",
+        "Tic",
+        "Drug level increased",
+        "Bedridden",
+        "Cognitive disorder",
+        "Spermatozoa abnormal",
+        "Erectile dysfunction",
+        "Blood prolactin increased",
+        "Cognitive disorder",
+        "Disturbance in social behaviour",
+        "Liver injury",
+        "Weight increased",
+        "Depressed mood",
+        "Somnolence",
+        "Adverse event",
+        "Slow speech"
+      ],
+      "report_id": "11480697"
+    },
+    {
+      "drugs": [
+        "TESTOSTERONE.",
+        "IBUPROFEN.",
+        "ELIDEL",
+        "VITAMIN B COMPLEX",
+        "DHEA AFL",
+        "ESCITALOPRAM",
+        "MELATONIN",
+        "DICYCLOMINE",
+        "LORAZEPAM.",
+        "ARMOUR THYROID",
+        "PLAQUENIL",
+        "IRON",
+        "VITAMIN D3",
+        "CALCIUM +D3",
+        "ALL OTHER THERAPEUTIC PRODUCTS",
+        "XYREM",
+        "HYDROXYTRYPTOPHAN 5 HTP",
+        "BUDESONIDE.",
+        "ZYRTEC"
+      ],
+      "reactions": [
+        "Insomnia",
+        "Balance disorder",
+        "Oral herpes",
+        "Dizziness",
+        "Nausea",
+        "Hypoaesthesia",
+        "Confusional state",
+        "Condition aggravated",
+        "Memory impairment",
+        "Wrong technique in product usage process",
+        "Head injury",
+        "Contusion",
+        "Hypersensitivity",
+        "Nocturia",
+        "Constipation",
+        "Dehydration",
+        "Hypoaesthesia oral",
+        "Pain",
+        "Tremor"
+      ],
+      "report_id": "11483251"
+    },
+    {
+      "drugs": [
+        "PAXIL",
+        "PROBIOTIC",
+        "PROGESTERONE W/ESTROGENS",
+        "XYREM",
+        "TYLENOL WITH CODEINE NO.3",
+        "ONDANSETRON ODT",
+        "XYREM",
+        "MOTRIN",
+        "PRILOSEC",
+        "TRYPTOPHAN",
+        "VITAMIN B6",
+        "VITAMIN C",
+        "TAURINE",
+        "5-HTP",
+        "MOTRIN IB",
+        "PREDNISONE.",
+        "CYANOCOBALAMIN.",
+        "PYRIDOXINE HCL",
+        "ATIVAN"
+      ],
+      "reactions": [
+        "Product use issue",
+        "Oropharyngeal pain"
+      ],
+      "report_id": "11488380"
+    },
+    {
+      "drugs": [
+        "RITALIN SR",
+        "PROVIGIL",
+        "PLAVIX",
+        "XYREM",
+        "ASPIRIN EC",
+        "XYREM",
+        "BLACK COHOSH",
+        "NORCO",
+        "XYREM",
+        "5-HTP"
+      ],
+      "reactions": [
+        "Back pain"
+      ],
+      "report_id": "11488824"
+    },
+    {
+      "drugs": [
+        "APO?VALPROIC",
+        "PHENYTOIN [PHENYTOIN SODIUM]",
+        "5?HTP [OXITRIPTAN]",
+        "VALPROIC ACID [VALPROATE SODIUM]",
+        "CARBIDOPA.",
+        "CLONAZEPAM.",
+        "KEPPRA",
+        "PHENYTOIN [PHENYTOIN SODIUM]",
+        "CARBIDOPA."
+      ],
+      "reactions": [
+        "Serotonin syndrome",
+        "Myoclonus",
+        "Somnolence"
+      ],
+      "report_id": "11528533"
+    },
+    {
+      "drugs": [
+        "FISH OIL",
+        "VITAMIN B12",
+        "ZOLOFT",
+        "LEVOTHYROXINE.",
+        "5-HTP 100MG NATURES BOUNTY",
+        "DIETARY SUPPLEMENT",
+        "TRAZODONE",
+        "VITAMIN D",
+        "MULTIVITAMIN"
+      ],
+      "reactions": [
+        "Diarrhoea",
+        "Pyrexia",
+        "Confusional state",
+        "Headache",
+        "Vomiting",
+        "Serotonin syndrome"
+      ],
+      "report_id": "11535149"
+    },
+    {
+      "drugs": [
+        "5-HTP",
+        "MULTIVITAMIN",
+        "B6 SUPPLEMENT",
+        "ESCITALOPRAM 10MG",
+        "VITAMIN C",
+        "CALCIUM"
+      ],
+      "reactions": [
+        "Alopecia"
+      ],
+      "report_id": "11592908"
+    },
+    {
+      "drugs": [
+        "METHOCARBAMAL",
+        "NITROFURANTOIN MONOHYD MACRO",
+        "JUICE PLUS WHOLE FOOD SUPPLEMENTS",
+        "ESZOPICLONE.",
+        "OXYCODONE-ACETAMINOPHEN",
+        "OMEGA-3 + VITAMIN D3 CAPS",
+        "METOPROLOL SUCCINATE ER",
+        "ALPRAZOLAM.",
+        "MELATONIN",
+        "MOVE FREE ULTRA",
+        "ASTAXANTHIN",
+        "GABAPENTIN.",
+        "RANITIDINE HCL",
+        "5 HTP /00439301/"
+      ],
+      "reactions": [
+        "Feeling hot",
+        "Rash",
+        "Peripheral swelling",
+        "Body temperature increased",
+        "Asthenia",
+        "Tremor",
+        "Gait disturbance",
+        "Somnolence",
+        "Balance disorder",
+        "Fatigue",
+        "Confusional state"
+      ],
+      "report_id": "11628370"
+    },
+    {
+      "drugs": [
+        "TRILEPTAL",
+        "NORCO",
+        "VITAMIN D",
+        "MELATONIN",
+        "ADVAIR HFA",
+        "XANAX",
+        "MVI",
+        "GABAPENTIN.",
+        "ALBUTEROL.",
+        "ZYRTEC",
+        "BIRTH CONTROL",
+        "IBUPROFEN.",
+        "GILENYA",
+        "DULOXETINE.",
+        "BENADRYL",
+        "TUMS",
+        "5-HTP",
+        "OMEGA 3",
+        "VITAMIN B12"
+      ],
+      "reactions": [
+        "Choking sensation",
+        "Chest discomfort",
+        "Muscle spasms"
+      ],
+      "report_id": "11629221"
+    },
+    {
+      "drugs": [
+        "B COMPLEX                          /00322001/",
+        "SUBUTEX",
+        "5 HTP                              /00439301/",
+        "MELATONIN",
+        "SUBOXONE",
+        "L TYROSINE",
+        "B COMPLEX                          /00322001/",
+        "SUBUTEX",
+        "FISH OIL",
+        "SUBUTEX",
+        "SUBUTEX",
+        "L TYROSINE"
+      ],
+      "reactions": [
+        "Food craving",
+        "Anger",
+        "Muscle spasms",
+        "Emotional disorder",
+        "Abdominal pain upper",
+        "Insomnia",
+        "Somnolence",
+        "Tooth disorder",
+        "Feeling abnormal",
+        "Underdose",
+        "Drug dependence",
+        "Product preparation error",
+        "Decreased appetite",
+        "Anxiety",
+        "Grief reaction",
+        "Nervousness",
+        "Drug withdrawal syndrome",
+        "Weight increased"
+      ],
+      "report_id": "11638224"
+    },
+    {
+      "drugs": [
+        "ADVIL",
+        "BELVIQ",
+        "AMLODIPINE",
+        "ZYRTEC",
+        "BELVIQ",
+        "5-HTP",
+        "LORTAB"
+      ],
+      "reactions": [
+        "Alopecia"
+      ],
+      "report_id": "11649319"
+    },
+    {
+      "drugs": [
+        "LYRICA",
+        "GABAPENTIN.",
+        "CLONAZEPAM.",
+        "5-HTP",
+        "FISH OIL OMEGA 3, 6, AND 9",
+        "GINKGO BILOBA",
+        "FIBER",
+        "CHLORZOXAZONE.",
+        "SLOW MAG",
+        "POTASSIUM",
+        "GABAPENTIN.",
+        "NEXIUM 24HR",
+        "NAPROXEN.",
+        "DULOXETINE HYDROCHLORIDE.",
+        "SLOW MAG",
+        "ZINC",
+        "CLONAZEPAM.",
+        "RESTASIS",
+        "VITAMIN D3",
+        "METOPROLOL",
+        "PERI-COLACE",
+        "LYRICA",
+        "LUTEIN",
+        "TUMS"
+      ],
+      "reactions": [
+        "Weight increased"
+      ],
+      "report_id": "11668916"
+    },
+    {
+      "drugs": [
+        "XYREM",
+        "BETHANECHOL",
+        "PREGNENOLONE",
+        "SINGULAIR",
+        "TOPAMAX",
+        "LEVETIRACETAM.",
+        "NEUROCHOLINE [CITICOLINE SODIUM]",
+        "ROPINIROLE HCL",
+        "XYREM",
+        "NEXIUM",
+        "5?HTP [OXITRIPTAN]",
+        "BETHANECHOL",
+        "BIOFLAVONOID",
+        "VITAMIN D [ERGOCALCIFEROL]",
+        "ZINC.",
+        "HYDROXYCHLOROQUINE [HYDROXYCHLOROQUINE SULFATE]",
+        "KEPPRA",
+        "SULFAZINE",
+        "VITAMIN C",
+        "LYRICA",
+        "CYCLOBENZAPRINE.",
+        "GABAPENTIN.",
+        "PERCOCET",
+        "NEILMED SINUS RINSE",
+        "HYOSCYAMINE.",
+        "SOMA",
+        "ARMOUR THYROID",
+        "NALTREXONE",
+        "ACYCLOVIR [ACICLOVIR]",
+        "ADDERALL",
+        "METAMUCIL",
+        "PROBIOTIC ACIDOPHILUS [LACTOBACILLUS ACIDOPHILUS]",
+        "VITAMIN D [ERGOCALCIFEROL]",
+        "EXELON",
+        "EXELON",
+        "BACLOFEN.",
+        "ASPIRIN [ACETYLSALICYLIC ACID]",
+        "FOLIC ACID.",
+        "LEVOTHYROXINE.",
+        "NALTREXONE",
+        "CALCIUM",
+        "N?ACETYLCYSTEINE",
+        "NUVIGIL",
+        "XYREM",
+        "CONTRAVE",
+        "POLY?IRON [POLYSACCHARIDE?IRON COMPLEX]",
+        "LIOTHYRONINE",
+        "BOTOX",
+        "LYSINE",
+        "MELOXICAM.",
+        "FLONASE",
+        "LIOTHYRONINE",
+        "FLUDROCORTISONE",
+        "PANTOPRAZOLE",
+        "MAXALT",
+        "FIORICET",
+        "TRAMADOL.",
+        "PROVIGIL",
+        "AMANTADINE.",
+        "MAGNESIUM",
+        "METHYLPHENIDATE.",
+        "ASTELIN [DIPROPHYLLINE]",
+        "PERIOGARD",
+        "ALPHA LIPOIC ACID",
+        "LEVOTHYROXINE.",
+        "LEVOTHYROXINE.",
+        "BENADRYL ALLERGY",
+        "BUPROPION.",
+        "LITHIUM.",
+        "ACYCLOVIR [ACICLOVIR]",
+        "TIZANIDINE.",
+        "VITAMIN B?COMPLEX VITAMIN C",
+        "BACLOFEN.",
+        "PRAMIPEXOLE.",
+        "IRON",
+        "VITAMIN B2",
+        "VITAMIN B12 [HYDROXOCOBALAMIN]"
+      ],
+      "reactions": [
+        "Withdrawal syndrome",
+        "Ankle fracture",
+        "Fall",
+        "Suicidal ideation"
+      ],
+      "report_id": "11877512"
+    },
+    {
+      "drugs": [
+        "VITAMIN E",
+        "OMEPRAZOLE DR",
+        "5-HTP",
+        "VITAMIN D3",
+        "MULTIPLE VITAM KIRKLAND BRAND",
+        "VITAMIN MULTIPLE",
+        "VITAMIN B12",
+        "CQ-10",
+        "VITAMIN C",
+        "CALCIUM",
+        "FLAX OIL",
+        "SALMON OIL",
+        "MELATONE",
+        "GINKO BILABUA"
+      ],
+      "reactions": [
+        "Asthenia",
+        "Gastrooesophageal reflux disease",
+        "Pruritus",
+        "Oesophagitis",
+        "Peripheral swelling",
+        "Skin discolouration",
+        "Vomiting",
+        "Movement disorder",
+        "Fatigue",
+        "Dyspnoea",
+        "Rash"
+      ],
+      "report_id": "11884466"
+    },
+    {
+      "drugs": [
+        "ORENITRAM",
+        "REVATIO",
+        "ABILIFY",
+        "PROZAC",
+        "NEURONTIN",
+        "CYTOMEL",
+        "SYNTHROID",
+        "TORSEMIDE.",
+        "COENZYME Q10",
+        "FISH OIL",
+        "5-HTP                              /00439301/",
+        "ORENITRAM",
+        "ALDACTONE",
+        "VITAMIN D                          /00107901/",
+        "PROGESTERONE."
+      ],
+      "reactions": [
+        "Depressed mood",
+        "Dizziness",
+        "Face oedema",
+        "Weight increased",
+        "Asthenia",
+        "Fluid retention",
+        "Localised oedema"
+      ],
+      "report_id": "11942636"
+    },
+    {
+      "drugs": [
+        "HUMIRA",
+        "METHOTREXATE",
+        "SELENIUM",
+        "HUMIRA",
+        "ARMOUR THYROID",
+        "VITAMIN D",
+        "VITAMIN B",
+        "CHLOROQUINE.",
+        "CYTOMEL",
+        "MULTIVITAMIN",
+        "5-HTP"
+      ],
+      "reactions": [
+        "Vomiting",
+        "Rheumatoid arthritis"
+      ],
+      "report_id": "11964130"
+    },
+    {
+      "drugs": [
+        "5-HTP",
+        "KRILL OIL",
+        "NOVOLOG",
+        "MEDTRONIC MINED INSULIN PUMP",
+        "DEXILANT"
+      ],
+      "reactions": [
+        "Chest pain"
+      ],
+      "report_id": "11965225"
+    },
+    {
+      "drugs": [
+        "PRISTIQ EXTENDED RELEASE",
+        "DIAZEPAM.",
+        "PRE NATAL FORMULA",
+        "5-HTP",
+        "CRANBERRY.",
+        "GERITOL",
+        "TRAMADOL.",
+        "PRILOSEC",
+        "ELAVIL",
+        "CRESTOR",
+        "ELAVIL",
+        "GABAPENTIN.",
+        "HYDROCODONE",
+        "COQ 10",
+        "KRILL OIL"
+      ],
+      "reactions": [
+        "Condition aggravated",
+        "Back pain",
+        "Lumbar spinal stenosis",
+        "Exostosis"
+      ],
+      "report_id": "11980284"
+    },
+    {
+      "drugs": [
+        "ZYFLAMEND",
+        "BIOTIN",
+        "GABAPENTIN.",
+        "SUBSYS",
+        "FENTANYL.",
+        "HUMIRA",
+        "HUMIRA",
+        "CELEBREX",
+        "ESTRADIOL.",
+        "ESTRADIOL.",
+        "GABAPENTIN.",
+        "FLAX OIL",
+        "ARAVA",
+        "CELEBREX",
+        "LEVOTHYROXINE.",
+        "ZYFLAMEND",
+        "VITAMIN D",
+        "COENZYME Q10",
+        "AMBIEN",
+        "5-HTP",
+        "FENTANYL.",
+        "EFFEXOR",
+        "BENADRYL",
+        "VITAMIN B6",
+        "KRILL OIL",
+        "MULTIVITAMIN",
+        "METOPROLOL."
+      ],
+      "reactions": [
+        "Osteoarthritis",
+        "Weight decreased",
+        "Odynophagia",
+        "Back pain",
+        "Decreased appetite",
+        "Synovial cyst",
+        "Mobility decreased",
+        "Anaemia",
+        "Impetigo",
+        "Coagulopathy",
+        "Bone pain"
+      ],
+      "report_id": "11998894"
+    },
+    {
+      "drugs": [
+        "HUMIRA",
+        "5-HTP",
+        "GABAPENTIN.",
+        "CELEBREX",
+        "NALTREXONE",
+        "OXYCODONE",
+        "HUMIRA",
+        "HUMIRA",
+        "HCG"
+      ],
+      "reactions": [
+        "Injection site bruising",
+        "Injection site haemorrhage",
+        "Incorrect dose administered"
+      ],
+      "report_id": "12005284"
+    },
+    {
+      "drugs": [
+        "MULTI VIT",
+        "5-HTP",
+        "IBUPROFEN.",
+        "NAPROXEN.",
+        "OMEGA 3",
+        "LEVAQUIN",
+        "VIT D-3"
+      ],
+      "reactions": [
+        "Tendonitis",
+        "Movement disorder",
+        "Musculoskeletal pain",
+        "Myalgia"
+      ],
+      "report_id": "12089189"
+    },
+    {
+      "drugs": [
+        "TROKENDI XR",
+        "TURMERIC",
+        "VITAMIN D",
+        "5-HTP",
+        "MINERALS (UNSPECIFIED)",
+        "PROGESTERONE.",
+        "PROBIOTIC (UNSPECIFIED)",
+        "DIGESTIVE ENZYME (UNSPECIFIED)",
+        "ADDERALL"
+      ],
+      "reactions": [
+        "Off label use",
+        "Fatigue",
+        "Aggression",
+        "Intraocular pressure increased",
+        "Vision blurred",
+        "Nightmare",
+        "Agitation",
+        "Migraine",
+        "Pain",
+        "Feeling abnormal",
+        "Depression",
+        "Insomnia",
+        "Muscle contractions involuntary",
+        "Anxiety",
+        "Amnesia",
+        "Nuclear magnetic resonance imaging abnormal",
+        "Increased appetite"
+      ],
+      "report_id": "12121240"
+    },
+    {
+      "drugs": [
+        "XYREM",
+        "NAPROXEN.",
+        "5 HTP",
+        "PEPCID AC",
+        "SEROQUEL",
+        "DESMOPRESSIN ACETATE.",
+        "IBUPROFEN.",
+        "MELATONIN",
+        "VITAMIN D3",
+        "XYREM",
+        "KLONOPIN",
+        "XYREM",
+        "CLARITIN",
+        "FLONASE",
+        "CITRACAL + D",
+        "ROBAXIN",
+        "TYLENOL EXTRA STRENGTH",
+        "CARNITOR",
+        "AMOXICILLIN.",
+        "SIMETHICONE (DIMETHICONE)",
+        "VALACYCLOVIR HYDROCHLORIDE."
+      ],
+      "reactions": [
+        "Bronchitis",
+        "Nasopharyngitis",
+        "Insomnia",
+        "Sinusitis",
+        "Sinus operation",
+        "Back pain"
+      ],
+      "report_id": "12122511"
+    },
+    {
+      "drugs": [
+        "CRANBERRY VITAMIN",
+        "GABAPENTIN.",
+        "ELAVIL",
+        "CRESTOR",
+        "KRILL OIL",
+        "HYDROCODONE",
+        "DIAZEPAM.",
+        "COQ10",
+        "GERITOL",
+        "ELAVIL",
+        "5-HTP",
+        "PRILOSEC",
+        "PRENATAL VITAMINS",
+        "TRAMADOL.",
+        "PRISTIQ EXTENDED RELEASE"
+      ],
+      "reactions": [
+        "Back pain",
+        "Exostosis",
+        "Lumbar spinal stenosis",
+        "Vertebral foraminal stenosis"
+      ],
+      "report_id": "12142450"
+    },
+    {
+      "drugs": [
+        "OXYCODONE",
+        "LEXAPRO",
+        "CALCIUM CITRATE",
+        "INULIN",
+        "CURCUMA LONGA",
+        "PROBIOTIC",
+        "FISH OIL",
+        "KELP",
+        "SELENIUM",
+        "N-ACETYLCYSTEINE",
+        "RITUXAN",
+        "IMMUNOGLOBULIN HUMAN NORMAL",
+        "ARMOUR THYROID",
+        "HYDROCORTISONE.",
+        "HYDROCORTISONE.",
+        "METHADONE",
+        "CYPROHEPTADINE.",
+        "CYCLOSPORINE.",
+        "THIAMINE.",
+        "QUERCETIN",
+        "TOCOTRIENOLS NOS",
+        "ALPHA LIPOIC ACID",
+        "HYDROCORTISONE.",
+        "RESVERATROL",
+        "CYANOCOBALAMIN.",
+        "FOLIC ACID.",
+        "VITAMIN K2",
+        "B-50",
+        "PAPAYA.",
+        "DOXYCLINE",
+        "HYDROCORTISONE.",
+        "UBIQUINOL",
+        "5-HTP",
+        "MELATONIN",
+        "IMBRUVICA",
+        "DURAGESIC (ORPHENADRINE CITRATE/PARACETAMOL)",
+        "ABSTRAL",
+        "VITAMIN D3",
+        "TOCOPHEROL",
+        "GINSENG",
+        "GRAPE SEED",
+        "PYRIDOXINE",
+        "VITAMIN K1",
+        "BROMELAIN",
+        "MANGANESE",
+        "THREONINE",
+        "PREDNISONE.",
+        "ALL OTHER THERAPEUTIC PRODUCTS",
+        "VITAMIN C WITH ROSE HIPS",
+        "EXTRACT GINGKO BILOBA"
+      ],
+      "reactions": [
+        "Blood alkaline phosphatase increased",
+        "Peripheral swelling",
+        "Alanine aminotransferase increased",
+        "Localised infection"
+      ],
+      "report_id": "12157777"
+    },
+    {
+      "drugs": [
+        "XYREM",
+        "LUNESTA",
+        "ADDERALL",
+        "5 HTP",
+        "ACIPHEX DR",
+        "FISH OIL",
+        "IBUPROFEN IB",
+        "TRACE MINERALS",
+        "ULTRAM",
+        "YUCCA",
+        "CEFDINIR.",
+        "OXYCODONE AND ACETAMINOPHEN",
+        "ROZEREM",
+        "COPAXONE",
+        "MULTIVITAMIN",
+        "ARMOUR THYROID",
+        "DONG QUAI",
+        "NEURONTIN",
+        "XYREM",
+        "CYTOMEL",
+        "FLEXERIL",
+        "VALERIAN",
+        "XYREM",
+        "CEFACLOR.",
+        "MECLIZINE",
+        "VYVANSE",
+        "SYNTHROID",
+        "CORDRAN",
+        "LEXAPRO",
+        "LICORICE.",
+        "ADRENAL"
+      ],
+      "reactions": [
+        "Clostridium difficile infection"
+      ],
+      "report_id": "12181940"
+    },
+    {
+      "drugs": [
+        "BYSTOLIC",
+        "BELSOMRA",
+        "VITAMIN D",
+        "MOBIC",
+        "LUPRON DEPOT",
+        "ALLEGRA",
+        "PRIMIDONE.",
+        "PRIMIDONE.",
+        "LEVOCARNITINE.",
+        "SYNTHROID",
+        "LISINOPRIL.",
+        "NORVASC",
+        "AMBIEN",
+        "TRAZODONE",
+        "ST. JOHN^S WORT",
+        "LAMICTAL",
+        "HALCION",
+        "LUNESTA",
+        "BYSTOLIC",
+        "DICYCLOMINE",
+        "TRILEPTAL",
+        "MULTIVITAMINS PLUS IRON",
+        "XANAX",
+        "MULTIVITAMIN AND MINERAL SUPPLEMENT",
+        "SONATA",
+        "VICODIN",
+        "XYREM",
+        "DICLOFENAC",
+        "CYMBALTA",
+        "METHOTREXATE",
+        "IRON",
+        "TOPROL XL",
+        "XYREM",
+        "HYDROXYTRYPTOPHAN 5 HTP",
+        "LYRICA",
+        "FLONASE",
+        "TIZANIDINE.",
+        "CALCIUM MAGNESIUM",
+        "PREVACID",
+        "BENTYL",
+        "VITAMINS A + D",
+        "XYREM",
+        "CLONAZEPAM.",
+        "CLONAZEPAM.",
+        "FLONASE",
+        "SYNTHROID",
+        "OMEGA 3 FISH OIL",
+        "XANAX",
+        "MUCINEX D",
+        "CELEXA"
+      ],
+      "reactions": [
+        "Delirium",
+        "Parasomnia"
+      ],
+      "report_id": "12185542"
+    },
+    {
+      "drugs": [
+        "PRILOSEC",
+        "DIAZEPAM.",
+        "COQ10",
+        "CRESTOR",
+        "5-HTP",
+        "PRENATAL VITAMIN",
+        "GERITOL",
+        "CRANBERRY VITAMIN",
+        "ELAVIL",
+        "GABAPENTIN.",
+        "ELAVIL",
+        "KRILL OIL",
+        "TRAMADOL.",
+        "PRISTIQ EXTENDED-RELEASE",
+        "HYDROCODONE"
+      ],
+      "reactions": [
+        "Back pain",
+        "Lumbar spinal stenosis",
+        "Vertebral foraminal stenosis",
+        "Exostosis"
+      ],
+      "report_id": "12237322"
+    },
+    {
+      "drugs": [
+        "CLARITIN",
+        "AZELASTINE",
+        "AMOXICILLIN.",
+        "FLONASE",
+        "5-HTP",
+        "XYREM",
+        "XYREM",
+        "BETAMETHASONE.",
+        "WELLBUTRIN",
+        "TRAMADOL HCL",
+        "EFFEXOR XR",
+        "VENTOLIN HFA",
+        "XYREM",
+        "AZITHROMYCIN ANHYDROUS.",
+        "MELATONIN"
+      ],
+      "reactions": [
+        "Joint injury"
+      ],
+      "report_id": "12284057"
+    },
+    {
+      "drugs": [
+        "XYREM",
+        "SPIRONOLACTONE.",
+        "LISINOPRIL.",
+        "XYREM",
+        "XYREM",
+        "PROAIR HFA",
+        "FOLIC ACID.",
+        "WARFARIN SODIUM.",
+        "CYANOCOBALAMIN.",
+        "PROBIOTIC ACIDOPHILUS",
+        "MODAFINIL.",
+        "XYREM",
+        "DULERA",
+        "PROZAC",
+        "BIOTIN",
+        "OMEGA 3 FISH OIL",
+        "MULTIPLE VITAMINS WITH MINERALS",
+        "PROZAC",
+        "COENZYME Q10",
+        "METOPROLOL.",
+        "ATIVAN",
+        "XYREM",
+        "DIGOXIN.",
+        "HYDROXYTRYPTOPHAN 5 HTP"
+      ],
+      "reactions": [
+        "Depression",
+        "Ventricular tachycardia",
+        "Sleep apnoea syndrome",
+        "Suicidal ideation"
+      ],
+      "report_id": "12288128"
+    },
+    {
+      "drugs": [
+        "RANITIDINE.",
+        "MELATONIN",
+        "SPIRIVA",
+        "XOLAIR",
+        "XOLAIR",
+        "ADVAIR HFA",
+        "THYROXINE",
+        "5-HTP",
+        "VENTOLIN",
+        "VITAMIN C",
+        "TECTA"
+      ],
+      "reactions": [
+        "Anxiety",
+        "Suicidal ideation",
+        "Drug intolerance"
+      ],
+      "report_id": "12304791"
+    },
+    {
+      "drugs": [
+        "LINZESS",
+        "ZOFRAN",
+        "XYREM",
+        "AMBIEN CR",
+        "QUILLIVANT XR",
+        "LYRICA",
+        "5-HTP",
+        "COENZYME Q10",
+        "FENTANYL.",
+        "MAGNESIUM OXIDE.",
+        "XYREM",
+        "ESTRADIOL.",
+        "LEVAQUIN",
+        "PROMETHAZINE",
+        "ULTRAM",
+        "XYREM",
+        "PROVIGIL",
+        "TRILEPTAL",
+        "XANAX",
+        "ZYRTEC",
+        "XYREM",
+        "RELPAX",
+        "REQUIP",
+        "TIZANIDINE HCL",
+        "ADDERALL XR",
+        "PROVIGIL",
+        "CYANOCOBALAMIN.",
+        "LEXAPRO",
+        "LISINOPRIL.",
+        "PROMETHAZINE",
+        "VITAMIN B COMPLEX",
+        "VITAMIN D2"
+      ],
+      "reactions": [
+        "Depression",
+        "Anxiety"
+      ],
+      "report_id": "12315911"
+    },
+    {
+      "drugs": [
+        "XYREM",
+        "FISH OIL",
+        "XYREM",
+        "THYROID",
+        "ADRENAL",
+        "MULTIVITAMINS",
+        "XYREM",
+        "WP-THYROID",
+        "XYREM",
+        "COD LIVER",
+        "NALTREXONE HCL",
+        "5 HTP",
+        "XYREM",
+        "XYREM",
+        "XYREM",
+        "MELATONIN"
+      ],
+      "reactions": [
+        "Yawning",
+        "Somnolence",
+        "Muscle fatigue",
+        "Dizziness",
+        "Initial insomnia",
+        "Headache",
+        "Emotional disorder",
+        "Sensory disturbance",
+        "Asthenia",
+        "Anxiety"
+      ],
+      "report_id": "12365026"
+    },
+    {
+      "drugs": [
+        "ALEVE",
+        "SEROQUEL",
+        "CLONAZEPAM.",
+        "XYREM",
+        "XYREM",
+        "PABA",
+        "STOOL SOFTENER",
+        "VITAMIN D3",
+        "ARMOUR THYROID",
+        "OXYCODONE HCL IR",
+        "XYREM",
+        "GENISTEIN",
+        "ASPIRIN ADULT",
+        "SELENIUM DR",
+        "EVENING PRIMROSE OIL",
+        "GLUCOSAMINE CHONDROITIN",
+        "VITAMIN B12",
+        "CLONIDINE HCL",
+        "BENAZEPRIL HYDROCHLORIDE.",
+        "MALIC ACID",
+        "TRIAMTERENE AND HYDROCHLOROTHIAZIDE",
+        "CLONAZEPAM.",
+        "LAMOTRIGINE.",
+        "XYREM",
+        "BREWERS YEAST",
+        "SALMON OIL",
+        "ATORVASTATIN",
+        "CYMBALTA",
+        "XYREM",
+        "PROBIOTIC",
+        "MAGNESIUM CITRATE.",
+        "OXYCONTIN",
+        "XYREM",
+        "5-HTP",
+        "LACTULOSE.",
+        "BENAZEPRIL HCL",
+        "HYDROCHLOROTHIAZIDE.",
+        "TIZANIDINE HYDROCHLORIDE.",
+        "DIAZEPAM.",
+        "NUCYNTA",
+        "FLAXSEED",
+        "GRAPE SEED EXTRACT",
+        "MULTIVITAMIN CHILD",
+        "SYNTHROID",
+        "SEROQUEL XR"
+      ],
+      "reactions": [
+        "Headache",
+        "Abdominal discomfort"
+      ],
+      "report_id": "12386412"
+    },
+    {
+      "drugs": [
+        "AMITIZA",
+        "CYTOMEL",
+        "ADDERALL XR",
+        "XYREM",
+        "SYNTHROID",
+        "VITAMIN B COMPLEX",
+        "VITAMIN D3",
+        "XYREM",
+        "ALDACTONE",
+        "RHODIOLA ROSEA",
+        "5-HTP",
+        "ACTICLATE"
+      ],
+      "reactions": [
+        "Therapeutic response unexpected",
+        "Pre-existing condition improved"
+      ],
+      "report_id": "12396821"
+    },
+    {
+      "drugs": [
+        "SEROQUEL",
+        "MG",
+        "5--HTP",
+        "K",
+        "AFRIN",
+        "VITAMIN D",
+        "VITAMIN B COMPLEX",
+        "FISH OIL"
+      ],
+      "reactions": [
+        "Eustachian tube patulous"
+      ],
+      "report_id": "12397771"
+    },
+    {
+      "drugs": [
+        "ADDERALL",
+        "ACCUTANE",
+        "MULTIVITAMIN",
+        "5 HTP",
+        "VALTREX",
+        "XYREM",
+        "XYREM",
+        "NUVIGIL",
+        "THYROID",
+        "XYREM",
+        "ZOLOFT"
+      ],
+      "reactions": [
+        "Unevaluable event",
+        "Fatigue",
+        "Myalgia"
+      ],
+      "report_id": "12401270"
+    },
+    {
+      "drugs": [
+        "KLONOPIN",
+        "ASPIRIN ADULT",
+        "RITALIN",
+        "5-HTP",
+        "MULTAQ",
+        "XYREM",
+        "XYREM",
+        "PROGESTERONE.",
+        "ATIVAN",
+        "DILTIAZEM HYDROCHLORIDE EXTENDED RELEASE",
+        "FLECAINIDE ACETATE.",
+        "SYNTHROID",
+        "ULTRAM",
+        "XYREM",
+        "METOPROLOL SUCCINATE ER",
+        "CYTOMEL",
+        "ARMOUR THYROID",
+        "PROPAFENONE HCL",
+        "ALPRAZOLAM ER",
+        "ZOLOFT",
+        "EFFEXOR XR",
+        "MELATONIN",
+        "XARELTO",
+        "AMITRIPTYLINE HCL",
+        "KLONOPIN",
+        "WELLBUTRIN SR",
+        "VALTREX",
+        "VITAMINS"
+      ],
+      "reactions": [
+        "Pharyngitis",
+        "Hyperthyroidism",
+        "Panic attack",
+        "Anxiety",
+        "Drug ineffective",
+        "Feeling abnormal"
+      ],
+      "report_id": "12406896"
+    },
+    {
+      "drugs": [
+        "VITAMIN B12",
+        "ZANTAC",
+        "CHROMIUM PICOLINATE",
+        "DRAMAMINE",
+        "TRILEPTAL",
+        "BIOTIN",
+        "CLARITIN",
+        "ADDERALL XR",
+        "ADDERALL",
+        "COENZYME Q10",
+        "VENTOLIN HFA",
+        "IBUPROFEN.",
+        "ADDERALL",
+        "BENADRYL ALLERGY",
+        "DIUREX",
+        "LAMOTRIGINE.",
+        "XYREM",
+        "5-HTP",
+        "ALEVE",
+        "XYREM",
+        "SYMBICORT",
+        "UNISOM SLEEP",
+        "VITAMIN D3",
+        "ADDERALL",
+        "TENEX",
+        "VITAMIN E",
+        "LAMOTRIGINE."
+      ],
+      "reactions": [
+        "Wrong technique in product usage process",
+        "Burning sensation",
+        "Myalgia",
+        "Neuralgia"
+      ],
+      "report_id": "12409635"
+    },
+    {
+      "drugs": [
+        "XYREM",
+        "XYREM",
+        "ACETYL L-CARNITINE",
+        "COENZYME Q10",
+        "DIPYRIDAMOLE.",
+        "NIASPAN ER",
+        "VITAMIN B12",
+        "DHEA",
+        "ARMOUR THYROID",
+        "CHROMIUM PICOLINATE",
+        "CLARITIN",
+        "LUTEIN",
+        "MULTIVITAMINS",
+        "SERIPHOS",
+        "VITAMIN C TR",
+        "FLUDROCORTISONE",
+        "PROGESTERONE.",
+        "VITAMINS",
+        "VESICARE",
+        "CRESTOR",
+        "ZOLOFT",
+        "DHEA",
+        "HYDROCORTISONE.",
+        "TRYPTOPHAN, L-",
+        "VITAMIN E",
+        "COENZYME Q10",
+        "NIASPAN",
+        "TEMAZEPAM.",
+        "TESTOSTERONE.",
+        "XYREM",
+        "5-HTP",
+        "ALPHA LIPOIC ACID",
+        "ARGININE",
+        "CALCIUM CARBONATE.",
+        "LEVOTHYROXINE.",
+        "PROGESTERONE.",
+        "TOCOMIN",
+        "VITAMIN B5",
+        "VITAMIN D3 COMPLETE",
+        "BACLOFEN.",
+        "DOXYCYCLINE HYC DR",
+        "MAGNESIUM CARBONATE",
+        "TYROSINE",
+        "VITAMIN A",
+        "BUSPAR",
+        "HUPERZINE A",
+        "B-COMPLEX + VITAMIN C",
+        "LIOTHYRONINE SODIUM (T3)",
+        "NITROGLYCERIN.",
+        "HYDROCORTISONE.",
+        "OXYTOCIN.",
+        "ALBUTEROL SULFATE.",
+        "ESTRIOL",
+        "NAC",
+        "NATTOKINASE",
+        "PREGNENOLONE MICRONIZED",
+        "TESTOSTERONE CYPIONATE.",
+        "NALTREXONE",
+        "ARMOUR THYROID",
+        "L-TYROSINE"
+      ],
+      "reactions": [
+        "Intentional product use issue"
+      ],
+      "report_id": "12420426"
+    },
+    {
+      "drugs": [
+        "XYREM",
+        "PENNSAID",
+        "TRIAMCINOLONE ACETONIDE.",
+        "KRILL OMEGA RED OIL",
+        "LIDOCAINE.",
+        "GLUTAMINE",
+        "SULFACETAMIDE SODIUM.",
+        "CHROMIUM PICOLINATE",
+        "FLEXERIL",
+        "TRETINOIN.",
+        "GEODON",
+        "LEVONORGESTREL W/ETHINYLESTRADIOL",
+        "ADDERALL",
+        "TRIAMCINOLONE",
+        "XYREM",
+        "ACANYA",
+        "5 HTP",
+        "L-GLUTAMINE",
+        "LEVOMILNACIPRAN",
+        "MULTIVITAMIN",
+        "CAMRESE LO",
+        "SOMA",
+        "PRILOSEC",
+        "SODIUM SULFACETAMIDE",
+        "XYREM",
+        "BENZOYL PEROXIDE W/CLINDAMYCIN",
+        "HYPERCARE",
+        "ZYPREXA ZYDIZ",
+        "EPIDERM",
+        "KLONOPIN",
+        "DOXYCYCLINE HYCLATE.",
+        "MUPIROCIN.",
+        "NUCYNTA",
+        "SAVELLA",
+        "TIGAN",
+        "WELLBUTRIN"
+      ],
+      "reactions": [
+        "Road traffic accident",
+        "Depression",
+        "Anxiety",
+        "Condition aggravated",
+        "Drug ineffective",
+        "Pain",
+        "Neck pain"
+      ],
+      "report_id": "12421272"
+    },
+    {
+      "drugs": [
+        "COENZYME Q-10",
+        "5-HTP",
+        "FLONASE ALLERGY RLF",
+        "ROBAXIN",
+        "TYLENOL",
+        "VALACYCLOVIR HCL",
+        "VITAMIN D3",
+        "CARNITOR",
+        "SEROQUEL",
+        "SIMETHICONE GAS RELIEF",
+        "ALBUTEROL SULF HFA",
+        "CITRACAL + D",
+        "PEPCID AC",
+        "AMOXICILLIN SODIUM",
+        "KLONOPIN",
+        "XYREM",
+        "AZELASTINE",
+        "NAPROXEN EC",
+        "DESMOPRESSIN",
+        "CLARITIN",
+        "IBUPROFEN.",
+        "MELATONIN"
+      ],
+      "reactions": [
+        "Haemorrhoidal haemorrhage",
+        "Condition aggravated",
+        "Faeces hard"
+      ],
+      "report_id": "12436983"
+    },
+    {
+      "drugs": [
+        "XYREM",
+        "VENTOLIN HFA",
+        "AZITHROMYCIN ANHYDROUS.",
+        "EFFEXOR XR",
+        "BETAMETHASONE VA",
+        "WELLBUTRIN SR",
+        "CLARITIN",
+        "AMOXICILLIN.",
+        "XYREM",
+        "XYREM",
+        "XYREM",
+        "FLONASE",
+        "5-HTP",
+        "XYREM",
+        "AZELASTINE",
+        "MELATONIN"
+      ],
+      "reactions": [
+        "Sinusitis"
+      ],
+      "report_id": "12437029"
+    },
+    {
+      "drugs": [
+        "XYREM",
+        "BACLOFEN.",
+        "CRANBERRY CONCENTRATE",
+        "EVENING PRIMROSE",
+        "CYMBALTA",
+        "5-HTP",
+        "SAVELLA",
+        "XYREM",
+        "MORPHINE SULFATE CR",
+        "TRAZODONE",
+        "LIDOCAINE/PRILOCAINE",
+        "SUBOXONE",
+        "PROSTATE HEALTH COMPLEX",
+        "ZINC ACETATE",
+        "OXYCODONE AND ACETAMINOPHEN",
+        "CALCIUM CARBONATE.",
+        "VITAMIN B COMPLEX",
+        "XYREM",
+        "ARMOUR THYROID",
+        "OMEGA 3 FISH OIL",
+        "VITAMIN C TR",
+        "VITAMIN E ACETATE"
+      ],
+      "reactions": [
+        "Penile pain"
+      ],
+      "report_id": "12438044"
+    },
+    {
+      "drugs": [
+        "CONCERTA",
+        "5-HTP",
+        "CONCERTA",
+        "SKELAXIN",
+        "FETZIMA",
+        "XYREM",
+        "ERGOCALCIFEROL.",
+        "SINGULAIR",
+        "CYMBALTA",
+        "XYREM",
+        "XYREM",
+        "VALTREX",
+        "PRISTIQ EXTENDED-RELEASE",
+        "PROZAC"
+      ],
+      "reactions": [
+        "Drug ineffective",
+        "Muscle spasms"
+      ],
+      "report_id": "12439287"
+    },
+    {
+      "drugs": [
+        "VITAMIN D",
+        "VIBERZI",
+        "IMODIUM",
+        "CURCUMIN",
+        "ALBUTEROL.",
+        "BUSPIRONE",
+        "ADVAIR HFA",
+        "POTASSIUM",
+        "MIRABEGRON",
+        "CLARITIN",
+        "PROBIOTICS",
+        "MECLIZINE",
+        "5-HTP",
+        "GLUCOSAMINE CHONDROITIN",
+        "SINGULAIR",
+        "VIBERZI",
+        "PRISTIQ EXTENDED-RELEASE",
+        "NIACIN."
+      ],
+      "reactions": [
+        "Frequent bowel movements",
+        "Wrong technique in product usage process",
+        "Faeces hard",
+        "Drug ineffective"
+      ],
+      "report_id": "12477676"
+    },
+    {
+      "drugs": [
+        "XYREM",
+        "EPIPEN",
+        "CHLORZOXAZONE.",
+        "EPIPEN",
+        "FEXOFENADINE HYDROCHLORIDE.",
+        "ALPHA LIPOIC ACID",
+        "MAGNESIUM GLUCONATE",
+        "PROBIOTIC",
+        "FISH OIL",
+        "AMITRIPTYLINE HCL",
+        "NALTREXONE",
+        "XYREM",
+        "CROMOLYN SODIUM.",
+        "DEXAMETHASONE.",
+        "MOLYBDENUM",
+        "QUERCETIN DIHYDRATE",
+        "SLIPPERY ELM",
+        "VITAMIN B12",
+        "VERAPAMIL",
+        "EXCEDRIN MIGRAINE",
+        "ASCORBIC ACID.",
+        "CETIRIZINE HYDROCHLORIDE.",
+        "CIMETIDINE",
+        "GLUTATHIONE",
+        "VITAMIN B6",
+        "VYVANSE",
+        "GUAIFENESIN.",
+        "L-METHIONINE",
+        "TAURINE",
+        "LORATADINE.",
+        "LYRICA",
+        "ACIDOPHILIS",
+        "CROMOLYN",
+        "SUMATRIPTAN SUCCINATE.",
+        "HYDROCORTISONE.",
+        "GASTROCROM",
+        "VIVELLE-DOT",
+        "COQ10",
+        "FLAXSEED",
+        "NADOLOL.",
+        "ALLERGAN",
+        "CURCUMIN",
+        "SALT",
+        "AZITHROMYCIN ANHYDROUS.",
+        "MINOCYCLINE HCL",
+        "FLONASE",
+        "VITAMIN D3",
+        "5 HTP",
+        "CALCIUM CARBONATE.",
+        "PROGESTERONE.",
+        "DILTIAZEM.",
+        "XYREM",
+        "MIGRANAL",
+        "BIOTIN",
+        "NALTREXONE",
+        "KETOCONAZOLE."
+      ],
+      "reactions": [
+        "Road traffic accident",
+        "Fibromyalgia",
+        "Essential tremor"
+      ],
+      "report_id": "12479199"
+    },
+    {
+      "drugs": [
+        "5-HTP",
+        "XANAX",
+        "XYREM",
+        "NALTREXONE HYDROCHLORIDE.",
+        "PROBIOTIC",
+        "BENICAR",
+        "GABAPENTIN.",
+        "ARMOUR THYROID",
+        "MELATONIN",
+        "MULTIVITAMINS WITH MINERALS",
+        "GABAPENTIN.",
+        "MAGNESIUM OXIDE.",
+        "XYREM",
+        "XYREM",
+        "XANAX"
+      ],
+      "reactions": [
+        "Unevaluable event",
+        "Insomnia"
+      ],
+      "report_id": "12479267"
+    },
+    {
+      "drugs": [
+        "ZINC",
+        "VIAGRA",
+        "XYREM",
+        "ADDERALL",
+        "WELLBUTRIN XL",
+        "WELLBUTRIN",
+        "XYREM",
+        "PRISTIQ EXTENDED-RELEASE",
+        "LEXAPRO",
+        "5-HTP",
+        "CYCLOBENZAPRINE HCL",
+        "NUVIGIL",
+        "FISH OIL",
+        "TUSSIONEX PENNKINETIC",
+        "XYREM",
+        "CLARITIN-D 12 HOUR",
+        "POTASSIUM CITRATE.",
+        "NUVIGIL",
+        "ALLEGRA",
+        "CIALIS",
+        "XANAX"
+      ],
+      "reactions": [
+        "Urinary retention",
+        "Urine flow decreased"
+      ],
+      "report_id": "12490455"
+    },
+    {
+      "drugs": [
+        "FLEXERIL",
+        "HYDROXYZINE HYDROCHLORIDE.",
+        "ADDERALL",
+        "ADDERALL XR",
+        "ARMOUR THYROID",
+        "TRAMADOL HCL",
+        "TRAZODONE HYDROCHLORIDE.",
+        "ACCOLATE",
+        "AMBIEN CR",
+        "NALTREXONE HYDROCHLORIDE.",
+        "SONATA",
+        "SUMATRIPTAN SUCCINATE.",
+        "ZANAFLEX",
+        "ZOFRAN",
+        "CLONAZEPAM.",
+        "GABA SUPPLEMENT",
+        "SOMA",
+        "AMBIEN",
+        "DILAUDID",
+        "KETAMINE",
+        "XYREM",
+        "5-HTP",
+        "EXCEDRIN MIGRAINE",
+        "XANAX",
+        "XYREM",
+        "DIAZEPAM.",
+        "NYSTATIN.",
+        "HYDRALAZINE HYDROCHLORIDE.",
+        "XYREM",
+        "DOXYCYCLINE HYCLATE.",
+        "LUNESTA",
+        "URISPAS",
+        "HYDROMORPHONE HCL"
+      ],
+      "reactions": [
+        "Tachycardia",
+        "Insomnia"
+      ],
+      "report_id": "12490780"
+    },
+    {
+      "drugs": [
+        "ESTROGEN",
+        "VITAMIN B6",
+        "L-5 HTP",
+        "VITAMIN C",
+        "TELOTRISTAT ETHYL",
+        "CARVEDILOL.",
+        "POTASSIUM",
+        "VITAMIN D",
+        "ARMOUR THYROID",
+        "GABA",
+        "DIUREX",
+        "ALPHA LIPOIC ACID",
+        "OMEPRAZOLE.",
+        "BIOTIN",
+        "SILLICA"
+      ],
+      "reactions": [
+        "Headache"
+      ],
+      "report_id": "13629122"
+    }
+  ],
+  "confidence": "low",
+  "note": "Co-occurrence signals only. Not a confirmed interaction source. Verify against NIH ODS, MedlinePlus, or PubMed before using."
+}

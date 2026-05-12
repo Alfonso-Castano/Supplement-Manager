@@ -1,0 +1,33 @@
+{
+  "_comment": "7 baseline suggested-action templates from D-12. Add new templates here (not inline) when no existing template fits during extraction.",
+  "templates": [
+    {
+      "id": 1,
+      "template": "Take [compound_a] at least [N] hours away from [compound_b]."
+    },
+    {
+      "id": 2,
+      "template": "Take [compound_a] with food to reduce interaction risk with [compound_b]."
+    },
+    {
+      "id": 3,
+      "template": "Avoid combining [compound_a] with [compound_b]. Consider replacing [compound_a] with [alternative] if possible."
+    },
+    {
+      "id": 4,
+      "template": "Consider reducing your [compound_a] dose when taking alongside [compound_b]."
+    },
+    {
+      "id": 5,
+      "template": "[compound_a] and [compound_b] are well-paired. No timing adjustment needed."
+    },
+    {
+      "id": 6,
+      "template": "Take [compound_a] in the morning and [compound_b] in the evening to minimize conflict."
+    },
+    {
+      "id": 7,
+      "template": "Monitor for [effect] when combining [compound_a] with [compound_b]. Consult your doctor if concerned."
+    }
+  ]
+}

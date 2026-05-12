@@ -1,0 +1,6191 @@
+{
+  "canonical_name": "saw_palmetto",
+  "query_variants": [
+    "SAW PALMETTO",
+    "SERENOA REPENS",
+    "SABAL PALM",
+    "SAW PALMETTO EXTRACT"
+  ],
+  "total_reports_fetched": 240,
+  "co_occurrence_reports": 240,
+  "co_occurrences": [
+    {
+      "drugs": [
+        "JAKAFI",
+        "ALLOPURINOL",
+        "HYDREA",
+        "SIMVASTATIN",
+        "UDAMIN SP",
+        "VITAMIN B12",
+        "SAW PALMETTO",
+        "FISH OIL"
+      ],
+      "reactions": [
+        "Thrombocytopenia",
+        "Haemoglobin decreased",
+        "Drug ineffective"
+      ],
+      "report_id": "10009738"
+    },
+    {
+      "drugs": [
+        "JAKAFI",
+        "PEGASYS",
+        "FIBERCON",
+        "MVI",
+        "SINGULAIR",
+        "ASPIRIN",
+        "ZANTAC",
+        "AXONA POWDER PACKET",
+        "VITAMIN E",
+        "SAW PALMETTO",
+        "FISH OIL",
+        "AMBIEN",
+        "LACTULOSE",
+        "LYRICA",
+        "VICODIN",
+        "NEXIUM",
+        "ALLOPURINOL",
+        "HYCODAN"
+      ],
+      "reactions": [
+        "Wheezing",
+        "Drug dose omission",
+        "Cough",
+        "Oropharyngeal pain"
+      ],
+      "report_id": "10010038"
+    },
+    {
+      "drugs": [
+        "PRAVASTATIN",
+        "PRAVASTATIN NA",
+        "CLOBEX",
+        "PROSTATE FORMULA",
+        "SAW PALMETTO",
+        "VITAMINS",
+        "FLUNISOLIDE",
+        "VITAMIN C",
+        "OMEGA 3 FISH OIL",
+        "MULTIVITAMIN"
+      ],
+      "reactions": [
+        "Rash erythematous",
+        "Cutaneous lupus erythematosus",
+        "Musculoskeletal pain",
+        "Neck pain",
+        "Arthralgia"
+      ],
+      "report_id": "10012215"
+    },
+    {
+      "drugs": [
+        "ATORVASTATIN",
+        "SIMVASTATIN",
+        "SIMVASTATIN",
+        "LISINOPRIL",
+        "ASPIRIN",
+        "METOPROLOL SUCCINATE",
+        "FISH OIL",
+        "GARLIC EXTRACT",
+        "CO Q10",
+        "SAW PALMETTO",
+        "VIT D3",
+        "PROBIOTIC"
+      ],
+      "reactions": [
+        "Muscle injury",
+        "Coronary artery occlusion",
+        "Muscle spasms"
+      ],
+      "report_id": "10017775"
+    },
+    {
+      "drugs": [
+        "LOSARTAN",
+        "PAXIL (PAROXETINE)",
+        "CRESTOR",
+        "IBUPROFEN",
+        "LORAZEPAM",
+        "CLARINEX",
+        "METOPROLOL",
+        "DIOVAN",
+        "COZAAR",
+        "MULTIVITAMIN",
+        "LOVAZA",
+        "FISH OIL",
+        "VITAMIN E",
+        "SAW PALMETTO/SELENIUM/LYCOPENE",
+        "CALCIUM/MAGNESIUM/ZINC",
+        "FIBER SUPPLEMENT",
+        "VITAMIN D"
+      ],
+      "reactions": [
+        "Drug ineffective",
+        "Dysgeusia",
+        "Dry mouth",
+        "Product shape issue"
+      ],
+      "report_id": "10021011"
+    },
+    {
+      "drugs": [
+        "COUMADIN",
+        "DILTIAZEM HCL",
+        "DIGOXIN",
+        "FUROSEMIDE",
+        "GUAIFENESIN",
+        "ASPIRIN",
+        "CRESTOR",
+        "VITAMIN",
+        "SAW PALMETTO",
+        "ZINC"
+      ],
+      "reactions": [
+        "Aortic aneurysm",
+        "Stent placement",
+        "Contusion",
+        "Pruritus"
+      ],
+      "report_id": "10032528"
+    },
+    {
+      "drugs": [
+        "IPILIMUMAB",
+        "CALCIUM",
+        "VITAMIN B-12",
+        "FISH OIL",
+        "GLUCOSAMINE/CHONDROITIN",
+        "IBUPROFEN",
+        "LEVOTHYROXINE",
+        "LORAZEPAM",
+        "MULTIVITAMIN",
+        "ONDANSETRON",
+        "SAW PALMETTO"
+      ],
+      "reactions": [
+        "Meningitis aseptic",
+        "Rash pruritic",
+        "Diarrhoea"
+      ],
+      "report_id": "10034314"
+    },
+    {
+      "drugs": [
+        "VITAMIN B",
+        "FENTANYL TRANSDERMAL SYSTEM",
+        "FENTANYL TRANSDERMAL SYSTEM",
+        "FENTANYL TRANSDERMAL SYSTEM",
+        "FENTANYL TRANSDERMAL SYSTEM",
+        "FENTANYL TRANSDERMAL SYSTEM",
+        "FENTANYL TRANSDERMAL SYSTEM",
+        "FENTANYL TRANSDERMAL SYSTEM",
+        "FENTANYL TRANSDERMAL SYSTEM",
+        "FENTANYL TRANSDERMAL SYSTEM",
+        "FENTANYL TRANSDERMAL SYSTEM",
+        "FENTANYL TRANSDERMAL SYSTEM",
+        "FENTANYL TRANSDERMAL SYSTEM",
+        "FENTANYL TRANSDERMAL SYSTEM",
+        "FENTANYL TRANSDERMAL SYSTEM",
+        "FENTANYL TRANSDERMAL SYSTEM",
+        "FENTANYL TRANSDERMAL SYSTEM",
+        "PERCOCET",
+        "IBUPROFEN",
+        "LISINOPRIL",
+        "BABY ASPIRIN",
+        "ENABLEX",
+        "FLOMAX /00889901/",
+        "OXYBUTYNIN",
+        "CELEXA",
+        "XANAX",
+        "PRILOSEC",
+        "STOOL SOFTENER",
+        "PROBIOTICS",
+        "FIBER",
+        "SENNA",
+        "HERBAL LAXATIVE /05904801/",
+        "SAW PALMETTO",
+        "ZANTAC",
+        "MULTIVITAMIN",
+        "VITAMIN C",
+        "VITAMIN D"
+      ],
+      "reactions": [
+        "Drug effect decreased",
+        "Pain",
+        "Withdrawal syndrome",
+        "Lethargy",
+        "Pollakiuria"
+      ],
+      "report_id": "10047066"
+    },
+    {
+      "drugs": [
+        "PAROXETINE HYDROCHLORIDE",
+        "FLUINDIONE",
+        "CANDESARTAN CILEXETIL",
+        "POTASSIUM CHLORIDE",
+        "SAW PALMETTO",
+        "NEBIVOLOL HCL",
+        "NICARDIPINE HYDROCHLORIDE",
+        "TIAPRIDE"
+      ],
+      "reactions": [
+        "Cerebral haematoma",
+        "Drug interaction"
+      ],
+      "report_id": "10055987"
+    },
+    {
+      "drugs": [
+        "LEVITRA",
+        "AZOR [AMLODIPINE BESILATE,OLMESARTAN MEDOXOMIL]",
+        "VOLTAREN",
+        "VOLTAREN",
+        "SAW PALMETTO"
+      ],
+      "reactions": [
+        "Nasal congestion",
+        "Headache",
+        "Suspected counterfeit product"
+      ],
+      "report_id": "10065513"
+    },
+    {
+      "drugs": [
+        "XARELTO",
+        "XARELTO",
+        "CALCIUM",
+        "CALCIUM",
+        "COZAAR",
+        "ASPIRIN",
+        "PRAMIPEXOLE DIHYDROCHLORIDE",
+        "PRAMIPEXOLE DIHYDROCHLORIDE",
+        "METOPROLOL SUCCINATE",
+        "TAMSULOSIN HCL",
+        "TAMSULOSIN HCL",
+        "TRIAZOLAM",
+        "TRIAZOLAM",
+        "AMITRIPTYLINE",
+        "SAW  PALMETTO",
+        "MVI",
+        "AMITRIPTYLINE HCL",
+        "LOSARTAN POTASSIUM",
+        "METOPROLOL SUCCINATE",
+        "MULTIVITAMINS"
+      ],
+      "reactions": [
+        "Deep vein thrombosis"
+      ],
+      "report_id": "10066240"
+    },
+    {
+      "drugs": [
+        "RANEXA",
+        "ZOCOR",
+        "FINASTERIDE",
+        "THYROXINE",
+        "BABY ASPIRIN",
+        "SAW PALMETTO                       /00833501/",
+        "VITAMINS NOS"
+      ],
+      "reactions": [
+        "Tremor"
+      ],
+      "report_id": "10066755"
+    },
+    {
+      "drugs": [
+        "CLARITIN",
+        "CLARITIN",
+        "MIRTAZAPINE",
+        "BUSPIRONE HYDROCHLORIDE",
+        "OMEGA-3 MARINE TRIGLYCERIDES",
+        "SAW PALMETTO",
+        "CALTRATE VITAMINE D3",
+        "CENTRUM SILVER"
+      ],
+      "reactions": [
+        "Drug ineffective"
+      ],
+      "report_id": "10073714"
+    },
+    {
+      "drugs": [
+        "FOLATE",
+        "ALIMTA",
+        "VITAMIN B12",
+        "CARBOPLATIN.",
+        "OCUVITE",
+        "ADVIL",
+        "FISH OIL",
+        "ALIMTA",
+        "ALIMTA",
+        "XGEVA",
+        "XARELTO",
+        "CARBOPLATIN.",
+        "CARBOPLATIN.",
+        "SAW PALMETTO                       /00833501/"
+      ],
+      "reactions": [
+        "Haemolytic anaemia",
+        "Off label use",
+        "Disseminated intravascular coagulation",
+        "White blood cell count decreased",
+        "Anaemia"
+      ],
+      "report_id": "10077142"
+    },
+    {
+      "drugs": [
+        "TAXOTERE",
+        "NEULASTA",
+        "DECADRON",
+        "ZOMETA",
+        "AMOXICILLIN",
+        "TRAZODONE",
+        "SAW PALMETTO",
+        "PREDNISONE",
+        "NICODERM CQ",
+        "MIRTAZAPINE",
+        "METHIMAZOLE",
+        "LIPITOR",
+        "IPRATROPIUM-ALBUTEROL",
+        "DIOVAN",
+        "MVI",
+        "ALPRAZOLAM",
+        "ALLEGRA",
+        "ACETAMINOPHEN"
+      ],
+      "reactions": [
+        "Hypoxia",
+        "Pneumonitis"
+      ],
+      "report_id": "10086676"
+    },
+    {
+      "drugs": [
+        "ALLEGRA",
+        "VITAMIN A",
+        "VITAMIN B",
+        "VITAMIN C",
+        "VITAMIN D",
+        "VITAMIN E",
+        "FISH OIL",
+        "ALL OTHER THERAPEUTIC PRODUCTS",
+        "ASPIRIN",
+        "COENZYME Q10",
+        "ZINC",
+        "POTASSIUM",
+        "FOLIC ACID",
+        "B COMPLEX",
+        "LYCOPENE",
+        "SAW PALMETTO"
+      ],
+      "reactions": [
+        "Sneezing",
+        "Drug ineffective"
+      ],
+      "report_id": "10092374"
+    },
+    {
+      "drugs": [
+        "LORTAB",
+        "SAW PALMETTO                       /00833501/",
+        "ASPIRIN.",
+        "LETAIRIS",
+        "FISH OIL",
+        "LASIX",
+        "REVATIO",
+        "IBUPROFEN."
+      ],
+      "reactions": [
+        "Condition aggravated"
+      ],
+      "report_id": "10099685"
+    },
+    {
+      "drugs": [
+        "ELIQUIS",
+        "CRESTOR",
+        "BABY ASPIRIN",
+        "VITAMIN B12",
+        "VITAMIN B6",
+        "VITAMIN C",
+        "VITAMIN D",
+        "COENZYME-Q10",
+        "SAW PALMETTO",
+        "OMEGA-3",
+        "GLUCOSAMINE",
+        "CHONDROITIN"
+      ],
+      "reactions": [
+        "Micturition frequency decreased"
+      ],
+      "report_id": "10102888"
+    },
+    {
+      "drugs": [
+        "CALCIUM PLUS D",
+        "AVODART",
+        "VITAMIN B12",
+        "FENOFIBRATE.",
+        "VICODIN",
+        "FLOMAX",
+        "ACTOPLUS MET",
+        "FISH OIL",
+        "NITROGLYCERIN.",
+        "CEFDINIR.",
+        "LORAZEPAM.",
+        "AVODART",
+        "DOXAZOSIN",
+        "SAW PALMETTO",
+        "TRICOR",
+        "CRANBERRY.",
+        "CARISOPRODOL.",
+        "DIAZEPAM.",
+        "BICALUTAMIDE.",
+        "SULFAMETHOXAZOLE-TRIMETHOPRIM (SMZ)",
+        "HYDROCHLOROTHIAZIDE.",
+        "SYNTHROID",
+        "LORTAB",
+        "OSTEO BI-FLEX",
+        "PIOGLITAZONE.",
+        "LEVOFLOXACIN.",
+        "AMITRIPTYLINE",
+        "SOMA",
+        "ASPIRIN.",
+        "VITAMIN D",
+        "GLUCOSAMINE",
+        "AMOX TR-K CLV",
+        "HYDROCODONE BITARTRATE AND ACETAMINOPHEN",
+        "PHENAZOPYRIDINE.",
+        "SIMVASTATIN.",
+        "LISINOPRIL.",
+        "TUMS",
+        "CIPROFLOXACIN.",
+        "DICLOFENAC",
+        "VITAMIN C",
+        "VITAMIN E",
+        "MULTIVITAMIN"
+      ],
+      "reactions": [
+        "Prostate cancer",
+        "Renal cancer",
+        "Neoplasm malignant",
+        "Neoplasm prostate",
+        "Knee operation",
+        "Escherichia infection",
+        "Constipation",
+        "Renal disorder",
+        "Prostatic disorder",
+        "Dysuria",
+        "Prescribed overdose",
+        "Tooth extraction",
+        "Prostate ablation",
+        "Prostatic specific antigen increased",
+        "Urinary tract infection",
+        "Pollakiuria",
+        "Enema administration",
+        "Cataract",
+        "Biopsy"
+      ],
+      "report_id": "10103099"
+    },
+    {
+      "drugs": [
+        "BUDESONIDE",
+        "DONEPEZIL",
+        "GINKO BILOBA",
+        "VIT B",
+        "SAW PALMETTO"
+      ],
+      "reactions": [
+        "Constipation",
+        "Off label use"
+      ],
+      "report_id": "10133733"
+    },
+    {
+      "drugs": [
+        "ANDROGEL",
+        "ANDROGEL",
+        "ANDROGEL",
+        "ASPIRIN",
+        "VITAMIN D3/MAGNESIUM/CALCIUM",
+        "METAMUCIL",
+        "LORAZEPAM",
+        "MONTELUKAST",
+        "FISH OIL",
+        "ALOCRIL",
+        "LATANOPROST",
+        "VOLTAREN",
+        "NIACIN",
+        "POLICOSANOL",
+        "SAW PALMETTO",
+        "MULTIVITAMIN",
+        "GUGGULIPID",
+        "SILVER COLLOIDAL",
+        "VITAMIN E",
+        "SELENIUM"
+      ],
+      "reactions": [
+        "Blood testosterone decreased"
+      ],
+      "report_id": "10137139"
+    },
+    {
+      "drugs": [
+        "VITAMIN D",
+        "SAW PALMETTO BERRY",
+        "ACETYLSALICYLIC ACID",
+        "RITUXIMAB",
+        "ACETYLCYSTEIN",
+        "HUMIRA",
+        "PREDNISOLON",
+        "METHOTREXATE",
+        "MTX",
+        "PANTOPRAZOLE",
+        "HYALURONSAEURE",
+        "NEBIVOLOL",
+        "HUMIRA"
+      ],
+      "reactions": [
+        "Alveolitis",
+        "Pulmonary fibrosis",
+        "Myocardial infarction",
+        "Drug ineffective",
+        "Influenza like illness"
+      ],
+      "report_id": "10153637"
+    },
+    {
+      "drugs": [
+        "ALEVE CAPLET",
+        "ALEVE CAPLET",
+        "BAYER ASPIRIN REGIMEN ADULT LOW STRENGTH",
+        "SIMVASTATIN",
+        "HYDROCHLOROTHIAZIDE",
+        "AMLODIPINE BESYLATE",
+        "FISH OIL",
+        "GLUCOSAMINE",
+        "FLAX SEED OIL",
+        "SAW PALMETTO",
+        "VITAMIN D3",
+        "MAGNESIUM",
+        "OMEPRAZOLE"
+      ],
+      "reactions": [
+        "Drug ineffective",
+        "Incorrect drug administration duration",
+        "Incorrect drug administration duration"
+      ],
+      "report_id": "10154999"
+    },
+    {
+      "drugs": [
+        "BYDUREON",
+        "METFORMIN",
+        "INVOKANA",
+        "ASPIRIN",
+        "MULTIVITAMIN",
+        "CAFFEINE",
+        "DHEA",
+        "LISINOPRIL",
+        "BIOTIN",
+        "VITAMIN B COMPLEX",
+        "SAW PALMETTO",
+        "LYRICA",
+        "VITAMIN D",
+        "FISH OIL"
+      ],
+      "reactions": [
+        "Injection site pruritus",
+        "Injection site mass",
+        "Product quality issue"
+      ],
+      "report_id": "10165366"
+    },
+    {
+      "drugs": [
+        "COQ10",
+        "SAW  PALMETTO",
+        "LIPITOR",
+        "TOPROL XL",
+        "ISOSORBIDE",
+        "VITAMIN D",
+        "ASPIRIN.",
+        "XARELTO"
+      ],
+      "reactions": [
+        "Cardiac pacemaker insertion",
+        "Faeces discoloured",
+        "Dizziness",
+        "Abnormal faeces",
+        "Pain in extremity",
+        "Asthenia",
+        "Epistaxis"
+      ],
+      "report_id": "10172928"
+    },
+    {
+      "drugs": [
+        "LEVOFLOXACIN",
+        "LEVOFLOXACIN",
+        "ALBUTEROL HFA",
+        "PRAVASTATION",
+        "SPRIVIA",
+        "BIOTIN",
+        "VITAMIN D",
+        "SAW PALMETTO",
+        "MSM",
+        "FISH OIL",
+        "CALCIUM + D",
+        "MULTIVITAMIN + MINERALS",
+        "MAGNOSIUM",
+        "BILBERRY PLUS",
+        "LUTEIN"
+      ],
+      "reactions": [
+        "Tendon rupture"
+      ],
+      "report_id": "10178224"
+    },
+    {
+      "drugs": [
+        "CLINDAMYCIN HYDROCHLORIDE",
+        "GLYBURIDE",
+        "TESTOSTERONE",
+        "TAMSULOSIN",
+        "LOVASTATIN",
+        "NEBIVOLOL",
+        "OMEPRAZOLE",
+        "CENTRUM SILVER",
+        "VITAMIN B-12",
+        "ASPIRIN",
+        "GLUCOSAMINE",
+        "SAW PALMETTO",
+        "ENALAPRIL",
+        "LISINOPRIL"
+      ],
+      "reactions": [
+        "Tinnitus"
+      ],
+      "report_id": "10185958"
+    },
+    {
+      "drugs": [
+        "GILENYA",
+        "LYRICA",
+        "LYRICA",
+        "ACYCLOVIR",
+        "WARFARIN",
+        "WARFARIN",
+        "ATORVASTATIN",
+        "CARBAMAZEPINE",
+        "SERTRALINE",
+        "BENAZEPRIL W/HYDROCHLOROTHIAZIDE",
+        "OMEPRAZOLE",
+        "SAW PALMETTO",
+        "CALCIUM D3 VIT",
+        "MULTIVITAMIN                       /00097801/",
+        "HYDROXYZINE",
+        "DIAZEPAM",
+        "PARACETAMOL",
+        "FENOFIBRATE"
+      ],
+      "reactions": [
+        "Optic neuritis",
+        "Cystoid macular oedema",
+        "Visual impairment"
+      ],
+      "report_id": "10191110"
+    },
+    {
+      "drugs": [
+        "ZEMPLAR",
+        "ZEMPLAR",
+        "METOPROLOL",
+        "LISINOPRIL",
+        "AMLODIPINE",
+        "GLYBURIDE",
+        "POTASSIUM CHLORIDE",
+        "OXYCODONE",
+        "ZOLPIDEM",
+        "ALPRAZOLAM",
+        "SPIRONOLACTONE",
+        "CRANBERRY",
+        "MILK THISTLE",
+        "SAW PALMETTO",
+        "FISH OIL",
+        "CENTRUM SILVER",
+        "ACIDOPHILUS"
+      ],
+      "reactions": [
+        "Drug dose omission"
+      ],
+      "report_id": "10202541"
+    },
+    {
+      "drugs": [
+        "ATACAND",
+        "CRESTOR",
+        "VIAGRA",
+        "VITAMIN C",
+        "VITAMIN D3",
+        "ASPIRIN",
+        "EFUDEX",
+        "OMEGA 3 FATTY ACID",
+        "DERMOTIC OIL",
+        "CHLORTHALIDONE",
+        "ALLOPURINOL",
+        "LOSARTAN",
+        "ALEVE CAPLET SODIUM",
+        "CHROMIUM PICOLINATE",
+        "FLUTICASONE PROPIONATE",
+        "METRONIDAZOLE",
+        "SAW PALMETTO",
+        "ENALAPRIL",
+        "LIPITOR"
+      ],
+      "reactions": [
+        "Myalgia",
+        "Cough"
+      ],
+      "report_id": "10204611"
+    },
+    {
+      "drugs": [
+        "COLCHICINE",
+        "CYCLOBENZAPRINE HYDROCHLORIDE",
+        "TAPENTADOL HYDROCHLORIDE",
+        "ACETYLSALICYLIC ACID",
+        "SAW PALMETTO                       /00833501/",
+        "ZINC",
+        "MULTIVITAMIN                       /00097801/",
+        "TESTOSTERONE",
+        "VITAMIN B 12",
+        "VITAMIN D                          /00107901/",
+        "IRBESARTAN",
+        "NAPROXEN SODIUM W/PSEUDOEPHEDRINE HCL"
+      ],
+      "reactions": [
+        "Colitis",
+        "Dyspnoea"
+      ],
+      "report_id": "10208406"
+    },
+    {
+      "drugs": [
+        "DULCOLAX NOS",
+        "MEGACE",
+        "AMOXIL",
+        "EMLA",
+        "VITAMIN B2",
+        "LEVAQUIN",
+        "VFEND",
+        "VFEND",
+        "COLACE",
+        "SAW PALMETTO STANDARDIZED EXTRACT",
+        "SENOKOT",
+        "REMERON"
+      ],
+      "reactions": [
+        "Herpes zoster",
+        "Weight increased"
+      ],
+      "report_id": "10216505"
+    },
+    {
+      "drugs": [
+        "REVLIMIDE(LENALIDOMIDE)(10 MILLIGRAM, CAPSULES)",
+        "DEXAMETHASONE (DEXAMETHASONE)",
+        "SAW PALMETTO (SERENOA REPENS)",
+        "VELCADE (BORTEZOMIB)",
+        "ZOMETA (ZOLEDRONIC ACID)",
+        "ASPIRINE (ACETYLSALICYLIC ACID)"
+      ],
+      "reactions": [
+        "Venous thrombosis limb"
+      ],
+      "report_id": "10217083"
+    },
+    {
+      "drugs": [
+        "FERRIPROX (DEFERIPRONE) TABLET, 500MG",
+        "DESFERAL (DEFEROXAMINE MESILATE)",
+        "PROTONIX (PANTOPRAZOLE SODIUM SESQUIHYDRATE)",
+        "HYDREA (HYDROXYCARBAMIDE)",
+        "WARFARIN (WARFARIN)",
+        "MIDODRINE (MIDODRINE)",
+        "ULTRAM /00599202/ (TRAMADOL HYDROCHLORIDE)",
+        "AVODART (DUTASTERIDE) CAPSULES",
+        "AMBIEN (ZOLPIDEM TARTRATE)",
+        "SAW PALMETTO /00833501/ (SERENOA REPENS)",
+        "GLUCOSAMINE CHONDROITIN /01625901/ (CHONDROITION SULFATE, GLUCOSAMINE)",
+        "CALCIUM (CALCIUM)"
+      ],
+      "reactions": [
+        "Leukaemia"
+      ],
+      "report_id": "10218650"
+    },
+    {
+      "drugs": [
+        "REVLIMID",
+        "DEXAMETHASONE (DEXAMETHASONE)",
+        "OMEPRAZOLE (OMEPRAZOLE) (CAPSULES)",
+        "IRBESARTAN (IRBESARTAN) (TABLETS)",
+        "ALLEGRA (FEXOFENADINE HYDROCHLORIDE) (TABLETS)",
+        "ASPIRIN (ACETYLSALICYLIC ACID) (ENTERIC-COATED TABLET)",
+        "BYSTOLIC (NEBIVOLOL HYDROCHLORIDE) (ENTERIC-COATED TABLET)",
+        "CALCIUM + VITAMIN D (LEKOVIT CA) (TABLETS)",
+        "FOLIC ACID (FOLIC ACID) (TABLETS)",
+        "LIPITOR (ATORVASTATIN) (TABLETS)",
+        "MVI (MVI) (TABLETS)",
+        "MAGNESIUM (MAGNESIUM)",
+        "SPIRONOLACTONE (SPIRONOLACTONE) (TABLETS)",
+        "SUPER B COMPLEX (VITAMIN B COMPLEX AND VITAMIN C) (COMBEVIT C) (TABLETS)",
+        "TIMOLOL (TIMOLOL) (DROPS)",
+        "VITAMIN B6/MAGNESIUM CITRATE ANDN OXIDE/POTASSIUM CITRATE (POTASSIUM PLUS MAGNESIUM + B6) (TABLETS)",
+        "VITAMIN D (ERGOCALCIFEROL) (CAPSULES)",
+        "ZOMETA (ZOLEDRONIC ACID) (INJECTION)",
+        "CLARITIN (LORATADINE)",
+        "VITAMIN C (ASCORBIC ACID)",
+        "ALPHAGAN (BRIMONIDINE TARTRATE) (EYE DROPS)",
+        "SAW PALMETTO (SERENOA REPENS)",
+        "FLUTICASONE PROPIONATE (FLUTICASONE PROPIONATE)",
+        "VITAMIN E (TOCOPHEROL)",
+        "VITAMIN B6 (PYRIDOXINE HYDROCHLORIDE)"
+      ],
+      "reactions": [
+        "Swelling face",
+        "Muscle spasms",
+        "Fatigue",
+        "Constipation"
+      ],
+      "report_id": "10218713"
+    },
+    {
+      "drugs": [
+        "REVLIMID",
+        "VIAGRA (SILDENAFIL CITRATE)",
+        "EPIPEN (EPINEPHRINE)",
+        "SAW PALMETTO (SERENOA REPENS)",
+        "AMLODIPINE BESYLATE (AMLODIPINE BESILATE)",
+        "QUINAPRIL HCL (QUINAPRIL HYDROCHLORIDE)",
+        "PRILOSEC (OMEPRAZOLE)",
+        "COUMADIN (WARFARIN SODIUM)",
+        "JANTOVEN (WARFARIN SODIUM)"
+      ],
+      "reactions": [
+        "Myelofibrosis",
+        "Pneumonia"
+      ],
+      "report_id": "10224260"
+    },
+    {
+      "drugs": [
+        "JAKAFI",
+        "JAKAFI",
+        "SAW PALMETTO                       /00833501/",
+        "VITAMIN D                          /00107901/",
+        "GLIPIZIDE"
+      ],
+      "reactions": [
+        "Malaise",
+        "Nausea",
+        "Vomiting"
+      ],
+      "report_id": "10230369"
+    },
+    {
+      "drugs": [
+        "JAKAFI",
+        "JAKAFI",
+        "ASPIRIN",
+        "FINASTERIDE",
+        "OMEGA 3                            /01334101/",
+        "SAW PALMETTO                       /00833501/",
+        "TERAZOSIN",
+        "BENICAR",
+        "FLUCONAZOLE",
+        "METOPROLOL",
+        "NEXIUM                             /01479302/"
+      ],
+      "reactions": [
+        "Abdominal discomfort",
+        "Sinusitis",
+        "Epistaxis",
+        "Increased appetite",
+        "Headache",
+        "Dizziness"
+      ],
+      "report_id": "10230457"
+    },
+    {
+      "drugs": [
+        "GLIPIZIDE.",
+        "VITAMIN B",
+        "TRICOR",
+        "CHROMIUM",
+        "SAW PALMETTO",
+        "NIASPAN",
+        "GLUCOSAMINE",
+        "CHONDROITIN SULFATE (BOVINE)",
+        "BYETTA",
+        "TENORMIN",
+        "VYTORIN",
+        "INSULIN",
+        "CARDURA",
+        "OMACOR",
+        "COENZYME Q10",
+        "OLMESARTAN MEDOXOMIL + HCTZ",
+        "ASPIRIN.",
+        "METFORMIN HCL XR",
+        "NIASPAN",
+        "NEXIUM",
+        "GINKGO",
+        "MULTIVITAMIN"
+      ],
+      "reactions": [
+        "Lactic acidosis",
+        "Multi-organ failure",
+        "Flatulence",
+        "Decreased appetite",
+        "Pancreatitis acute",
+        "Nausea",
+        "Anxiety",
+        "Fatigue",
+        "Sepsis",
+        "Shock",
+        "Brain oedema",
+        "Dizziness"
+      ],
+      "report_id": "10287317"
+    },
+    {
+      "drugs": [
+        "D-MANNOSE",
+        "ALEVE",
+        "ATORVASTATIN CALCIUM.",
+        "CRANBERRY.",
+        "BAYER GENUINE ASPIRIN",
+        "SAW PALMETTO"
+      ],
+      "reactions": [
+        "Kidney infection",
+        "Urinary tract infection",
+        "Blood urine present"
+      ],
+      "report_id": "10294585"
+    },
+    {
+      "drugs": [
+        "CLOPIDOGREL",
+        "COLACE",
+        "SAW PALMETTO",
+        "SIMVASTATIN.",
+        "TAMSULOSIN",
+        "LOSARTAN-HCTZ",
+        "IMDUR",
+        "METFORMIN",
+        "TRAZODONE",
+        "ACYCLOVIR.",
+        "ASPIRIN.",
+        "ANDROGEL",
+        "PROTONIX"
+      ],
+      "reactions": [
+        "Acute myocardial infarction"
+      ],
+      "report_id": "10300745"
+    },
+    {
+      "drugs": [
+        "SAW PALMETTO",
+        "CELEBREX",
+        "ASA"
+      ],
+      "reactions": [
+        "Drug hypersensitivity"
+      ],
+      "report_id": "10303541"
+    },
+    {
+      "drugs": [
+        "PRAVACHOL",
+        "GLUCOSAMINE",
+        "CELEBREX",
+        "AVODART",
+        "AVODART",
+        "XARELTO",
+        "TENORMIN",
+        "VITAMIN E",
+        "LYRICA",
+        "FISH OIL",
+        "LYRICA",
+        "SAW PALMETTO",
+        "LYRICA",
+        "ZETIA"
+      ],
+      "reactions": [
+        "Musculoskeletal disorder",
+        "Activities of daily living impaired",
+        "Peripheral swelling"
+      ],
+      "report_id": "10306696"
+    },
+    {
+      "drugs": [
+        "ABIRATERONE ACETATE",
+        "LOVASTATIN.",
+        "DOCOSAHEXAENOIC ACID/EICOSAPENTAENOIC ACID",
+        "MIDAZOLAM",
+        "ABIRATERONE ACETATE",
+        "ASPIRIN.",
+        "SAW PALMETTO",
+        "PREDNISONE.",
+        "ASPIRIN.",
+        "AMLODIPINE",
+        "DOXAZOSIN",
+        "ALFUZOSIN",
+        "DOXAZOSIN",
+        "NIFEDIPINE.",
+        "GARLIC TABLETS",
+        "METFORMIN"
+      ],
+      "reactions": [
+        "Pneumonia"
+      ],
+      "report_id": "10328024"
+    },
+    {
+      "drugs": [
+        "ENBREL",
+        "VITAMIN B12",
+        "CLARITIN",
+        "IRBESARTAN.",
+        "ALLOPURINOL.",
+        "LYRICA",
+        "VITAMIN D3",
+        "BISOPROLOL",
+        "SAW PALMETTO                       /00833501/",
+        "GLUCOSAMINE + CHONDROITIN",
+        "GABAPENTIN."
+      ],
+      "reactions": [
+        "Arthritis",
+        "Pain",
+        "Drug ineffective"
+      ],
+      "report_id": "10346865"
+    },
+    {
+      "drugs": [
+        "LYRICA",
+        "LYRICA",
+        "ASA",
+        "SAW PALMETTO",
+        "ASPIRIN.",
+        "LYRICA",
+        "NEURONTIN",
+        "LIPITOR",
+        "TRIVALENT INFLUENZA",
+        "CYMBALTA",
+        "SAW PALMETTO",
+        "WELLBUTRIN XL",
+        "LYRICA",
+        "CYMBALTA",
+        "KLONOPIN",
+        "KLONOPIN"
+      ],
+      "reactions": [
+        "Pain",
+        "Weight decreased",
+        "Generalised anxiety disorder",
+        "Depression",
+        "Hyperlipidaemia",
+        "Hyperglycaemia"
+      ],
+      "report_id": "10347361"
+    },
+    {
+      "drugs": [
+        "SAW PALMETTO STANDARDIZED EXTRACT",
+        "TAMSULOSIN",
+        "CLOTRIMAZOLE-BETAMETHASONE (AMALLC)"
+      ],
+      "reactions": [
+        "Drug ineffective",
+        "Skin exfoliation"
+      ],
+      "report_id": "10347665"
+    },
+    {
+      "drugs": [
+        "METFORMIN",
+        "METFORMIN",
+        "GINSENG",
+        "GINKO BILOBA",
+        "SAW PALMETTO",
+        "COD-LIVER OIL",
+        "GEROVITAL",
+        "GINKO BILOBA",
+        "FISH OIL",
+        "ALLOPURINOL.",
+        "CENTRUM",
+        "GALVUS"
+      ],
+      "reactions": [
+        "Cataract"
+      ],
+      "report_id": "10354676"
+    },
+    {
+      "drugs": [
+        "REVLIMID",
+        "SIMVASTATIN (TABLETS)",
+        "COQ-10 (UBIDECARENONE) (CAPSULES)",
+        "GLUCOSAMINE (TABLETS)",
+        "SAW PALMETTO (SERENOA REPENS) (CAPSULES)",
+        "BENICAR (OLMESARTAN MEDOXOMIL) (TABLETS)",
+        "OMEPRAZOLE (TABLETS)",
+        "FISH OIL (CAPSULES)",
+        "JALYN (DUTAS-T) (CAPSULES)",
+        "LEVOTHYROXINE (TABLETS)",
+        "ASPIRIN (ACETYLSALICYLIC ACID) (TABLETS)",
+        "CRANBERRY (VACCINIUM OXYCOCCUS FRUIT EXTRACT) (CAPSULES)",
+        "MULTIVITAMIN (MULTIVITAMINS) (UNKNOWN)",
+        "PROCHLORPERAZINE MALEATE (TABLETS)",
+        "GINGER EXTRACT (CAPSULES)",
+        "GINKGO BILOBA (TABLETS)",
+        "BROMELAIN (BROMELAINS) (UNKNOWN)",
+        "AMLODIPINE (TABLETS)",
+        "TOVIAZ (FESOTERODINE FUMARATE)",
+        "VESICARE (SOLIFENACIN SUCCINATE) (TABLETS)",
+        "IMIPRAMINE (TABLETS)",
+        "DECADRON (DEXAMETHASONE) (UNKNOWN)"
+      ],
+      "reactions": [
+        "Thrombosis"
+      ],
+      "report_id": "10369374"
+    },
+    {
+      "drugs": [
+        "PANTOPRAZOLE",
+        "PROTONIX",
+        "WELLBUTRIN XL",
+        "YASMIN",
+        "PANTOPRAZOLE",
+        "SAW PALMETTO",
+        "SKELAXIN",
+        "SKELAXIN",
+        "METFORMIN",
+        "BUDEPRION",
+        "AZITHROMYCIN",
+        "METHYLPREDNISOLONE.",
+        "METFORMIN HCL",
+        "LORTAB",
+        "FERROUS SULFATE"
+      ],
+      "reactions": [
+        "Pain",
+        "Pulmonary embolism",
+        "Pain",
+        "Injury",
+        "Emotional distress",
+        "Deep vein thrombosis",
+        "Anxiety",
+        "Deep vein thrombosis",
+        "Pain in extremity",
+        "General physical health deterioration"
+      ],
+      "report_id": "10370680"
+    },
+    {
+      "drugs": [
+        "SELENIUM",
+        "FLECAINIDE",
+        "WARFARIN",
+        "JAKAFI",
+        "HYDROCHLOROTHIAZIDE.",
+        "SAW PALMETTO                       /00833501/",
+        "METOPROLOL",
+        "JAKAFI",
+        "AVAPRO",
+        "MULTIVITAMIN                       /00097801/"
+      ],
+      "reactions": [
+        "Platelet count decreased",
+        "Death",
+        "Asthenia",
+        "Haemorrhoidal haemorrhage",
+        "Dizziness"
+      ],
+      "report_id": "10376310"
+    },
+    {
+      "drugs": [
+        "REVLIMID (LENALIDOMIDE) (25 MILLIGRAM, CAPSULES)",
+        "ACYCLOVIR",
+        "ALLOPURINOL SODIUM",
+        "COUMADIN (WARFARIN SODIUM)",
+        "METOPROLOL SUCCINATE",
+        "SIMVASTATIN",
+        "TRIAMTERENE-HCTZ (DYAZIDE)",
+        "VITAMIN B12 (CYANOCOBALAMIN)",
+        "DEXAMETHASONE",
+        "LISINOPRIL",
+        "MEDROL DOSE PAK (METHYPREDNISOLONE)",
+        "COLCHINE",
+        "KEFLEX (CEFALEXIN MONOHYDRATE)",
+        "PREDNISONE",
+        "SAW PALMETTO (SERENOA REPENS)",
+        "FLU VACCINE (INFLUENZA VACCINE)",
+        "SOL MEDROL",
+        "DOXYCYCLINE HYCLATE",
+        "HYDROCHLOROTHIAZIDE",
+        "ATIVAN (LORAZEPAM)",
+        "ROCEPHIN (CEFTRIAXONE SODIUM)"
+      ],
+      "reactions": [
+        "Gout",
+        "Cellulitis",
+        "Deep vein thrombosis"
+      ],
+      "report_id": "10378638"
+    },
+    {
+      "drugs": [
+        "REVLIMID (LENALIDOMIDE) (5 MILLIGRAM, CAPSULES)",
+        "ZOMETA (ZOLEDRONIC ACID)",
+        "LOW ASPIRIN (ACETYLSALICYLIC ACID)",
+        "BENICAR HCT",
+        "CENTRUM ULTRA MEN^S",
+        "CYCLOPHOSPHAMIDE",
+        "FAMVIR (FAMCICLOVIR)",
+        "FOLIC ACID",
+        "GABAPENTIN",
+        "PANTOPRAZOLE",
+        "PROCHLORPERAZINE MALEATE",
+        "SAW PALMETTO (SERENOA REPENS)",
+        "SELENIUM",
+        "SIMVASTATIN",
+        "VITAMIN C (ASCORBIC ACID)",
+        "VITAMIN D3 (COLECALCIFEROL)"
+      ],
+      "reactions": [
+        "Hypersensitivity"
+      ],
+      "report_id": "10381128"
+    },
+    {
+      "drugs": [
+        "PRADAXA",
+        "ALPHAGAN P",
+        "TRAVATAN",
+        "POTASSIUM CHLORIDE.",
+        "ALLOPURINOL.",
+        "METOLAZONE.",
+        "TIMOLOL",
+        "FUROSEMIDE.",
+        "ALPHA LIPOIC ACID",
+        "SAW PALMETTO",
+        "DORZOLAMIDE HCL",
+        "CARVEDILOL."
+      ],
+      "reactions": [
+        "Rectal haemorrhage",
+        "Anaemia"
+      ],
+      "report_id": "10381809"
+    },
+    {
+      "drugs": [
+        "REVLIMID",
+        "LORTAB (VICODIN)",
+        "DECADRON (DEXAMETHASONE)",
+        "GLUCOSAMINE/CHONDROITIN (GLUCOSAMINE W/CHONDROITIN SULFATE)",
+        "SAW PALMETTO (SERENOA REPENS)",
+        "OMEGA 3 (FISH OIL)",
+        "CRESTOR (ROSUVASTATIN)",
+        "TOPROL XL (METOPROLOL SUCCINATE) (100 MILLIGRAM) (METOPROLOL SUCCINATE)"
+      ],
+      "reactions": [
+        "Pneumonia"
+      ],
+      "report_id": "10381848"
+    },
+    {
+      "drugs": [
+        "HEPARIN",
+        "FENTANYL.",
+        "LASIX",
+        "MANNITOL.",
+        "BACTRIM",
+        "VALGANCICLOVIR",
+        "TACROLIMUS.",
+        "PHENYLEPHRINE",
+        "POLYMYXIN",
+        "LIDOCAINE.",
+        "CALCIUM CARBONATE.",
+        "MAGNESIUM SULFATE",
+        "PERCOCET",
+        "SAW PALMETTO",
+        "ALLOPURINOL.",
+        "HYDROMORPHONE",
+        "INSULIN",
+        "FAMOTIDINE.",
+        "VERSED",
+        "NEOMYCIN",
+        "SEVOFLURANE.",
+        "PROPOFOL.",
+        "DOCUSATE",
+        "ARANESP",
+        "BLINDED QPI-1002 (SIRNA P53 INHIBITOR GENE THERAPY)",
+        "PLAVIX",
+        "EPHEDRINE",
+        "METHYLENE BLUE.",
+        "ROCURONIUM",
+        "ERGOCALCIFEROL.",
+        "VANCOMYCIN",
+        "GLYCOPYRROLATE.",
+        "MYCOPHENOLATE MOFETIL.",
+        "ONDANSETRON",
+        "MORPHINE",
+        "SODIUM BICARBONATE.",
+        "BASILIXIMAB"
+      ],
+      "reactions": [
+        "Kidney fibrosis",
+        "Renal failure acute",
+        "Hyperkalaemia",
+        "Anaemia",
+        "Diarrhoea",
+        "Insomnia",
+        "Viraemia",
+        "Renal tubular atrophy",
+        "Focal segmental glomerulosclerosis",
+        "BK virus infection",
+        "Incorrect dose administered",
+        "Transplant rejection",
+        "Kidney transplant rejection",
+        "Renal tubular necrosis",
+        "Polyomavirus-associated nephropathy",
+        "Nightmare"
+      ],
+      "report_id": "10383370"
+    },
+    {
+      "drugs": [
+        "VITAMIN C",
+        "SAW PALMETTO",
+        "PHILLIPS^ LIQUID GELS STOOL SOFTENER"
+      ],
+      "reactions": [
+        "Drug ineffective",
+        "Faecaloma"
+      ],
+      "report_id": "10388251"
+    },
+    {
+      "drugs": [
+        "ZOCOR",
+        "TIKOSYN",
+        "SAW PALMETTO",
+        "MEXILETINE",
+        "COREG",
+        "COQ10",
+        "DIGOXIN.",
+        "PRADAXA",
+        "LISINOPRIL.",
+        "CALCIUM CITRATE",
+        "L-CARNITINE",
+        "CHROMIUM PICOLINATE",
+        "MAGNESIUM CITRATE."
+      ],
+      "reactions": [
+        "Renal infarct",
+        "Atrial thrombosis",
+        "Renal failure acute"
+      ],
+      "report_id": "10396224"
+    },
+    {
+      "drugs": [
+        "PUMPKIN SEED OIL EXTRACT",
+        "VIITAMIN D",
+        "BENZONATATE.",
+        "BENZONATATE.",
+        "LORATADINE.",
+        "SPIRIVA",
+        "CITALOPAM HYDROBROMIDE",
+        "SAW PALMETTO",
+        "FENASTERIDE",
+        "BRIMONIDINE TARTRATE.",
+        "ZINC",
+        "LOSARTAN",
+        "HYDROCHLOROTHIAZIDE.",
+        "VITAMIN B12",
+        "BENZONATATE.",
+        "SYMBICORT"
+      ],
+      "reactions": [
+        "Intraocular pressure increased",
+        "Dizziness",
+        "Cough",
+        "Drug ineffective",
+        "Off label use",
+        "Dyspnoea",
+        "Anxiety"
+      ],
+      "report_id": "10400632"
+    },
+    {
+      "drugs": [
+        "LEVOXYL",
+        "DOXYCYCLINE.",
+        "ASPIRIN.",
+        "CARBIDOPA AND LEVODOPA",
+        "LYRICA",
+        "LORAZEPAM.",
+        "LISINOPRIL.",
+        "HUMALOG",
+        "BABY ASPIRIN",
+        "SAW PALMETTO",
+        "LYRICA",
+        "HUMALOG",
+        "LANTUS",
+        "LYRICA",
+        "LEVOXYL",
+        "LANTUS",
+        "JANUVIA",
+        "DULOXETIN",
+        "TENSION HEADACHE RELIEVERS",
+        "FISH OIL",
+        "METFORMIN",
+        "MELOXICAM.",
+        "QUETIAPINE FUMARATE.",
+        "VITAMIN D2",
+        "HYDROCODONE",
+        "HUMALOG 70/30",
+        "FENOFIBRATE.",
+        "LEVOTHYROXINE.",
+        "PIMAVANSERIN"
+      ],
+      "reactions": [
+        "Pain"
+      ],
+      "report_id": "10406673"
+    },
+    {
+      "drugs": [
+        "VITAMIN B12",
+        "CINNAMON.",
+        "GLUCOPHAGE",
+        "VITAMIN E",
+        "AVANDIA",
+        "METFORMIN",
+        "AMARYL",
+        "FOLIC ACID.",
+        "OMEGA 3",
+        "SAW PALMETTO"
+      ],
+      "reactions": [
+        "Peripheral swelling",
+        "Coronary artery disease",
+        "Arteriosclerosis coronary artery",
+        "Injury",
+        "Oedema",
+        "Myocardial infarction",
+        "Normochromic normocytic anaemia"
+      ],
+      "report_id": "10407044"
+    },
+    {
+      "drugs": [
+        "NOVOLOG",
+        "ZOFRAN (ONDANSETRON HYDROCHLORIDE)",
+        "AMARYL (GLIMPERIDE) (UNKNOWN)",
+        "OCUVITE (OCUVITE) UNKNOWN",
+        "MULTIVITAMINS (MULTIVITAMINS)",
+        "VITAMIN D3",
+        "GLIMEPIRIDE (GLIMEPIRIDE)",
+        "POMALYST",
+        "COQ-10 (UBIDECARENONE)",
+        "ALLERGY 4 HOUR (CHLORPHENAMINE MALEATE)",
+        "ASPIRIN (ACETYLSALICYLIC ACID) UNKNOWN",
+        "LISINOPRIL (LISINOPRIL)UNKNOWN",
+        "SAW  PALMETTO (SERENOA REPENS)"
+      ],
+      "reactions": [
+        "Constipation",
+        "Allergic sinusitis"
+      ],
+      "report_id": "10409183"
+    },
+    {
+      "drugs": [
+        "CLARITIN",
+        "SAW PALMETTO",
+        "PYGEUM",
+        "MINERALS (UNSPECIFIED) (+) VITAMINS (UNSPECIFIED)"
+      ],
+      "reactions": [
+        "Drug ineffective"
+      ],
+      "report_id": "10409320"
+    },
+    {
+      "drugs": [
+        "METOPROLOL",
+        "SUTENT",
+        "METOPROLOL",
+        "MEGA RED KRILL OIL",
+        "VITAMIN D3",
+        "RED YEAST",
+        "ZINC-PROSTATE HEATH WITH SAW PALMETTO",
+        "BOWEL FORMULA 1",
+        "AMLODIPINE",
+        "IMODIUM A-D",
+        "PRILOSEC",
+        "SUTENT",
+        "COMPAZINE",
+        "VITAMIN C"
+      ],
+      "reactions": [
+        "Heart rate decreased",
+        "Chronotropic incompetence",
+        "Blood creatinine increased",
+        "Ageusia",
+        "Blood pressure increased",
+        "Skin lesion",
+        "Hypertension",
+        "Blood pressure fluctuation",
+        "Fatigue",
+        "Dysgeusia",
+        "Metastatic renal cell carcinoma",
+        "Liver function test abnormal",
+        "Dyspepsia",
+        "Chills",
+        "Dyspnoea",
+        "Pruritus",
+        "Asthenia",
+        "Disease progression",
+        "Hyperhidrosis",
+        "Cough",
+        "Sinus node dysfunction",
+        "Gastrooesophageal reflux disease",
+        "Blood creatinine abnormal",
+        "Heart valve stenosis"
+      ],
+      "report_id": "10413769"
+    },
+    {
+      "drugs": [
+        "LEVOTHYROXINE",
+        "AMOXICILLIN/CLAVULANATE",
+        "RANITIDINE",
+        "YUCCA SCHIDIGERA.",
+        "ALBUTEROL INHALER",
+        "ASPIRIN.",
+        "SAW PALMETTO",
+        "GINSENG"
+      ],
+      "reactions": [
+        "Hepatitis acute",
+        "Acute hepatic failure"
+      ],
+      "report_id": "10415763"
+    },
+    {
+      "drugs": [
+        "LEVOTHYROXIN",
+        "DIOVAN HCT",
+        "SAW PALMETTO",
+        "DILTIAZEM",
+        "DILTIAZEM",
+        "ALLEGRA",
+        "ASPIRIN.",
+        "MULTIVITAMIN",
+        "GLUCOSMIDE",
+        "ZOCOR"
+      ],
+      "reactions": [
+        "Product substitution issue",
+        "Blood pressure increased"
+      ],
+      "report_id": "10416223"
+    },
+    {
+      "drugs": [
+        "PRADAXA",
+        "IBUPROFEN.",
+        "ZOCOR",
+        "PROTONIX",
+        "ALEVE",
+        "ASPIRIN.",
+        "SAW PALMETTO",
+        "FISH OIL",
+        "ACETAMINOPHEN.",
+        "ATENOLOL.",
+        "IBUPROFEN.",
+        "NORVASC",
+        "NADOLOL.",
+        "ALEVE",
+        "ZESTRIL",
+        "VITAMIN B COMPLEX",
+        "PRILOSEC"
+      ],
+      "reactions": [
+        "Gastrointestinal haemorrhage",
+        "Haemorrhagic anaemia",
+        "Haematuria"
+      ],
+      "report_id": "10431145"
+    },
+    {
+      "drugs": [
+        "PERCOCET (OXYCODONE HYDROCHLORIDE, PARACETAMOL)",
+        "RITALIN (METHYLPHENIDATE HYDROCHLORIDE)",
+        "SAW PALMETTO (SAW PALMETO)",
+        "SYMBICORT",
+        "SPIRIVA",
+        "NIACIN (NICOTINIC ACID)",
+        "HETLIOZ",
+        "SIMVASTATIN (SIMVASTATIN)"
+      ],
+      "reactions": [
+        "Dizziness",
+        "Malaise",
+        "Cholecystectomy",
+        "Tension",
+        "Insomnia",
+        "Feeling abnormal"
+      ],
+      "report_id": "10431321"
+    },
+    {
+      "drugs": [
+        "TYLENOL",
+        "GLUCOSAMINE",
+        "ELIQUIS",
+        "COREG",
+        "CHONDROITIN",
+        "SAW PALMETTO",
+        "LASIX",
+        "VITAMIN C",
+        "LISINOPRIL.",
+        "ASPIRIN.",
+        "VITAMIN E",
+        "DIGOXIN.",
+        "SIMVASTATIN.",
+        "POTASSIUM CHLORIDE."
+      ],
+      "reactions": [
+        "Musculoskeletal pain",
+        "Arthralgia",
+        "Dizziness",
+        "Gout",
+        "Back pain"
+      ],
+      "report_id": "10453962"
+    },
+    {
+      "drugs": [
+        "DULCOLAX",
+        "SLOW-FE",
+        "ZYRTEC",
+        "VITAMIN D",
+        "METHYLPHENIDATE",
+        "COQ10",
+        "SAW PALMETTO",
+        "PRADAXA",
+        "LABETALOL",
+        "VYTORIN",
+        "UROXATRAL",
+        "ALDACTAZIDE",
+        "VITAMIN B12",
+        "FOLIC ACID.",
+        "LISINOPRIL.",
+        "FINASTERIDE."
+      ],
+      "reactions": [
+        "Gastric haemorrhage",
+        "Atrial fibrillation",
+        "Gastrointestinal arteriovenous malformation",
+        "Anaemia",
+        "Hypotension",
+        "Gastric ulcer perforation"
+      ],
+      "report_id": "10462814"
+    },
+    {
+      "drugs": [
+        "NEBIVOLOL",
+        "NIFEDIPINE ERT",
+        "TORSAMIDE",
+        "PRADAXA",
+        "CHONDROITIN GLUCOSAMINE",
+        "ASPIRIN.",
+        "SAW PALMETTO",
+        "ASCORBIC ACID.",
+        "SPIRONOLACTONE.",
+        "OMEGA3 POLYUNSATURATED FATTY ACIDS",
+        "LEVOTHYROXINE"
+      ],
+      "reactions": [
+        "Gastrointestinal haemorrhage",
+        "Gastrointestinal arteriovenous malformation",
+        "Anaemia"
+      ],
+      "report_id": "10465642"
+    },
+    {
+      "drugs": [
+        "ASCORBIC ACID.",
+        "FINASTERIDE.",
+        "VITAMIN B COMPLEX",
+        "LOVASTATIN.",
+        "VENLAFAXINE HYDROCHLORIDE.",
+        "LECITHIN",
+        "VITAMINS (UNSPECIFIED)",
+        "ATENOLOL.",
+        "VITAMIN E",
+        "GABAPENTIN.",
+        "ZETIA",
+        "OCUVITE",
+        "GARLIC.",
+        "AMLODIPINE",
+        "NIACIN.",
+        "SAW PALMETTO",
+        "OMEGA-3 MARINE TRIGLYCERIDES",
+        "POTASSIUM (UNSPECIFIED)"
+      ],
+      "reactions": [
+        "Surgery"
+      ],
+      "report_id": "10466343"
+    },
+    {
+      "drugs": [
+        "FLOVENT",
+        "LEVOTHYROXINE",
+        "FUROSEMIDE.",
+        "MELATONIN",
+        "TERAZOSIN",
+        "METFORMIN",
+        "TAMSULOSIN",
+        "HYDROXYZINE",
+        "POTASSIUM",
+        "CHONDROITIN SULFATE (BOVINE)\\GLUCOSAMINE SULFATE",
+        "ADVAIR HFA",
+        "APAP/CODEINE",
+        "VENLAFAXINE",
+        "SIMVASTATIN.",
+        "MELOXICAM.",
+        "SAW PALMETTO",
+        "RIVASTIGMINE"
+      ],
+      "reactions": [
+        "Dyspnoea",
+        "Off label use"
+      ],
+      "report_id": "10492953"
+    },
+    {
+      "drugs": [
+        "FISH OIL",
+        "ANDROGEL",
+        "UNKNOWN MEDICATIONS",
+        "ANDROGEL",
+        "CORTISONE",
+        "PANTOPRAZOLE",
+        "SAW PALMETTO",
+        "UNKNOWN PAIN MEDICATIONS",
+        "VITAMINS NOS"
+      ],
+      "reactions": [
+        "Musculoskeletal pain",
+        "Weight decreased",
+        "Muscle rupture",
+        "Musculoskeletal pain",
+        "Back pain",
+        "Therapeutic response unexpected",
+        "Exostosis"
+      ],
+      "report_id": "10494858"
+    },
+    {
+      "drugs": [
+        "PRILOSEC",
+        "JALYN",
+        "JAKAFI",
+        "VITAMIN D                          /00107901/",
+        "FISH OIL",
+        "MULTIVITAMINS",
+        "NIASPAN",
+        "SAW PALMETTO                       /00833501/"
+      ],
+      "reactions": [
+        "Death"
+      ],
+      "report_id": "10502512"
+    },
+    {
+      "drugs": [
+        "SIMVASTATIN.",
+        "DORZOLAMIDE HYDROCHLORIDE (+) TIMOLOL MALEATE",
+        "PROBIOTICS (UNSPECIFIED)",
+        "MIRALAX",
+        "MIRALAX",
+        "OMEGA-3 MARINE TRIGLYCERIDES",
+        "LOSARTAN POTASSIUM.",
+        "LATANOPROST.",
+        "SAW PALMETTO"
+      ],
+      "reactions": [
+        "Product quality issue",
+        "Incorrect drug administration duration",
+        "Off label use"
+      ],
+      "report_id": "10505478"
+    },
+    {
+      "drugs": [
+        "NEURONTIN",
+        "OXYCODONE",
+        "ACYCLOVIR.",
+        "MORPHINE SULFATE.",
+        "DEXAMETHASONE.",
+        "ASPIRIN.",
+        "STOOL SOFTENER",
+        "FISH OIL",
+        "REVLIMID",
+        "SAW PALMETTO",
+        "ZOMETA",
+        "MULTIVITAMINS",
+        "VELCADE"
+      ],
+      "reactions": [
+        "Death"
+      ],
+      "report_id": "10511060"
+    },
+    {
+      "drugs": [
+        "METFORMIN",
+        "NEURONTIN",
+        "LANTUS",
+        "ASPIRIN.",
+        "METOPROLOL",
+        "NORVASC",
+        "FISH OIL",
+        "SAW PALMETTO"
+      ],
+      "reactions": [
+        "Chromaturia"
+      ],
+      "report_id": "10514189"
+    },
+    {
+      "drugs": [
+        "LUTEIN",
+        "LIPITOR",
+        "ALTACE",
+        "GLUCOSAMINE",
+        "TRIMOX",
+        "VICODIN",
+        "CENTRUM",
+        "LIPITOR",
+        "TYLENOL",
+        "LIPITOR",
+        "SAW PALMETTO",
+        "BACTROBAN",
+        "ACETYLSALICYLIC ACID",
+        "LOTRISONE",
+        "NITROSTAT",
+        "METOPROLOL",
+        "NASONEX",
+        "VITAMIN C",
+        "ASPIRIN.",
+        "LIDODERM",
+        "VITAMIN D",
+        "COQ 10",
+        "TRIAMCINOLONE ACETONIDE.",
+        "GLUCOSAMINE HCL",
+        "VITAMIN B COMPLEX"
+      ],
+      "reactions": [
+        "Personality disorder",
+        "Myalgia",
+        "Memory impairment"
+      ],
+      "report_id": "10517117"
+    },
+    {
+      "drugs": [
+        "SIMVASTATIN +PHARMA",
+        "QNASL",
+        "ASPRIN",
+        "AFRIN                              /00070001/",
+        "SAW PALMETTO                       /00833501/",
+        "ZITHROMAX",
+        "MULTI VITAMIN",
+        "VITAMIN D                          /00107901/",
+        "ASMANEX",
+        "VALSARTAN AND HYDROCHLOROTHIAZIDE TABLETS, USP"
+      ],
+      "reactions": [
+        "Dizziness",
+        "Sinus congestion",
+        "Sinusitis",
+        "Dyspnoea"
+      ],
+      "report_id": "10519948"
+    },
+    {
+      "drugs": [
+        "CAL/MAG",
+        "SAW PALMETTO",
+        "PROBIOTIC",
+        "FISH OIL",
+        "VIT. D, FOLIC ACID, VIT. B - COMPLEX",
+        "MAGNESIUM CITRATE.",
+        "CIPROFLOXIN",
+        "MULTI",
+        "EPO"
+      ],
+      "reactions": [
+        "Vertigo",
+        "Fatigue",
+        "Night sweats",
+        "Cystitis",
+        "Dizziness"
+      ],
+      "report_id": "10540085"
+    },
+    {
+      "drugs": [
+        "ATENOLOL.",
+        "SAW PALMETTO                       /00833501/",
+        "ASPIRIN.",
+        "METFORMIN",
+        "ALPRAZOLAM.",
+        "LEXISCAN",
+        "VITAMIN D3",
+        "RANITIDINE",
+        "NITROGLYCERIN."
+      ],
+      "reactions": [
+        "Rash",
+        "Pruritus"
+      ],
+      "report_id": "10545661"
+    },
+    {
+      "drugs": [
+        "TAMSULOSIN",
+        "VITAMIN D",
+        "CALCIUM",
+        "PROVENGE",
+        "LEUPROLIDE",
+        "SAW PALMETTO",
+        "PROVENGE"
+      ],
+      "reactions": [
+        "Deep vein thrombosis"
+      ],
+      "report_id": "10554830"
+    },
+    {
+      "drugs": [
+        "LYRICA",
+        "DIAZEPAM.",
+        "SAW PALMETTO",
+        "BUDESONIDE.",
+        "ONE A DAY MENS",
+        "GEMFIBROZIL.",
+        "DILTIAZEM",
+        "BEE POLLEN",
+        "ALENDRONATE SODIUM.",
+        "FOLIC ACID.",
+        "BAYER ASPIRIN",
+        "FISH OIL",
+        "CAPTOPRIL.",
+        "LYRICA",
+        "SAW PALMETTO",
+        "TRAMADOL",
+        "VITAMIN C",
+        "LYRICA",
+        "TRAMADOL",
+        "CLOPIDOGREL",
+        "HYDROCHLOROTHIAZIDE."
+      ],
+      "reactions": [
+        "Weight increased",
+        "Crying",
+        "Tobacco abuse",
+        "Aggression",
+        "Pain",
+        "Dry mouth",
+        "Drug ineffective",
+        "Drug dependence",
+        "Self-injurious ideation"
+      ],
+      "report_id": "10574664"
+    },
+    {
+      "drugs": [
+        "FLEXERIL",
+        "SIMVASTATIN.",
+        "GARLIC.",
+        "CYMBALTA",
+        "IBUPROFEN.",
+        "TYROSINE",
+        "IBUPROFEN.",
+        "LEVOTHYROXINE.",
+        "ST. JOHN^S WORT",
+        "GINKO BILOBA",
+        "ATIVAN",
+        "LISINOPRIL.",
+        "ZOLOFT",
+        "CHROMIUM/CINNAMON",
+        "5HTP",
+        "MELATONIN",
+        "IBUPROFEN.",
+        "NEXIUM",
+        "ADVAIR HFA",
+        "METFORMIN",
+        "SAW PALMETTO",
+        "HYDROCODONE W/ACETAMINOPHEN"
+      ],
+      "reactions": [
+        "Overdose",
+        "Condition aggravated",
+        "Suicide attempt",
+        "Depression"
+      ],
+      "report_id": "10574682"
+    },
+    {
+      "drugs": [
+        "IMBRUVICA",
+        "IMBRUVICA",
+        "VITAMIN B12",
+        "DIAZEPAM.",
+        "ARANESP",
+        "IMBRUVICA",
+        "METOPROLOL.",
+        "FLUTICASONE.",
+        "IMBRUVICA",
+        "SAW  PALMETTO"
+      ],
+      "reactions": [
+        "Ventricular tachycardia",
+        "Palpitations",
+        "Atrial fibrillation",
+        "Gastrooesophageal reflux disease"
+      ],
+      "report_id": "10587102"
+    },
+    {
+      "drugs": [
+        "PROMACTA",
+        "TESTOSTERONE.",
+        "SAW PALMETTO"
+      ],
+      "reactions": [
+        "Platelet count abnormal",
+        "Platelet transfusion",
+        "Thrombocytopenia"
+      ],
+      "report_id": "10590810"
+    },
+    {
+      "drugs": [
+        "ASPIRIN.",
+        "SAW PALMETTO",
+        "VIIBRYD",
+        "BACLOFEN.",
+        "GILENYA",
+        "LISINOPRIL.",
+        "SIMVASTATIN."
+      ],
+      "reactions": [
+        "Basal cell carcinoma"
+      ],
+      "report_id": "10592497"
+    },
+    {
+      "drugs": [
+        "GLUCOSAMINE",
+        "FLUTICASONE PROP",
+        "FINASTERIDE - 5 MG TABLET (PROSCAR)",
+        "DILTIAZEM HYDROCHLORIDE EXTENDED RELEASE",
+        "MULTIVITAM",
+        "SAW PALMETTO"
+      ],
+      "reactions": [
+        "Sexual dysfunction",
+        "Breast pain",
+        "Libido decreased",
+        "Breast mass",
+        "Breast tenderness"
+      ],
+      "report_id": "10597532"
+    },
+    {
+      "drugs": [
+        "CRESTOR",
+        "MULTIVITAMIN",
+        "AMLODIPINE",
+        "LUPRON DEPOT",
+        "ASA",
+        "OMEGA 3 6 9",
+        "VITAMIN D",
+        "PANTOLOC",
+        "METFORMIN",
+        "ROSUVASTATIN",
+        "CALCIUM CARBONATE.",
+        "SAW PALMETTO",
+        "ALPRAZOLAM.",
+        "NORVASC",
+        "GLUCOSAMINE",
+        "CHONDROITIN",
+        "COLD FX",
+        "AMITRIPTYLINE"
+      ],
+      "reactions": [
+        "Blood iron decreased",
+        "Hip arthroplasty",
+        "Hypotension",
+        "Transurethral prostatectomy",
+        "Bladder calculus removal",
+        "Urinary tract inflammation"
+      ],
+      "report_id": "10600185"
+    },
+    {
+      "drugs": [
+        "TIMOLOL MALEATE.",
+        "ALKA-SELTZER                            /USA/",
+        "CHLORTALIDONE",
+        "ROSUVASTATIN",
+        "DULOXETINE",
+        "LATANOPROST.",
+        "FISH OIL",
+        "LORATADINE.",
+        "SAW PALMETTO",
+        "METAMUCIL",
+        "LISINOPRIL.",
+        "LISINOPRIL.",
+        "PREGABALIN.",
+        "DULOXETINE",
+        "BACLOFEN.",
+        "NEXIUM I.V.",
+        "TAMSULOSIN",
+        "ATENOLOL.",
+        "SILDENAFIL.",
+        "TRAMADOL",
+        "FLUNISOLIDE.",
+        "CAPSAICIN.",
+        "ZZZQUIL NIGHTTIME SLEEP-AID",
+        "KETOCONAZOLE.",
+        "KETOCONAZOLE."
+      ],
+      "reactions": [
+        "Hypotension",
+        "Acute kidney injury"
+      ],
+      "report_id": "10609026"
+    },
+    {
+      "drugs": [
+        "NAPROXEN.",
+        "THERAPY UNSPECIFIED",
+        "ERYTHROMYCIN.",
+        "DUTASTERIDE.",
+        "MAGNESIUM (UNSPECIFIED)",
+        "ALBUTEROL SULFATE.",
+        "CYCLOBENZAPRINE HYDROCHLORIDE.",
+        "HYDROCODONE",
+        "CALCIUM (UNSPECIFIED)",
+        "POTASSIUM (UNSPECIFIED)",
+        "CYANOCOBALAMIN.",
+        "SAW PALMETTO",
+        "LOPERAMIDE HYDROCHLORIDE.",
+        "TAMSULOSIN HYDROCHLORIDE.",
+        "LEVOTHYROXINE SODIUM.",
+        "METFORMIN",
+        "ATORVASTATIN",
+        "NAPROXEN.",
+        "NEXIUM"
+      ],
+      "reactions": [
+        "Toxicity to various agents"
+      ],
+      "report_id": "10613668"
+    },
+    {
+      "drugs": [
+        "IMBRUVICA",
+        "FLOMAX",
+        "IRON",
+        "CHROMIUM",
+        "ALLOPURINOL.",
+        "CLARITIN",
+        "CRESTOR",
+        "NAPROXEN.",
+        "ASTELIN",
+        "PEPCID",
+        "VITAMIN C",
+        "MAGNESIUM",
+        "IMBRUVICA",
+        "SAW PALMETTO",
+        "SINGULAIR",
+        "VITAMIN B",
+        "ATOVAQUONE.",
+        "LACTOBACILLUS"
+      ],
+      "reactions": [
+        "Cough",
+        "Fatigue",
+        "Pyrexia",
+        "Tumour lysis syndrome",
+        "Night sweats",
+        "Acute kidney injury",
+        "Pneumonia",
+        "Disease progression",
+        "Uraemic encephalopathy",
+        "Metabolic acidosis",
+        "Haemolysis",
+        "Pulmonary embolism",
+        "Febrile neutropenia"
+      ],
+      "report_id": "10626302"
+    },
+    {
+      "drugs": [
+        "SYMLIN",
+        "HUMALOG",
+        "SYMLIN",
+        "VYTORIN",
+        "SAW PALMETTO",
+        "MEDROL",
+        "FUROSEMIDE.",
+        "FISH OIL",
+        "MULTIVITAMINS",
+        "LISINOPRIL.",
+        "VITAMIN E",
+        "NIACIN.",
+        "EPIDURAL",
+        "IMDUR",
+        "VITAMIN B6",
+        "BYETTA",
+        "AVANDIA",
+        "COREG",
+        "ESTER-C",
+        "GLUCOPHAGE",
+        "ALLOPURINOL.",
+        "ASA"
+      ],
+      "reactions": [
+        "Weight decreased",
+        "Decreased appetite",
+        "Blood glucose increased"
+      ],
+      "report_id": "10630479"
+    },
+    {
+      "drugs": [
+        "MAGNESIUM",
+        "XTANDI",
+        "IRBESARTAN.",
+        "ATORVASTATIN",
+        "VITAMIN D                          /00107901/",
+        "SAW PALMETTO                       /00833501/",
+        "SIMVASTATIN.",
+        "ASPIRIN."
+      ],
+      "reactions": [
+        "Somnolence",
+        "Muscle spasms"
+      ],
+      "report_id": "10634204"
+    },
+    {
+      "drugs": [
+        "FLOMAX",
+        "FLOMAX",
+        "SAW PALMETTO                       /00833501/",
+        "ASPIRIN.",
+        "JAKAFI",
+        "JAKAFI",
+        "MULTIVITAMIN                       /00097801/",
+        "CHONDROITIN SULFATE (BOVINE)\\GLUCOSAMINE SULFATE",
+        "IRON",
+        "LANSOPRAZOLE.",
+        "PRILOSEC"
+      ],
+      "reactions": [
+        "Adrenal disorder",
+        "Headache",
+        "Asthenia",
+        "Renal vascular thrombosis",
+        "Dizziness"
+      ],
+      "report_id": "10649861"
+    },
+    {
+      "drugs": [
+        "LABETALOL",
+        "ASA",
+        "FISH OIL",
+        "SAW PALMETTO",
+        "CENTRUM",
+        "SIMVASTATIN.",
+        "VITAMIN D",
+        "OSTEO BI-FLEX",
+        "FUROSEMIDE.",
+        "THALOMID"
+      ],
+      "reactions": [
+        "Thrombosis"
+      ],
+      "report_id": "10655070"
+    },
+    {
+      "drugs": [
+        "IBUPROFEN.",
+        "FLOMAX RELIEF",
+        "POTASSIUM",
+        "MAGNESIUM",
+        "HYDROCODONE",
+        "SAW PALMETTO",
+        "MAGNESIUM/ZINC",
+        "LISINOPRIL.",
+        "MULTIVITAMINS",
+        "FLOMAX RELIEF",
+        "VITAMIN C WITH ROSEHIPS AND BIOFLAVONOIDS",
+        "PROSCAR",
+        "IBUPROFEN.",
+        "ATENOLOL.",
+        "VITAMIN C WITH ROSEHIPS AND BIOFLAVONOIDS",
+        "ASPIRIN ^BAYER^",
+        "OMEGA 3",
+        "HYDROCHLOROTHIAZIDE.",
+        "TYLENOL",
+        "TYLENOL",
+        "CHROMIUM/CINNAMON",
+        "MAGNESIUM/ZINC",
+        "HYDROCODONE"
+      ],
+      "reactions": [
+        "Drug ineffective"
+      ],
+      "report_id": "10678820"
+    },
+    {
+      "drugs": [
+        "PERINDOPRIL",
+        "ASPIRIN.",
+        "SAW PALMETTO",
+        "VITAMINS NOS",
+        "ATORVASTATIN",
+        "COENZYME Q10",
+        "ATORVASTATIN",
+        "BISOPROLOL FUMARATE.",
+        "SIMVASTATIN."
+      ],
+      "reactions": [
+        "Muscle spasms",
+        "Rhinitis",
+        "Myalgia",
+        "Arthralgia",
+        "Muscle disorder"
+      ],
+      "report_id": "10681818"
+    },
+    {
+      "drugs": [
+        "PREDNISONE.",
+        "OMEGA 3",
+        "BAYER ASPIRIN",
+        "MULTIVITAMINS",
+        "LISINOPRIL.",
+        "FLOMAX",
+        "ZINC",
+        "CHROMIUM/CINNAMON",
+        "HYDROCHLOROTHIAZIDE.",
+        "HYDROCODONE",
+        "LIPITOR",
+        "ATENOLOL.",
+        "BAYER ASPIRIN",
+        "SAW PALMETTO",
+        "PROSCAR",
+        "TYLENOL",
+        "IBUPROFEN.",
+        "MAGNESIUM",
+        "OXYCODONE HYDROCHLORIDE.",
+        "VITAMIN C",
+        "POTASSIUM"
+      ],
+      "reactions": [
+        "Body height decreased",
+        "Musculoskeletal pain",
+        "Arthralgia"
+      ],
+      "report_id": "10683768"
+    },
+    {
+      "drugs": [
+        "XARELTO",
+        "XARELTO",
+        "RAMIPRIL",
+        "SERENOA REPENS",
+        "CONCOR"
+      ],
+      "reactions": [
+        "Dysphagia"
+      ],
+      "report_id": "10178452"
+    },
+    {
+      "drugs": [
+        "REVLIMIDE(LENALIDOMIDE)(10 MILLIGRAM, CAPSULES)",
+        "DEXAMETHASONE (DEXAMETHASONE)",
+        "SAW PALMETTO (SERENOA REPENS)",
+        "VELCADE (BORTEZOMIB)",
+        "ZOMETA (ZOLEDRONIC ACID)",
+        "ASPIRINE (ACETYLSALICYLIC ACID)"
+      ],
+      "reactions": [
+        "Venous thrombosis limb"
+      ],
+      "report_id": "10217083"
+    },
+    {
+      "drugs": [
+        "FERRIPROX (DEFERIPRONE) TABLET, 500MG",
+        "DESFERAL (DEFEROXAMINE MESILATE)",
+        "PROTONIX (PANTOPRAZOLE SODIUM SESQUIHYDRATE)",
+        "HYDREA (HYDROXYCARBAMIDE)",
+        "WARFARIN (WARFARIN)",
+        "MIDODRINE (MIDODRINE)",
+        "ULTRAM /00599202/ (TRAMADOL HYDROCHLORIDE)",
+        "AVODART (DUTASTERIDE) CAPSULES",
+        "AMBIEN (ZOLPIDEM TARTRATE)",
+        "SAW PALMETTO /00833501/ (SERENOA REPENS)",
+        "GLUCOSAMINE CHONDROITIN /01625901/ (CHONDROITION SULFATE, GLUCOSAMINE)",
+        "CALCIUM (CALCIUM)"
+      ],
+      "reactions": [
+        "Leukaemia"
+      ],
+      "report_id": "10218650"
+    },
+    {
+      "drugs": [
+        "REVLIMID",
+        "DEXAMETHASONE (DEXAMETHASONE)",
+        "OMEPRAZOLE (OMEPRAZOLE) (CAPSULES)",
+        "IRBESARTAN (IRBESARTAN) (TABLETS)",
+        "ALLEGRA (FEXOFENADINE HYDROCHLORIDE) (TABLETS)",
+        "ASPIRIN (ACETYLSALICYLIC ACID) (ENTERIC-COATED TABLET)",
+        "BYSTOLIC (NEBIVOLOL HYDROCHLORIDE) (ENTERIC-COATED TABLET)",
+        "CALCIUM + VITAMIN D (LEKOVIT CA) (TABLETS)",
+        "FOLIC ACID (FOLIC ACID) (TABLETS)",
+        "LIPITOR (ATORVASTATIN) (TABLETS)",
+        "MVI (MVI) (TABLETS)",
+        "MAGNESIUM (MAGNESIUM)",
+        "SPIRONOLACTONE (SPIRONOLACTONE) (TABLETS)",
+        "SUPER B COMPLEX (VITAMIN B COMPLEX AND VITAMIN C) (COMBEVIT C) (TABLETS)",
+        "TIMOLOL (TIMOLOL) (DROPS)",
+        "VITAMIN B6/MAGNESIUM CITRATE ANDN OXIDE/POTASSIUM CITRATE (POTASSIUM PLUS MAGNESIUM + B6) (TABLETS)",
+        "VITAMIN D (ERGOCALCIFEROL) (CAPSULES)",
+        "ZOMETA (ZOLEDRONIC ACID) (INJECTION)",
+        "CLARITIN (LORATADINE)",
+        "VITAMIN C (ASCORBIC ACID)",
+        "ALPHAGAN (BRIMONIDINE TARTRATE) (EYE DROPS)",
+        "SAW PALMETTO (SERENOA REPENS)",
+        "FLUTICASONE PROPIONATE (FLUTICASONE PROPIONATE)",
+        "VITAMIN E (TOCOPHEROL)",
+        "VITAMIN B6 (PYRIDOXINE HYDROCHLORIDE)"
+      ],
+      "reactions": [
+        "Swelling face",
+        "Muscle spasms",
+        "Fatigue",
+        "Constipation"
+      ],
+      "report_id": "10218713"
+    },
+    {
+      "drugs": [
+        "REVLIMID",
+        "VIAGRA (SILDENAFIL CITRATE)",
+        "EPIPEN (EPINEPHRINE)",
+        "SAW PALMETTO (SERENOA REPENS)",
+        "AMLODIPINE BESYLATE (AMLODIPINE BESILATE)",
+        "QUINAPRIL HCL (QUINAPRIL HYDROCHLORIDE)",
+        "PRILOSEC (OMEPRAZOLE)",
+        "COUMADIN (WARFARIN SODIUM)",
+        "JANTOVEN (WARFARIN SODIUM)"
+      ],
+      "reactions": [
+        "Myelofibrosis",
+        "Pneumonia"
+      ],
+      "report_id": "10224260"
+    },
+    {
+      "drugs": [
+        "REVLIMID",
+        "SIMVASTATIN (TABLETS)",
+        "COQ-10 (UBIDECARENONE) (CAPSULES)",
+        "GLUCOSAMINE (TABLETS)",
+        "SAW PALMETTO (SERENOA REPENS) (CAPSULES)",
+        "BENICAR (OLMESARTAN MEDOXOMIL) (TABLETS)",
+        "OMEPRAZOLE (TABLETS)",
+        "FISH OIL (CAPSULES)",
+        "JALYN (DUTAS-T) (CAPSULES)",
+        "LEVOTHYROXINE (TABLETS)",
+        "ASPIRIN (ACETYLSALICYLIC ACID) (TABLETS)",
+        "CRANBERRY (VACCINIUM OXYCOCCUS FRUIT EXTRACT) (CAPSULES)",
+        "MULTIVITAMIN (MULTIVITAMINS) (UNKNOWN)",
+        "PROCHLORPERAZINE MALEATE (TABLETS)",
+        "GINGER EXTRACT (CAPSULES)",
+        "GINKGO BILOBA (TABLETS)",
+        "BROMELAIN (BROMELAINS) (UNKNOWN)",
+        "AMLODIPINE (TABLETS)",
+        "TOVIAZ (FESOTERODINE FUMARATE)",
+        "VESICARE (SOLIFENACIN SUCCINATE) (TABLETS)",
+        "IMIPRAMINE (TABLETS)",
+        "DECADRON (DEXAMETHASONE) (UNKNOWN)"
+      ],
+      "reactions": [
+        "Thrombosis"
+      ],
+      "report_id": "10369374"
+    },
+    {
+      "drugs": [
+        "REVLIMID (LENALIDOMIDE) (25 MILLIGRAM, CAPSULES)",
+        "ACYCLOVIR",
+        "ALLOPURINOL SODIUM",
+        "COUMADIN (WARFARIN SODIUM)",
+        "METOPROLOL SUCCINATE",
+        "SIMVASTATIN",
+        "TRIAMTERENE-HCTZ (DYAZIDE)",
+        "VITAMIN B12 (CYANOCOBALAMIN)",
+        "DEXAMETHASONE",
+        "LISINOPRIL",
+        "MEDROL DOSE PAK (METHYPREDNISOLONE)",
+        "COLCHINE",
+        "KEFLEX (CEFALEXIN MONOHYDRATE)",
+        "PREDNISONE",
+        "SAW PALMETTO (SERENOA REPENS)",
+        "FLU VACCINE (INFLUENZA VACCINE)",
+        "SOL MEDROL",
+        "DOXYCYCLINE HYCLATE",
+        "HYDROCHLOROTHIAZIDE",
+        "ATIVAN (LORAZEPAM)",
+        "ROCEPHIN (CEFTRIAXONE SODIUM)"
+      ],
+      "reactions": [
+        "Gout",
+        "Cellulitis",
+        "Deep vein thrombosis"
+      ],
+      "report_id": "10378638"
+    },
+    {
+      "drugs": [
+        "REVLIMID (LENALIDOMIDE) (5 MILLIGRAM, CAPSULES)",
+        "ZOMETA (ZOLEDRONIC ACID)",
+        "LOW ASPIRIN (ACETYLSALICYLIC ACID)",
+        "BENICAR HCT",
+        "CENTRUM ULTRA MEN^S",
+        "CYCLOPHOSPHAMIDE",
+        "FAMVIR (FAMCICLOVIR)",
+        "FOLIC ACID",
+        "GABAPENTIN",
+        "PANTOPRAZOLE",
+        "PROCHLORPERAZINE MALEATE",
+        "SAW PALMETTO (SERENOA REPENS)",
+        "SELENIUM",
+        "SIMVASTATIN",
+        "VITAMIN C (ASCORBIC ACID)",
+        "VITAMIN D3 (COLECALCIFEROL)"
+      ],
+      "reactions": [
+        "Hypersensitivity"
+      ],
+      "report_id": "10381128"
+    },
+    {
+      "drugs": [
+        "REVLIMID",
+        "LORTAB (VICODIN)",
+        "DECADRON (DEXAMETHASONE)",
+        "GLUCOSAMINE/CHONDROITIN (GLUCOSAMINE W/CHONDROITIN SULFATE)",
+        "SAW PALMETTO (SERENOA REPENS)",
+        "OMEGA 3 (FISH OIL)",
+        "CRESTOR (ROSUVASTATIN)",
+        "TOPROL XL (METOPROLOL SUCCINATE) (100 MILLIGRAM) (METOPROLOL SUCCINATE)"
+      ],
+      "reactions": [
+        "Pneumonia"
+      ],
+      "report_id": "10381848"
+    },
+    {
+      "drugs": [
+        "NOVOLOG",
+        "ZOFRAN (ONDANSETRON HYDROCHLORIDE)",
+        "AMARYL (GLIMPERIDE) (UNKNOWN)",
+        "OCUVITE (OCUVITE) UNKNOWN",
+        "MULTIVITAMINS (MULTIVITAMINS)",
+        "VITAMIN D3",
+        "GLIMEPIRIDE (GLIMEPIRIDE)",
+        "POMALYST",
+        "COQ-10 (UBIDECARENONE)",
+        "ALLERGY 4 HOUR (CHLORPHENAMINE MALEATE)",
+        "ASPIRIN (ACETYLSALICYLIC ACID) UNKNOWN",
+        "LISINOPRIL (LISINOPRIL)UNKNOWN",
+        "SAW  PALMETTO (SERENOA REPENS)"
+      ],
+      "reactions": [
+        "Constipation",
+        "Allergic sinusitis"
+      ],
+      "report_id": "10409183"
+    },
+    {
+      "drugs": [
+        "DIACEREIN",
+        "IBRUTINIB",
+        "IBRUTINIB",
+        "IRBESARTAN / HYDROCHLOROTHIAZIDE",
+        "ALLOPURINOL.",
+        "INDAPAMIDE.",
+        "SIMVASTATIN.",
+        "SERENOA REPENS"
+      ],
+      "reactions": [
+        "Pneumonia",
+        "Haemoglobin decreased",
+        "White blood cell count increased",
+        "Lymphocytosis"
+      ],
+      "report_id": "10452716"
+    },
+    {
+      "drugs": [
+        "OMEPRAZOLE.",
+        "SERENOA REPENS EXTRACT",
+        "ALTEISDUO 40/12.5",
+        "KARDEGIC",
+        "FENOFIBRATE.",
+        "LEVOTHYROXINE SODIUM.",
+        "SILODOSIN",
+        "PERMIXON                           /00833504/"
+      ],
+      "reactions": [
+        "Gastrointestinal disorder",
+        "Gastritis",
+        "Fatigue",
+        "Hypothyroidism",
+        "Blood pressure decreased",
+        "General physical health deterioration",
+        "Dehydration"
+      ],
+      "report_id": "10531537"
+    },
+    {
+      "drugs": [
+        "MEPTIN MINITAB (PROCATEROL HYDROCHLORIDE)",
+        "HYALEIN (HYALURONATE SODIUM)",
+        "HALFDIGOXIN (DIGOXIN)",
+        "REBAMIPIDE",
+        "LOXOPROFEN",
+        "XARELTO",
+        "GONAX",
+        "CLARITHROMYCIN.",
+        "KARY UNI (PIRENOXINE)",
+        "FUROSEMIDE.",
+        "CARBOCISTEINE",
+        "CASODEX",
+        "EVIPROSTAT (SERENOA REPENS)"
+      ],
+      "reactions": [
+        "Lung neoplasm malignant",
+        "Death",
+        "Respiratory disorder"
+      ],
+      "report_id": "10731897"
+    },
+    {
+      "drugs": [
+        "PAPAVERINE (PAPAVERINE)",
+        "TESTOSTERONE CYPIONATE (TESTOSTERONE CIPIONATE)",
+        "MAGNESIUM (MAGNESIUM)",
+        "CIALIS",
+        "SELENIUM (SELENIUM)",
+        "XIAFLEX",
+        "LOSARTAN (LOSARTAN)",
+        "PRO-OMEGA (PROXYPHYLLINE, CRATAEGUS LAEVIGATA, CONVALLARIA MAJALIS)",
+        "SAW PALMETTO (SERENOA REPENS)"
+      ],
+      "reactions": [
+        "Penile haematoma",
+        "Venous injury",
+        "Fracture of penis"
+      ],
+      "report_id": "10733360"
+    },
+    {
+      "drugs": [
+        "CLOPIDOGREL",
+        "CENTRUM (CENTRUM /02217401/) (ERGOCALCIFEROL, ASCORBIC ACID, PYRIDOXINE HYDROCHLORIDE, BIOTIN, FOLIC ACID, COLECALCIFEROL, CYANOCOBALAMIN, PANTOTHENIC ACID, RIBOFLAVIN, NICOTINAMIDE, RETINOL ACETATE, CALCIUM PANTOTHENATE, FERROUS FUMARATE, THIAMINE MONONITRATE, MAGNESIUM OXIDE, CUPRIC OXIDE, IRON, MAGNESIUM, MANGANESE, POTASSIUM, COPPER, ZINC, CALCIUM, IODINE, POTASSIUM IODIDE, DL-ALPHA TOCOPHERYL ACETATE, PHOSPHORUS, ZINC SULFATE, POTASSIUM SULFATE, MANGANESE SULFATE)",
+        "NITROGLYCERIN (GLYCERYL TRINITRATE)",
+        "RANITIDINE",
+        "CANGRELOR",
+        "ASPIRIN (ACETYLSALICYCLIC ACID)",
+        "NEBIVOLOL",
+        "PRAVASTATIN",
+        "LISINOPRIL.",
+        "SAW PALMETTO (SERENOA REPENS)",
+        "FISH OIL",
+        "ISOVUE 370",
+        "FLUOXETINE",
+        "ANGIOMAX",
+        "VITAMIN E",
+        "HEPARIN",
+        "FOLIC ACID.",
+        "HYDROCHLOROTHIAZIDE."
+      ],
+      "reactions": [
+        "Anaphylactic reaction"
+      ],
+      "report_id": "10759194"
+    },
+    {
+      "drugs": [
+        "GONAX",
+        "EVIPROSTAT /00833501/ (SERENOA REPENS)",
+        "ADETPHOS (ADENOSINE TRIPHOSPHATE, DISODIUM SALT)",
+        "MERISLON (BETAHISTINE MESILATE)",
+        "METHYCOBAL (MECOBALAMIN)"
+      ],
+      "reactions": [
+        "Anaphylactic reaction"
+      ],
+      "report_id": "10811147"
+    },
+    {
+      "drugs": [
+        "FOLIC ACID.",
+        "INSULATARD [INSULIN HUMAN]",
+        "MAGNESIOCARD",
+        "SPASMO-URGENIN [ECHINACEA ANGUSTIFOLIA,SERENOA REPENS EXTRACT,TROS",
+        "TIMOLOL",
+        "CONCOR",
+        "IMIPENEM",
+        "KONAKION",
+        "VITAMIN B12",
+        "XOFIGO",
+        "ASPIRIN CARDIO",
+        "DIAMICRON",
+        "JANUMET",
+        "PREDNISONE.",
+        "CLEXANE",
+        "DISTRANEURIN",
+        "SUPRADYN ENERGY 50+",
+        "DAFALGAN",
+        "FLUOXETINE",
+        "PANTOZOL",
+        "AMIODARONE",
+        "NOVORAPID",
+        "LUCRIN",
+        "XOFIGO",
+        "LAXOBERON"
+      ],
+      "reactions": [
+        "Pneumonia",
+        "Campylobacter gastroenteritis",
+        "Hypophosphataemia",
+        "Hypomagnesaemia",
+        "Malnutrition",
+        "Anaemia",
+        "Hypokalaemia",
+        "Pancytopenia",
+        "Acute kidney injury",
+        "Vitamin B12 deficiency"
+      ],
+      "report_id": "10815135"
+    },
+    {
+      "drugs": [
+        "TANSULOSINA MEPHA (TAMSULOSIN) CAPSULE",
+        "INDAPAMIDA (INDAPAMIDE)",
+        "SIMVASTATINA (SIMVASTATINA)",
+        "VARFINE (WARFARIN SODIUM)",
+        "TRIMETAZIDINA MYLAN",
+        "DIOVAN",
+        "PERMIXON (SERENOA REPENS EXTRACT)"
+      ],
+      "reactions": [
+        "Peripheral swelling",
+        "Fatigue"
+      ],
+      "report_id": "10896517"
+    },
+    {
+      "drugs": [
+        "GILENYA",
+        "GILENYA",
+        "VENLAFAXINE HYDROCHLORIDE",
+        "BETHANECHOL CHLORIDE",
+        "BETHANECHOL CHLORIDE",
+        "BETHANECHOL CHLORIDE",
+        "CRANBERRY",
+        "CRANBERRY",
+        "SERENOA REPENS WHOLE"
+      ],
+      "reactions": [
+        "Liver disorder",
+        "Gamma-glutamyltransferase increased",
+        "Transaminases increased",
+        "Blood alkaline phosphatase increased",
+        "Aspartate aminotransferase increased",
+        "Alanine aminotransferase increased",
+        "Blood disorder",
+        "Lymphatic disorder",
+        "Hepatobiliary disease",
+        "Prescribed underdose"
+      ],
+      "report_id": "10951262"
+    },
+    {
+      "drugs": [
+        "RANEXA (RANOLAZINE)",
+        "GLUCOSAMINE CHONDROITIN (GLUCOSAMINE, CHONDROITIN SULFATE)",
+        "NITROGLYCERIN (GLYCERYL TRINITRATE)",
+        "SAW PALMETTO (SERENOA REPENS)",
+        "SELENIUM",
+        "MULTIVITAMIN (ERGOCALCIFEROL, ASCORBIC ACID, FOLIC ACID, THIAMINE HYDROCHLORIDE, RETINOL, RIBOFLAVIN, NICOTINAMIDE, PANTHENOL)",
+        "PLAVIX",
+        "ATENOL",
+        "ULORIC",
+        "CARDURA (DOXAZOSIN)",
+        "ISOOSORBIDE MONONITRATE ER",
+        "AVODART (DUTASTERIDE)",
+        "COLCHICINE.",
+        "OMEGA 3 FISH OIL"
+      ],
+      "reactions": [
+        "Urine output decreased",
+        "Feeling abnormal"
+      ],
+      "report_id": "10969488"
+    },
+    {
+      "drugs": [
+        "ULORIC",
+        "CHERRY PILLS (ALL OTHER THERAPEUTIC PRODUCTS)",
+        "GINSENG (GINSENG NOS)",
+        "NEXIUM",
+        "LABETALOL",
+        "VITAMIN B12",
+        "ALLOPURINOL.",
+        "HYDROCODONE W/ACETAMINOPHEN (PARACETAMOL, HYDROCODONE BITARTRATE)",
+        "AMLODIPINE",
+        "MVI (VITAMINS NOS)",
+        "SAW PALMETTO (SERENOA REPENS)"
+      ],
+      "reactions": [
+        "Renal impairment",
+        "Blood creatinine increased"
+      ],
+      "report_id": "10977426"
+    },
+    {
+      "drugs": [
+        "DIFFUNDOX",
+        "SAW PALMETTO/ 00833501/ (SERENOA REPENS)",
+        "METFORMIN",
+        "PARACETAMOL"
+      ],
+      "reactions": [
+        "Myalgia",
+        "Micturition urgency",
+        "Chromaturia",
+        "Dizziness",
+        "Asthenia",
+        "Arthralgia"
+      ],
+      "report_id": "11191806"
+    },
+    {
+      "drugs": [
+        "XATRAL",
+        "PERMIXON (160 MILLIGRAM, CAPSULE) )SERENOA REPENS EXTRACT)"
+      ],
+      "reactions": [
+        "Road traffic accident",
+        "Sleep apnoea syndrome",
+        "Somnolence"
+      ],
+      "report_id": "11322324"
+    },
+    {
+      "drugs": [
+        "ASPIRIN (CARDIO)",
+        "CHONDROITIN SULFATE",
+        "NITROQUICK",
+        "OMEGA?3 FATTY ACIDS",
+        "PHENERGAN VC W/CODEINE",
+        "HYTRIN",
+        "XARELTO",
+        "XANAX",
+        "ZYRTEC",
+        "PRINIVIL",
+        "BACTROBAN",
+        "SAW PALMETTO [SERENOA REPENS]",
+        "KENALOG",
+        "LIPITOR",
+        "CLEMASTINE",
+        "LASIX",
+        "XARELTO",
+        "MUCINEX",
+        "TOPROL XL",
+        "ZITHROMAX",
+        "PAROXETINE.",
+        "ZESTRIL",
+        "XARELTO",
+        "METFORMIN"
+      ],
+      "reactions": [
+        "Cerebral haemorrhage"
+      ],
+      "report_id": "11815329"
+    },
+    {
+      "drugs": [
+        "LEVOTHYROXINE.",
+        "VITAMIN C",
+        "MULTIVITAMINS",
+        "SERENOA REPENS FRUIT",
+        "FLOMAX",
+        "PATANASE",
+        "WELLBUTRIN",
+        "IMBRUVICA",
+        "IMBRUVICA",
+        "CIPRO",
+        "ATROVENT",
+        "BYSTOLIC",
+        "DICLOFENAC",
+        "FIORICET"
+      ],
+      "reactions": [
+        "Ligament laxity",
+        "Arthralgia",
+        "Joint swelling",
+        "Back pain"
+      ],
+      "report_id": "11821114"
+    },
+    {
+      "drugs": [
+        "CRESTOR",
+        "SERENOA REPENS",
+        "PRASUGREL HYDROCHLORIDE",
+        "MAINTATE",
+        "NEXIUM",
+        "LYRICA",
+        "HARNAL"
+      ],
+      "reactions": [
+        "Pyrexia",
+        "Peptic ulcer"
+      ],
+      "report_id": "12005404"
+    },
+    {
+      "drugs": [
+        "VIAGRA",
+        "FISH OIL",
+        "SAW PALMETTO [SERENOA REPENS]",
+        "VIAGRA",
+        "REVATIO",
+        "CALCIUM",
+        "VIAGRA"
+      ],
+      "reactions": [
+        "Metastatic malignant melanoma",
+        "Malignant melanoma in situ"
+      ],
+      "report_id": "12268970"
+    },
+    {
+      "drugs": [
+        "XARELTO",
+        "PERINDOPRIL",
+        "XARELTO",
+        "BISOPROLOL",
+        "METFORMIN",
+        "SERENOA REPENS",
+        "ATORIS",
+        "REPAGLINIDE."
+      ],
+      "reactions": [
+        "Melaena",
+        "Gastrointestinal haemorrhage",
+        "Shock haemorrhagic",
+        "Hypotension",
+        "Haematochezia",
+        "Off label use"
+      ],
+      "report_id": "12277551"
+    },
+    {
+      "drugs": [
+        "CLEMASTINE",
+        "PACLITAXEL HOSPIRA",
+        "CITRUS BIOFLAVONID",
+        "HYDROCORTISONE.",
+        "RANITIDINE.",
+        "CARBOPLATIN.",
+        "SERENOA REPENS",
+        "TAPENTADOL HYDROCHLORIDE",
+        "PALONOSETRON",
+        "PACLITAXEL."
+      ],
+      "reactions": [
+        "Swelling",
+        "Throat irritation",
+        "Feeling hot",
+        "Dysphonia"
+      ],
+      "report_id": "12321076"
+    },
+    {
+      "drugs": [
+        "XYREM",
+        "TRAMADOL HCL",
+        "ESOMEPRAZOLE MAGNESIUM.",
+        "SYMBICORT",
+        "TRIAMTERENE AND HYDROCHLOROTHIAZIDE",
+        "CALCITRIOL.",
+        "LYRICA",
+        "PREDNISONE.",
+        "NUVIGIL",
+        "SACCHAROMYCES CEREVISIAE.",
+        "XYREM",
+        "LEFLUNOMIDE.",
+        "BECLOMETASONE DIPROPIONATE",
+        "TRIAMTERENE AND HYDROCHLOROTHIAZIDE",
+        "SERENOA REPENS",
+        "LOVASTATIN.",
+        "ACETYLSALICYLIC ACID",
+        "SIMETHICONE (DIMETHICONE)",
+        "ASCORBIC ACID.",
+        "TOCOPHEROL",
+        "MODAFINIL.",
+        "FUROSEMIDE.",
+        "LORATADINE.",
+        "GLUCOSAMINE SULFATE",
+        "POTASSIUM GLUCONATE",
+        "CLONIDINE HCL",
+        "PROPRANOLOL HYDROCHLORIDE.",
+        "DOXYCYCLINE HYCLATE.",
+        "GUAIFENESIN.",
+        "THEOPHYLLINE",
+        "LOSARTAN POTASSIUM.",
+        "AMLODIPINE BESYLATE.",
+        "FISH OIL",
+        "XYREM",
+        "CALCIUM CARBONATE.",
+        "OMEPRAZOLE.",
+        "FAMOTIDINE.",
+        "MELOXICAM."
+      ],
+      "reactions": [
+        "Benign prostatic hyperplasia",
+        "Intentional product use issue",
+        "Blood potassium decreased"
+      ],
+      "report_id": "12390166"
+    },
+    {
+      "drugs": [
+        "ACETYLSALICYLIC ACID",
+        "LORAZEPAM.",
+        "CYMBALTA",
+        "TOREM",
+        "MAGNESIOCARD",
+        "CYANOCOBALAMIN.",
+        "ROTIGOTINE",
+        "TAMSULOSIN HYDROCHLORIDE.",
+        "PANTOZOL",
+        "VI-DE 3",
+        "XARELTO",
+        "TARGIN",
+        "ARCOXIA",
+        "FLUIMUCIL",
+        "SERENOA REPENS EXTRACT",
+        "DAFALGAN"
+      ],
+      "reactions": [
+        "Drug interaction",
+        "Lower gastrointestinal haemorrhage",
+        "Melaena"
+      ],
+      "report_id": "12429332"
+    },
+    {
+      "drugs": [
+        "CLARITIN",
+        "SAW PALMETTO [SERENOA REPENS]",
+        "FISH OIL",
+        "GENVOYA",
+        "XYREM",
+        "FINASTERIDE.",
+        "FINASTERIDE.",
+        "CIALIS",
+        "MOVANTIK",
+        "MOVE FREE ULTRA",
+        "XYREM",
+        "CELEBREX",
+        "NORCO",
+        "PRILOSEC",
+        "ZOFRAN",
+        "CHANTIX",
+        "FLONASE ALLERGY RELIEF",
+        "KETOCONAZOLE.",
+        "NICODERM CQ",
+        "SENNA LAXATIVE",
+        "GLUCOSAMINE CHONDROITIN [CHONDROITIN SULFATE;GLUCOSAMINE]",
+        "MELOXICAM.",
+        "XYREM",
+        "MARINOL",
+        "HYDROCODONE/ACETAMINOPHEN",
+        "PROVIGIL",
+        "MARINOL [ALLOPURINOL]",
+        "NICOTINE.",
+        "PENICILLIN VK",
+        "TURMERIC [CURCUMA LONGA]",
+        "DEXTROAMPHETAMINE [DEXAMFETAMINE]",
+        "MUPIROCIN.",
+        "ALLEGRA ALLERGY",
+        "FAMOTIDINE.",
+        "VITAMIN D3",
+        "VITAMIN B COMPLEX",
+        "BIKTARVY",
+        "LORAZEPAM.",
+        "PREDNISONE.",
+        "CYMBALTA",
+        "ADDERALL"
+      ],
+      "reactions": [
+        "Suicidal ideation",
+        "Depression",
+        "Unevaluable event"
+      ],
+      "report_id": "12451970"
+    },
+    {
+      "drugs": [
+        "VERAPAMIL",
+        "FUROSEMIDE.",
+        "SERENOA REPENS EXTRACT",
+        "VILDAGLIPTIN",
+        "ALFUZOSIN",
+        "MONOXIDINE",
+        "METFORMIN HYDROCHLORIDE.",
+        "SIMVASTATIN."
+      ],
+      "reactions": [
+        "Pemphigoid"
+      ],
+      "report_id": "12536898"
+    },
+    {
+      "drugs": [
+        "FINASTERIDE.",
+        "KLOR-CON",
+        "SERENOA REPENS",
+        "IMBRUVICA",
+        "VITAMIN B3",
+        "ASPIRIN.",
+        "CARVEDILOL.",
+        "CETRIZINE",
+        "GLUCOSAMINE CHONDROITIN SULFATE",
+        "IMBRUVICA",
+        "MIRTAZAPINE.",
+        "SERTRALINE HCL",
+        "LEVOTHYROXINE SODIUM.",
+        "LASIX",
+        "SIMVASTATIN.",
+        "ATORVASTATIN CALCIUM.",
+        "IMBRUVICA",
+        "CALCIUM CITRATE",
+        "VITAMIN B12"
+      ],
+      "reactions": [
+        "Cardiac failure congestive",
+        "Mediastinal effusion",
+        "Pneumonia",
+        "Intracranial mass",
+        "Pleural effusion",
+        "Pulmonary mass",
+        "Arterial disorder",
+        "Nausea",
+        "Dry skin",
+        "Colitis",
+        "Superior vena cava occlusion",
+        "Lymphadenopathy mediastinal",
+        "Atrial fibrillation"
+      ],
+      "report_id": "12611767"
+    },
+    {
+      "drugs": [
+        "MAGNESIUM OXIDE.",
+        "SAW PALMETTO [SERENOA REPENS]",
+        "POTASSIUM CHLORIDE.",
+        "XARELTO",
+        "LASIX",
+        "XARELTO",
+        "METFORMIN",
+        "ACETYLSALICYLIC ACID({=100 MG)",
+        "SULFASALAZINE.",
+        "COENZYME Q10",
+        "METOPROLOL TARTRATE.",
+        "DIGOXIN.",
+        "PRADAXA",
+        "CARVEDILOL.",
+        "XARELTO",
+        "DOXYCYCLINE.",
+        "LISINOPRIL."
+      ],
+      "reactions": [
+        "Gastrointestinal haemorrhage"
+      ],
+      "report_id": "12677658"
+    },
+    {
+      "drugs": [
+        "XYREM",
+        "LEFLUNOMIDE.",
+        "FISH OIL",
+        "MELOXICAM.",
+        "ASCORBIC ACID.",
+        "XYREM",
+        "CALCITRIOL.",
+        "DOXYCYCLINE HYCLATE.",
+        "SYMBICORT",
+        "THEOPHYLLINE",
+        "LOVASTATIN.",
+        "NUVIGIL",
+        "PROPRANOLOL HCL",
+        "TRAMADOL HCL",
+        "GUAIFENESIN.",
+        "FAMOTIDINE.",
+        "ESOMEPRAZOLE MAGNESIUM.",
+        "LORATADINE.",
+        "SIMETHICONE (DIMETHICONE)",
+        "XYREM",
+        "TOCOPHEROL",
+        "CALCIUM CARBONATE.",
+        "OMEPRAZOLE.",
+        "SERENOA REPENS FRUIT",
+        "FUROSEMIDE.",
+        "PREDNISONE.",
+        "TAMSULOSIN HCL",
+        "METHYLPREDNISOLONE.",
+        "TIZANIDINE HCL",
+        "LYRICA",
+        "TRIAMTERENE AND HYDROCHLOROTHIAZIDE",
+        "POTASSIUM GLUCONATE",
+        "MODAFINIL.",
+        "QVAR",
+        "LOSARTAN POTASSIUM.",
+        "AMLODIPINE BESYLATE.",
+        "GLUCOSAMINE SULFATE",
+        "CLONIDINE HCL",
+        "TRIAMTERENE AND HYDROCHLOROTHIAZIDE"
+      ],
+      "reactions": [
+        "No adverse event"
+      ],
+      "report_id": "12733758"
+    },
+    {
+      "drugs": [
+        "XYREM",
+        "XYREM",
+        "ACETAMINOPHEN\\METHOCARBAMOL",
+        "LYSINE",
+        "METHYLPHENIDATE",
+        "SERENOA REPENS WHOLE",
+        "VITAMIN D3",
+        "ZANTAC",
+        "LISINOPRIL"
+      ],
+      "reactions": [
+        "Arrhythmia"
+      ],
+      "report_id": "12747355"
+    },
+    {
+      "drugs": [
+        "LACTULOSE.",
+        "CLENIL MODULITE",
+        "OMEGA 3",
+        "AMITRIPTYLINE",
+        "MIRABEGRON",
+        "AMLODIPINE",
+        "BENDROFLUMETHIAZIDE",
+        "SALBUTAMOL",
+        "SIMVASTATIN.",
+        "MAGNESIUM HYDROXIDE.",
+        "GARLIC EXTRACT",
+        "ZINC OXIDE.",
+        "ALFUZOSIN",
+        "LANSOPRAZOLE.",
+        "SERENOA REPENS"
+      ],
+      "reactions": [
+        "Atrioventricular block complete",
+        "Muscular weakness",
+        "Aphasia",
+        "Condition aggravated"
+      ],
+      "report_id": "12777249"
+    },
+    {
+      "drugs": [
+        "GLUCOSAMINE",
+        "IMODIUM AD",
+        "LONSURF",
+        "CIPROFLOXACIN.",
+        "SERENOA REPENS",
+        "FLAGYL"
+      ],
+      "reactions": [
+        "Diverticulitis",
+        "Abdominal pain",
+        "Diarrhoea",
+        "Vomiting",
+        "Fatigue"
+      ],
+      "report_id": "12863982"
+    },
+    {
+      "drugs": [
+        "XYREM",
+        "XYREM",
+        "XYREM",
+        "XYREM",
+        "XYREM",
+        "XYREM",
+        "TIZANIDINE HYDROCHLORIDE",
+        "GEBAUER^S SPRAY AND STRETCH",
+        "OXYCODONE HYDROCHLORIDE",
+        "OXYCODONE HYDROCHLORIDE",
+        "OXYCODONE HYDROCHLORIDE",
+        "CLINDESSE",
+        "PROPRANOLOL",
+        "PROPRANOLOL",
+        "ONDANSETRON HYDROCHLORIDE",
+        "BACLOFEN",
+        "DIAZEPAM",
+        "SOMA",
+        "CYCLOBENZAPRINE",
+        "CYCLOBENZAPRINE",
+        "CYMBALTA",
+        "CYMBALTA",
+        "DICLOFENAC",
+        "EPIDUO",
+        "HYOSCYAMINE SULFATE",
+        "LIDOCAINE",
+        "LINZESS",
+        "LINZESS",
+        "MINOCYCLINE",
+        "ONDANSETRON",
+        "SEASONIQUE",
+        "TOBRAMYCIN",
+        "TOBRAMYCIN",
+        "ZIPSOR",
+        "ZYRTEC-D",
+        "DEXILANT",
+        "NASCOBAL",
+        "SYNTHROID",
+        "ATORVASTATIN",
+        "ATORVASTATIN",
+        "ATORVASTATIN",
+        "BISACODYL",
+        "HYDROCODONE",
+        "SUMATRIPTAN",
+        "JOLESSA",
+        "KEPPRA",
+        "CEFOTAXIME SODIUM",
+        "TOVIAZ",
+        "CRESTOR",
+        "SODIUM CHLORIDE",
+        "SINEMET",
+        "CEFTRIAXONE",
+        "LIDOCAINE HYDROCHLORIDE",
+        "LUPRON DEPOT",
+        "OXYCODONE AND ACETAMINOPHEN",
+        "LEVOTHYROXINE",
+        "TRAMADOL",
+        "ASPIRIN",
+        "VITAMIN D3",
+        "CEFDINIR",
+        "DULOXETINE",
+        "GABAPENTIN",
+        "HYDROXYCHLOROQUINE",
+        "LIOTHYRONINE",
+        "PROGESTERONE",
+        "RIFAMPIN",
+        "SUBOXONE",
+        "TESTOSTERONE",
+        "TIZANIDINE",
+        "VITAMIN D NOS",
+        "MONOLAURIN [GLYCERINE MONOLAURATE]",
+        "LUMBROKINASE",
+        "GUAIFENESIN",
+        "DIETARY SUPPLEMENT\\HERBALS\\MILK THISTLE",
+        "7-KETO-DEHYDROEPIANDROSTERONE",
+        "VIT E [TOCOPHEROL]",
+        "BETAINE\\FOLIC ACID\\METHYLCOBALAMIN\\PYRIDOXINE\\RIBOFLAVIN",
+        "GI ENCAP",
+        "IRON",
+        "SLIPPERY ELM BARK",
+        "SARCOSAN [BENZYL BENZOATE;SERENOA REPENS]",
+        "OXITRIPTAN"
+      ],
+      "reactions": [
+        "Obstructive defaecation",
+        "Colitis ulcerative",
+        "Post procedural complication",
+        "Muscle twitching",
+        "Withdrawal syndrome"
+      ],
+      "report_id": "12908445"
+    },
+    {
+      "drugs": [
+        "DICLOFENAC SODIUM.",
+        "FUMAFER",
+        "IBUPROFEN.",
+        "DICLOFENAC",
+        "NEFOPAM",
+        "TIORFAN",
+        "IMODIUM",
+        "LANSOPRAZOLE.",
+        "SERENOA REPENS",
+        "NIVOLUMAB",
+        "LOVENOX",
+        "TAMSULOSIN HYDROCHLORIDE.",
+        "ESOMEPRAZOLE MAGNESIUM.",
+        "CHOLECALCIFEROL",
+        "TRAMADOL."
+      ],
+      "reactions": [
+        "Rheumatoid arthritis"
+      ],
+      "report_id": "12985634"
+    },
+    {
+      "drugs": [
+        "METFORMIN",
+        "FINASTERIDE.",
+        "ACENOCOUMAROL",
+        "SERENOA REPENS/SERENOA REPENS EXTRACT/SERENOA REPENS FRUIT/SERENOA REPENS FRUIT EXTRACT",
+        "SIMVASTATIN."
+      ],
+      "reactions": [
+        "Fixed drug eruption"
+      ],
+      "report_id": "13033783"
+    },
+    {
+      "drugs": [
+        "METFORMIN",
+        "SIMVASTATIN.",
+        "FINASTERIDE.",
+        "SERENOA REPENS/SERENOA REPENS EXTRACT/SERENOA REPENS FRUIT/SERENOA REPENS FRUIT EXTRACT",
+        "ACENOCOUMAROL"
+      ],
+      "reactions": [
+        "Fixed drug eruption",
+        "Histiocytosis haematophagic"
+      ],
+      "report_id": "13038729"
+    },
+    {
+      "drugs": [
+        "SIMVASTATIN.",
+        "METFORMIN HYDROCHLORIDE.",
+        "SERENOA REPENS",
+        "ACENOCOUMAROL",
+        "FINASTERIDE."
+      ],
+      "reactions": [
+        "Histiocytosis haematophagic",
+        "Fixed drug eruption"
+      ],
+      "report_id": "13040337"
+    },
+    {
+      "drugs": [
+        "XARELTO",
+        "BAYER LOW DOSE",
+        "CARVEDILOL.",
+        "DOCUSATE SODIUM.",
+        "XARELTO",
+        "LEVOTHYROXINE SODIUM.",
+        "VITAMIIN C",
+        "AMLODIPINE",
+        "SAW PALMETTO [SERENOA REPENS]",
+        "VITAMIN B",
+        "UREA.",
+        "ISOSORBIDE MONONITRATE.",
+        "LIPITOR",
+        "ALLOPURINOL.",
+        "FUROSEMIDE."
+      ],
+      "reactions": [
+        "Gastric ulcer haemorrhage"
+      ],
+      "report_id": "13054673"
+    },
+    {
+      "drugs": [
+        "ACENOCOUMAROL",
+        "SIMVASTATIN.",
+        "FINASTERIDE.",
+        "SERENOA REPENS",
+        "METFORMIN",
+        "PREDNISONE."
+      ],
+      "reactions": [
+        "Histiocytosis haematophagic",
+        "Fixed eruption"
+      ],
+      "report_id": "13078819"
+    },
+    {
+      "drugs": [
+        "OMEPRAZOLE.",
+        "SERENOA REPENS"
+      ],
+      "reactions": [
+        "Urinary retention"
+      ],
+      "report_id": "13107902"
+    },
+    {
+      "drugs": [
+        "SERENOA REPENS",
+        "FINASTERIDE."
+      ],
+      "reactions": [
+        "Dysuria",
+        "Genital pain"
+      ],
+      "report_id": "13136161"
+    },
+    {
+      "drugs": [
+        "PERINDOPRIL",
+        "BISOCE",
+        "CLOPIDOGREL BISULFATE.",
+        "PARACETAMOL",
+        "PARACETAMOL",
+        "AUGMENTIN",
+        "PERINDOPRIL",
+        "KARDEGIC",
+        "TERAZOSIN",
+        "AMLODIPINE",
+        "SERENOA REPENS",
+        "ALFUZOSIN HYDROCHLORIDE.",
+        "AUGMENTIN"
+      ],
+      "reactions": [
+        "Cholestasis"
+      ],
+      "report_id": "13299421"
+    },
+    {
+      "drugs": [
+        "SIMVASTATIN.",
+        "ACENOCOUMAROL",
+        "METFORMIN",
+        "FINASTERIDE.",
+        "SERENOA REPENS"
+      ],
+      "reactions": [
+        "Histiocytosis haematophagic",
+        "Fixed eruption"
+      ],
+      "report_id": "13382085"
+    },
+    {
+      "drugs": [
+        "DOXAZOSIN",
+        "EXTRACT OF SERENOA REPENS (PERMIXON)",
+        "NEBIVOLOL.",
+        "SILODOSIN",
+        "CALCIUM CARBONATE (CACIT)",
+        "BUSCO PANTOPRAZOLE",
+        "METFORMIN",
+        "VALSARTAN.",
+        "CLOPIDOGREL",
+        "POTASSIUM CHLORIDE (KCL-RETARD)"
+      ],
+      "reactions": [
+        "Dizziness",
+        "Cerebellar ischaemia",
+        "Hypomagnesaemia",
+        "Vertigo",
+        "Hypoparathyroidism",
+        "Essential hypertension",
+        "Vasculitis cerebral",
+        "Seizure"
+      ],
+      "report_id": "13427258"
+    },
+    {
+      "drugs": [
+        "SILODOSINA",
+        "CHAMPIX",
+        "SERENOA REPENS"
+      ],
+      "reactions": [
+        "Depression",
+        "Asthenia",
+        "Negative thoughts",
+        "Depressed mood"
+      ],
+      "report_id": "13472672"
+    },
+    {
+      "drugs": [
+        "FINASTERIDE.",
+        "ACENOCOUMAROL",
+        "SIMVASTATIN.",
+        "SERENOA REPENS",
+        "METFORMIN HYDROCHLORIDE."
+      ],
+      "reactions": [
+        "Fixed eruption"
+      ],
+      "report_id": "13472769"
+    },
+    {
+      "drugs": [
+        "VALACICLOVIR",
+        "REVLIMID",
+        "RIVAROXABAN",
+        "ATORVASTATIN CALCIUM.",
+        "SERENOA REPENS EXTRACT",
+        "BACTRIM",
+        "DEXAMETHASONE ORAL"
+      ],
+      "reactions": [
+        "Prostate cancer"
+      ],
+      "report_id": "13487095"
+    },
+    {
+      "drugs": [
+        "SILODOSIN - BP",
+        "LOSARTAN.",
+        "LOSARTAN AND HYDROCHLOROTHIAZIDE",
+        "SERENOA REPENS",
+        "CAPTOPRIL."
+      ],
+      "reactions": [
+        "Coagulopathy",
+        "Jaundice",
+        "Hypertension",
+        "Transaminases increased",
+        "Blood bilirubin increased",
+        "Hepatomegaly"
+      ],
+      "report_id": "13505829"
+    },
+    {
+      "drugs": [
+        "VITIS VINIFERA SEED",
+        "SERENOA REPENS",
+        "CEFDINIR.",
+        "PRALUENT",
+        "BENAZEPRIL",
+        "VITAMIN B12",
+        "FISH OIL",
+        "AMLODIPINE BESYLATE.",
+        "NADOLOL.",
+        "PRALUENT",
+        "PANTOPRAZOLE",
+        "BABY ASPIRIN",
+        "ELIQUIS",
+        "RED YEAST RICE",
+        "MINERALS NOS",
+        "SHINGRIX",
+        "GINKGO BILOBA",
+        "TOCOPHEROL",
+        "UBIDECARENONE",
+        "PROMETHAZINE DM"
+      ],
+      "reactions": [
+        "Joint stiffness",
+        "Pain in extremity",
+        "Condition aggravated",
+        "Hypoaesthesia"
+      ],
+      "report_id": "13509337"
+    },
+    {
+      "drugs": [
+        "XYREM",
+        "XYREM",
+        "XYREM",
+        "PROPRANOLOL",
+        "TOCOPHEROL",
+        "TRIAMTERENE AND HYDROCHLOROTHIAZIDE",
+        "POTASSIUM GLUCONATE",
+        "ASPIRIN",
+        "CALCIUM CARBONATE",
+        "OMEPRAZOLE",
+        "MODAFINIL",
+        "SERENOA REPENS WHOLE",
+        "TRAMADOL HCL",
+        "CALCITRIOL",
+        "DOXYCYCLINE HYCLATE",
+        "GUAIFENESIN",
+        "FAMOTIDINE",
+        "FUROSEMIDE",
+        "LEFLUNOMIDE",
+        "LYRICA",
+        "PREDNISONE",
+        "TAMSULOSIN HYDROCHLORIDE",
+        "TIZANIDINE HYDROCHLORIDE",
+        "ESOMEPRAZOLE MAGNESIUM",
+        "QVAR",
+        "SYMBICORT",
+        "THEOPHYLLINE",
+        "LOSARTAN POTASSIUM",
+        "LOVASTATIN",
+        "NUVIGIL",
+        "CLONIDINE HYDROCHLORIDE",
+        "FISH OIL",
+        "MELOXICAM",
+        "LORATADINE",
+        "GLUCOSAMINE SULFATE",
+        "SIMETHICONE (DIMETHICONE)",
+        "ASCORBIC ACID",
+        "YEAST",
+        "MINERALS\\VITAMINS",
+        "SAW PALMETTO XTRA",
+        "ALCOHOL",
+        "PROAIR HFA",
+        "DEXAMETHASONE\\TOBRAMYCIN",
+        "PANTOPRAZOLE SODIUM ANHYDROUS",
+        "CHLORTHALIDONE",
+        "VITAMIN D3",
+        "CIPROFLOXACIN",
+        "DICYCLOMINE",
+        "DOCUSATE SODIUM",
+        "METOPROLOL SUCCINATE"
+      ],
+      "reactions": [
+        "Cholelithiasis",
+        "Hallucination",
+        "Weight decreased",
+        "Pre-existing condition improved"
+      ],
+      "report_id": "13578560"
+    },
+    {
+      "drugs": [
+        "POTASSIUM CHLORIDE.",
+        "PANTOPRAZOLE SODIUM.",
+        "CLOPIDOGREL",
+        "METFORMIN",
+        "NEBIVOLOL.",
+        "CALCIUM CARBONATE.",
+        "DOXAZOSIN",
+        "VALSARTAN.",
+        "SILODOSIN",
+        "EXTRACT OF SERENOA REPENS (PERMIXON)"
+      ],
+      "reactions": [
+        "Hypocalcaemia",
+        "Hypokalaemia",
+        "Cerebellar ischaemia",
+        "Vertigo",
+        "Hypomagnesaemia",
+        "Vasculitis cerebral",
+        "Hypoparathyroidism",
+        "Seizure"
+      ],
+      "report_id": "13614066"
+    },
+    {
+      "drugs": [
+        "FINASTERIDE.",
+        "ACENOCOUMAROL",
+        "METFORMIN HYDROCHLORIDE.",
+        "SIMVASTATIN.",
+        "SERENOA REPENS"
+      ],
+      "reactions": [
+        "Histiocytosis haematophagic",
+        "Fixed eruption"
+      ],
+      "report_id": "13721269"
+    },
+    {
+      "drugs": [
+        "SERENOA REPENS",
+        "METFORMIN",
+        "ACENOCOUMAROL",
+        "SIMVASTATIN.",
+        "FINASTERIDE."
+      ],
+      "reactions": [
+        "Histiocytosis haematophagic",
+        "Fixed eruption"
+      ],
+      "report_id": "13732409"
+    },
+    {
+      "drugs": [
+        "ACENOCOUMAROL",
+        "METFORMIN",
+        "SERENOA REPENS",
+        "FINASTERIDE.",
+        "SIMVASTATIN."
+      ],
+      "reactions": [
+        "Histiocytosis haematophagic",
+        "Fixed eruption"
+      ],
+      "report_id": "13742348"
+    },
+    {
+      "drugs": [
+        "SERENOA REPENS",
+        "METFORMIN",
+        "ACENOCOUMAROL",
+        "SIMVASTATIN.",
+        "FINASTERIDE."
+      ],
+      "reactions": [
+        "Fixed eruption"
+      ],
+      "report_id": "13742736"
+    },
+    {
+      "drugs": [
+        "FINASTERIDE.",
+        "SERENOA REPENS",
+        "ACENOCOUMAROL",
+        "METFORMINA APOTEX",
+        "SIMVASTATIN."
+      ],
+      "reactions": [
+        "Histiocytosis haematophagic",
+        "Fixed eruption",
+        "Rash maculo-papular"
+      ],
+      "report_id": "13747468"
+    },
+    {
+      "drugs": [
+        "FINASTERIDE.",
+        "SERENOA REPENS",
+        "METFORMIN",
+        "ACENOCOUMAROL",
+        "SIMVASTATIN."
+      ],
+      "reactions": [
+        "Fixed eruption",
+        "Histiocytosis haematophagic"
+      ],
+      "report_id": "13761838"
+    },
+    {
+      "drugs": [
+        "SIMVASTATIN.",
+        "SERENOA REPENS",
+        "ACENOCOUMAROL",
+        "FINASTERIDE.",
+        "METFORMIN"
+      ],
+      "reactions": [
+        "Histiocytosis haematophagic",
+        "Fixed eruption"
+      ],
+      "report_id": "13762789"
+    },
+    {
+      "drugs": [
+        "ACENOCOUMAROL",
+        "SERENOA REPENS",
+        "FINASTERIDE.",
+        "METFORMIN HYDROCHLORIDE TABLETS, USP",
+        "SIMVASTATIN."
+      ],
+      "reactions": [
+        "Fixed eruption"
+      ],
+      "report_id": "13766371"
+    },
+    {
+      "drugs": [
+        "AMLODIPINE",
+        "MIRTAZAPINE ARROW GENERIQUES 15MG FILM COATED TABLETS",
+        "ALPRAZOLAM ALTER",
+        "ATORVASTATIN",
+        "MODOPAR",
+        "CLOZAPINE.",
+        "SPECIAFOLDINE",
+        "AVODART",
+        "ALFUZOSINE",
+        "EXELON",
+        "SERTRALINE",
+        "SERENOA REPENS",
+        "SERESTA"
+      ],
+      "reactions": [
+        "Bradycardia",
+        "Miosis",
+        "Hypertension",
+        "Wrong patient received medication",
+        "Confusional state",
+        "Medication error",
+        "Somnolence"
+      ],
+      "report_id": "13795844"
+    },
+    {
+      "drugs": [
+        "XYREM",
+        "XYREM",
+        "XYREM",
+        "SINGULAIR",
+        "PROPRANOLOL",
+        "TOCOPHEROL",
+        "TRIAMTERENE AND HYDROCHLOROTHIAZIDE",
+        "POTASSIUM GLUCONATE",
+        "ASPIRIN",
+        "CALCIUM CARBONATE",
+        "OMEPRAZOLE",
+        "MODAFINIL",
+        "SERENOA REPENS WHOLE",
+        "TRAMADOL HCL",
+        "CALCITRIOL",
+        "DOXYCYCLINE HYCLATE",
+        "GUAIFENESIN",
+        "FAMOTIDINE",
+        "FUROSEMIDE",
+        "LEFLUNOMIDE",
+        "LYRICA",
+        "PREDNISONE",
+        "TAMSULOSIN HYDROCHLORIDE",
+        "METHYLPREDNISOLONE",
+        "TIZANIDINE HYDROCHLORIDE",
+        "ESOMEPRAZOLE MAGNESIUM",
+        "QVAR",
+        "SYMBICORT",
+        "THEOPHYLLINE",
+        "LOSARTAN POTASSIUM",
+        "AMLODIPINE BESYLATE",
+        "LOVASTATIN",
+        "NUVIGIL",
+        "CLONIDINE HYDROCHLORIDE",
+        "FISH OIL",
+        "MELOXICAM",
+        "ASPIRIN",
+        "LORATADINE",
+        "GLUCOSAMINE SULFATE",
+        "SIMETHICONE (DIMETHICONE)",
+        "ASCORBIC ACID",
+        "YEAST"
+      ],
+      "reactions": [
+        "Spinal operation",
+        "Neuropathy peripheral",
+        "Cardiac disorder",
+        "Sciatica",
+        "Blood creatinine increased",
+        "Cardiac murmur",
+        "Condition aggravated",
+        "Mental disorder",
+        "Pre-existing condition improved"
+      ],
+      "report_id": "13854403"
+    },
+    {
+      "drugs": [
+        "IBRUTINIB",
+        "MAGNESIUM",
+        "IBRUTINIB",
+        "ASPIRIN (CARDIO)",
+        "NORVASC",
+        "VITAMIN D [VITAMIN D NOS]",
+        "XARELTO",
+        "IBRUTINIB",
+        "SYMBICORT",
+        "BIFIDOBACTERIUM LACTIS",
+        "XARELTO",
+        "PRAVASTATIN.",
+        "HYZAAR",
+        "SOTALOL.",
+        "FOLIC ACID.",
+        "SERENOA REPENS"
+      ],
+      "reactions": [
+        "Atrial flutter",
+        "Haemorrhage",
+        "Haematuria",
+        "Hypertension",
+        "Drug interaction",
+        "Contusion",
+        "Atrial fibrillation",
+        "Blood blister"
+      ],
+      "report_id": "13864853"
+    },
+    {
+      "drugs": [
+        "XYREM",
+        "VITAMIN B12",
+        "IBUPROFEN.",
+        "NAPROXEN.",
+        "NORCO",
+        "TOPAMAX",
+        "XANAX",
+        "SERENOA REPENS",
+        "HCG",
+        "SILVER SHIELD",
+        "ZOLOFT",
+        "LEVOTHYROXINE.",
+        "XYREM",
+        "BUSPIRONE HCL",
+        "XYREM",
+        "MSM",
+        "ADDERALL",
+        "NYSTATIN.",
+        "SAFFLOWERS",
+        "HORSETAIL",
+        "AZITHROMYCIN ANHYDROUS.",
+        "ALEVE"
+      ],
+      "reactions": [
+        "Chest discomfort",
+        "Tooth disorder",
+        "Somnambulism",
+        "Feeling abnormal"
+      ],
+      "report_id": "13899623"
+    },
+    {
+      "drugs": [
+        "METFORMIN",
+        "FINASTERIDE.",
+        "ACENOCOUMAROL",
+        "SERENOA REPENS/SERENOA REPENS EXTRACT/SERENOA REPENS FRUIT/SERENOA REPENS FRUIT EXTRACT",
+        "SIMVASTATIN."
+      ],
+      "reactions": [
+        "Histiocytosis haematophagic",
+        "Fixed eruption",
+        "Macule",
+        "Rash pruritic",
+        "Rash"
+      ],
+      "report_id": "13909293"
+    },
+    {
+      "drugs": [
+        "ZOLEDRONIC ACID",
+        "ENOXAPARIN SODIUM.",
+        "ALLOPURINOL.",
+        "CALCIUM+VITAMIN D3",
+        "TINZAPARIN SODIUM",
+        "SERENOA REPENS EXTRACT",
+        "EPOETIN BETA",
+        "DOMPERIDONE",
+        "FORTIMEL",
+        "NICARDIPINE HYDROCHLORIDE.",
+        "PRUNUS AFRICANA EXTRACT",
+        "CYAMEMAZINE",
+        "PREGABALIN.",
+        "NADROPARIN CALCIUM",
+        "ALPRAZOLAM.",
+        "SEROPLEX",
+        "SEROPLEX",
+        "REVLIMID",
+        "ATORVASTATIN",
+        "VALPROATE SEMISODIUM",
+        "PARACETAMOL",
+        "UVEDOSE",
+        "DEXAMETHASONE ORAL",
+        "MACROGOL 4000",
+        "LERCANIDIPINE HYDROCHLORIDE",
+        "EPOETIN BETA"
+      ],
+      "reactions": [
+        "Faecaloma",
+        "Colitis"
+      ],
+      "report_id": "14060918"
+    },
+    {
+      "drugs": [
+        "ZYPREXA",
+        "BISOPROLOL",
+        "FLUTICASONE NASAL",
+        "ZYPREXA",
+        "SERENOA REPENS",
+        "ZYPREXA",
+        "FURIX",
+        "STESOLID",
+        "ERGENYL RETARD",
+        "FOLACIN",
+        "RAMIPRIL."
+      ],
+      "reactions": [
+        "Hyponatraemia"
+      ],
+      "report_id": "14069016"
+    },
+    {
+      "drugs": [
+        "SILODOSIN",
+        "TADALAFIL",
+        "SERENOA REPENS"
+      ],
+      "reactions": [
+        "Visual acuity reduced"
+      ],
+      "report_id": "14210734"
+    },
+    {
+      "drugs": [
+        "FUROSEMIDE.",
+        "RAMIPRIL.",
+        "NAFTIDROFURYL/NAFTIDROFURYL OXALATE",
+        "VERAPAMIL",
+        "ALLOPURINOL.",
+        "SODIUM POLYSTYRENE SULFONATE.",
+        "GLYCERYL TRINITRATE",
+        "EZETIMIBE.",
+        "SERENOA REPENS/SERENOA REPENS EXTRACT/SERENOA REPENS FRUIT/SERENOA REPENS FRUIT EXTRACT",
+        "FOSINOPRIL",
+        "AMLODIPINE",
+        "HEPARIN",
+        "SODIUM POLYSTYRENE SULFONATE.",
+        "CLOPIDOGREL",
+        "ACETYLSALICYLIC ACID",
+        "ATORVASTATIN/ATORVASTATIN CALCIUM",
+        "ALFUZOSIN",
+        "BISOPROLOL",
+        "URAPIDIL"
+      ],
+      "reactions": [
+        "Fall",
+        "Dermo-hypodermitis",
+        "Inflammation",
+        "Rhabdomyolysis",
+        "Cardiac failure",
+        "Neutropenia",
+        "Toxicity to various agents",
+        "Pyrexia",
+        "Agranulocytosis",
+        "Pain in extremity"
+      ],
+      "report_id": "14229503"
+    },
+    {
+      "drugs": [
+        "DARATUMUMAB",
+        "AMOXICILLIN.",
+        "DULOXETINE.",
+        "FENTANYL.",
+        "COLISTIMETHATE",
+        "SALBUTAMOL",
+        "PANTOPRAZOLE",
+        "AMOXICILLIN.",
+        "INDAPAMIDE.",
+        "GABAPENTIN.",
+        "VALACICLOVIR",
+        "AMLODIPINE",
+        "AMOXICILLIN.",
+        "FLECAINIDE",
+        "SERENOA REPENS",
+        "DALTEPARIN",
+        "SILODOSINE",
+        "OXYCODONE",
+        "DEXAMETHASONE.",
+        "AMOXICILLIN.",
+        "LIDOCAINE."
+      ],
+      "reactions": [
+        "Headache",
+        "Nausea",
+        "Vomiting",
+        "Neck pain",
+        "Subdural haematoma"
+      ],
+      "report_id": "14277236"
+    },
+    {
+      "drugs": [
+        "FERROUS SULFATE.",
+        "COMPAZINE",
+        "SERENOA REPENS",
+        "PERTUZUMAB.",
+        "TRASTUZUMAB.",
+        "LOMOTIL",
+        "TRASTUZUMAB.",
+        "ASPIRIN.",
+        "CARDURA",
+        "CELEXA",
+        "PERTUZUMAB.",
+        "LIPITOR",
+        "COMPAZINE",
+        "AUGMENTIN",
+        "PROTONIX",
+        "SERENOA REPENS",
+        "TENORMIN",
+        "GLUCOPHAGE"
+      ],
+      "reactions": [
+        "Pneumonitis",
+        "Anaemia",
+        "Pulmonary haemorrhage"
+      ],
+      "report_id": "14316431"
+    },
+    {
+      "drugs": [
+        "MULTIVITAMINS",
+        "TURMERIC",
+        "SERENOA REPENS",
+        "TYLENOL",
+        "DILTIAZEM.",
+        "IMBRUVICA",
+        "BREO ELLIPTA",
+        "VITAMIN D3",
+        "FUROSEMIDE.",
+        "ALBUTEROL.",
+        "IPRATROPIUM",
+        "IMBRUVICA",
+        "LOSARTAN."
+      ],
+      "reactions": [
+        "Tricuspid valve incompetence",
+        "Right ventricular enlargement",
+        "Pulmonary hypertension",
+        "Cardiac failure congestive",
+        "Atrial fibrillation"
+      ],
+      "report_id": "14345903"
+    },
+    {
+      "drugs": [
+        "ASPIRIN                            /00002701/",
+        "EPINITRIL",
+        "SERENOA REPENS",
+        "CALCIPARINE",
+        "URAPIDIL",
+        "AMLODIPINE",
+        "EZETIMIBE.",
+        "BISOPROLOL",
+        "CLOPIDOGREL",
+        "ATORVASTATIN",
+        "ALFUZOSIN",
+        "RAMIPRIL.",
+        "FUROSEMIDE."
+      ],
+      "reactions": [
+        "Agranulocytosis",
+        "Rhabdomyolysis"
+      ],
+      "report_id": "14375883"
+    },
+    {
+      "drugs": [
+        "FUROSEMIDE",
+        "ATORVASTATIN",
+        "ASPIRIN",
+        "SERENOA REPENS WHOLE",
+        "ALFUZOSIN",
+        "RAMIPRIL",
+        "AMLODIPINE",
+        "BISOPROLOL",
+        "NITROGLYCERIN",
+        "CALCIPARINE",
+        "URAPIDIL",
+        "CLOPIDOGREL",
+        "EZETIMIBE"
+      ],
+      "reactions": [
+        "Agranulocytosis",
+        "Rhabdomyolysis",
+        "Pyrexia",
+        "Pain in extremity",
+        "Inflammation",
+        "Agranulocytosis"
+      ],
+      "report_id": "14410225"
+    },
+    {
+      "drugs": [
+        "ATORVASTATIN CALCIUM.",
+        "URAPIDIL",
+        "AMLODIPINE",
+        "KARDEGIC",
+        "RAMIPRIL.",
+        "CLOPIDOGREL",
+        "LASIX",
+        "EPINITRIL",
+        "KAYEXALATE",
+        "EZETIMIBE.",
+        "ALFUZOSIN",
+        "BISOPROLOL",
+        "CALCIPARINE",
+        "SERENOA REPENS",
+        "ASPIRIN                            /00002701/"
+      ],
+      "reactions": [
+        "Agranulocytosis",
+        "Rhabdomyolysis",
+        "Pain in extremity",
+        "Pyrexia",
+        "Inflammation"
+      ],
+      "report_id": "14454890"
+    },
+    {
+      "drugs": [
+        "XYREM",
+        "XYREM",
+        "METHYLPHENIDATE.",
+        "DHEA",
+        "SERENOA REPENS",
+        "CARVEDILOL.",
+        "VITAMIN D3",
+        "PROTRIPTYLINE HCL",
+        "MEDICAGO SATIVA",
+        "COENZYME Q10",
+        "XYREM",
+        "ASCORBIC ACID.",
+        "CALCIUM"
+      ],
+      "reactions": [
+        "Hypertonic bladder",
+        "Chronic lymphocytic leukaemia",
+        "Swelling",
+        "Anaemia",
+        "Malignant melanoma"
+      ],
+      "report_id": "14471831"
+    },
+    {
+      "drugs": [
+        "REVLIMID",
+        "BACTRIM",
+        "ATORVASTATIN CALCIUM.",
+        "VALACICLOVIR",
+        "DEXAMETHASONE.",
+        "RIVAROXABAN",
+        "SERENOA REPENS EXTRACT"
+      ],
+      "reactions": [
+        "Prostate cancer"
+      ],
+      "report_id": "14526809"
+    },
+    {
+      "drugs": [
+        "ALFUZOSIN",
+        "EZETIMIBE.",
+        "ASPIRIN.",
+        "AMLODIPINE",
+        "CLOPIDOGREL",
+        "URAPIDIL",
+        "BISOPROLOL",
+        "RAMIPRIL.",
+        "CALCIPARINE",
+        "ATORVASTATIN",
+        "FUROSEMIDE.",
+        "SERENOA REPENS",
+        "EPINITRIL"
+      ],
+      "reactions": [
+        "Pyrexia",
+        "Agranulocytosis",
+        "Pain in extremity",
+        "Inflammation",
+        "Agranulocytosis",
+        "Rhabdomyolysis"
+      ],
+      "report_id": "14584580"
+    },
+    {
+      "drugs": [
+        "EPINITRIL",
+        "KARDEGIC",
+        "EZETROL",
+        "AMLODIPINE",
+        "BISOPROLOL",
+        "SERENOA REPENS",
+        "ASPIRIN.",
+        "URAPIDIL",
+        "PLAVIX",
+        "XATRAL",
+        "ALLOPURINOL.",
+        "RAMIPRIL.",
+        "LASILIX",
+        "EZETIMIBE.",
+        "PERMIXON",
+        "CALCIPARINE",
+        "ATORVASTATIN CALCIUM.",
+        "ALFUZOSIN",
+        "CLOPIDOGREL",
+        "KAYEXALATE"
+      ],
+      "reactions": [
+        "Rhabdomyolysis",
+        "Inflammation",
+        "Neutropenia",
+        "Agranulocytosis",
+        "Pyrexia",
+        "Pain in extremity"
+      ],
+      "report_id": "14607558"
+    },
+    {
+      "drugs": [
+        "ATORVASTATIN CALCIUM.",
+        "DEXAMETHASONE.",
+        "BACTRIM",
+        "RIVAROXABAN",
+        "SERENOA REPENS EXTRACT",
+        "REVLIMID",
+        "VALACICLOVIR"
+      ],
+      "reactions": [
+        "Prostate cancer"
+      ],
+      "report_id": "14654989"
+    },
+    {
+      "drugs": [
+        "AMITRIPTYLIN",
+        "ELIGARD",
+        "METFORMIN",
+        "PERINDOPRIL",
+        "ATENOLOL.",
+        "SERENOA REPENS",
+        "NEUROBION                          /00091901/",
+        "GLICLAZIDE"
+      ],
+      "reactions": [
+        "Epistaxis"
+      ],
+      "report_id": "14685179"
+    },
+    {
+      "drugs": [
+        "VITAMIN B12",
+        "ERGOCALCIFEROL.",
+        "IBUPROFEN.",
+        "ZOLOFT",
+        "XANAX",
+        "NAPROXEN.",
+        "BUSPIRONE HCL",
+        "XYREM",
+        "XYREM",
+        "MOBIC",
+        "LEVOTHYROXINE.",
+        "ZITHROMAX",
+        "AZITHROMYCIN ANHYDROUS.",
+        "SAFFLOWERS",
+        "NORCO",
+        "NYSTATIN.",
+        "VITAMIN B COMPLEX",
+        "MSM",
+        "TOPAMAX",
+        "HCG",
+        "ALPRAZOLAM.",
+        "CURCUMA LONGA",
+        "XYREM",
+        "ADDERALL",
+        "DICLOFENAC",
+        "SILVER SHIELD",
+        "SERENOA REPENS",
+        "ASCORBIC ACID.",
+        "TOCOPHEROL",
+        "TYLENOL EXTRA STRENGTH",
+        "ALEVE",
+        "ONDANSETRON"
+      ],
+      "reactions": [
+        "Limb injury",
+        "Feeling abnormal",
+        "Neuralgia",
+        "Anxiety",
+        "Nasopharyngitis",
+        "Tooth disorder",
+        "Surgery",
+        "Ulcer"
+      ],
+      "report_id": "14699260"
+    },
+    {
+      "drugs": [
+        "ATENOLOL.",
+        "ALFUZOSIN",
+        "TRANDOLAPRIL.",
+        "SERENOA REPENS EXTRACT"
+      ],
+      "reactions": [
+        "Pancreatitis acute"
+      ],
+      "report_id": "14725680"
+    },
+    {
+      "drugs": [
+        "SERENOA REPENS",
+        "EPINITRIL",
+        "BISOPROLOL",
+        "AMLODIPINE",
+        "CALCIPARINE",
+        "RAMIPRIL.",
+        "EZETIMIBE.",
+        "SERENOA REPENS",
+        "EPINITRIL",
+        "EPINITRIL",
+        "EPINITRIL",
+        "BISOPROLOL",
+        "AMLODIPINE",
+        "ALFUZOSIN",
+        "EPINITRIL",
+        "BISOPROLOL",
+        "CLOPIDOGREL",
+        "CALCIPARINE",
+        "EZETROL",
+        "FUROSEMIDE.",
+        "EZETIMIBE.",
+        "URAPIDIL",
+        "BISOPROLOL",
+        "BISOPROLOL",
+        "CLOPIDOGREL",
+        "PERMIXON",
+        "PERMIXON",
+        "PLAVIX",
+        "LASILIX                            /00032601/",
+        "EPINITRIL",
+        "URAPIDIL",
+        "URAPIDIL",
+        "URAPIDIL",
+        "AMLODIPINE",
+        "AMLODIPINE",
+        "CLOPIDOGREL",
+        "CLOPIDOGREL",
+        "CALCIPARINE",
+        "CALCIPARINE",
+        "KAYEXALATE",
+        "EZETIMIBE.",
+        "URAPIDIL",
+        "BISOPROLOL",
+        "CALCIPARINE",
+        "XATRAL                             /00975301/",
+        "ASPIRIN                            /00002701/",
+        "SERENOA REPENS",
+        "URAPIDIL",
+        "AMLODIPINE",
+        "AMLODIPINE",
+        "KARDEGIC",
+        "KARDEGIC",
+        "ATORVASTATIN",
+        "CLOPIDOGREL",
+        "CLOPIDOGREL",
+        "CALCIPARINE"
+      ],
+      "reactions": [
+        "Pyrexia",
+        "Agranulocytosis",
+        "Inflammation",
+        "Pain in extremity",
+        "Rhabdomyolysis"
+      ],
+      "report_id": "14842251"
+    },
+    {
+      "drugs": [
+        "JAKAFI",
+        "JAKAFI",
+        "FOLIC ACID.",
+        "VITAMINS NOS",
+        "JAKAFI",
+        "ASPIRIN.",
+        "SAW PALMETTO [SERENOA REPENS]",
+        "JAKAFI",
+        "ACYCLOVIR                          /00587301/",
+        "SAW PALMETTO [SERENOA REPENS]",
+        "PRAVASTATIN.",
+        "PRAVASTATIN.",
+        "MULTIVITAMIN                       /00097801/",
+        "MAGNESIUM",
+        "JAKAFI",
+        "VITAMIN D3",
+        "FOLIC ACID.",
+        "NIACIN.",
+        "JAKAFI",
+        "JAKAFI"
+      ],
+      "reactions": [
+        "Fatigue",
+        "Skin lesion",
+        "Anaemia",
+        "Muscle spasms",
+        "Dry eye",
+        "Benign enlargement of the subarachnoid spaces",
+        "Inappropriate schedule of product administration",
+        "Vertigo",
+        "Dizziness",
+        "Red blood cell count decreased",
+        "Increased tendency to bruise",
+        "Pneumonia",
+        "Cataract",
+        "Melanocytic naevus",
+        "Asthenia",
+        "Onychomycosis",
+        "White blood cell count increased",
+        "Throat clearing",
+        "Pruritus",
+        "Arachnoid cyst",
+        "Balance disorder",
+        "Weight decreased",
+        "Skin cancer",
+        "Inner ear disorder",
+        "Skin papilloma",
+        "Splenomegaly"
+      ],
+      "report_id": "14958133"
+    },
+    {
+      "drugs": [
+        "LYRICA",
+        "BABY ASPIRIN",
+        "CELEBREX",
+        "VOLTAREN",
+        "PLAVIX",
+        "LYRICA",
+        "LIPITOR",
+        "SERENOA REPENS",
+        "ATIVAN",
+        "CARVEDILOL.",
+        "DULOXETINE.",
+        "LEVOTHYROXINE.",
+        "MYRBETRIQ",
+        "COENZYME Q10",
+        "LISINOPRIL.",
+        "TYLENOL",
+        "CLARITIN",
+        "NAMENDA"
+      ],
+      "reactions": [
+        "Drug ineffective",
+        "Asthenia",
+        "Pain",
+        "Dizziness",
+        "Paralysis",
+        "Intentional product misuse",
+        "Accidental overdose",
+        "Loss of consciousness",
+        "Fatigue",
+        "Hypersomnia"
+      ],
+      "report_id": "15104349"
+    },
+    {
+      "drugs": [
+        "RISPERIDONE.",
+        "NEBIVOLOL.",
+        "MIRTAZAPINE.",
+        "SMECTITE",
+        "TROPATEPINE",
+        "SERENOA REPENS",
+        "ZOPICLONE",
+        "WARFARIN"
+      ],
+      "reactions": [
+        "Dermatitis psoriasiform",
+        "Toxic skin eruption"
+      ],
+      "report_id": "15128730"
+    },
+    {
+      "drugs": [
+        "CHROMIUM PICOLINAT",
+        "FAMOTIDINE.",
+        "LAURIC ACID",
+        "XYREM",
+        "COLOSTRUM",
+        "SUPER ENZYME",
+        "TAMSULOSIN HCL",
+        "TOCOPHEROL",
+        "ASPIRIN EC",
+        "CALCIUM CITRATE + D",
+        "LUTEIN?ZEAXANTHIN",
+        "SERENOA REPENS",
+        "HAWTHORN BERRY",
+        "VALERIANA OFFICINALIS ROOT",
+        "VITAMIN B COMPLEX",
+        "XYREM",
+        "DHEA",
+        "PREDNISONE.",
+        "MODAFINIL.",
+        "SERTRALINE HCL",
+        "VITAMIN C",
+        "VITAMIN D3",
+        "XYREM",
+        "MAGNESIUM",
+        "OMEGA?3 FISH OIL",
+        "MELATONIN",
+        "TRAMADOL HCL",
+        "FOLIC ACID.",
+        "LYRICA",
+        "METHOTREXATE.",
+        "ORENCIA"
+      ],
+      "reactions": [
+        "Neuropathy peripheral",
+        "Condition aggravated",
+        "Exaggerated startle response"
+      ],
+      "report_id": "15338480"
+    },
+    {
+      "drugs": [
+        "TADALAFIL.",
+        "SERENOA REPENS",
+        "VALSARTAN.",
+        "PREVISCAN                          /00789001/",
+        "RESORCINOL",
+        "CHONDROSULF",
+        "FLUINDIONE",
+        "CARBAMAZEPINE.",
+        "NISIS",
+        "CHONDROSULF",
+        "PERMIXON",
+        "LOXAPAC                            /00401802/"
+      ],
+      "reactions": [
+        "Hyponatraemia"
+      ],
+      "report_id": "15369294"
+    },
+    {
+      "drugs": [
+        "OMEGA-3 FATTY ACIDS",
+        "VARDENAFIL",
+        "SAW PALMETTO [SERENOA REPENS]",
+        "POTASSIUM CHLORIDE.",
+        "SAXAGLIPTIN",
+        "VERAPAMIL",
+        "PRAVASTATIN.",
+        "METFORMIN",
+        "FLUTICASONE.",
+        "LISINOPRIL.",
+        "GINKGO BILOBA",
+        "ASCORBIC ACID.",
+        "FLAXSEED OIL [LINUM USITATISSIMUM OIL]",
+        "DUTASTERIDE.",
+        "GLYBURIDE.",
+        "VITAMIN E [DL-ALPHA TOCOPHERYL ACETATE]",
+        "CALCIUM AND VITAMIN D",
+        "RANITIDINE.",
+        "CHOLECALCIFEROL",
+        "MULTIVITAMIN",
+        "FUROSEMIDE.",
+        "PRADAXA",
+        "PRADAXA",
+        "FERROUS SULFATE."
+      ],
+      "reactions": [
+        "Internal haemorrhage"
+      ],
+      "report_id": "15466184"
+    },
+    {
+      "drugs": [
+        "XYREM",
+        "CRESTOR",
+        "NAPROXEN.",
+        "SERENOA REPENS",
+        "ZANTAC",
+        "AMLODIPINE BESYLATE.",
+        "SYNTHROID",
+        "LOTEPREDNOL ETABONATE",
+        "SIMVASTATIN.",
+        "COENZYME Q10",
+        "FLAXSEED",
+        "GABAPENTIN.",
+        "MODAFINIL.",
+        "LEVOTHYROXINE.",
+        "CALCIUM ANTACID",
+        "CINNAMOMUM VERUM BARK",
+        "MORPHINE SULPHATE",
+        "RHODIOLA ROSEA",
+        "XYREM",
+        "XYREM",
+        "METFORMIN HCL",
+        "ASPIRIN EC",
+        "CURCUMA LONGA",
+        "WELLBUTRIN",
+        "XYREM",
+        "CONCERTA",
+        "XYREM",
+        "LOSARTAN POTASSIUM.",
+        "OMEPRAZOLE.",
+        "LECITHIN",
+        "VITAMIN B",
+        "AMLODIPINE BENAZEPRIL",
+        "MORPHINE SULFATE."
+      ],
+      "reactions": [
+        "Ligament rupture",
+        "Hydronephrosis",
+        "Nephrolithiasis"
+      ],
+      "report_id": "15475586"
+    },
+    {
+      "drugs": [
+        "SERENOA REPENS EXTRACT",
+        "HYDROCHLOROTHIAZIDE.",
+        "LOSARTAN.",
+        "ACETYLSALICYLIC ACID({=100 MG)"
+      ],
+      "reactions": [
+        "Peritonitis pneumococcal",
+        "Duodenal ulcer perforation",
+        "Pneumococcal bacteraemia"
+      ],
+      "report_id": "15517062"
+    },
+    {
+      "drugs": [
+        "CABOMETYX",
+        "PERMIXON",
+        "DESLORATADINE.",
+        "SERENOA REPENS",
+        "ALLOPURINOL.",
+        "JOSIR LP 0,4 MG MICROGRANULES A LIBERATION PROLONGEE EN GELULE",
+        "XATRAL",
+        "FLUINDIONE",
+        "WARFARIN SODIUM."
+      ],
+      "reactions": [
+        "Hallucination",
+        "Confusional state",
+        "Oedema",
+        "Purpura",
+        "Pruritus",
+        "Eosinophilia"
+      ],
+      "report_id": "15552323"
+    },
+    {
+      "drugs": [
+        "ALFUZOSIN",
+        "WARFARINE SODIQUE",
+        "CABOZANTINIB",
+        "TAMSULOSIN",
+        "PENTOXIFYLLINE.",
+        "SERENOA REPENS",
+        "ALLOPURINOL.",
+        "EBASTINE",
+        "SERENOA REPENS",
+        "PRODINAN",
+        "CABOZANTINIB"
+      ],
+      "reactions": [
+        "Purpura",
+        "Eosinophilia",
+        "Confusional state",
+        "Hallucination",
+        "Pruritus",
+        "Oedema"
+      ],
+      "report_id": "15557760"
+    },
+    {
+      "drugs": [
+        "AMOXICILLIN.",
+        "VITAMIN B6",
+        "MULTIVITAMIN",
+        "SELENIUM",
+        "REVLIMID",
+        "VITAMIN E",
+        "VITAMIN C",
+        "BENADRYL",
+        "NEXIUM",
+        "LORTAB",
+        "ASPIRIN.",
+        "SAW PALMETTO EXTRACT",
+        "REVLIMID",
+        "CLARITIN-D 12 HOUR"
+      ],
+      "reactions": [
+        "Synovial cyst"
+      ],
+      "report_id": "10849249"
+    },
+    {
+      "drugs": [
+        "REVLIMID",
+        "CLARITIN",
+        "BENADRYL",
+        "LORTAB",
+        "AMOXICILLIN.",
+        "MULTIVITAMINS",
+        "SAW PALMETTO EXTRACT",
+        "VITAMIN C",
+        "NEXIUM",
+        "ASPIRIN.",
+        "SELENIUM",
+        "VITAMIN E",
+        "VITAMIN B6"
+      ],
+      "reactions": [
+        "Heart rate increased"
+      ],
+      "report_id": "10862612"
+    },
+    {
+      "drugs": [
+        "REVLIMID",
+        "TOPROL XL",
+        "CRESTOR",
+        "REVLIMID",
+        "OMEGA 3",
+        "ASPIRIN.",
+        "REVLIMID",
+        "SAW PALMETTO EXTRACT",
+        "BABY ASPIRIN",
+        "LORTAB",
+        "GLUCOSAMINE/CHONDROITIN",
+        "DECADRON"
+      ],
+      "reactions": [
+        "Drug intolerance",
+        "Respiratory arrest"
+      ],
+      "report_id": "12257506"
+    },
+    {
+      "drugs": [
+        "ASPIRIN LOW DOSE",
+        "ISOSORBIDE DINITRATE.",
+        "METOPROLOL TARTRATE.",
+        "REVLIMID",
+        "SAW PALMETTO EXTRACT",
+        "DEXAMETHASONE.",
+        "IMDUR",
+        "ALPRAZOLAM.",
+        "RANITIDINE HCL"
+      ],
+      "reactions": [
+        "Rash",
+        "Multiple allergies"
+      ],
+      "report_id": "12811484"
+    },
+    {
+      "drugs": [
+        "ALPRAZOLAM.",
+        "REVLIMID",
+        "RANITIDINE HCL",
+        "CLARITIN",
+        "FINASTERIDE.",
+        "IMDUR",
+        "ISOSORBIDE DINITRATE.",
+        "METOPROLOL TARTRATE.",
+        "DEXAMETHASONE ACETATE",
+        "SAW PALMETTO EXTRACT",
+        "REVLIMID",
+        "DEXAMETHASONE.",
+        "SIMVASTATIN.",
+        "ASPIRIN LOW DOSE"
+      ],
+      "reactions": [
+        "Pain in extremity",
+        "Erythema",
+        "Loss of libido",
+        "Hyperhidrosis",
+        "Feeling hot",
+        "Hyperhidrosis"
+      ],
+      "report_id": "13136329"
+    },
+    {
+      "drugs": [
+        "LASIX",
+        "WELLBUTRIN SR",
+        "CORDARONE",
+        "FERREX",
+        "CENTURY MEN 1-DAY",
+        "XARELTO",
+        "ZOCOR",
+        "XANAX",
+        "SAW PALMETTO EXTRACT BERRY",
+        "GINKGO BILOBA EXTRACT LEAF",
+        "TOPROL XL",
+        "CELEXA",
+        "PRINIVIL",
+        "BIOPERINE",
+        "ASIAN RED GINSENG EXTRACT ROOT",
+        "NORCO",
+        "PROPRETARY BLEND EQUIVALENT",
+        "PURPLE RHINO MALE ENHANCEMENT SOLUTION POWER FORMULA",
+        "BARBITURATE",
+        "SINGULAIR",
+        "NEXIUM",
+        "L-ARGININE HYDROCHLORIDE",
+        "MUIRA PUAMA EXTRACT BERRY",
+        "HORNY GOAT WEED EXTRACT LEAF"
+      ],
+      "reactions": [
+        "Therapy cessation",
+        "Barbiturates positive"
+      ],
+      "report_id": "13342666"
+    },
+    {
+      "drugs": [
+        "LEVOTHYROXINE SODIUM.",
+        "PANTOPRAZOLE SODIUM.",
+        "METOPROLOL TARTRATE.",
+        "COQ10",
+        "CARVEDILOL.",
+        "DIOVAN",
+        "CLOPIDOGREL BISULFATE.",
+        "ZOLPIDEM TARTRATE.",
+        "NITROSTAT",
+        "VITAMIN D3",
+        "TECFIDERA",
+        "ROPINIROLE HCL",
+        "MELOXICAN",
+        "TECFIDERA",
+        "VITAMIN E",
+        "SAW PALMETTO EXTRACT",
+        "VITAMIN C",
+        "MAGNESIUM",
+        "EXFORGE",
+        "ROSUVASTAT W/CALCIUM",
+        "ASPIRIN.",
+        "FINASTERIDE.",
+        "FISH OIL",
+        "ALPHA LIPOIC ACID",
+        "MEMANTINE HCL",
+        "CRESTOR",
+        "VISION FORMULA",
+        "POTASSIUM",
+        "OXYBUTYNIN CHLORIDE."
+      ],
+      "reactions": [
+        "Balance disorder",
+        "Fall",
+        "Face injury",
+        "Head injury"
+      ],
+      "report_id": "13496609"
+    },
+    {
+      "drugs": [
+        "REVLIMID",
+        "SIMVASTATIN.",
+        "SAW PALMETTO EXTRACT",
+        "METOPROLOL TARTRATE.",
+        "ALPRAZOLAM.",
+        "DEXAMETHASONE.",
+        "REVLIMID",
+        "REVLIMID",
+        "IMDUR",
+        "TYLENOL",
+        "RANITIDINE HCL",
+        "ISOSORBIDE DINITRATE.",
+        "FINASTERIDE.",
+        "ASPIRIN LOW DOSE"
+      ],
+      "reactions": [
+        "Chills",
+        "Feeling hot",
+        "Full blood count decreased",
+        "Hyperhidrosis",
+        "Diarrhoea"
+      ],
+      "report_id": "13583723"
+    },
+    {
+      "drugs": [
+        "VITAMIN C",
+        "OXYBUTYNIN CHLORIDE.",
+        "FINASTERIDE.",
+        "MELOXICAN",
+        "MAGNESIUM",
+        "LEVOTHYROXINE SODIUM.",
+        "PANTOPRAZOLE SODIUM.",
+        "EXFORGE",
+        "ALPHA LIPOIC ACID",
+        "VITAMIN D3",
+        "CIPROFLOXACIN HCL",
+        "MULTI FOR HIM",
+        "ROPINIROLE HCL",
+        "CARVEDILOL.",
+        "ZOLPIDEM TARTRATE.",
+        "CRESTOR",
+        "CLOPIDOGREL BISULFATE.",
+        "VITAMIN E",
+        "SAW PALMETTO EXTRACT",
+        "COQ10",
+        "DIOVAN",
+        "NITROSTAT",
+        "ASPIRIN.",
+        "POTASSIUM",
+        "MEMANTINE HCL",
+        "VISION FORMULA",
+        "ROSUVASTAT WITH CALCIUM",
+        "TECFIDERA",
+        "METOPROLOL TARTRATE.",
+        "FISH OIL"
+      ],
+      "reactions": [
+        "Balance disorder",
+        "Fall"
+      ],
+      "report_id": "13801395"
+    },
+    {
+      "drugs": [
+        "REVLIMID",
+        "OMEPRAZOLE.",
+        "CALCIUM CITRATE",
+        "CHOLESTYRAMINE.",
+        "BUPROPION.",
+        "REVLIMID",
+        "SAW PALMETTO EXTRACT",
+        "WELLBUTRIN",
+        "POTASSIUM",
+        "ACYCLOVIR.",
+        "ATENOLOL.",
+        "REVLIMID",
+        "CALCIUM",
+        "IRON",
+        "TYLENOL",
+        "VALACYCLOVIR",
+        "REVLIMID",
+        "MULTIVITAMINS"
+      ],
+      "reactions": [
+        "Unevaluable event",
+        "Herpes zoster",
+        "Weight decreased",
+        "Gastrointestinal disorder"
+      ],
+      "report_id": "13823228"
+    },
+    {
+      "drugs": [
+        "HUMIRA",
+        "PLAQUENIL",
+        "SAW PALMETTO EXTRACT",
+        "PLAQUENIL",
+        "MAXZIDE",
+        "HUMIRA",
+        "VITAMIN D",
+        "ASPIRIN.",
+        "LISINOPRIL.",
+        "MELOXICAM."
+      ],
+      "reactions": [
+        "Medical device site joint pain",
+        "Device loosening",
+        "Device issue"
+      ],
+      "report_id": "14955688"
+    },
+    {
+      "drugs": [
+        "SIMVASTATIN.",
+        "POTASSIUM",
+        "LABETALOL HCL",
+        "LISINOPRIL.",
+        "REVLIMID",
+        "SAW PALMETTO EXTRACT",
+        "FISH OIL",
+        "REVLIMID",
+        "ASPIRIN EC",
+        "REVLIMID",
+        "ARANESP",
+        "FUROSEMIDE.",
+        "OSTEO BI-FLEX REGULAR",
+        "D2000 ULTRA STRENGTH",
+        "REVLIMID",
+        "VITAMIN D3",
+        "CENTRUM"
+      ],
+      "reactions": [
+        "Adverse event"
+      ],
+      "report_id": "15062106"
+    },
+    {
+      "drugs": [
+        "TOCOPHEROL",
+        "XYREM",
+        "FAMOTIDINE.",
+        "MELATONIN",
+        "TAMSULOSIN HCL",
+        "TRAZODONE",
+        "PREDNISONE.",
+        "VITAMIN D3",
+        "COLOSTRUM",
+        "DHEA",
+        "LYRICA",
+        "MAGNESIUM",
+        "SERTRALINE HCL",
+        "SUPER ENZYME",
+        "ASCORBIC ACID.",
+        "LAURIC ACID",
+        "VALERIAN ROOT PLUS",
+        "ACETYLSALICYLIC ACID",
+        "CALCIUM CITRATE + D",
+        "FOLIC ACID.",
+        "VITAMIN B COMPLEX",
+        "CHROMIUM PICOLINATE",
+        "HAWTHORN BERRY",
+        "ORENCIA",
+        "SAW PALMETTO EXTRACT",
+        "XYREM",
+        "LUTEIN?ZEAXANTHIN",
+        "METHOTREXATE.",
+        "OMEGA?3 FISH OIL",
+        "MODAFINIL."
+      ],
+      "reactions": [
+        "Somnolence",
+        "Chills",
+        "Abnormal dreams",
+        "Nausea",
+        "Dry mouth",
+        "Headache",
+        "Hyperhidrosis",
+        "Initial insomnia"
+      ],
+      "report_id": "15148478"
+    },
+    {
+      "drugs": [
+        "REVLIMID",
+        "LASIX",
+        "UBIQUINOL",
+        "REVLIMID",
+        "ASPIRIN.",
+        "MORTIN IB",
+        "FOLIC ACID.",
+        "POTASSIUM",
+        "REVLIMID",
+        "GLUCOSAMINE CHONDROIT",
+        "SAW PALMETTO EXTRACT",
+        "METAMUCIL",
+        "HYDROCHLOROTHIAZIDE.",
+        "BENAZEPRIL-HCTZ",
+        "MAGNESIUM",
+        "KRILL OIL",
+        "REVLIMID",
+        "STOOL SOFTENER (DOCUSATE)",
+        "LIPITOR",
+        "OMEGA 3",
+        "METOPROLOL-HCTZ",
+        "NORVASC"
+      ],
+      "reactions": [
+        "Anal fissure"
+      ],
+      "report_id": "15737926"
+    },
+    {
+      "drugs": [
+        "XYREM",
+        "XYREM",
+        "XYREM",
+        "XYREM",
+        "SPIRONOLACTONE",
+        "ALBUTEROL SULFATE",
+        "DULOXETINE HYDROCHLORIDE",
+        "CONCERTA",
+        "CONCERTA",
+        "CONCERTA",
+        "CONCERTA",
+        "CONCERTA",
+        "AMOXICILLIN",
+        "ABILIFY",
+        "LAMOTRIGINE",
+        "NUVIGIL",
+        "PROGESTERONE",
+        "PROZAC",
+        "SIMVASTATIN",
+        "TOPIRAMATE",
+        "MODAFINIL",
+        "RITALIN",
+        "ESTRADIOL",
+        "ANORO ELLIPTA",
+        "ANORO ELLIPTA",
+        "BUPROPION HYDROCHLORIDE",
+        "BUPROPION HYDROCHLORIDE",
+        "BUPROPION HYDROCHLORIDE",
+        "BUPROPION HYDROCHLORIDE",
+        "CALCIUM CARBONATE",
+        "CRANBERRY",
+        "FINASTERIDE",
+        "GUAIFENESIN",
+        "GUAIFENESIN",
+        "GUAIFENESIN",
+        "GUAIFENESIN",
+        "LIVER COMPLEX",
+        "FISH OIL\\OMEGA-3 FATTY ACIDS",
+        "PAROXETINE HYDROCHLORIDE",
+        "PAROXETINE HYDROCHLORIDE",
+        "SAW PALMETTO EXTRACT",
+        "VITAMIN D3",
+        "WELLBUTRIN",
+        "WELLBUTRIN",
+        "VITAMIN K2 [MENATETRENONE]",
+        "FLUTICASONE PROPIONATE",
+        "TACROLIMUS",
+        "BUMETANIDE",
+        "ROPINIROLE HYDROCHLORIDE",
+        "BUPRENORPHINE"
+      ],
+      "reactions": [
+        "Chronic kidney disease",
+        "Arthropathy",
+        "Bipolar disorder",
+        "Cardiac failure congestive",
+        "Nerve injury",
+        "Neuropathy peripheral",
+        "Hysterectomy",
+        "Chronic obstructive pulmonary disease",
+        "Hyperlipidaemia",
+        "Breast tenderness",
+        "Visual impairment",
+        "Snoring",
+        "Nasal dryness",
+        "Weight increased",
+        "Alopecia",
+        "Nausea",
+        "Hypertension",
+        "Pain",
+        "COVID-19",
+        "Bronchitis",
+        "Headache",
+        "Disorientation"
+      ],
+      "report_id": "16406785"
+    },
+    {
+      "drugs": [
+        "AMBRISENTAN",
+        "LASIX",
+        "POTASSIUM CHLORIDE.",
+        "ASPIRIN [ACETYLSALICYLIC ACID]",
+        "FENOFIBRATE.",
+        "LORAZEPAM.",
+        "SOTALOL.",
+        "GLIPIZIDE.",
+        "SPIRONOLACTONE.",
+        "ASA",
+        "AMBRISENTAN",
+        "GABAPENTIN.",
+        "PRAVASTATIN.",
+        "PRADAXA",
+        "AVODART",
+        "TAMSULOSIN",
+        "CITALOPRAM",
+        "DOXEPIN",
+        "METOPROLOL TARTRATE.",
+        "PRIMIDONE.",
+        "SAW PALMETTO EXTRACT"
+      ],
+      "reactions": [
+        "Fluid retention",
+        "Arrhythmia",
+        "Off label use"
+      ],
+      "report_id": "16413644"
+    },
+    {
+      "drugs": [
+        "CHANTIX",
+        "CHANTIX",
+        "CHANTIX",
+        "CHANTIX",
+        "CHANTIX",
+        "CHANTIX",
+        "CHANTIX",
+        "TAMSULOSIN",
+        "SAW PALMETTO EXTRACT",
+        "LISINOPRIL"
+      ],
+      "reactions": [
+        "Gastric cancer",
+        "Insomnia",
+        "Abnormal dreams",
+        "Urticaria",
+        "Pruritus",
+        "Weight increased",
+        "Blood pressure increased",
+        "Prostatic specific antigen increased",
+        "Blood cholesterol increased",
+        "Swelling face",
+        "Intentional product misuse",
+        "Product prescribing error"
+      ],
+      "report_id": "17495557"
+    },
+    {
+      "drugs": [
+        "LANTUS",
+        "XYLOCAINE",
+        "SELENIUM",
+        "FLOMAX",
+        "VITAMIN E",
+        "CELEXA",
+        "COLACE",
+        "ELAVIL",
+        "LASIX",
+        "KENALOG",
+        "ARIMIDEX",
+        "COD LIVER OIL",
+        "DEX4",
+        "ASTELIN",
+        "FERROUS SULFATE.",
+        "FISH OIL",
+        "GLUCOTROL",
+        "NIZORAL",
+        "LYSINE",
+        "MYCOSTATIN",
+        "LIPITOR",
+        "FOLBIC",
+        "PRILOSEC",
+        "MIRAPEX",
+        "DEPO TESTOSTERONE",
+        "VITAMIN D",
+        "FOLIC ACID.",
+        "GLUCOPHAGE",
+        "SAW PALMETTO EXTRACT",
+        "LYRICA",
+        "LYRICA",
+        "AMOXIL"
+      ],
+      "reactions": [
+        "Pain in extremity",
+        "Insomnia",
+        "Product dose omission issue",
+        "Nervous system disorder",
+        "Cognitive disorder",
+        "Hypoacusis"
+      ],
+      "report_id": "17655507"
+    },
+    {
+      "drugs": [
+        "VITAMIN C",
+        "VITAMIN D [VITAMIN D NOS]",
+        "ENZALUTAMIDE",
+        "CEPHALEXIN [CEFALEXIN]",
+        "LASIX",
+        "METFORMIN",
+        "POTASSIUM CHLORIDE.",
+        "SAW PALMETTO EXTRACT",
+        "VITAMIN E",
+        "ENZALUTAMIDE",
+        "NOVOLOG",
+        "MUCINEX ALLERGY",
+        "LUPRON DEPOT"
+      ],
+      "reactions": [
+        "Urinary tract infection",
+        "Loss of consciousness",
+        "Sepsis",
+        "Peripheral swelling"
+      ],
+      "report_id": "18244087"
+    },
+    {
+      "drugs": [
+        "XYREM",
+        "XYREM",
+        "AMBIEN",
+        "LUNESTA",
+        "ZOVIRAX",
+        "PROSCAR",
+        "SAW PALMETTO EXTRACT"
+      ],
+      "reactions": [
+        "Somnolence",
+        "Off label use"
+      ],
+      "report_id": "18291956"
+    },
+    {
+      "drugs": [
+        "BOSULIF",
+        "BOSULIF",
+        "BOSULIF",
+        "FAMOTIDINE",
+        "ASPIRIN",
+        "VITAMIN C",
+        "SAW PALMETTO EXTRACT",
+        "CALCIUM\\VITAMIN D",
+        "ZINC",
+        "FISH OIL",
+        "POTASSIUM CHLORIDE",
+        "HYALURONIC ACID",
+        "GINKGO",
+        "GRAPESEED EXTRACT [VITIS VINIFERA SEED]",
+        "SIMVASTATIN",
+        "LISINOPRIL",
+        "METFORMIN HYDROCHLORIDE",
+        "TASIGNA",
+        "ASPIRIN"
+      ],
+      "reactions": [
+        "Atrial fibrillation",
+        "Fatigue"
+      ],
+      "report_id": "18437747"
+    },
+    {
+      "drugs": [
+        "SAW PALMETTO EXTRACT",
+        "TESTOSTERONE.",
+        "ASPIRIN 81",
+        "CULTURELLE",
+        "FINASTERIDE.",
+        "NORVASC",
+        "MONTELUKAST SODIUM.",
+        "COENZYME Q10",
+        "REPATHA",
+        "TAMSULOSIN HCL",
+        "FISH OIL",
+        "LOSARTAN POTASSIUM.",
+        "THYROID"
+      ],
+      "reactions": [
+        "Product dose omission issue",
+        "Off label use"
+      ],
+      "report_id": "18562419"
+    },
+    {
+      "drugs": [
+        "BUDESONIDE.",
+        "SELENIUM",
+        "AZTREONAM LYSINE",
+        "ALBUTEROL HFA",
+        "VITAMIN B12",
+        "GARLIC [ALLIUM SATIVUM]",
+        "BACLOFEN.",
+        "VIAGRA",
+        "GABAPENTIN.",
+        "FINASTERIDE.",
+        "AZTREONAM LYSINE",
+        "IPRATROPIUM BROMIDE.",
+        "SPIRIVA",
+        "TAMSULOSIN HCL",
+        "MONTELUKAST SODIUM.",
+        "TYLENOL",
+        "VITAMIN C",
+        "PROAIR HFA",
+        "GRAPE SEED [VITIS VINIFERA]",
+        "SAW PALMETTO EXTRACT",
+        "CHONDROITIN SULFATE",
+        "GREEN TEA EXTRACT [CAMELLIA SINENSIS]",
+        "MUCINEX",
+        "HYPERSAL",
+        "ADVAIR HFA",
+        "ASPIRIN [ACETYLSALICYLIC ACID]",
+        "VITAMIN D2",
+        "BIOTIN",
+        "GINGER ROOT EXTRACT",
+        "GLUCOSAMINE",
+        "MAGNESIUM",
+        "VITAMIN D3",
+        "TOBRAMYCIN.",
+        "IPRATROPIUM/ALBUTEROL",
+        "FLONASE ALLERGY RELIEF",
+        "TEMAZEPAM.",
+        "B?COMPLEX 2000",
+        "ZINC.",
+        "SIMVASTATIN.",
+        "TURMERIC CURCUMIN [CURCUMA LONGA]"
+      ],
+      "reactions": [
+        "Endocarditis bacterial",
+        "Off label use",
+        "Wheezing",
+        "Cardiac infection",
+        "Dyspnoea",
+        "Cataract"
+      ],
+      "report_id": "19075887"
+    },
+    {
+      "drugs": [
+        "AMLODIPINE",
+        "OMEPRAZOLE.",
+        "TAMSULOSIN",
+        "PROMACTA",
+        "MELATONIN",
+        "CANNABIDIOL",
+        "TAVALISSE",
+        "PREDNISONE.",
+        "POTASSIUM CHLORIDE.",
+        "SAW PALMETTO EXTRACT"
+      ],
+      "reactions": [
+        "Platelet count decreased"
+      ],
+      "report_id": "19165431"
+    },
+    {
+      "drugs": [
+        "HUMIRA",
+        "VITAMIN B COMPLEX",
+        "SAW PALMETTO EXTRACT",
+        "TRIAMTERENE.",
+        "NIACIN.",
+        "MAGNESIUM CITRATE.",
+        "MAGNESIUM",
+        "PROSTATE PLUS",
+        "VITAMIN C",
+        "THIAMIN",
+        "RIBOFLAVIN",
+        "VITAMIN D",
+        "BIOTIN",
+        "LINOLEIC ACID",
+        "OZURDEX",
+        "COMBIGAN",
+        "COENZYME Q10",
+        "VITAMIN B6",
+        "STEARIC ACID.",
+        "OLEIC ACID",
+        "ADDERALL XR",
+        "ADDERALL",
+        "CRANBERRY.",
+        "PALMITIC ACID.",
+        "LYCOPENE",
+        "VITAMIN E",
+        "FOLIC ACID.",
+        "CALCIUM",
+        "PUMPKIN SEED OIL",
+        "DURAZOL EYE DROPS",
+        "VITAMIN B12",
+        "PANTOTHENIC ACID"
+      ],
+      "reactions": [
+        "Swelling",
+        "Therapy non-responder",
+        "Uveitis",
+        "Macular degeneration",
+        "Vitreous floaters"
+      ],
+      "report_id": "19264606"
+    },
+    {
+      "drugs": [
+        "ATRIPLA",
+        "ATRIPLA",
+        "ATRIPLA",
+        "ATRIPLA",
+        "ATRIPLA",
+        "DESCOVY",
+        "ATORVASTATIN",
+        "ESOMEPRAZOLE",
+        "ALBUTEROL",
+        "TIVICAY",
+        "ALPHA LIPOIC ACID",
+        "BUSPIRONE",
+        "CICLOPIROX",
+        "CLINDAMYCIN",
+        "CYCLOBENZAPRINE",
+        "FLUCONAZOLE",
+        "HIBICLENS",
+        "HYDROXYZINE PAMOATE",
+        "IBUPROFEN",
+        "INCRUSE ELLIPTA",
+        "ISONIAZID",
+        "LORATADINE",
+        "LORAZEPAM",
+        "LYRICA",
+        "MELOXICAM",
+        "NYSTATIN",
+        "OMEPRAZOLE",
+        "OXYBUTYNIN",
+        "TRICLOSAN",
+        "PREGABALIN",
+        "PRENATE ELITE",
+        "QVAR",
+        "RANITIDINE",
+        "SAW PALMETTO EXTRACT",
+        "SUMATRIPTAN",
+        "TAMSULOSIN HYDROCHLORIDE",
+        "TERBINAFINE",
+        "TIZANIDINE HYDROCHLORIDE",
+        "TRIAMCINOLONE",
+        "VITAMIN B6",
+        "VITAMIN D3"
+      ],
+      "reactions": [
+        "Bone density decreased",
+        "Pain",
+        "Emotional distress",
+        "Anxiety",
+        "Anhedonia",
+        "Grip strength decreased",
+        "Depression",
+        "Ankle fracture"
+      ],
+      "report_id": "19374125"
+    },
+    {
+      "drugs": [
+        "XYREM",
+        "XYREM",
+        "XYREM",
+        "XYREM",
+        "PRAVASTATIN SODIUM",
+        "ARGININE",
+        "TAMSULOSIN HYDROCHLORIDE",
+        "QUINAPRIL",
+        "HYDROCHLOROTHIAZIDE",
+        "VITAMIN D3",
+        "VITAMIN B12",
+        "KETOCONAZOLE",
+        "CHLORMADINONE ACETATE",
+        "COENZYME Q10",
+        "GINKGO",
+        "TURMERIC CURCUMIN [CURCUMA LONGA]",
+        "MODAFINIL",
+        "SAW PALMETTO EXTRACT"
+      ],
+      "reactions": [
+        "Neuropathy peripheral",
+        "Somnambulism"
+      ],
+      "report_id": "20263882"
+    },
+    {
+      "drugs": [
+        "XELJANZ XR",
+        "METOPROLOL",
+        "ALPRAZOLAM",
+        "SPIRIVA",
+        "QVAR",
+        "PAXLOVID",
+        "DIFLUPREDNATE",
+        "DUREZOL",
+        "FISH OIL",
+        "FOLIC ACID",
+        "DIETARY SUPPLEMENT",
+        "OCUVITE [ASCORBIC ACID;RETINOL;TOCOPHEROL]",
+        "TOZINAMERAN",
+        "SAW PALMETTO EXTRACT"
+      ],
+      "reactions": [
+        "Tinnitus",
+        "Hypertension",
+        "Pain",
+        "Injury"
+      ],
+      "report_id": "20849530"
+    },
+    {
+      "drugs": [
+        "VENCLEXTA",
+        "VENCLEXTA",
+        "VENCLEXTA",
+        "VENCLEXTA",
+        "SERTRALINE HYDROCHLORIDE",
+        "SAW PALMETTO EXTRACT",
+        "IBUPROFEN",
+        "SERTRALINE",
+        "VITAMIN D",
+        "ZYRTEC",
+        "NAPROXEN",
+        "MAGNESIUM",
+        "FAMOTIDINE",
+        "VITAMIN B COMPLEX",
+        "FAMOTIDINE",
+        "CALCIUM OYSTER SHELL",
+        "ASPIRIN",
+        "FISH OIL",
+        "KRILL OIL",
+        "AMLODIPINE BESYLATE",
+        "ROLAIDS",
+        "CALQUENCE",
+        "MINERALS\\VITAMINS"
+      ],
+      "reactions": [
+        "Fatigue",
+        "Arthralgia",
+        "Cough",
+        "Chills"
+      ],
+      "report_id": "21723465"
+    },
+    {
+      "drugs": [
+        "ESZOPICLONE",
+        "ESZOPICLONE",
+        "SIMVASTATIN",
+        "VITAMIN D",
+        "SAW PALMETTO EXTRACT"
+      ],
+      "reactions": [
+        "Drug ineffective",
+        "Product substitution issue",
+        "Insomnia",
+        "Product availability issue"
+      ],
+      "report_id": "21978378"
+    },
+    {
+      "drugs": [
+        "VENCLEXTA",
+        "VENCLEXTA",
+        "BETAINE HCL",
+        "DOCUSATE SODIUM",
+        "GEMFIBROZIL",
+        "NIACIN",
+        "VITAMIN D",
+        "VITAMIN B12",
+        "SAW PALMETTO EXTRACT",
+        "ZEAXANTHIN",
+        "VITAMIN E",
+        "GLUCOSAMINE",
+        "CARVEDILOL",
+        "ASPIRIN",
+        "HYDROCHLOROTHIAZIDE",
+        "CHONDROITIN SULFATE (BOVINE)",
+        "ENALAPRIL MALEATE",
+        "VITAMIN C",
+        "PEPSIN",
+        "IRON",
+        "ENDUR-ACIN",
+        "CHROMIUM PICOLINATE",
+        "CALCIUM CITRATE",
+        "LUTEIN",
+        "SYNTHROID",
+        "PSYLLIUM HUSK",
+        "RUTIN",
+        "UBIQUINOL",
+        "IBRUTINIB"
+      ],
+      "reactions": [
+        "Hospitalisation",
+        "Hypoaesthesia",
+        "Gastrointestinal viral infection",
+        "Drug hypersensitivity"
+      ],
+      "report_id": "22046950"
+    },
+    {
+      "drugs": [
+        "TARPEYO",
+        "ALLOPURINOL",
+        "AMLODIPINE",
+        "COENZYME Q10",
+        "VITAMIN B12",
+        "FERROUS SULFATE",
+        "VITAMINS",
+        "FISH OIL",
+        "SAW PALMETTO EXTRACT",
+        "SODIUM BICARBONATE",
+        "FLOMAX",
+        "ASCORBIC ACID",
+        "ZINC"
+      ],
+      "reactions": [
+        "Fluid retention",
+        "Hypertension",
+        "Blood pressure fluctuation",
+        "Weight increased",
+        "Insomnia",
+        "Peripheral swelling"
+      ],
+      "report_id": "22093713"
+    },
+    {
+      "drugs": [
+        "IMBRUVICA",
+        "IMBRUVICA",
+        "IMBRUVICA",
+        "IMBRUVICA",
+        "DOXAZOSIN",
+        "SENNOSIDES",
+        "LOTENSIN",
+        "LIPITOR",
+        "TENORMIN",
+        "HYDRODIURIL",
+        "PRILOSEC",
+        "MINERALS\\VITAMINS",
+        "MORPHINE",
+        "SAW PALMETTO EXTRACT",
+        "PROBIOTIC BLEND",
+        "MINERALS\\VITAMINS",
+        "COENZYME Q10",
+        "RITUXAN",
+        "RITUXAN",
+        "TYLENOL",
+        "GLUCOSAMINE 1500",
+        "FOLVITE",
+        "NORVASC"
+      ],
+      "reactions": [
+        "Cataract",
+        "Increased tendency to bruise",
+        "Atrial fibrillation",
+        "Muscular weakness",
+        "COVID-19",
+        "Fall",
+        "Rib fracture",
+        "Atrial fibrillation",
+        "Monocytosis",
+        "Lymphoplasmacytoid lymphoma/immunocytoma",
+        "Blindness unilateral",
+        "Gaze palsy",
+        "Oedema peripheral"
+      ],
+      "report_id": "22591831"
+    },
+    {
+      "drugs": [
+        "POLYETHYLENE GLYCOL 3350",
+        "SAW PALMETTO EXTRACT"
+      ],
+      "reactions": [
+        "Incorrect product administration duration"
+      ],
+      "report_id": "23177792"
+    },
+    {
+      "drugs": [
+        "REMODULIN",
+        "REMODULIN",
+        "REMODULIN",
+        "SAW PALMETTO EXTRACT",
+        "HERBALS\\SAW PALMETTO",
+        "LASIX",
+        "SILDENAFIL CITRATE",
+        "OPSUMIT",
+        "VITAMIN D3",
+        "OXYGEN",
+        "LISINOPRIL",
+        "MAGNESIUM",
+        "PLAVIX",
+        "PRILOSEC",
+        "ASPIRIN"
+      ],
+      "reactions": [
+        "Nausea",
+        "Dyspnoea",
+        "Illness"
+      ],
+      "report_id": "23796659"
+    },
+    {
+      "drugs": [
+        "SOTATERCEPT",
+        "SOTATERCEPT",
+        "SOTATERCEPT",
+        "SOTATERCEPT",
+        "REMODULIN",
+        "REMODULIN",
+        "REMODULIN",
+        "CEFAZOLIN SODIUM",
+        "SAW PALMETTO EXTRACT",
+        "LASIX",
+        "SILDENAFIL",
+        "OPSUMIT",
+        "VITAMIN D3",
+        "OXYGEN",
+        "LISINOPRIL",
+        "MAGNESIUM",
+        "PLAVIX",
+        "PRILOSEC",
+        "AMLODIPINE BESYLATE",
+        "POTASSIUM CHLORIDE",
+        "DICLOFENAC SODIUM",
+        "HYDROCHLOROTHIAZIDE",
+        "VAZALORE",
+        "HERBALS\\SAW PALMETTO"
+      ],
+      "reactions": [
+        "Haemoglobin abnormal",
+        "Dyspnoea",
+        "Haemoglobin increased",
+        "Product dose omission issue",
+        "Ill-defined disorder",
+        "Platelet count abnormal",
+        "Haemorrhage"
+      ],
+      "report_id": "24688380"
+    },
+    {
+      "drugs": [
+        "REPATHA",
+        "EZETIMIBE",
+        "RESTASIS (CYCLOSPORINE) 0.05% (60 COUNT)",
+        "MINOXIDIL FOAM 5% TOPICAL (ROGAINE)",
+        "NAPROXEN SODIUM 220MG ^GLUCOSAMINE HCI 750MG WITH CHONDROITIN 600MG^",
+        "MULTIVITAMIN (EQUATE MEN 50+)",
+        "SAW PALMETTO EXTRACT 160 MG / PUMPKIN SEED OIL 1000 MG",
+        "VITAMIN D3 2,000 IU"
+      ],
+      "reactions": [
+        "Peripheral coldness",
+        "Dizziness",
+        "Neuropathy peripheral",
+        "Muscular weakness",
+        "Blood cholesterol decreased",
+        "Low density lipoprotein decreased",
+        "Product label issue"
+      ],
+      "report_id": "25728148"
+    },
+    {
+      "drugs": [
+        "REMODULIN",
+        "REMODULIN",
+        "WINREVAIR",
+        "AMLODIPINE BESYLATE",
+        "CEFAZOLIN SODIUM",
+        "HERBALS\\SAW PALMETTO",
+        "SAW PALMETTO EXTRACT",
+        "OPSUMIT",
+        "LISINOPRIL",
+        "LASIX",
+        "VITAMIN D3",
+        "POTASSIUM CHLORIDE",
+        "SILDENAFIL CITRATE",
+        "DICLOFENAC SODIUM",
+        "OXYGEN",
+        "VAZALORE",
+        "MAGNESIUM",
+        "PLAVIX",
+        "PRILOSEC OTC",
+        "HYDROCHLOROTHIAZIDE"
+      ],
+      "reactions": [
+        "Haemoglobin increased",
+        "Dyspnoea"
+      ],
+      "report_id": "26095106"
+    },
+    {
+      "drugs": [
+        "CAMZYOS",
+        "CAMZYOS",
+        "CAMZYOS",
+        "ATENOLOL",
+        "CANDESARTAN CILEXETIL",
+        "ATORVASTATIN CALCIUM",
+        "EZETIMIBE",
+        "ELIQUIS",
+        "SAW PALMETTO EXTRACT",
+        "CHOLECALCIFEROL",
+        "VITAMIN C",
+        "ZINC ACETATE",
+        "FISH OIL",
+        "TENORMIN",
+        "ATACAND",
+        "LIPITOR",
+        "ZETIA",
+        "AMIODARONE",
+        "DELSYM",
+        "MUCINEX",
+        "FLONASE",
+        "TYLENOL",
+        "MENTHOL"
+      ],
+      "reactions": [
+        "Atrial fibrillation",
+        "Conduction disorder",
+        "Ejection fraction decreased",
+        "Left ventricular outflow tract gradient increased"
+      ],
+      "report_id": "26556234"
+    },
+    {
+      "drugs": [
+        "BETASERON",
+        "BETASERON",
+        "PREDNISONE TAB",
+        "IMURAN",
+        "ALLOPURINOL",
+        "CATAPRES",
+        "COZAAR",
+        "VERAPAMIL",
+        "METFORMIN HCL",
+        "FLOMAX",
+        "PROSCAR",
+        "LESCOL",
+        "FOSAMAX",
+        "OXYCOD",
+        "ECOTRIN",
+        "CALCIUM W/MAGNESIUM/ZINC",
+        "MULTI-VITAMIN",
+        "VITAMIN B COMPLEX CAP",
+        "VITAMIN E",
+        "LYSINE",
+        "SAW PALMETTO EXTRACT",
+        "QUININE"
+      ],
+      "reactions": [
+        "BONE DENSITY DECREASED",
+        "DEHYDRATION",
+        "DIARRHOEA",
+        "INFLUENZA LIKE ILLNESS",
+        "NAUSEA",
+        "SPINAL FRACTURE",
+        "STAPHYLOCOCCAL BACTERAEMIA",
+        "VOMITING",
+        "WHITE BLOOD CELL COUNT DECREASED"
+      ],
+      "report_id": "5520081-1"
+    }
+  ],
+  "confidence": "low",
+  "note": "Co-occurrence signals only. Not a confirmed interaction source. Verify against NIH ODS, MedlinePlus, or PubMed before using."
+}
