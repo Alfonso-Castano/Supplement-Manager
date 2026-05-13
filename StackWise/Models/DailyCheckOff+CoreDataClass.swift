@@ -3,7 +3,7 @@ import CoreData
 @objc(DailyCheckOff)
 public class DailyCheckOff: NSManagedObject {
     @NSManaged public var id: UUID?
-    @NSManaged public var date: Date?               // Normalized to midnight
+    @NSManaged public var checkOffDate: Date?        // Normalized to midnight
     @NSManaged public var timeBlock: String?        // "morning", "afternoon", "evening"
     @NSManaged public var completed: Bool
     @NSManaged public var completedAt: Date?

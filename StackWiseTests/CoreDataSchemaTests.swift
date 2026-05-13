@@ -73,7 +73,7 @@ final class CoreDataSchemaTests: XCTestCase {
     func testDailyCheckOffInsert() throws {
         let checkOff = DailyCheckOff(context: context)
         checkOff.id = UUID()
-        checkOff.date = Date()
+        checkOff.checkOffDate = Date()
         checkOff.completed = false
         checkOff.timeBlock = "morning"
         XCTAssertNoThrow(try context.save(), "DailyCheckOff save should not throw")
