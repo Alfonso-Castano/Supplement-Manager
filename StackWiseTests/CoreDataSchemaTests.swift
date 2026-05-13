@@ -83,7 +83,7 @@ final class CoreDataSchemaTests: XCTestCase {
         let feedback = FeedbackItem(context: context)
         feedback.id = UUID()
         feedback.submitted = false
-        feedback.type = "general"
+        feedback.feedbackType = "general"
         XCTAssertNoThrow(try context.save(), "FeedbackItem save should not throw")
     }
 
