@@ -15,14 +15,14 @@
         <attribute name="submitted" optional="YES" attributeType="Boolean" usesScalarValueType="YES"/>
         <attribute name="type" optional="YES" attributeType="String"/>
     </entity>
-    <entity name="ScheduledDose" representedClassName="ScheduledDose" syncable="YES" codeGenerationType="class">
+    <entity name="ScheduledDose" representedClassName="ScheduledDose" syncable="YES">
         <attribute name="id" optional="YES" attributeType="UUID" usesScalarValueType="NO"/>
         <attribute name="position" optional="YES" attributeType="Integer 16" defaultValueString="0" usesScalarValueType="YES"/>
         <attribute name="suggestedTime" optional="YES" attributeType="Date" usesScalarValueType="NO"/>
         <attribute name="timeBlock" optional="YES" attributeType="String"/>
         <relationship name="stackItem" optional="YES" maxCount="1" deletionRule="Nullify" destinationEntity="StackItem" inverseName="scheduledDoses" inverseEntity="StackItem"/>
     </entity>
-    <entity name="StackItem" representedClassName="StackItem" syncable="YES" codeGenerationType="class">
+    <entity name="StackItem" representedClassName="StackItem" syncable="YES">
         <attribute name="activeIngredient" optional="YES" attributeType="String"/>
         <attribute name="addedDate" optional="YES" attributeType="Date" usesScalarValueType="NO"/>
         <attribute name="dosage" optional="YES" attributeType="String"/>
@@ -36,7 +36,7 @@
         <attribute name="sortOrder" optional="YES" attributeType="Integer 16" defaultValueString="0" usesScalarValueType="YES"/>
         <relationship name="scheduledDoses" optional="YES" toMany="YES" deletionRule="Cascade" destinationEntity="ScheduledDose" inverseName="stackItem" inverseEntity="ScheduledDose"/>
     </entity>
-    <entity name="UserProfile" representedClassName="UserProfile" syncable="YES" codeGenerationType="class">
+    <entity name="UserProfile" representedClassName="UserProfile" syncable="YES">
         <attribute name="age" optional="YES" attributeType="Integer 16" defaultValueString="0" usesScalarValueType="YES"/>
         <attribute name="allergies" optional="YES" attributeType="Transformable" valueTransformerName="NSSecureUnarchiveFromData" customClassName="NSArray"/>
         <attribute name="breakfastTime" optional="YES" attributeType="Date" usesScalarValueType="NO"/>
