@@ -15,6 +15,10 @@ enum StackItemFactory {
         let trimmedLabel = input.label.trimmingCharacters(in: .whitespaces)
         precondition(!trimmedLabel.isEmpty, "StackItemFactory requires a non-empty label")
 
+        // Fetch before inserting — CoreData includes pending objects in fetches by default,
+        // so computing sortOrder after StackItem(context:) would inflate the result by 1.
+        let sortOrder = Int16(nextSortOrder(in: context))
+
         let item = StackItem(context: context)
         item.id = UUID()
         item.label = input.match?.canonicalName ?? trimmedLabel
@@ -26,7 +30,7 @@ enum StackItemFactory {
         item.frequency = input.frequency
         item.addedDate = .now
         item.isActive = true
-        item.sortOrder = Int16(nextSortOrder(in: context))
+        item.sortOrder = sortOrder
 
         try context.save()
         onSaved?()
