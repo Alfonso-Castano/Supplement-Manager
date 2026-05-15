@@ -151,6 +151,14 @@ Plans:
 
 **Requirements:** REQ-16, REQ-17
 
+**Plans:** 4 plans
+
+Plans:
+- [ ] 04-01-PLAN.md — `TimingProperties` struct + `IngredientRepository.timingProperties(for:)` + `ScheduleStore` skeleton + `StackWiseApp` injection
+- [ ] 04-02-PLAN.md — `ScheduleEngine` (pure 4-rule algorithm) + `ScheduleResult` / `ScheduledItem` types + `ScheduleStore.recompute()` + tests (7 engine + 4 store)
+- [ ] 04-03-PLAN.md — `ScheduleView` UI (3 `List` sections, time window headers, conflict/synergy row badges)
+- [ ] 04-04-PLAN.md — Wire `ScheduleStore.invalidate()` into `AddItemView` + `ScheduledDose` Core Data writes verified + Mac batch (build + ≥48 tests + simulator golden path)
+
 **Success Criteria:**
 1. Prescriptions always placed first; never moved for supplement conflicts
 2. Timing-conflict pairs separated by ≥ `timing_window_hours` using user's actual meal/wake times
@@ -251,7 +259,7 @@ Plans:
 | 1 | Complete | 3/3 | 01-01, 01-02, 01-03 |
 | 2 | Complete | 4/4 | 02-01, 02-02, 02-03, 02-04 (executed via `~/.claude/plans/stackwise-phase-2-lovely-bachman.md`; no `.planning/phases/02-*` dir) |
 | 3 | Complete | 4/4 | 03-01, 03-02, 03-03, 03-04 |
-| 4 | Not started | 0/0 | — |
+| 4 | Planned | 0/4 | — |
 | 5 | Not started | 0/0 | — |
 | 6 | Not started | 0/0 | — |
 | 7 | Not started | 0/0 | — |

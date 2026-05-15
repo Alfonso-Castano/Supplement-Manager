@@ -1,13 +1,13 @@
 ---
 current_phase: "4"
 current_phase_name: "Smart Schedule"
-current_plan: "0 of 0"
+current_plan: "0 of 4"
 total_phases: "10"
-status: "pending"
+status: "planned"
 progress: "[████░░░░░░] 40%"
 last_activity: "2026-05-15"
 phase_count: 10
-plan_count: 18
+plan_count: 22
 summary_count: 15
 ---
 
@@ -22,10 +22,10 @@ See: SPEC.md (full project specification)
 
 ## Current Position
 
-Phase: 4 of 10 (Smart Schedule) — not yet planned
-Plan: 0 of 0 (Phase 4 plans not yet written)
-Status: Phase 3 verified and complete (2026-05-15). Phase 4 discussion pending.
-Last activity: 2026-05-15 — Phase 3 complete. All 4 plans executed on Windows, Mac batch verified: 36 tests passing, simulator golden path confirmed (warfarin+vitamin_k2 critical pair, vitamin_c+iron synergy, Banana extract not-in-DB). Phase 3 closed.
+Phase: 4 of 10 (Smart Schedule) — planned, ready for execution
+Plan: 0 of 4 (Phase 4 plans written; execution not yet started)
+Status: Phase 4 discussion complete (2026-05-15). Decisions D-36–D-42 locked. 4 plan files written.
+Last activity: 2026-05-15 — Phase 4 discussion complete. Decisions locked, CONTEXT.md and 04-01 through 04-04 PLAN.md files written.
 Progress: [███░░░░░░░] 30%
 
 ---
@@ -44,6 +44,15 @@ Progress: [███░░░░░░░] 30%
 - D-24: Onboarding source of truth is Core Data `UserProfile.onboardingComplete`; `AppState.onboardingComplete` mirrors it at launch.
 - D-25: Unmatched stack items are saved with `isInDatabase = false` and the user-entered label verbatim. Phase 3 surfaces them in the "not-in-database" group on the analysis screen.
 
+**Phase 4 (locked 2026-05-15, in `.planning/phases/04-smart-schedule/04-CONTEXT.md`):**
+- D-36: `IngredientRepository` extended with `timingProperties(for slug:) -> TimingProperties` — no new repository.
+- D-37: Schedule persisted to Core Data `ScheduledDose`. `ScheduleStore` (@Observable) writes doses on recompute, caches `ScheduleResult` in memory for the view.
+- D-38: Dirty-flag recompute pattern (same as `AnalysisStore`). `invalidate()` called from `AddItemView.onSaved`.
+- D-39: `ScheduleView` is a `List` with 3 sections. Section headers show block name + time window from `UserProfile`. Item rows show label, dosage, conflict/synergy badges.
+- D-40: 4 scheduling rules — sufficient for all 5 success criteria. No 5th rule.
+- D-41: 4 sub-plans: 04-01 (data + skeleton), 04-02 (algorithm + tests), 04-03 (UI), 04-04 (wire + Mac batch).
+- D-42: Mac handoff batched once at Phase 4 end.
+
 **Phase 3 (locked 2026-05-14, in `.planning/phases/03-interaction-analysis/03-CONTEXT.md`):**
 - D-26: Second `@Observable final class InteractionRepository` opens its own read-only handle to `stackwise.sqlite`. Phase 2's `IngredientRepository` is untouched except for one nit fix (CF-6).
 - D-27: Analysis runs lazily with dirty-flag invalidation. `AnalysisStore` (`@Observable`) caches the last result; stack mutations call `invalidate()`; first read after invalidation recomputes.
@@ -60,8 +69,8 @@ Progress: [███░░░░░░░] 30%
 
 ### Pending Todos
 
-- Phase 4 discussion: surface gray areas (scheduling algorithm rules, schedule tab layout, timing_properties usage from DB).
-- Phase 4 planning: write `04-CONTEXT.md` and plan files under `.planning/phases/04-smart-schedule/`.
+- Execute Phase 4: run plans 04-01 → 04-04 via `/gsd-execute-phase phase 4`.
+- Mac batch at Phase 4 end: build + ≥48 tests + simulator golden path (D-42).
 
 ### Blockers / Concerns
 
