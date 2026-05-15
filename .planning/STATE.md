@@ -1,9 +1,9 @@
 ---
 current_phase: "4"
 current_phase_name: "Smart Schedule"
-current_plan: "0 of 4"
+current_plan: "1 of 4"
 total_phases: "10"
-status: "planned"
+status: "in-progress"
 progress: "[████░░░░░░] 40%"
 last_activity: "2026-05-15"
 phase_count: 10
@@ -22,11 +22,11 @@ See: SPEC.md (full project specification)
 
 ## Current Position
 
-Phase: 4 of 10 (Smart Schedule) — planned, ready for execution
-Plan: 0 of 4 (Phase 4 plans written; execution not yet started)
-Status: Phase 4 discussion complete (2026-05-15). Decisions D-36–D-42 locked. 4 plan files written.
-Last activity: 2026-05-15 — Phase 4 discussion complete. Decisions locked, CONTEXT.md and 04-01 through 04-04 PLAN.md files written.
-Progress: [███░░░░░░░] 30%
+Phase: 4 of 10 (Smart Schedule) — in-progress
+Plan: 1 of 4 (04-01 complete; 04-02 next)
+Status: Plan 04-01 executed (2026-05-15). TimingProperties + IngredientRepository.timingProperties + ScheduleStore skeleton injected.
+Last activity: 2026-05-15 — Plan 04-01 executed: 5 tasks, 5 commits.
+Progress: [███░░░░░░░] 32%
 
 ---
 
@@ -69,8 +69,8 @@ Progress: [███░░░░░░░] 30%
 
 ### Pending Todos
 
-- Execute Phase 4: run plans 04-01 → 04-04 via `/gsd-execute-phase phase 4`.
-- Mac batch at Phase 4 end: build + ≥48 tests + simulator golden path (D-42).
+- Execute Phase 4: run plans 04-02 → 04-04 (04-01 complete).
+- Mac batch at Phase 4 end: build + >=48 tests + simulator golden path (D-42).
 
 ### Blockers / Concerns
 
@@ -90,5 +90,5 @@ None.
 ## Session Continuity
 
 Last session: 2026-05-15
-Stopped at: Phase 3 verified and closed. Phase 4 not yet discussed or planned.
-Resume: Start Phase 4 discussion. Read `.planning/ROADMAP.md` Phase 4 section for goal, requirements (REQ-16, REQ-17), and success criteria before opening the discussion.
+Stopped at: Plan 04-01 complete (5/5 tasks). ScheduleStore skeleton injected into app.
+Resume: Execute Plan 04-02 (ScheduleEngine pure algorithm + tests).
