@@ -11,7 +11,7 @@
 - [x] **Phase 0: Database Build** — Self-built supplement/medication interaction database (pre-app) — COMPLETE; ships as `database/stackwise.sqlite` (63 interactions, 70 ingredients)
 - [x] **Phase 1: Project Foundation** — Xcode setup, Core Data schema, three-tab navigation shell — COMPLETE
 - [x] **Phase 2: Stack & User Setup** — Health profile entry, add item flow with auto-suggestion — COMPLETE (driven from `~/.claude/plans/stackwise-phase-2-lovely-bachman.md`; no `.planning/phases/02-*` dir was created during execution. Carry-forward nits tracked in `.claude/PHASE-3-HANDOFF.md` and folded into Phase 3 where they touch the same files.)
-- [ ] **Phase 3: Interaction Analysis Engine** — Bundle database, pairwise lookup, analysis screen
+- [x] **Phase 3: Interaction Analysis Engine** — Bundle database, pairwise lookup, analysis screen — COMPLETE (36 tests passing, Mac verified 2026-05-15)
 - [ ] **Phase 4: Smart Schedule** — Priority-rule scheduling algorithm, schedule tab with blocks
 - [ ] **Phase 5: Functional Onboarding** — Onboarding coordinator, preview screen, trial trigger
 - [ ] **Phase 6: Reminders & Today Tab** — Local notifications, block-level check-off interface
@@ -134,12 +134,12 @@ Plans:
 **Plans:** 4 plans
 
 Plans:
-- [ ] 03-01-PLAN.md — `InteractionRepository` (read-only SQLite layer for `interactions` table) + tests + `StackWiseApp` injection + carry-forward `sqlite3_close_v2` fix
-- [ ] 03-02-PLAN.md — `AnalysisEngine` (pure, pairwise) + `AnalysisStore` (`@Observable`, dirty-flag cache) + tests + invalidation hook in `StackItemFactory`
-- [ ] 03-03-PLAN.md — `AnalysisView` UI (critical → advisory → synergy → not-in-database) + push from `StackListView` toolbar
-- [ ] 03-04-PLAN.md — Inline badges on `StackListView` rows reflecting current analysis state
+- [x] 03-01-PLAN.md — `InteractionRepository` (read-only SQLite layer for `interactions` table) + tests + `StackWiseApp` injection + carry-forward `sqlite3_close_v2` fix — COMPLETE
+- [x] 03-02-PLAN.md — `AnalysisEngine` (pure, pairwise) + `AnalysisStore` (`@Observable`, dirty-flag cache) + tests + invalidation hook in `StackItemFactory` — COMPLETE
+- [x] 03-03-PLAN.md — `AnalysisView` UI (critical → advisory → synergy → not-in-database) + push from `StackListView` toolbar — COMPLETE
+- [x] 03-04-PLAN.md — Inline badges on `StackListView` rows reflecting current analysis state — COMPLETE
 
-**Mac handoff:** Batched at end of phase (D-33) — one Xcode add-to-target + `xcodebuild test` + simulator pass across all four plans.
+**Mac verification:** 36 tests passing, simulator golden path confirmed 2026-05-15.
 
 ---
 
@@ -250,7 +250,7 @@ Plans:
 | 0 | Complete | 4/4 | 00-01, 00-02, 00-03, 00-04 |
 | 1 | Complete | 3/3 | 01-01, 01-02, 01-03 |
 | 2 | Complete | 4/4 | 02-01, 02-02, 02-03, 02-04 (executed via `~/.claude/plans/stackwise-phase-2-lovely-bachman.md`; no `.planning/phases/02-*` dir) |
-| 3 | Planning | 0/4 | — |
+| 3 | Complete | 4/4 | 03-01, 03-02, 03-03, 03-04 |
 | 4 | Not started | 0/0 | — |
 | 5 | Not started | 0/0 | — |
 | 6 | Not started | 0/0 | — |

@@ -1,14 +1,14 @@
 ---
-current_phase: "3"
-current_phase_name: "Interaction Analysis Engine"
-current_plan: "2 of 4"
+current_phase: "4"
+current_phase_name: "Smart Schedule"
+current_plan: "0 of 0"
 total_phases: "10"
-status: "executing"
-progress: "[███░░░░░░░] 30%"
+status: "pending"
+progress: "[████░░░░░░] 40%"
 last_activity: "2026-05-15"
 phase_count: 10
-plan_count: 14
-summary_count: 11
+plan_count: 18
+summary_count: 15
 ---
 
 ## Project Reference
@@ -16,16 +16,16 @@ summary_count: 11
 See: SPEC.md (full project specification)
 
 **Core value:** Trustworthy supplement/medication interaction analysis paired with a personalized smart schedule and reminders
-**Current focus:** Phase 3 — Interaction Analysis Engine (the product differentiator)
+**Current focus:** Phase 4 — Smart Schedule (priority-rule scheduling algorithm + schedule tab)
 
 ---
 
 ## Current Position
 
-Phase: 3 of 10 (Interaction Analysis Engine)
-Plan: 2 of 4 (03-01 and 03-02 complete)
-Status: Executing — AnalysisEngine + AnalysisStore done; AnalysisView UI (03-03) is next.
-Last activity: 2026-05-15 — Plan 03-02 executed. AnalysisEngine (pure enum), AnalysisStore (@Observable, dirty-flag cache, #if DEBUG test-seam), AnalysisResults (pure value type). StackItemFactory.create wired with onSaved invalidation callback. StackWiseApp rewritten with custom init() pattern. 10 new tests added.
+Phase: 4 of 10 (Smart Schedule) — not yet planned
+Plan: 0 of 0 (Phase 4 plans not yet written)
+Status: Phase 3 verified and complete (2026-05-15). Phase 4 discussion pending.
+Last activity: 2026-05-15 — Phase 3 complete. All 4 plans executed on Windows, Mac batch verified: 36 tests passing, simulator golden path confirmed (warfarin+vitamin_k2 critical pair, vitamin_c+iron synergy, Banana extract not-in-DB). Phase 3 closed.
 Progress: [███░░░░░░░] 30%
 
 ---
@@ -60,26 +60,26 @@ Progress: [███░░░░░░░] 30%
 
 ### Pending Todos
 
-- Plan 03-03: Build `AnalysisView` UI (4 grouped sections); push from `StackListView` toolbar.
-- Plan 03-04: Inline badges on stack rows reflecting current analysis state.
-- Plan 03-03: Build `AnalysisView` UI (4 grouped sections); push from `StackListView` toolbar.
-- Plan 03-04: Inline badges on stack rows reflecting current analysis state.
-- Carry-forward fix: convert `IngredientRepository.deinit` to `sqlite3_close_v2` (CF-6), folded into Plan 03-01 since it's the closest pattern reference.
+- Phase 4 discussion: surface gray areas (scheduling algorithm rules, schedule tab layout, timing_properties usage from DB).
+- Phase 4 planning: write `04-CONTEXT.md` and plan files under `.planning/phases/04-smart-schedule/`.
 
 ### Blockers / Concerns
 
-None. Phase 2 review came back clean; DB shape matches all Phase 3 assumptions; user has approved all four architectural calls.
+None.
 
 ---
 
 ## Deferred Items
 
-- Source-of-truth drift between `database/stackwise.sqlite` (build artifact) and `StackWise/stackwise.sqlite` (bundled) — flagged in handoff; not in Phase 3 scope.
+- Source-of-truth drift between `database/stackwise.sqlite` (build artifact) and `StackWise/stackwise.sqlite` (bundled) — flagged in Phase 3 handoff; not yet addressed.
+- `hasSynergy(forSlug:)` on `AnalysisResults` exists but not yet wired to a green badge on stack rows — deferred polish item for Phase 4+.
+- `timing_relevant` / `timing_window_hours` fields are captured in `InteractionPair` but not yet surfaced in UI — Phase 4 (Smart Schedule) will use these.
+- `displayName(_:)` slug → display name conversion lives in `AnalysisView` locally — may be centralized in a `LabelService` in Phase 4+ if needed elsewhere.
 
 ---
 
 ## Session Continuity
 
 Last session: 2026-05-15
-Stopped at: Completed 03-02-PLAN.md — AnalysisEngine + AnalysisStore + invalidation hook. Next: 03-03-PLAN.md (AnalysisView UI).
-Resume file: `.planning/phases/03-interaction-analysis/03-03-PLAN.md` (Plan 3 of 4).
+Stopped at: Phase 3 verified and closed. Phase 4 not yet discussed or planned.
+Resume: Start Phase 4 discussion. Read `.planning/ROADMAP.md` Phase 4 section for goal, requirements (REQ-16, REQ-17), and success criteria before opening the discussion.
