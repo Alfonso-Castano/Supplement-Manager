@@ -5,6 +5,7 @@ struct AddItemView: View {
     @Environment(\.dismiss) private var dismiss
     @Environment(\.managedObjectContext) private var context
     @Environment(IngredientRepository.self) private var repo
+    @Environment(AnalysisStore.self) private var analysisStore
 
     @State private var label: String = ""
     @State private var dosage: String = ""
@@ -122,7 +123,7 @@ struct AddItemView: View {
             match: selectedMatch
         )
         do {
-            _ = try StackItemFactory.create(input, in: context)
+            _ = try StackItemFactory.create(input, in: context, onSaved: { analysisStore.invalidate() })
             dismiss()
         } catch {
             assertionFailure("Failed to save StackItem: \(error)")

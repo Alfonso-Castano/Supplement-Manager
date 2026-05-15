@@ -11,7 +11,7 @@ enum StackItemFactory {
     }
 
     @discardableResult
-    static func create(_ input: Input, in context: NSManagedObjectContext) throws -> StackItem {
+    static func create(_ input: Input, in context: NSManagedObjectContext, onSaved: (() -> Void)? = nil) throws -> StackItem {
         let trimmedLabel = input.label.trimmingCharacters(in: .whitespaces)
         precondition(!trimmedLabel.isEmpty, "StackItemFactory requires a non-empty label")
 
@@ -29,6 +29,7 @@ enum StackItemFactory {
         item.sortOrder = Int16(nextSortOrder(in: context))
 
         try context.save()
+        onSaved?()
         return item
     }
 
