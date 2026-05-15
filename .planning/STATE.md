@@ -1,7 +1,7 @@
 ---
 current_phase: "4"
 current_phase_name: "Smart Schedule"
-current_plan: "1 of 4"
+current_plan: "2 of 4"
 total_phases: "10"
 status: "in-progress"
 progress: "[████░░░░░░] 40%"
@@ -23,10 +23,10 @@ See: SPEC.md (full project specification)
 ## Current Position
 
 Phase: 4 of 10 (Smart Schedule) — in-progress
-Plan: 1 of 4 (04-01 complete; 04-02 next)
-Status: Plan 04-01 executed (2026-05-15). TimingProperties + IngredientRepository.timingProperties + ScheduleStore skeleton injected.
-Last activity: 2026-05-15 — Plan 04-01 executed: 5 tasks, 5 commits.
-Progress: [███░░░░░░░] 32%
+Plan: 2 of 4 (04-02 complete; 04-03 next)
+Status: Plan 04-02 executed (2026-05-15). ScheduleEngine 4-rule algorithm + ScheduleResult types + ScheduleStore.recompute() wired + 11 tests.
+Last activity: 2026-05-15 — Plan 04-02 executed: 5 tasks, 5 commits.
+Progress: [████░░░░░░] 36%
 
 ---
 
@@ -69,7 +69,7 @@ Progress: [███░░░░░░░] 32%
 
 ### Pending Todos
 
-- Execute Phase 4: run plans 04-02 → 04-04 (04-01 complete).
+- Execute Phase 4: run plans 04-03 → 04-04 (04-01, 04-02 complete).
 - Mac batch at Phase 4 end: build + >=48 tests + simulator golden path (D-42).
 
 ### Blockers / Concerns
@@ -90,5 +90,5 @@ None.
 ## Session Continuity
 
 Last session: 2026-05-15
-Stopped at: Plan 04-01 complete (5/5 tasks). ScheduleStore skeleton injected into app.
-Resume: Execute Plan 04-02 (ScheduleEngine pure algorithm + tests).
+Stopped at: Plan 04-02 complete (5/5 tasks). ScheduleEngine + ScheduleResult + recompute() wired.
+Resume: Execute Plan 04-03 (ScheduleView UI).
