@@ -30,7 +30,7 @@ final class IngredientRepository {
     }
 
     deinit {
-        if let db { sqlite3_close(db) }
+        if let db { sqlite3_close_v2(db) }
     }
 
     func search(_ query: String, limit: Int = 10) -> [IngredientMatch] {
