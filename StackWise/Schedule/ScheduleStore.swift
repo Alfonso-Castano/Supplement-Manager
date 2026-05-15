@@ -54,20 +54,3 @@ final class ScheduleStore {
     }
     #endif
 }
-
-// Temporary stub -- replaced by full definition in Plan 04-02.
-struct ScheduleResult {
-    let morning: [ScheduledItem]
-    let afternoon: [ScheduledItem]
-    let evening: [ScheduledItem]
-    static let empty = ScheduleResult(morning: [], afternoon: [], evening: [])
-}
-
-struct ScheduledItem: Identifiable {
-    let id: UUID
-    let label: String
-    let activeIngredient: String
-    let dosage: String
-    let isPrescription: Bool
-    let position: Int
-}
