@@ -7,6 +7,7 @@ struct StackWiseApp: App {
     @State private var ingredientRepo: IngredientRepository
     @State private var interactionRepo: InteractionRepository
     @State private var analysisStore: AnalysisStore
+    @State private var scheduleStore: ScheduleStore
     let persistenceController = PersistenceController.shared
 
     init() {
@@ -20,6 +21,11 @@ struct StackWiseApp: App {
             repo: inter,
             context: { PersistenceController.shared.container.viewContext }
         ))
+        _scheduleStore   = State(initialValue: ScheduleStore(
+            interactionRepo: inter,
+            ingredientRepo: ing,
+            context: { PersistenceController.shared.container.viewContext }
+        ))
     }
 
     var body: some Scene {
@@ -29,6 +35,7 @@ struct StackWiseApp: App {
                 .environment(ingredientRepo)
                 .environment(interactionRepo)
                 .environment(analysisStore)
+                .environment(scheduleStore)
                 .environment(\.managedObjectContext, persistenceController.container.viewContext)
         }
     }
