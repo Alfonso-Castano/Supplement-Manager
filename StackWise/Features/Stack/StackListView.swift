@@ -51,6 +51,14 @@ struct StackListView: View {
 
 private struct StackItemRow: View {
     @ObservedObject var item: StackItem
+    @Environment(AnalysisStore.self) private var store
+
+    private var severityForRow: InteractionSeverity? {
+        guard item.isInDatabase else { return nil }
+        let slug = item.activeIngredientValue
+        guard !slug.isEmpty else { return nil }
+        return store.currentResults().worstSeverity(forSlug: slug)
+    }
 
     var body: some View {
         HStack(alignment: .top) {
@@ -63,6 +71,15 @@ private struct StackItemRow: View {
                             .labelStyle(.iconOnly)
                             .foregroundStyle(.orange)
                             .accessibilityLabel("Not in interaction database")
+                    }
+                    if let severity = severityForRow {
+                        Image(systemName: severity == .critical
+                              ? "exclamationmark.octagon.fill"
+                              : "exclamationmark.circle.fill")
+                            .foregroundStyle(severity == .critical ? .red : .orange)
+                            .accessibilityLabel(severity == .critical
+                                                ? "Critical interaction present"
+                                                : "Advisory interaction present")
                     }
                 }
                 if let dosage = item.dosage, !dosage.isEmpty {
