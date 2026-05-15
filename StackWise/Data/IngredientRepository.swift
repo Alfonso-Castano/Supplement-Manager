@@ -73,6 +73,21 @@ final class IngredientRepository {
         return results
     }
 
+    /// Returns timing constraints for a single ingredient slug.
+    /// Returns `TimingProperties.none` if the slug is not in the DB or has no timing blob.
+    func timingProperties(for slug: String) -> TimingProperties {
+        guard let db else { return .none }
+        let sql = "SELECT timing_properties FROM ingredients WHERE canonical_name = ? LIMIT 1"
+        var stmt: OpaquePointer?
+        defer { sqlite3_finalize(stmt) }
+        guard sqlite3_prepare_v2(db, sql, -1, &stmt, nil) == SQLITE_OK else { return .none }
+        sqlite3_bind_text(stmt, 1, slug, -1, SQLITE_TRANSIENT)
+        guard sqlite3_step(stmt) == SQLITE_ROW else { return .none }
+        let blob: String? = (sqlite3_column_type(stmt, 0) != SQLITE_NULL)
+            ? String(cString: sqlite3_column_text(stmt, 0)) : nil
+        return TimingProperties.decode(from: blob)
+    }
+
     private func firstAliasMatching(query: String, aliasesJSON: String,
                                     canonicalName: String) -> String? {
         if canonicalName.range(of: query, options: .caseInsensitive) != nil { return nil }
