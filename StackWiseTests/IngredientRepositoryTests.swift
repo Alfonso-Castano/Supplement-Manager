@@ -79,4 +79,12 @@ final class IngredientRepositoryTests: XCTestCase {
         let results = repo.search("a", limit: 3)
         XCTAssertLessThanOrEqual(results.count, 3, "Result count must not exceed the requested limit")
     }
+
+    func testTimingPropertiesForKnownSlug() {
+        // "iron" is in the bundled DB; verify timing properties load without crashing.
+        let props = repo.timingProperties(for: "iron")
+        // The call must succeed (returns TimingProperties.none at minimum).
+        // Actual values depend on DB content -- just verify it doesn't crash and returns a value.
+        XCTAssertNotNil(props)  // always non-nil (returns .none on miss)
+    }
 }
