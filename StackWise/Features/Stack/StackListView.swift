@@ -27,6 +27,13 @@ struct StackListView: View {
             }
             .navigationTitle("Stack")
             .toolbar {
+                ToolbarItem(placement: .topBarLeading) {
+                    NavigationLink {
+                        AnalysisView()
+                    } label: {
+                        Label("Analyze", systemImage: "stethoscope")
+                    }
+                }
                 ToolbarItem(placement: .primaryAction) {
                     Button {
                         showAddItem = true
