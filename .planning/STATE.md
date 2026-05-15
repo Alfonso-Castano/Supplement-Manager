@@ -1,7 +1,7 @@
 ---
 current_phase: "4"
 current_phase_name: "Smart Schedule"
-current_plan: "2 of 4"
+current_plan: "3 of 4"
 total_phases: "10"
 status: "in-progress"
 progress: "[████░░░░░░] 40%"
@@ -23,10 +23,10 @@ See: SPEC.md (full project specification)
 ## Current Position
 
 Phase: 4 of 10 (Smart Schedule) — in-progress
-Plan: 2 of 4 (04-02 complete; 04-03 next)
-Status: Plan 04-02 executed (2026-05-15). ScheduleEngine 4-rule algorithm + ScheduleResult types + ScheduleStore.recompute() wired + 11 tests.
-Last activity: 2026-05-15 — Plan 04-02 executed: 5 tasks, 5 commits.
-Progress: [████░░░░░░] 36%
+Plan: 3 of 4 (04-03 complete; 04-04 next)
+Status: Plan 04-03 executed (2026-05-15). ScheduleView 3-block List UI with time windows and conflict/synergy badges.
+Last activity: 2026-05-15 — Plan 04-03 executed: 2 tasks, 1 commit.
+Progress: [█████░░░░░] 38%
 
 ---
 
@@ -69,7 +69,7 @@ Progress: [████░░░░░░] 36%
 
 ### Pending Todos
 
-- Execute Phase 4: run plans 04-03 → 04-04 (04-01, 04-02 complete).
+- Execute Phase 4: run plan 04-04 (04-01, 04-02, 04-03 complete).
 - Mac batch at Phase 4 end: build + >=48 tests + simulator golden path (D-42).
 
 ### Blockers / Concerns
@@ -90,5 +90,5 @@ None.
 ## Session Continuity
 
 Last session: 2026-05-15
-Stopped at: Plan 04-02 complete (5/5 tasks). ScheduleEngine + ScheduleResult + recompute() wired.
-Resume: Execute Plan 04-03 (ScheduleView UI).
+Stopped at: Plan 04-03 complete (2/2 tasks). ScheduleView 3-block List UI with badges.
+Resume: Execute Plan 04-04 (wire invalidation + Core Data writes + Mac batch).
