@@ -1,32 +1,32 @@
 ---
-current_phase: "0"
-current_phase_name: "Database Build"
-current_plan: "3 of 4"
+current_phase: "3"
+current_phase_name: "Interaction Analysis Engine"
+current_plan: "2 of 4"
 total_phases: "10"
-status: "in_progress"
-progress: "[██░░░░░░░░] 6%"
-last_activity: "2026-05-07"
+status: "executing"
+progress: "[███░░░░░░░] 30%"
+last_activity: "2026-05-15"
 phase_count: 10
-plan_count: 7
-summary_count: 2
+plan_count: 14
+summary_count: 11
 ---
 
 ## Project Reference
 
 See: SPEC.md (full project specification)
 
-**Core value:** Trustworthy supplement/medication interaction analysis paired with a personalized smart schedule and reminders  
-**Current focus:** Phase 0 — Database Build (pre-app, first deliverable)
+**Core value:** Trustworthy supplement/medication interaction analysis paired with a personalized smart schedule and reminders
+**Current focus:** Phase 3 — Interaction Analysis Engine (the product differentiator)
 
 ---
 
 ## Current Position
 
-Phase: 0 of 10 (Database Build)  
-Plan: 3 of 4 complete in current phase  
-Status: In progress  
-Last activity: 2026-05-06 — Plan 00-03 (Stage 2 Extraction) complete; 31 validated interaction records + timing_properties on 16 compounds  
-Progress: [██░░░░░░░░] 6%
+Phase: 3 of 10 (Interaction Analysis Engine)
+Plan: 2 of 4 (03-01 and 03-02 complete)
+Status: Executing — AnalysisEngine + AnalysisStore done; AnalysisView UI (03-03) is next.
+Last activity: 2026-05-15 — Plan 03-02 executed. AnalysisEngine (pure enum), AnalysisStore (@Observable, dirty-flag cache, #if DEBUG test-seam), AnalysisResults (pure value type). StackItemFactory.create wired with onSaved invalidation callback. StackWiseApp rewritten with custom init() pattern. 10 new tests added.
+Progress: [███░░░░░░░] 30%
 
 ---
 
@@ -34,69 +34,52 @@ Progress: [██░░░░░░░░] 6%
 
 ### Decisions
 
-**Phase 0 (locked):**
-- D-01: Working format is JSON (Stages 1–2); compile to SQLite after manual spot-check
-- D-02: Single combined `stackwise.sqlite` (interactions + ingredients + metadata)
-- D-03: metadata table with db_version (semantic) + date_built (ISO string)
-- D-04: Target list researched by Claude, user-approved, saved as `research/target_list.json`
-- D-05: Stage 1 collects target compounds first; broadens only if time allows
-- D-06: Collect top brand-name aliases for all 20 target medications
-- D-07: Hybrid execution — automated stages with human gate at each boundary
-- D-08: Checkpoint-based multi-session (each stage reads prior stage output from disk)
-- D-09: Minimum confidence for production records: medium and above
-- D-10: Hard floor — every target compound must have ≥1 medium+ confidence record
-- D-11/D-12: 7 baseline action templates in `research/action_templates.json`
-- D-13: NIH ODS fact sheet titles as primary canonical name authority (lowercase_underscores)
-- D-14: Generic name is canonical for medications; brand names are aliases
-- D-15: Higher-confidence source's severity wins; ties favor higher severity; both sources cited
-- D-16: `conflict_note` TEXT field added to interactions table when severity conflicts exist
-- D-17: `timing_properties` as JSON blob TEXT column in ingredients table
-- D-18: Four optional timing fields: requires_food, requires_empty_stomach, preferred_time_of_day, avoid_with_caffeine
-- D-19: Regional scope is US retail; include traditional medicine if in approved sources
-- D-20: Post-launch updates are on-demand, gap-report driven
+**Phase 0 (locked):** D-01 … D-20 — see `.planning/phases/00-database-build/00-CONTEXT.md`.
 
-### Execution Decisions (Plan 00-02)
+**Phase 1 (locked):** D-01 (iOS 17 min) … D-05, D-21 (Windows/Mac split) — see `.planning/phases/01-project-foundation/01-CONTEXT.md`.
 
-- NIH ODS only has 43 HealthProfessional factsheets total — melatonin, CoQ10, ginkgo, St. John's Wort, echinacea, glucosamine, chondroitin, and garlic are NOT covered; MSK/MedlinePlus (NCCIH) fill the gap
-- MedlinePlus herb index links to nccih.nih.gov/health/ and ODS Consumer pages (not /druginfo/natural/ as assumed in research)
-- 3 compounds completely missing from all HTML sources: vitamin_b_complex (composite product), chondroitin, phosphatidylserine — Stage 3 PubMed gap-fill required
-- phosphatidylserine: MSK URL in target_list.json was wrong (404); NCCIH has no dedicated page; only OpenFDA coverage
+**Phase 2 (locked, executed via `~/.claude/plans/stackwise-phase-2-lovely-bachman.md`):**
+- D-22: SQLite access via raw `sqlite3` C API wrapped in `@Observable final class` — no GRDB, no FMDB.
+- D-23: `UserProfile` is a singleton (`fetchLimit = 1`); `UserProfileStore` enum is the only writer.
+- D-24: Onboarding source of truth is Core Data `UserProfile.onboardingComplete`; `AppState.onboardingComplete` mirrors it at launch.
+- D-25: Unmatched stack items are saved with `isInDatabase = false` and the user-entered label verbatim. Phase 3 surfaces them in the "not-in-database" group on the analysis screen.
 
-### Execution Decisions (Plan 00-01)
+**Phase 3 (locked 2026-05-14, in `.planning/phases/03-interaction-analysis/03-CONTEXT.md`):**
+- D-26: Second `@Observable final class InteractionRepository` opens its own read-only handle to `stackwise.sqlite`. Phase 2's `IngredientRepository` is untouched except for one nit fix (CF-6).
+- D-27: Analysis runs lazily with dirty-flag invalidation. `AnalysisStore` (`@Observable`) caches the last result; stack mutations call `invalidate()`; first read after invalidation recomputes.
+- D-28: Analysis screen is a NavigationStack push from `StackListView` toolbar. The placeholder at `Features/Stack/AnalysisView.swift` is the implementation site. The locked 3-tab shell is preserved.
+- D-29: Analysis results live in memory only — no Core Data entity. Deterministic from stack + bundled DB; recomputed on launch.
+- D-30: Severity maps directly from DB `severity` column (`advisory` / `critical`) — no translation layer.
+- D-31: "Positive insights" = rows where `interaction_type = 'synergy'` (13 rows in current DB, all advisory severity).
+- D-32: Direction handling — directional pairs are matched only in the listed `(compound_a, compound_b)` order; bidirectional pairs match either order. Phase 3's pairwise SQL enforces this in the WHERE clause.
+- D-33: Mac handoff batched at end of Phase 3 (one Xcode add-to-target + build + simulator pass across all four plans).
 
-- Added chromium, resveratrol, quercetin to reach exactly 50 supplements (plan enumerated 47 unique names; all three additions have known drug interactions and NIH ODS/MSK coverage)
-- Target list approved by user at D-04 gate with no modifications — scope is now locked
-- OPENFDA_API_KEY and NCBI_API_KEY confirmed registered in terminal session (not stored in files per T-0-01)
-- pytest 9.0.2 already installed (not a new install)
-
-### Execution Decisions (Plan 00-03)
-
-- OpenFDA low-confidence records excluded — user preference: no record is better than an inaccurate one; co-occurrence data without mechanism doesn't qualify
-- 31 records accepted below 50-record plan target — genuine absence of credibly-sourced interactions for 8 medications; Stage 3 PubMed gap-fill is the correct path
-- `timing_conflict` type requires `timing_relevant=true` — 9 records reclassified to `unsafe_combination` (pharmacological interactions regardless of timing)
-- PPI class-effect records (omeprazole, pantoprazole) added at medium confidence — NIH ODS + FDA communication clearly documents the class mechanism
-
-**Environment constraint (locked):**
-- D-21: Developer on Windows 11 — Mac required for all Xcode GUI steps. Primary: personal Mac laptop (4-day window available). Fallback: MacInCloud (~$1/hr) for anything that spills over, and Phase 9 (TestFlight, signing, App Store — ~3–4 hr extended session). All Swift file writing on Windows; Mac only for Xcode GUI, add-to-target, build verification, and simulator testing. See `CLOUD-MAC-WORKFLOW.md` (phase task split) and `MAC-WINDOW-PLAN.md` (4-day schedule) in `.planning/`.
+**Plan 03-02 (executed 2026-05-15):**
+- D-34: Typed CoreData accessors (`labelValue`, `activeIngredientValue`, direct `isInDatabase`) used instead of KVC in `AnalysisStore.recompute()`.
+- D-35: `StackWiseApp` converted to custom `init()` pattern (State(initialValue:)) so `AnalysisStore` can capture the same `InteractionRepository` instance.
 
 ### Pending Todos
 
-- None. Plan 00-03 complete. Next: Plan 00-04 (Stage 3: Gap Analysis + SQLite Compilation).
+- Plan 03-03: Build `AnalysisView` UI (4 grouped sections); push from `StackListView` toolbar.
+- Plan 03-04: Inline badges on stack rows reflecting current analysis state.
+- Plan 03-03: Build `AnalysisView` UI (4 grouped sections); push from `StackListView` toolbar.
+- Plan 03-04: Inline badges on stack rows reflecting current analysis state.
+- Carry-forward fix: convert `IngredientRepository.deinit` to `sqlite3_close_v2` (CF-6), folded into Plan 03-01 since it's the closest pattern reference.
 
 ### Blockers / Concerns
 
-None.
+None. Phase 2 review came back clean; DB shape matches all Phase 3 assumptions; user has approved all four architectural calls.
 
 ---
 
 ## Deferred Items
 
-None carried forward from previous milestone.
+- Source-of-truth drift between `database/stackwise.sqlite` (build artifact) and `StackWise/stackwise.sqlite` (bundled) — flagged in handoff; not in Phase 3 scope.
 
 ---
 
 ## Session Continuity
 
-Last session: 2026-05-06  
-Stopped at: Completed 00-03-PLAN.md (Stage 2 Extraction); 31 validated interaction records; human gate approved  
-Resume file: None — next plan is 00-04-PLAN.md (Stage 3: Gap Analysis + SQLite Compilation)
+Last session: 2026-05-15
+Stopped at: Completed 03-02-PLAN.md — AnalysisEngine + AnalysisStore + invalidation hook. Next: 03-03-PLAN.md (AnalysisView UI).
+Resume file: `.planning/phases/03-interaction-analysis/03-03-PLAN.md` (Plan 3 of 4).
