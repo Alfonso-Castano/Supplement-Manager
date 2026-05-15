@@ -8,9 +8,9 @@
 
 ## v1.0 MVP — Phases 0–9
 
-- [ ] **Phase 0: Database Build** — Self-built supplement/medication interaction database (pre-app)
-- [ ] **Phase 1: Project Foundation** — Xcode setup, Core Data schema, three-tab navigation shell
-- [ ] **Phase 2: Stack & User Setup** — Health profile entry, add item flow with auto-suggestion
+- [x] **Phase 0: Database Build** — Self-built supplement/medication interaction database (pre-app) — COMPLETE; ships as `database/stackwise.sqlite` (63 interactions, 70 ingredients)
+- [x] **Phase 1: Project Foundation** — Xcode setup, Core Data schema, three-tab navigation shell — COMPLETE
+- [x] **Phase 2: Stack & User Setup** — Health profile entry, add item flow with auto-suggestion — COMPLETE (driven from `~/.claude/plans/stackwise-phase-2-lovely-bachman.md`; no `.planning/phases/02-*` dir was created during execution. Carry-forward nits tracked in `.claude/PHASE-3-HANDOFF.md` and folded into Phase 3 where they touch the same files.)
 - [ ] **Phase 3: Interaction Analysis Engine** — Bundle database, pairwise lookup, analysis screen
 - [ ] **Phase 4: Smart Schedule** — Priority-rule scheduling algorithm, schedule tab with blocks
 - [ ] **Phase 5: Functional Onboarding** — Onboarding coordinator, preview screen, trial trigger
@@ -35,9 +35,9 @@
 
 Plans:
 - [x] 00-01-PLAN.md — Stage 0: Pre-flight (target list, canonical_names, action_templates, utils, test scaffolding, D-04 approval gate) — COMPLETE 2026-05-05
-- [ ] 00-02-PLAN.md — Stage 1: Collection (NIH ODS + MedlinePlus + MSK + OpenFDA raw files)
-- [ ] 00-03-PLAN.md — Stage 2: Extraction to interactions.json with canonical resolution + timing_properties
-- [ ] 00-04-PLAN.md — Stage 3: Gap analysis, PubMed gap-filling, SQLite compilation, final spot-check
+- [x] 00-02-PLAN.md — Stage 1: Collection (NIH ODS + MedlinePlus + MSK + OpenFDA raw files) — COMPLETE
+- [x] 00-03-PLAN.md — Stage 2: Extraction to interactions.json with canonical resolution + timing_properties — COMPLETE
+- [x] 00-04-PLAN.md — Stage 3: Gap analysis, PubMed gap-filling, SQLite compilation, final spot-check — COMPLETE
 
 **Success Criteria:**
 1. `stackwise.sqlite` exists with `interactions`, `ingredients`, and `metadata` tables; no schema errors on open
@@ -93,9 +93,9 @@ database/
 **Plans:** 3 plans
 
 Plans:
-- [ ] 01-01-PLAN.md — Xcode project creation (GUI), bundle ID, deployment target, XCTest target verification
-- [ ] 01-02-PLAN.md — Core Data schema (5 entities), NSManagedObject subclasses, PersistenceController, CoreDataSchemaTests
-- [ ] 01-03-PLAN.md — AppState (@Observable), ContentView (TabView + NavigationStack), placeholder tab views, icon, launch screen
+- [x] 01-01-PLAN.md — Xcode project creation (GUI), bundle ID, deployment target, XCTest target verification — COMPLETE
+- [x] 01-02-PLAN.md — Core Data schema (5 entities), NSManagedObject subclasses, PersistenceController, CoreDataSchemaTests — COMPLETE
+- [x] 01-03-PLAN.md — AppState (@Observable), ContentView (TabView + NavigationStack), placeholder tab views, icon, launch screen — COMPLETE
 
 ---
 
@@ -125,11 +125,21 @@ Plans:
 **Requirements:** REQ-12, REQ-13, REQ-14, REQ-15
 
 **Success Criteria:**
-1. `stackwise.sqlite` bundled as app asset; opens read-only at launch
-2. Pairwise lookup returns all flagged pairs for a given stack; runs on every stack change
-3. Severity classification returns advisory / critical correctly per database records
-4. Analysis screen groups results: critical → advisory → positive insights → not-in-database
-5. Inline badges on stack item cards reflect current analysis state
+1. `stackwise.sqlite` bundled as app asset; opens read-only at launch — **already satisfied in Phase 2 via `IngredientRepository`**; Phase 3 adds `InteractionRepository` against the same bundled file.
+2. Pairwise lookup returns all flagged pairs for a given stack.
+3. Severity classification returns advisory / critical correctly per database records.
+4. Analysis screen groups results: critical → advisory → positive insights → not-in-database.
+5. Inline badges on stack item cards reflect current analysis state.
+
+**Plans:** 4 plans
+
+Plans:
+- [ ] 03-01-PLAN.md — `InteractionRepository` (read-only SQLite layer for `interactions` table) + tests + `StackWiseApp` injection + carry-forward `sqlite3_close_v2` fix
+- [ ] 03-02-PLAN.md — `AnalysisEngine` (pure, pairwise) + `AnalysisStore` (`@Observable`, dirty-flag cache) + tests + invalidation hook in `StackItemFactory`
+- [ ] 03-03-PLAN.md — `AnalysisView` UI (critical → advisory → synergy → not-in-database) + push from `StackListView` toolbar
+- [ ] 03-04-PLAN.md — Inline badges on `StackListView` rows reflecting current analysis state
+
+**Mac handoff:** Batched at end of phase (D-33) — one Xcode add-to-target + `xcodebuild test` + simulator pass across all four plans.
 
 ---
 
@@ -237,10 +247,10 @@ Plans:
 
 | Phase | Status | Plans | Completed |
 |-------|--------|-------|-----------|
-| 0 | In progress | 4/1 | 00-01 (Stage 0 Pre-flight) |
-| 1 | Not started | 0/0 | — |
-| 2 | Not started | 0/0 | — |
-| 3 | Not started | 0/0 | — |
+| 0 | Complete | 4/4 | 00-01, 00-02, 00-03, 00-04 |
+| 1 | Complete | 3/3 | 01-01, 01-02, 01-03 |
+| 2 | Complete | 4/4 | 02-01, 02-02, 02-03, 02-04 (executed via `~/.claude/plans/stackwise-phase-2-lovely-bachman.md`; no `.planning/phases/02-*` dir) |
+| 3 | Planning | 0/4 | — |
 | 4 | Not started | 0/0 | — |
 | 5 | Not started | 0/0 | — |
 | 6 | Not started | 0/0 | — |

@@ -1,3 +1,5 @@
+> **SUPERSEDED 2026-05-14.** This handoff bootstrapped the Phase 3 discussion in a fresh session. The locked decisions and plan files have been moved into the GSD framework. Future sessions: read `.planning/phases/03-interaction-analysis/03-CONTEXT.md` and the four `03-0N-PLAN.md` files instead. This document is retained for historical reference only.
+
 # StackWise — Phase 3 Discussion Handoff
 
 ## What you are
