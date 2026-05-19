@@ -1,0 +1,72 @@
+---
+import '../styles/global.css';
+
+interface Props {
+  title?: string;
+  description?: string;
+}
+
+const {
+  title = 'StackWise — Supplement & Medication Interaction Analysis for iPhone',
+  description = 'StackWise analyzes interactions between your supplements and medications, then builds a personalized daily schedule. Join the waitlist for early access.',
+} = Astro.props;
+
+const ogTitle = 'StackWise — Know exactly what to take, and when.';
+const ogDescription = 'Supplement and medication interaction analysis. Personalized daily scheduling. Coming soon to the App Store.';
+const siteUrl = 'https://stackwise-landing.vercel.app';
+---
+
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="description" content={description} />
+
+    <meta property="og:title" content={ogTitle} />
+    <meta property="og:description" content={ogDescription} />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content={siteUrl} />
+    <meta property="og:image" content={`${siteUrl}/og-image.png`} />
+
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content={ogTitle} />
+    <meta name="twitter:description" content={ogDescription} />
+    <meta name="twitter:image" content={`${siteUrl}/og-image.png`} />
+
+    <title>{title}</title>
+
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  </head>
+  <body>
+    <slot />
+
+    <script>
+      const observer = new IntersectionObserver(
+        (entries) => {
+          entries.forEach((entry) => {
+            if (entry.isIntersecting) {
+              entry.target.classList.add('visible');
+              observer.unobserve(entry.target);
+            }
+          });
+        },
+        { threshold: 0.15 }
+      );
+
+      document.querySelectorAll('.fade-up').forEach((el) => observer.observe(el));
+
+      const nav = document.getElementById('main-nav');
+      if (nav) {
+        window.addEventListener('scroll', () => {
+          if (window.scrollY > 20) {
+            nav.classList.add('nav-scrolled');
+          } else {
+            nav.classList.remove('nav-scrolled');
+          }
+        });
+      }
+    </script>
+  </body>
+</html>

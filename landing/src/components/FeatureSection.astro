@@ -1,0 +1,52 @@
+﻿---
+import PhoneMockup from './PhoneMockup.astro';
+
+interface Props {
+  label: string;
+  headline: string;
+  description: string;
+  screen: string;
+  accent?: 'blue' | 'green';
+  flip?: boolean;
+  bg?: 'white' | 'tint';
+}
+
+const {
+  label,
+  headline,
+  description,
+  screen,
+  accent = 'blue',
+  flip = false,
+  bg = 'white',
+} = Astro.props;
+
+const bgClass = bg === 'tint' ? 'bg-[var(--color-off-white)]' : 'bg-white';
+const labelColor = accent === 'green' ? 'text-[var(--color-green-accent)]' : 'text-[var(--color-blue-accent)]';
+---
+
+<section class={`py-24 px-6 ${bgClass}`}>
+  <div class="max-w-6xl mx-auto">
+    <div class={`grid lg:grid-cols-2 gap-12 lg:gap-20 items-center ${flip ? 'lg:[&>*:first-child]:order-2' : ''}`}>
+
+      <!-- Text -->
+      <div class="flex flex-col gap-5">
+        <span class={`fade-up text-xs font-heading font-600 uppercase tracking-widest ${labelColor}`}>
+          {label}
+        </span>
+        <h2 class="fade-up delay-1 text-3xl sm:text-4xl font-heading font-700 text-[var(--color-heading)] tracking-tight leading-snug">
+          {headline}
+        </h2>
+        <p class="fade-up delay-2 text-base text-[var(--color-body)] leading-relaxed max-w-md">
+          {description}
+        </p>
+      </div>
+
+      <!-- Visual -->
+      <div class="fade-up delay-3 flex justify-center pb-10">
+        <PhoneMockup screenLabel={screen} accent={accent} />
+      </div>
+
+    </div>
+  </div>
+</section>

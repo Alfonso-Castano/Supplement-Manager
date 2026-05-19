@@ -251,7 +251,165 @@ Plans:
 
 ---
 
+---
+
+## v1.1 — Pre-Launch Landing Page
+
+- [x] **Phase 10: Landing Page Foundation** — Astro scaffold, Tailwind design system, shared components (Nav, PhoneMockup, WaitlistForm) — COMPLETE
+- [x] **Phase 11: Page Sections** — All 10 sections built (Hero, Credibility, How It Works, 3 Feature Deep-Dives, Trust, Video, Testimonials, Creator Story, Pricing, Final CTA + Footer) — COMPLETE
+- [ ] **Phase 11.5: Tool Selection** — Review available tools/plugins, decide what Claude will use during polish phases, document in TOOLS.md
+- [ ] **Phase 12: Visual Polish** — Desktop layout audit, mobile/responsive pass, animation & interaction polish
+- [ ] **Phase 13: Asset Integration** — Replace phone mockup placeholders with real app screenshots, creator photo, content finalization
+- [ ] **Phase 14: Pre-Deploy QA** — Lighthouse audit (≥90 mobile), cross-browser check, final form test
+- [ ] **Phase 15: Deploy** — Vercel root directory config, Kit env var, push to main, verify live URL
+
+---
+
+### Phase 10: Landing Page Foundation
+
+**Goal:** Scaffold the Astro project inside `landing/`, configure the full design system (colors, fonts, animations), and build the two shared components used across every section.
+
+**Depends on:** None (independent of iOS app phases)
+
+**Spec:** `STACKWISE_LANDING_PAGE_SPEC.md`
+
+**Plans:** 1 plan
+
+Plans:
+- [x] 10-01-PLAN.md — Scaffold Astro + Tailwind, design tokens, Layout.astro, Nav.astro, PhoneMockup.astro, WaitlistForm.astro — COMPLETE
+
+**Success Criteria:**
+1. `landing/` Astro project builds without errors (`npm run build`)
+2. Design tokens (color palette, fonts) defined in `global.css` via Tailwind v4 `@theme`
+3. `Nav.astro` renders sticky header with scroll-triggered background transition
+4. `WaitlistForm.astro` submits to Kit API with inline success state
+5. `PhoneMockup.astro` renders reusable iPhone placeholder with accent color prop
+
+---
+
+### Phase 11: Page Sections
+
+**Goal:** Build all 10 page sections per `STACKWISE_LANDING_PAGE_SPEC.md` and assemble them in `index.astro`.
+
+**Depends on:** Phase 10
+
+**Plans:** 1 plan
+
+Plans:
+- [x] 11-01-PLAN.md — All 10 sections: Hero, CredibilityBar, HowItWorks, 3× FeatureSection, TrustSection, VideoSection, Testimonials, CreatorStory, Pricing, FinalCTA, Footer — COMPLETE
+
+**Success Criteria:**
+1. All 10 sections render correctly at desktop breakpoint
+2. Scroll-triggered fade-in animations fire correctly via Intersection Observer
+3. Hero entrance animation plays on page load
+4. Both waitlist forms (hero + final CTA) submit to same Kit form ID 9457828
+5. No broken layouts or missing content relative to spec
+
+---
+
+### Phase 11.5: Tool Selection
+
+**Goal:** Before any polish work begins, review available tools and decide what Claude will have access to during Phases 12–14. Output a `TOOLS.md` doc so every future session knows exactly what's available.
+
+**Depends on:** Phase 11
+
+**Plans:** 1 plan
+
+Plans:
+- [ ] 11.5-01-PLAN.md — User presents tool list, Claude evaluates each, selected tools installed and configured, TOOLS.md written
+
+**Success Criteria:**
+1. `TOOLS.md` exists in `.planning/phases/12-landing-polish/`
+2. At minimum, Playwright MCP is installed and verified working against `localhost:4321`
+3. Any additional tools are installed and accessible to Claude Code
+
+---
+
+### Phase 12: Visual Polish
+
+**Goal:** Make the site look exactly right before any real assets are swapped in. Desktop layout, mobile responsive behavior, and animation quality.
+
+**Depends on:** Phase 11.5
+
+**Plans:** 3 plans
+
+Plans:
+- [ ] 12-01-PLAN.md — Desktop layout audit: spacing, typography scale, section rhythm, color consistency
+- [ ] 12-02-PLAN.md — Mobile & responsive pass: all breakpoints, touch targets, stacked layouts
+- [ ] 12-03-PLAN.md — Animation & interaction polish: scroll triggers, hero entrance, nav transition, hover states
+
+**Success Criteria:**
+1. All sections have consistent spacing and visual rhythm at 1440px desktop
+2. Page renders correctly at 375px (iPhone SE), 390px (iPhone 14), and 768px (tablet)
+3. All touch targets ≥44px height on mobile
+4. Scroll-triggered animations fire correctly and feel smooth
+5. Nav background transition and button hover states work as designed
+
+---
+
+### Phase 13: Asset Integration
+
+**Goal:** Replace every placeholder element with real assets once the app GUI design is finalized.
+
+**Depends on:** Phase 12
+
+**Plans:** 3 plans
+
+Plans:
+- [ ] 13-01-PLAN.md — App screenshots: replace all `PhoneMockup.astro` placeholders with actual iPhone screenshots (one per section)
+- [ ] 13-02-PLAN.md — Creator assets: real photo in `CreatorStory.astro`, finalize personal copy
+- [ ] 13-03-PLAN.md — Content finalization: real testimonials, video embed when ready, social links, update `siteUrl` in `Layout.astro`
+
+**Success Criteria:**
+1. No `PhoneMockup.astro` placeholder components remain — all replaced with real `<img>` elements
+2. Creator photo shows correctly in circular crop
+3. All testimonial quotes are real (not placeholder text)
+4. Footer social links are real URLs or removed entirely
+
+---
+
+### Phase 14: Pre-Deploy QA
+
+**Goal:** Verify the fully-polished, asset-complete site meets the quality bar before going live.
+
+**Depends on:** Phase 13
+
+**Plans:** 1 plan
+
+Plans:
+- [ ] 14-01-PLAN.md — Lighthouse audit (≥90 performance on mobile), Chrome + Safari + Safari iOS, form submission end-to-end test
+
+**Success Criteria:**
+1. Lighthouse performance score ≥90 on mobile (tested via Chrome DevTools)
+2. Page renders correctly in Chrome, Safari desktop, and Safari iOS
+3. Waitlist form submits successfully and confirmation email is received
+4. No console errors on page load
+
+---
+
+### Phase 15: Deploy
+
+**Goal:** Push the finished site live on Vercel.
+
+**Depends on:** Phase 14
+
+**Plans:** 1 plan
+
+Plans:
+- [ ] 15-01-PLAN.md — Vercel Root Directory → `landing/`, `PUBLIC_KIT_API_KEY` env var, push to `main`, verify live URL, update `siteUrl`
+
+**Success Criteria:**
+1. Vercel project Root Directory set to `landing/`
+2. `PUBLIC_KIT_API_KEY` added to Vercel environment variables (not hardcoded)
+3. Live Vercel URL loads and all sections render correctly
+4. Waitlist form submission works on live URL
+5. All files committed to `main` branch
+
+---
+
 ## Progress
+
+**v1.0 iOS App**
 
 | Phase | Status | Plans | Completed |
 |-------|--------|-------|-----------|
@@ -265,3 +423,15 @@ Plans:
 | 7 | Not started | 0/0 | — |
 | 8 | Not started | 0/0 | — |
 | 9 | Not started | 0/0 | — |
+
+**v1.1 Landing Page**
+
+| Phase | Status | Plans | Completed |
+|-------|--------|-------|-----------|
+| 10 | Complete | 1/1 | 10-01 |
+| 11 | Complete | 1/1 | 11-01 |
+| 11.5 | Not started | 0/1 | — |
+| 12 | Not started | 0/3 | — |
+| 13 | Not started | 0/3 | — |
+| 14 | Not started | 0/1 | — |
+| 15 | Not started | 0/1 | — |

@@ -1,0 +1,61 @@
+---
+import PhoneMockup from './PhoneMockup.astro';
+
+const steps = [
+  {
+    number: '01',
+    headline: 'Add what you take',
+    description: 'Enter your supplements and medications. StackWise does the rest.',
+    screen: 'Stack Entry',
+    accent: 'blue' as const,
+  },
+  {
+    number: '02',
+    headline: "See what's working — and what's not",
+    description: "Every item is automatically cross-referenced. Conflicts, positive pairings, and unknowns — all explained with citations.",
+    screen: 'Interaction Results',
+    accent: 'blue' as const,
+  },
+  {
+    number: '03',
+    headline: 'Your personalized daily schedule',
+    description: "Morning, afternoon, evening — timed around your meals and medications. Updated automatically when your stack changes.",
+    screen: 'Daily Schedule',
+    accent: 'green' as const,
+  },
+];
+---
+
+<section class="py-24 px-6 bg-white">
+  <div class="max-w-6xl mx-auto">
+    <div class="text-center mb-20">
+      <span class="fade-up inline-block text-xs font-heading font-600 uppercase tracking-widest text-[var(--color-blue-accent)] mb-4">
+        How It Works
+      </span>
+      <h2 class="fade-up delay-1 text-3xl sm:text-4xl font-heading font-700 text-[var(--color-heading)] tracking-tight">
+        From stack to schedule in minutes
+      </h2>
+    </div>
+
+    <div class="flex flex-col gap-24">
+      {steps.map((step, i) => (
+        <div class={`grid lg:grid-cols-2 gap-12 lg:gap-20 items-center ${i % 2 === 1 ? 'lg:[&>*:first-child]:order-2' : ''}`}>
+          <div class="flex flex-col gap-4">
+            <span class="fade-up text-5xl font-heading font-800 text-[var(--color-blue-accent)] opacity-20 leading-none">
+              {step.number}
+            </span>
+            <h3 class="fade-up delay-1 text-2xl sm:text-3xl font-heading font-700 text-[var(--color-heading)] tracking-tight leading-snug">
+              {step.headline}
+            </h3>
+            <p class="fade-up delay-2 text-base text-[var(--color-body)] leading-relaxed max-w-md">
+              {step.description}
+            </p>
+          </div>
+          <div class="fade-up delay-3 flex justify-center pb-10">
+            <PhoneMockup screenLabel={step.screen} accent={step.accent} />
+          </div>
+        </div>
+      ))}
+    </div>
+  </div>
+</section>

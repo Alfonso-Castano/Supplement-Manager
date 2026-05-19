@@ -1,0 +1,46 @@
+---
+const testimonials = [
+  {
+    quote: "This is exactly what I've been looking for. I take six different supplements and never know if they're helping or hurting each other. Finally something that actually answers that question.",
+    name: 'Sarah M.',
+    descriptor: 'Takes 6 supplements daily',
+  },
+  {
+    quote: "I've spent hours trying to research supplement interactions on my own. The fact that everything is cited from real medical sources makes this something I can actually trust.",
+    name: 'James R.',
+    descriptor: 'On 3 prescriptions + supplements',
+  },
+  {
+    quote: "The schedule feature alone is worth it. I never knew there was a right and wrong time to take things — now it all just makes sense.",
+    name: 'Priya K.',
+    descriptor: 'Health-conscious, 4+ daily supplements',
+  },
+];
+---
+
+<section class="py-24 px-6 bg-[var(--color-off-white)]">
+  <div class="max-w-6xl mx-auto">
+    <div class="text-center mb-14">
+      <h2 class="fade-up text-3xl sm:text-4xl font-heading font-700 text-[var(--color-heading)] tracking-tight">
+        What early supporters are saying
+      </h2>
+    </div>
+
+    <div class="grid md:grid-cols-3 gap-6">
+      {testimonials.map((t, i) => (
+        <div class={`fade-up delay-${i + 1} bg-white rounded-2xl p-7 shadow-sm border border-gray-100 flex flex-col gap-5`}>
+          <svg class="w-8 h-8 text-[var(--color-blue-accent)] opacity-30" fill="currentColor" viewBox="0 0 24 24">
+            <path d="M14.017 21v-7.391c0-5.704 3.731-9.57 8.983-10.609l.995 2.151c-2.432.917-3.995 3.638-3.995 5.849h4v10h-9.983zm-14.017 0v-7.391c0-5.704 3.748-9.57 9-10.609l.996 2.151c-2.433.917-3.996 3.638-3.996 5.849h3.983v10h-9.983z"/>
+          </svg>
+          <p class="text-[var(--color-body)] leading-relaxed text-sm flex-1">
+            "{t.quote}"
+          </p>
+          <div>
+            <p class="text-sm font-heading font-600 text-[var(--color-heading)]">{t.name}</p>
+            <p class="text-xs text-[var(--color-muted)] mt-0.5">{t.descriptor}</p>
+          </div>
+        </div>
+      ))}
+    </div>
+  </div>
+</section>

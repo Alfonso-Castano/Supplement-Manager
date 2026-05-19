@@ -1,0 +1,58 @@
+---
+import Layout from '../layouts/Layout.astro';
+import Nav from '../components/Nav.astro';
+import Hero from '../components/Hero.astro';
+import CredibilityBar from '../components/CredibilityBar.astro';
+import HowItWorks from '../components/HowItWorks.astro';
+import FeatureSection from '../components/FeatureSection.astro';
+import TrustSection from '../components/TrustSection.astro';
+import VideoSection from '../components/VideoSection.astro';
+import Testimonials from '../components/Testimonials.astro';
+import CreatorStory from '../components/CreatorStory.astro';
+import Pricing from '../components/Pricing.astro';
+import FinalCTA from '../components/FinalCTA.astro';
+import Footer from '../components/Footer.astro';
+---
+
+<Layout>
+  <Nav />
+  <main>
+    <Hero />
+    <CredibilityBar />
+    <HowItWorks />
+
+    <FeatureSection
+      label="Interaction Analysis"
+      headline="Know which supplements work together — and which don't"
+      description="Every pair in your stack is automatically analyzed. Critical conflicts, advisory warnings, and positive combinations — each with an explanation and citation from medical research."
+      screen="Analysis Results"
+      accent="blue"
+      bg="white"
+    />
+    <FeatureSection
+      label="Personalized Schedule"
+      headline="Timed to your day, not a generic chart"
+      description="StackWise builds a morning, afternoon, and evening schedule based on your wake time, meals, and interaction data. It updates automatically whenever your stack changes."
+      screen="Daily Schedule"
+      accent="green"
+      flip={true}
+      bg="tint"
+    />
+    <FeatureSection
+      label="Reminders"
+      headline="Never miss a dose, never second-guess timing"
+      description="Get notified at each time block with exactly what to take. Tap to check off — done."
+      screen="Reminders & Check-off"
+      accent="blue"
+      bg="white"
+    />
+
+    <TrustSection />
+    <VideoSection />
+    <Testimonials />
+    <CreatorStory />
+    <Pricing />
+    <FinalCTA />
+  </main>
+  <Footer />
+</Layout>

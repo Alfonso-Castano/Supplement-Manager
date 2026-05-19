@@ -1,0 +1,38 @@
+﻿---
+---
+
+<style>
+  #main-nav {
+    transition: background 0.3s ease, box-shadow 0.3s ease;
+  }
+  #main-nav.nav-scrolled {
+    background: rgba(255, 255, 255, 0.92);
+    backdrop-filter: blur(12px);
+    -webkit-backdrop-filter: blur(12px);
+    box-shadow: 0 1px 0 rgba(0,0,0,0.06);
+  }
+</style>
+
+<nav
+  id="main-nav"
+  class="fixed top-0 left-0 right-0 z-50 bg-transparent"
+  aria-label="Main navigation"
+>
+  <div class="max-w-6xl mx-auto px-6 h-16 flex items-center justify-between">
+    <!-- Wordmark -->
+    <a
+      href="#"
+      class="font-heading text-xl font-700 text-[var(--color-heading)] tracking-tight"
+    >
+      StackWise
+    </a>
+
+    <!-- CTA -->
+    <a
+      href="#waitlist"
+      class="bg-[var(--color-blue-accent)] hover:bg-[var(--color-blue-dark)] text-white text-sm font-heading font-600 px-5 py-2.5 rounded-full transition-all duration-200 hover:scale-[1.02] active:scale-[0.98]"
+    >
+      Join the Waitlist
+    </a>
+  </div>
+</nav>

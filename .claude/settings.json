@@ -1,4 +1,10 @@
 {
+  "permissions": {
+    "allow": [
+      "Bash(npm create *)",
+      "Bash(Rename-Item \"c:\\\\Users\\\\alfon\\\\PersonalProjects\\\\Supplement-Manager\\\\.planning\\\\phases\\\\12-landing-deploy\" \"12-landing-polish\")"
+    ]
+  },
   "hooks": {
     "SessionStart": [
       {

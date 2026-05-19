@@ -1,0 +1,73 @@
+﻿---
+interface Props {
+  screenLabel: string;
+  screenSublabel?: string;
+  accent?: 'blue' | 'green';
+}
+
+const { screenLabel, screenSublabel, accent = 'blue' } = Astro.props;
+
+const accentBg = accent === 'green' ? 'bg-[var(--color-green-tint)]' : 'bg-[var(--color-blue-tint)]';
+const accentBar = accent === 'green' ? 'bg-[var(--color-green-accent)]' : 'bg-[var(--color-blue-accent)]';
+---
+
+<div class="relative flex justify-center items-center">
+  <!-- Phone frame -->
+  <div
+    class="relative w-[240px] h-[490px] rounded-[44px] bg-white shadow-[0_24px_60px_rgba(0,0,0,0.14),0_4px_16px_rgba(0,0,0,0.08)] border border-gray-200/60 overflow-hidden transition-transform duration-300 hover:scale-[1.02]"
+    style="transform: perspective(1200px) rotateY(-4deg) rotateX(2deg);"
+  >
+    <!-- Notch -->
+    <div class="absolute top-0 left-1/2 -translate-x-1/2 w-24 h-7 bg-black rounded-b-2xl z-10"></div>
+
+    <!-- Screen content placeholder -->
+    <div class={`absolute inset-0 ${accentBg} flex flex-col`}>
+      <!-- Status bar -->
+      <div class="h-10 flex items-end pb-1 px-5">
+        <span class="text-[10px] text-[var(--color-body)] opacity-50 font-heading font-600">9:41</span>
+      </div>
+
+      <!-- Placeholder UI bars -->
+      <div class="flex-1 px-4 pt-2 pb-4 flex flex-col gap-3">
+        <!-- Header bar -->
+        <div class={`h-1 w-2/3 ${accentBar} rounded-full opacity-70`}></div>
+
+        <!-- Simulated rows -->
+        <div class="flex flex-col gap-2 mt-1">
+          {Array.from({ length: 4 }).map((_, i) => (
+            <div class="flex items-center gap-2">
+              <div class={`w-7 h-7 rounded-lg ${accentBar} opacity-${70 - i * 10} flex-shrink-0`}></div>
+              <div class="flex-1 flex flex-col gap-1">
+                <div class={`h-1.5 bg-[var(--color-heading)] rounded-full opacity-20 w-${['4/5','3/4','2/3','1/2'][i]}`}></div>
+                <div class="h-1 bg-[var(--color-body)] rounded-full opacity-10 w-1/2"></div>
+              </div>
+            </div>
+          ))}
+        </div>
+
+        <!-- Divider -->
+        <div class="h-px bg-[var(--color-heading)] opacity-5 my-1"></div>
+
+        <!-- More rows -->
+        <div class="flex flex-col gap-2">
+          {Array.from({ length: 3 }).map(() => (
+            <div class="flex items-center gap-2">
+              <div class={`w-6 h-6 rounded-md bg-[var(--color-body)] opacity-10 flex-shrink-0`}></div>
+              <div class="flex-1 h-1.5 bg-[var(--color-body)] rounded-full opacity-10"></div>
+            </div>
+          ))}
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Label beneath mockup -->
+  <div class="absolute -bottom-8 left-1/2 -translate-x-1/2 text-center whitespace-nowrap">
+    <p class="text-xs font-heading font-500 text-[var(--color-muted)] uppercase tracking-widest">
+      {screenLabel}
+    </p>
+    {screenSublabel && (
+      <p class="text-[10px] text-[var(--color-muted)] opacity-70 mt-0.5">{screenSublabel}</p>
+    )}
+  </div>
+</div>

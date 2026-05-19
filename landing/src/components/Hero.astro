@@ -1,0 +1,43 @@
+﻿---
+import WaitlistForm from './WaitlistForm.astro';
+import PhoneMockup from './PhoneMockup.astro';
+---
+
+<section class="relative pt-32 pb-24 px-6 overflow-hidden bg-white">
+  <div class="max-w-6xl mx-auto">
+    <div class="grid lg:grid-cols-2 gap-16 items-center">
+
+      <!-- Left: text + CTA -->
+      <div class="flex flex-col gap-6">
+        <div class="hero-enter delay-1">
+          <span class="inline-block text-xs font-heading font-600 uppercase tracking-widest text-[var(--color-blue-accent)] mb-4">
+            Coming soon to the App Store
+          </span>
+          <h1 class="text-4xl sm:text-5xl lg:text-[3.25rem] font-heading font-800 text-[var(--color-heading)] leading-[1.1] tracking-tight">
+            Your supplements might be working against each other.
+          </h1>
+        </div>
+
+        <p class="hero-enter delay-2 text-lg text-[var(--color-body)] leading-relaxed max-w-lg">
+          StackWise analyzes interactions between your supplements and medications, then builds a personalized daily schedule so everything works together.
+        </p>
+
+        <div class="hero-enter delay-3 max-w-lg">
+          <WaitlistForm id="hero-waitlist" size="large" />
+        </div>
+      </div>
+
+      <!-- Right: phone mockup -->
+      <div class="hero-enter delay-4 flex justify-center lg:justify-end pb-10">
+        <PhoneMockup screenLabel="Interaction Analysis" accent="blue" />
+      </div>
+
+    </div>
+  </div>
+
+  <!-- Subtle background gradient -->
+  <div
+    class="absolute inset-0 -z-10 pointer-events-none"
+    style="background: radial-gradient(ellipse 70% 60% at 80% 20%, #E8F4F8 0%, transparent 70%);"
+  ></div>
+</section>
