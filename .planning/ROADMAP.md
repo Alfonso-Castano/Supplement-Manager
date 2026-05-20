@@ -257,8 +257,8 @@ Plans:
 
 - [x] **Phase 10: Landing Page Foundation** — Astro scaffold, Tailwind design system, shared components (Nav, PhoneMockup, WaitlistForm) — COMPLETE
 - [x] **Phase 11: Page Sections** — All 10 sections built (Hero, Credibility, How It Works, 3 Feature Deep-Dives, Trust, Video, Testimonials, Creator Story, Pricing, Final CTA + Footer) — COMPLETE
-- [ ] **Phase 11.5: Tool Selection** — Review available tools/plugins, decide what Claude will use during polish phases, document in TOOLS.md
-- [ ] **Phase 12: Visual Polish** — Desktop layout audit, mobile/responsive pass, animation & interaction polish
+- [x] **Phase 11.5: Tool Selection** — Review available tools/plugins, decide what Claude will use during polish phases, document in TOOLS.md — COMPLETE
+- [x] **Phase 12: Visual Polish** — Desktop layout audit, mobile/responsive pass, animation & interaction polish — COMPLETE
 - [ ] **Phase 13: Asset Integration** — Replace phone mockup placeholders with real app screenshots, creator photo, content finalization
 - [ ] **Phase 14: Pre-Deploy QA** — Lighthouse audit (≥90 mobile), cross-browser check, final form test
 - [ ] **Phase 15: Deploy** — Vercel root directory config, Kit env var, push to main, verify live URL
@@ -334,9 +334,9 @@ Plans:
 **Plans:** 3 plans
 
 Plans:
-- [ ] 12-01-PLAN.md — Desktop layout audit: spacing, typography scale, section rhythm, color consistency
-- [ ] 12-02-PLAN.md — Mobile & responsive pass: all breakpoints, touch targets, stacked layouts
-- [ ] 12-03-PLAN.md — Animation & interaction polish: scroll triggers, hero entrance, nav transition, hover states
+- [x] 12-01-PLAN.md — Desktop layout audit: spacing, typography scale, section rhythm, color consistency — COMPLETE
+- [x] 12-02-PLAN.md — Mobile & responsive pass: all breakpoints, touch targets, stacked layouts — COMPLETE
+- [x] 12-03-PLAN.md — Animation & interaction polish: scroll triggers, hero entrance, nav transition, hover states — COMPLETE
 
 **Success Criteria:**
 1. All sections have consistent spacing and visual rhythm at 1440px desktop
@@ -430,8 +430,8 @@ Plans:
 |-------|--------|-------|-----------|
 | 10 | Complete | 1/1 | 10-01 |
 | 11 | Complete | 1/1 | 11-01 |
-| 11.5 | Not started | 0/1 | — |
-| 12 | Not started | 0/3 | — |
+| 11.5 | Complete | 1/1 | 11.5-01 |
+| 12 | Complete | 3/3 | 12-01, 12-02, 12-03 |
 | 13 | Not started | 0/3 | — |
 | 14 | Not started | 0/1 | — |
 | 15 | Not started | 0/1 | — |
