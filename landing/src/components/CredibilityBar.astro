@@ -1,26 +1,91 @@
-﻿---
+---
 const sources = [
   'NIH Office of Dietary Supplements',
   'PubMed',
   'Memorial Sloan Kettering',
   'MedlinePlus',
   'OpenFDA',
+  'Cochrane Library',
+  'WHO',
+  'Natural Medicines',
 ];
 ---
 
-<section class="py-10 px-6 bg-[var(--color-blue-tint)]">
-  <div class="max-w-6xl mx-auto text-center">
-    <p class="fade-up text-xs font-heading font-500 uppercase tracking-widest text-[var(--color-muted)] mb-6">
+<section class="py-10 px-0 bg-[var(--color-blue-tint)] overflow-hidden">
+  <div class="max-w-6xl mx-auto text-center mb-6 px-6">
+    <p class="fade-up text-xs font-heading font-500 uppercase tracking-widest text-[var(--color-muted)]">
       Interaction data built from sources you trust
     </p>
-    <div class="flex flex-wrap justify-center items-center gap-x-8 gap-y-3">
-      {sources.map((source, i) => (
-        <span
-          class={`text-sm font-heading font-600 text-[var(--color-body)] opacity-70 fade-up delay-${i + 1}`}
-        >
-          {source}
-        </span>
+  </div>
+
+  <!-- Row 1: scrolls left -->
+  <div class="marquee-wrapper mb-3">
+    <div class="marquee-track marquee-left">
+      {[...sources, ...sources].map((source) => (
+        <span class="marquee-pill">{source}</span>
+      ))}
+    </div>
+  </div>
+
+  <!-- Row 2: scrolls right -->
+  <div class="marquee-wrapper">
+    <div class="marquee-track marquee-right">
+      {[...sources, ...sources].map((source) => (
+        <span class="marquee-pill">{source}</span>
       ))}
     </div>
   </div>
 </section>
+
+<style>
+  .marquee-wrapper {
+    overflow: hidden;
+    -webkit-mask-image: linear-gradient(to right, transparent 0%, black 12%, black 88%, transparent 100%);
+    mask-image: linear-gradient(to right, transparent 0%, black 12%, black 88%, transparent 100%);
+  }
+
+  .marquee-track {
+    display: flex;
+    width: max-content;
+    gap: 12px;
+    padding: 4px 0;
+  }
+
+  .marquee-left {
+    animation: marquee-scroll-left 28s linear infinite;
+  }
+
+  .marquee-right {
+    animation: marquee-scroll-right 32s linear infinite;
+  }
+
+  .marquee-wrapper:hover .marquee-track {
+    animation-play-state: paused;
+  }
+
+  .marquee-pill {
+    display: inline-flex;
+    align-items: center;
+    padding: 6px 16px;
+    border-radius: 999px;
+    border: 1px solid rgba(43, 158, 179, 0.25);
+    background: white;
+    font-family: var(--font-heading);
+    font-size: 13px;
+    font-weight: 600;
+    color: var(--color-body);
+    white-space: nowrap;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.06);
+    flex-shrink: 0;
+  }
+
+  @keyframes marquee-scroll-left {
+    from { transform: translateX(0); }
+    to   { transform: translateX(-50%); }
+  }
+
+  @keyframes marquee-scroll-right {
+    from { transform: translateX(-50%); }
+    to   { transform: translateX(0); }
+  }
+</style>
