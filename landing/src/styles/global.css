@@ -32,16 +32,18 @@ body {
   -moz-osx-font-smoothing: grayscale;
 }
 
-h1, h2, h3, h4 {
-  font-family: var(--font-heading);
-  color: var(--color-heading);
+@layer base {
+  h1, h2, h3, h4 {
+    font-family: var(--font-heading);
+    color: var(--color-heading);
+  }
 }
 
-/* Scroll-triggered fade-in animations */
+/* Scroll-triggered fade-in animations — spring easing from SuppCo */
 .fade-up {
   opacity: 0;
   transform: translateY(24px);
-  transition: opacity 0.6s ease, transform 0.6s ease;
+  transition: opacity 0.6s cubic-bezier(.19,1,.22,1), transform 0.6s cubic-bezier(.19,1,.22,1);
 }
 
 .fade-up.visible {
@@ -57,7 +59,7 @@ h1, h2, h3, h4 {
 /* Hero entrance (on load) */
 .hero-enter {
   opacity: 0;
-  animation: heroEnter 0.8s ease forwards;
+  animation: heroEnter 0.8s cubic-bezier(.19,1,.22,1) forwards;
 }
 
 .hero-enter.delay-1 { animation-delay: 0.15s; }
@@ -68,4 +70,17 @@ h1, h2, h3, h4 {
 @keyframes heroEnter {
   from { opacity: 0; transform: translateY(20px); }
   to   { opacity: 1; transform: translateY(0); }
+}
+
+/* reveal-in — from SuppCo: scale + translate entrance for visual hero elements */
+.reveal-in {
+  opacity: 0;
+  animation: revealIn 1s cubic-bezier(.19,1,.22,1) forwards;
+}
+
+.reveal-in.delay-4 { animation-delay: 0.6s; }
+
+@keyframes revealIn {
+  from { opacity: 0; transform: translateY(32px) scale(0.96); }
+  to   { opacity: 1; transform: translateY(0) scale(1); }
 }

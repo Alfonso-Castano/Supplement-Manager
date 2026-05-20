@@ -29,6 +29,24 @@
 
 ---
 
+### SkillUI (frontend design inspiration)
+- **Install:** `npm install -g skillui` + `npm install -g playwright && npx playwright install chromium` (Playwright required for computed-style extraction)
+- **When to use:** Whenever taking inspiration from a real website — competitor analysis, visual polish, "make this feel more like X" requests
+- **Invocation:**
+  ```bash
+  cd landing
+  npx skillui --url https://example.com/ --name site-name --out ".agents/skills/frontend-references/site-name/site-name-design"
+  ```
+- **Output structure:** Creates `{out}/{name}-design/DESIGN.md` — read this for color tokens, typography, shadows, animations, component patterns
+- **Skill files:** Always stored in `landing/.agents/skills/frontend-references/{site-name}/` — frontend-specific subfolder keeps them separate from taste/general skills
+- **Current references extracted:**
+  - `suppco` — https://supp.co/ (20 colors, 8 components, 8 animations — dark-themed, near-black `#09090b` bg, warm cream `#f9f9f5` text, cinematic overlay shadow)
+  - `duolingo` — https://www.duolingo.com/ (18 colors, 70 animations — light bg `#ffffff`, light-blue surface `#ddf4ff`, dark navy sections `#000437`, expressive spring motion)
+- **Note on SPAs:** Duolingo is a heavy React SPA — static CSS extraction is limited (1 color without Playwright, 18 with). Always run with Playwright installed for meaningful results on JS-heavy sites.
+- **Source:** https://github.com/amaancoderx/npxskillui
+
+---
+
 ## Rejected Tools
 
 | Tool | Reason |

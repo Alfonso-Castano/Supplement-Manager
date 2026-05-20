@@ -3,7 +3,7 @@ import WaitlistForm from './WaitlistForm.astro';
 import PhoneMockup from './PhoneMockup.astro';
 ---
 
-<section class="relative pt-32 pb-24 px-6 overflow-hidden bg-white">
+<section class="relative pt-32 pb-24 px-6 overflow-hidden bg-[#FAFAF8]">
   <div class="max-w-6xl mx-auto">
     <div class="grid lg:grid-cols-2 gap-16 items-center">
 
@@ -13,7 +13,7 @@ import PhoneMockup from './PhoneMockup.astro';
           <span class="inline-block text-xs font-heading font-600 uppercase tracking-widest text-[var(--color-blue-accent)] mb-4">
             Coming soon to the App Store
           </span>
-          <h1 class="text-4xl sm:text-5xl lg:text-[3.25rem] font-heading font-800 text-[var(--color-heading)] leading-[1.1] tracking-tight text-balance">
+          <h1 class="text-4xl sm:text-5xl lg:text-[4.5rem] font-heading font-800 text-[var(--color-heading)] leading-[1.05] tracking-tight text-balance">
             Your supplements might be working against each other.
           </h1>
         </div>
@@ -27,17 +27,27 @@ import PhoneMockup from './PhoneMockup.astro';
         </div>
       </div>
 
-      <!-- Right: phone mockup -->
-      <div class="hero-enter delay-4 flex justify-center lg:justify-end pb-10">
-        <PhoneMockup screenLabel="Interaction Analysis" accent="blue" />
+      <!-- Right: phone mockup with ambient glow + cinematic shadow -->
+      <div class="reveal-in delay-4 flex justify-center lg:justify-end pb-10 relative">
+        <!-- Ambient glow behind mockup — SuppCo depth pattern -->
+        <div
+          class="absolute inset-0 -z-10 pointer-events-none"
+          style="background: radial-gradient(ellipse 100% 90% at center, rgba(43,158,179,0.14) 0%, transparent 68%); transform: scale(1.5);"
+        ></div>
+        <!-- Cinematic shadow wrapper — SuppCo overlay elevation philosophy -->
+        <div style="filter: drop-shadow(0 0 30px rgba(43,158,179,0.22)) drop-shadow(0 0 60px rgba(43,158,179,0.09));">
+          <PhoneMockup screenLabel="Interaction Analysis" accent="blue" />
+        </div>
       </div>
 
     </div>
   </div>
 
-  <!-- Subtle background gradient -->
+  <!-- Rich 2-blob background gradient — SuppCo visible depth -->
   <div
     class="absolute inset-0 -z-10 pointer-events-none"
-    style="background: radial-gradient(ellipse 70% 60% at 80% 20%, #E8F4F8 0%, transparent 70%);"
+    style="background:
+      radial-gradient(ellipse 80% 70% at 78% 15%, rgba(14,85,106,0.18) 0%, transparent 65%),
+      radial-gradient(ellipse 55% 45% at 8% 88%, rgba(14,85,106,0.10) 0%, transparent 70%);"
   ></div>
 </section>
