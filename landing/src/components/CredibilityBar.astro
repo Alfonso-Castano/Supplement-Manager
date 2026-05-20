@@ -1,13 +1,13 @@
 ---
 const sources = [
-  { logo: 'https://logo.clearbit.com/nih.gov',                                    name: 'NIH Office of Dietary Supplements' },
-  { logo: 'https://logo.clearbit.com/ncbi.nlm.nih.gov',                           name: 'PubMed' },
-  { logo: 'https://logo.clearbit.com/mskcc.org',                                  name: 'Memorial Sloan Kettering' },
-  { logo: 'https://logo.clearbit.com/medlineplus.gov',                            name: 'MedlinePlus' },
-  { logo: 'https://logo.clearbit.com/open.fda.gov',                               name: 'OpenFDA' },
-  { logo: 'https://logo.clearbit.com/cochranelibrary.com',                        name: 'Cochrane Library' },
-  { logo: 'https://logo.clearbit.com/who.int',                                    name: 'World Health Organization' },
-  { logo: 'https://logo.clearbit.com/naturalmedicines.therapeuticresearch.com',   name: 'Natural Medicines' },
+  { domain: 'nih.gov',                                   name: 'NIH Office of Dietary Supplements' },
+  { domain: 'pubmed.ncbi.nlm.nih.gov',                   name: 'PubMed' },
+  { domain: 'mskcc.org',                                 name: 'Memorial Sloan Kettering' },
+  { domain: 'medlineplus.gov',                           name: 'MedlinePlus' },
+  { domain: 'open.fda.gov',                              name: 'OpenFDA' },
+  { domain: 'cochranelibrary.com',                       name: 'Cochrane Library' },
+  { domain: 'who.int',                                   name: 'World Health Organization' },
+  { domain: 'naturalmedicines.therapeuticresearch.com',  name: 'Natural Medicines' },
 ];
 ---
 
@@ -23,13 +23,10 @@ const sources = [
       {[...sources, ...sources, ...sources].map((source) => (
         <span class="cred-marquee-pill">
           <img
-            src={source.logo}
-            alt={source.name}
-            width="20"
-            height="20"
+            src={`https://www.google.com/s2/favicons?domain=${source.domain}&sz=64`}
+            alt=""
             class="cred-logo"
             loading="lazy"
-            onerror="this.style.display='none'"
           />
           {source.name}
         </span>
@@ -37,53 +34,3 @@ const sources = [
     </div>
   </div>
 </section>
-
-<style is:global>
-  .cred-marquee-wrapper {
-    overflow: hidden;
-    -webkit-mask-image: linear-gradient(to right, transparent 0%, black 10%, black 90%, transparent 100%);
-    mask-image: linear-gradient(to right, transparent 0%, black 10%, black 90%, transparent 100%);
-  }
-
-  .cred-marquee-track {
-    display: flex;
-    width: max-content;
-    gap: 10px;
-    padding: 4px 0;
-    animation: cred-marquee-scroll 35s linear infinite;
-  }
-
-  .cred-marquee-wrapper:hover .cred-marquee-track {
-    animation-play-state: paused;
-  }
-
-  .cred-marquee-pill {
-    display: inline-flex;
-    align-items: center;
-    gap: 8px;
-    padding: 7px 16px 7px 10px;
-    border-radius: 999px;
-    border: 1px solid rgba(43, 158, 179, 0.2);
-    background: white;
-    font-family: var(--font-heading);
-    font-size: 13px;
-    font-weight: 600;
-    color: var(--color-body);
-    white-space: nowrap;
-    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.06);
-    flex-shrink: 0;
-  }
-
-  .cred-logo {
-    width: 20px;
-    height: 20px;
-    object-fit: contain;
-    border-radius: 4px;
-    flex-shrink: 0;
-  }
-
-  @keyframes cred-marquee-scroll {
-    from { transform: translateX(0); }
-    to   { transform: translateX(-33.333%); }
-  }
-</style>

@@ -87,3 +87,53 @@ body {
   from { opacity: 0; transform: translateY(32px) scale(0.96); }
   to   { opacity: 1; transform: translateY(0) scale(1); }
 }
+
+/* CredibilityBar marquee */
+.cred-marquee-wrapper {
+  overflow: hidden;
+  -webkit-mask-image: linear-gradient(to right, transparent 0%, black 10%, black 90%, transparent 100%);
+  mask-image: linear-gradient(to right, transparent 0%, black 10%, black 90%, transparent 100%);
+}
+
+.cred-marquee-track {
+  display: flex;
+  flex-wrap: nowrap;
+  width: max-content;
+  gap: 10px;
+  padding: 4px 0;
+  animation: cred-scroll 35s linear infinite;
+}
+
+.cred-marquee-wrapper:hover .cred-marquee-track {
+  animation-play-state: paused;
+}
+
+.cred-marquee-pill {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  padding: 7px 16px 7px 10px;
+  border-radius: 999px;
+  border: 1px solid rgba(43, 158, 179, 0.2);
+  background: white;
+  font-family: var(--font-heading);
+  font-size: 13px;
+  font-weight: 600;
+  color: var(--color-body);
+  white-space: nowrap;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.06);
+  flex-shrink: 0;
+}
+
+.cred-logo {
+  width: 20px;
+  height: 20px;
+  object-fit: contain;
+  flex-shrink: 0;
+  border-radius: 3px;
+}
+
+@keyframes cred-scroll {
+  from { transform: translateX(0); }
+  to   { transform: translateX(-33.333%); }
+}
