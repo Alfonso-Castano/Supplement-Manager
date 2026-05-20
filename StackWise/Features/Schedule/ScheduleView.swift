@@ -107,17 +107,17 @@ private struct ScheduleItemRow: View {
                     if !item.dosage.isEmpty {
                         Text(item.dosage)
                             .font(.callout)
-                            .foregroundStyle(.secondary)
+                            .foregroundStyle(.textSecondary)
                     }
                     if item.isPrescription {
                         if !item.dosage.isEmpty {
                             Text("\u{00B7}")
                                 .font(.callout)
-                                .foregroundStyle(.secondary)
+                                .foregroundStyle(.textSecondary)
                         }
                         Text("Rx")
                             .font(.caption.weight(.semibold))
-                            .foregroundStyle(.blue)
+                            .foregroundStyle(.aquaPrimary)
                     }
                 }
             }
@@ -137,15 +137,15 @@ private struct ScheduleItemRow: View {
         HStack(spacing: 6) {
             if severity == .critical {
                 Image(systemName: "exclamationmark.octagon.fill")
-                    .foregroundStyle(.red)
+                    .foregroundStyle(.criticalFG)
             }
             if synergy {
                 Image(systemName: "checkmark.circle.fill")
-                    .foregroundStyle(.green)
+                    .foregroundStyle(.positiveFG)
             }
             if item.isPrescription {
                 Image(systemName: "cross.case.fill")
-                    .foregroundStyle(.blue)
+                    .foregroundStyle(.aquaPrimary)
             }
         }
         .font(.callout)

@@ -16,17 +16,17 @@ struct AnalysisView: View {
                 List {
                     if !results.critical.isEmpty {
                         Section("Critical") {
-                            ForEach(results.critical) { PairRow(pair: $0, accent: .red) }
+                            ForEach(results.critical) { PairRow(pair: $0, accent: .criticalFG) }
                         }
                     }
                     if !results.advisory.isEmpty {
                         Section("Advisory") {
-                            ForEach(results.advisory) { PairRow(pair: $0, accent: .orange) }
+                            ForEach(results.advisory) { PairRow(pair: $0, accent: .advisoryFG) }
                         }
                     }
                     if !results.synergy.isEmpty {
                         Section("Positive insights") {
-                            ForEach(results.synergy) { PairRow(pair: $0, accent: .green) }
+                            ForEach(results.synergy) { PairRow(pair: $0, accent: .positiveFG) }
                         }
                     }
                     if !results.notInDatabase.isEmpty {
@@ -34,12 +34,12 @@ struct AnalysisView: View {
                             ForEach(results.notInDatabase, id: \.self) { label in
                                 HStack {
                                     Image(systemName: "questionmark.circle")
-                                        .foregroundStyle(.secondary)
+                                        .foregroundStyle(.notFoundFG)
                                     Text(label)
                                     Spacer()
                                     Text("Not in DB")
                                         .font(.caption)
-                                        .foregroundStyle(.secondary)
+                                        .foregroundStyle(.notFoundFG)
                                 }
                             }
                         } header: {
@@ -70,10 +70,10 @@ private struct PairRow: View {
             }
             Text(pair.effect)
                 .font(.callout)
-                .foregroundStyle(.secondary)
+                .foregroundStyle(.textSecondary)
             Text(pair.suggestedAction)
                 .font(.callout)
-                .foregroundStyle(.primary)
+                .foregroundStyle(.textPrimary)
                 .padding(.top, 2)
         }
         .padding(.vertical, 4)

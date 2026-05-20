@@ -23,6 +23,7 @@ struct ContentView: View {
                     Label("Schedule", systemImage: "calendar")
                 }
         }
+        .tint(.aquaPrimary)
         .task {
             let profile = UserProfileStore.fetchOrCreate(in: context)
             appState.onboardingComplete = profile.onboardingComplete

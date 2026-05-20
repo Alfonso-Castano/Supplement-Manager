@@ -44,7 +44,7 @@ struct AddItemView: View {
 
                     if let match = selectedMatch {
                         HStack {
-                            Image(systemName: "checkmark.seal.fill").foregroundStyle(.green)
+                            Image(systemName: "checkmark.seal.fill").foregroundStyle(.positiveFG)
                             Text("Matched: \(match.canonicalName)")
                             Spacer()
                             Button("Clear") { selectedMatch = nil }
@@ -54,11 +54,11 @@ struct AddItemView: View {
                         ForEach(suggestions) { match in
                             Button { select(match) } label: {
                                 VStack(alignment: .leading) {
-                                    Text(match.canonicalName).foregroundStyle(.primary)
+                                    Text(match.canonicalName).foregroundStyle(.textPrimary)
                                     if let alias = match.matchedAlias {
                                         Text("Also known as: \(alias)")
                                             .font(.caption)
-                                            .foregroundStyle(.secondary)
+                                            .foregroundStyle(.textSecondary)
                                     }
                                 }
                             }
@@ -66,7 +66,7 @@ struct AddItemView: View {
                     } else if !label.trimmingCharacters(in: .whitespaces).isEmpty {
                         Text("No database match — will be added as a custom item.")
                             .font(.caption)
-                            .foregroundStyle(.secondary)
+                            .foregroundStyle(.textSecondary)
                     }
                 }
 
