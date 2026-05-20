@@ -1,13 +1,13 @@
 ---
 const sources = [
-  'NIH Office of Dietary Supplements',
-  'PubMed',
-  'Memorial Sloan Kettering',
-  'MedlinePlus',
-  'OpenFDA',
-  'Cochrane Library',
-  'WHO',
-  'Natural Medicines',
+  { abbr: 'NIH',  color: '#204DA0', name: 'NIH Office of Dietary Supplements' },
+  { abbr: 'PM',   color: '#2E6DA4', name: 'PubMed' },
+  { abbr: 'MSK',  color: '#1A1A1A', name: 'Memorial Sloan Kettering' },
+  { abbr: 'ML',   color: '#006BA6', name: 'MedlinePlus' },
+  { abbr: 'FDA',  color: '#1560BD', name: 'OpenFDA' },
+  { abbr: 'COC',  color: '#A52626', name: 'Cochrane Library' },
+  { abbr: 'WHO',  color: '#009FDB', name: 'World Health Organization' },
+  { abbr: 'NM',   color: '#2E7D32', name: 'Natural Medicines' },
 ];
 ---
 
@@ -18,20 +18,13 @@ const sources = [
     </p>
   </div>
 
-  <!-- Row 1: scrolls left -->
-  <div class="marquee-wrapper mb-3">
-    <div class="marquee-track marquee-left">
-      {[...sources, ...sources].map((source) => (
-        <span class="marquee-pill">{source}</span>
-      ))}
-    </div>
-  </div>
-
-  <!-- Row 2: scrolls right -->
   <div class="marquee-wrapper">
-    <div class="marquee-track marquee-right">
-      {[...sources, ...sources].map((source) => (
-        <span class="marquee-pill">{source}</span>
+    <div class="marquee-track">
+      {[...sources, ...sources, ...sources].map((source) => (
+        <span class="marquee-pill">
+          <span class="marquee-badge" style={`background: ${source.color};`}>{source.abbr}</span>
+          {source.name}
+        </span>
       ))}
     </div>
   </div>
@@ -40,23 +33,16 @@ const sources = [
 <style>
   .marquee-wrapper {
     overflow: hidden;
-    -webkit-mask-image: linear-gradient(to right, transparent 0%, black 12%, black 88%, transparent 100%);
-    mask-image: linear-gradient(to right, transparent 0%, black 12%, black 88%, transparent 100%);
+    -webkit-mask-image: linear-gradient(to right, transparent 0%, black 10%, black 90%, transparent 100%);
+    mask-image: linear-gradient(to right, transparent 0%, black 10%, black 90%, transparent 100%);
   }
 
   .marquee-track {
     display: flex;
     width: max-content;
-    gap: 12px;
+    gap: 10px;
     padding: 4px 0;
-  }
-
-  .marquee-left {
-    animation: marquee-scroll-left 28s linear infinite;
-  }
-
-  .marquee-right {
-    animation: marquee-scroll-right 32s linear infinite;
+    animation: marquee-scroll 35s linear infinite;
   }
 
   .marquee-wrapper:hover .marquee-track {
@@ -66,26 +52,36 @@ const sources = [
   .marquee-pill {
     display: inline-flex;
     align-items: center;
-    padding: 6px 16px;
+    gap: 8px;
+    padding: 7px 16px 7px 8px;
     border-radius: 999px;
-    border: 1px solid rgba(43, 158, 179, 0.25);
+    border: 1px solid rgba(43, 158, 179, 0.2);
     background: white;
     font-family: var(--font-heading);
     font-size: 13px;
     font-weight: 600;
     color: var(--color-body);
     white-space: nowrap;
-    box-shadow: 0 1px 3px rgba(0,0,0,0.06);
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.06);
     flex-shrink: 0;
   }
 
-  @keyframes marquee-scroll-left {
-    from { transform: translateX(0); }
-    to   { transform: translateX(-50%); }
+  .marquee-badge {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    padding: 2px 6px;
+    border-radius: 6px;
+    color: white;
+    font-size: 9px;
+    font-weight: 700;
+    font-family: var(--font-heading);
+    letter-spacing: 0.03em;
+    flex-shrink: 0;
   }
 
-  @keyframes marquee-scroll-right {
-    from { transform: translateX(-50%); }
-    to   { transform: translateX(0); }
+  @keyframes marquee-scroll {
+    from { transform: translateX(0); }
+    to   { transform: translateX(-33.333%); }
   }
 </style>
