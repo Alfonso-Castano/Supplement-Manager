@@ -1,13 +1,13 @@
 ---
 const sources = [
-  { abbr: 'NIH',  color: '#204DA0', name: 'NIH Office of Dietary Supplements' },
-  { abbr: 'PM',   color: '#2E6DA4', name: 'PubMed' },
-  { abbr: 'MSK',  color: '#1A1A1A', name: 'Memorial Sloan Kettering' },
-  { abbr: 'ML',   color: '#006BA6', name: 'MedlinePlus' },
-  { abbr: 'FDA',  color: '#1560BD', name: 'OpenFDA' },
-  { abbr: 'COC',  color: '#A52626', name: 'Cochrane Library' },
-  { abbr: 'WHO',  color: '#009FDB', name: 'World Health Organization' },
-  { abbr: 'NM',   color: '#2E7D32', name: 'Natural Medicines' },
+  { logo: 'https://logo.clearbit.com/nih.gov',                                    name: 'NIH Office of Dietary Supplements' },
+  { logo: 'https://logo.clearbit.com/ncbi.nlm.nih.gov',                           name: 'PubMed' },
+  { logo: 'https://logo.clearbit.com/mskcc.org',                                  name: 'Memorial Sloan Kettering' },
+  { logo: 'https://logo.clearbit.com/medlineplus.gov',                            name: 'MedlinePlus' },
+  { logo: 'https://logo.clearbit.com/open.fda.gov',                               name: 'OpenFDA' },
+  { logo: 'https://logo.clearbit.com/cochranelibrary.com',                        name: 'Cochrane Library' },
+  { logo: 'https://logo.clearbit.com/who.int',                                    name: 'World Health Organization' },
+  { logo: 'https://logo.clearbit.com/naturalmedicines.therapeuticresearch.com',   name: 'Natural Medicines' },
 ];
 ---
 
@@ -18,11 +18,19 @@ const sources = [
     </p>
   </div>
 
-  <div class="marquee-wrapper">
-    <div class="marquee-track">
+  <div class="cred-marquee-wrapper">
+    <div class="cred-marquee-track">
       {[...sources, ...sources, ...sources].map((source) => (
-        <span class="marquee-pill">
-          <span class="marquee-badge" style={`background: ${source.color};`}>{source.abbr}</span>
+        <span class="cred-marquee-pill">
+          <img
+            src={source.logo}
+            alt={source.name}
+            width="20"
+            height="20"
+            class="cred-logo"
+            loading="lazy"
+            onerror="this.style.display='none'"
+          />
           {source.name}
         </span>
       ))}
@@ -30,30 +38,30 @@ const sources = [
   </div>
 </section>
 
-<style>
-  .marquee-wrapper {
+<style is:global>
+  .cred-marquee-wrapper {
     overflow: hidden;
     -webkit-mask-image: linear-gradient(to right, transparent 0%, black 10%, black 90%, transparent 100%);
     mask-image: linear-gradient(to right, transparent 0%, black 10%, black 90%, transparent 100%);
   }
 
-  .marquee-track {
+  .cred-marquee-track {
     display: flex;
     width: max-content;
     gap: 10px;
     padding: 4px 0;
-    animation: marquee-scroll 35s linear infinite;
+    animation: cred-marquee-scroll 35s linear infinite;
   }
 
-  .marquee-wrapper:hover .marquee-track {
+  .cred-marquee-wrapper:hover .cred-marquee-track {
     animation-play-state: paused;
   }
 
-  .marquee-pill {
+  .cred-marquee-pill {
     display: inline-flex;
     align-items: center;
     gap: 8px;
-    padding: 7px 16px 7px 8px;
+    padding: 7px 16px 7px 10px;
     border-radius: 999px;
     border: 1px solid rgba(43, 158, 179, 0.2);
     background: white;
@@ -66,21 +74,15 @@ const sources = [
     flex-shrink: 0;
   }
 
-  .marquee-badge {
-    display: inline-flex;
-    align-items: center;
-    justify-content: center;
-    padding: 2px 6px;
-    border-radius: 6px;
-    color: white;
-    font-size: 9px;
-    font-weight: 700;
-    font-family: var(--font-heading);
-    letter-spacing: 0.03em;
+  .cred-logo {
+    width: 20px;
+    height: 20px;
+    object-fit: contain;
+    border-radius: 4px;
     flex-shrink: 0;
   }
 
-  @keyframes marquee-scroll {
+  @keyframes cred-marquee-scroll {
     from { transform: translateX(0); }
     to   { transform: translateX(-33.333%); }
   }
