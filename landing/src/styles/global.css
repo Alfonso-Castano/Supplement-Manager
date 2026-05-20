@@ -37,6 +37,9 @@ body {
     font-family: var(--font-heading);
     color: var(--color-heading);
   }
+  h1 { font-weight: 800; letter-spacing: -0.03em; }
+  h2 { font-weight: 800; letter-spacing: -0.025em; }
+  h3 { font-weight: 700; letter-spacing: -0.02em; }
 }
 
 /* Scroll-triggered fade-in animations — spring easing from SuppCo */

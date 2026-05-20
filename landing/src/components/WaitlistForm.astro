@@ -30,7 +30,7 @@ const { id = 'waitlist', size = 'default', variant = 'light' } = Astro.props;
     <button
       type="submit"
       class:list={[
-        'flex-shrink-0 bg-[var(--color-blue-accent)] hover:bg-[var(--color-blue-dark)] text-white font-heading font-600 rounded-xl transition-all duration-200 hover:scale-[1.02] active:scale-[0.98] disabled:opacity-60 disabled:cursor-not-allowed',
+        `flex-shrink-0 bg-[var(--color-blue-accent)] hover:bg-[var(--color-blue-dark)] text-white font-heading font-600 rounded-xl transition-all duration-200 active:shadow-none active:translate-y-1 disabled:opacity-60 disabled:cursor-not-allowed ${variant === 'dark' ? 'shadow-[0_4px_0_0_rgba(0,0,0,0.4)]' : 'shadow-[0_4px_0_0_var(--color-blue-dark)]'}`,
         size === 'large' ? 'h-14 px-8 text-base' : 'h-12 px-6 text-sm',
       ]}
     >

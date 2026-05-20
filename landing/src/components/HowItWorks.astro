@@ -13,7 +13,7 @@ const steps = [
     number: '02',
     headline: "See what's working — and what's not",
     description: "Every item is automatically cross-referenced. Conflicts, positive pairings, and unknowns — all explained with citations.",
-    screen: 'Interaction Results',
+    screen: 'Analysis Results',
     accent: 'blue' as const,
   },
   {
@@ -32,7 +32,7 @@ const steps = [
       <span class="fade-up inline-block text-xs font-heading font-600 uppercase tracking-widest text-[var(--color-blue-accent)] mb-4">
         How It Works
       </span>
-      <h2 class="fade-up delay-1 text-3xl sm:text-4xl font-heading font-700 text-[var(--color-heading)] tracking-tight text-balance">
+      <h2 class="fade-up delay-1 text-3xl sm:text-4xl font-heading font-800 text-[var(--color-heading)] tracking-tighter text-balance">
         From stack to schedule in minutes
       </h2>
     </div>
@@ -40,11 +40,11 @@ const steps = [
     <div class="flex flex-col gap-24">
       {steps.map((step, i) => (
         <div class={`grid lg:grid-cols-2 gap-12 lg:gap-20 items-center ${i % 2 === 1 ? 'lg:[&>*:first-child]:order-2' : ''}`}>
-          <!-- Step text card — Duolingo #ddf4ff surface principle -->
-          <div class="fade-up bg-[var(--color-blue-tint)] rounded-2xl p-6 lg:p-8 flex flex-col gap-4">
-            <span class="text-5xl font-heading font-800 text-[var(--color-blue-accent)] opacity-30 leading-none">
-              {step.number}
-            </span>
+          <!-- Step text block -->
+          <div class="fade-up flex flex-col gap-5">
+            <div class="w-9 h-9 rounded-full bg-[var(--color-blue-accent)] flex items-center justify-center flex-shrink-0">
+              <span class="text-sm font-heading font-700 text-white leading-none">{step.number}</span>
+            </div>
             <h3 class="fade-up delay-1 text-2xl sm:text-3xl font-heading font-700 text-[var(--color-heading)] tracking-tight leading-snug text-balance">
               {step.headline}
             </h3>
