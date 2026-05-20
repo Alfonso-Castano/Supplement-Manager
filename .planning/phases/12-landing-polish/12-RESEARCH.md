@@ -567,7 +567,7 @@ Visual quality cannot be tested with unit tests. The verification mechanism is:
 
 ---
 
-## Open Questions
+## Open Questions (RESOLVED)
 
 1. **Should sub-plans 12-02 and 12-03 be written before 12-01 starts, or after?**
    - What we know: Plan 12-01 already exists. Plans 12-02 and 12-03 do not yet exist.
