@@ -2,7 +2,7 @@
 
 **Last session:** 2026-05-20
 **Branch:** main
-**Last commit:** `cc1d6b2` — feat(12): SkillUI visual polish
+**Last commit:** `238d8da` — fix(12-02): marquee CSS to global.css + Google favicon logos
 
 ---
 
@@ -25,27 +25,53 @@ Phase-based execution system. Plans live in `.planning/phases/`. Each phase has:
 
 **Current phase: 12 — Landing Visual Polish**
 - Wave 1 (12-01): COMPLETE — bug fixes + desktop text/icon audit
-- Wave 2 (12-02): PENDING — mobile responsive audit (375px, 390px, 768px)
+- Wave 2 (12-02): IN PROGRESS — visual + motion tweaks (see below for remaining item)
 - Wave 3 (12-03): PENDING — animation polish (hover states, Playwright scroll verification)
+- Wave 4 (mobile): PENDING — mobile responsive audit (375px, 390px, 768px)
 
 ---
 
-## What was just built (this session)
+## Immediate next task (do this first)
 
-8 visual changes inspired by SkillUI extraction of SuppCo + Duolingo:
+**CredibilityBar source pills — make them larger**
+
+File: `landing/src/styles/global.css` (the `.cred-marquee-pill` and `.cred-logo` rules)
+File: `landing/src/components/CredibilityBar.astro` (section padding)
+
+Current sizes:
+- Font: `13px`, weight `600`
+- Logo: `20px × 20px`
+- Pill padding: `7px 16px 7px 10px`
+- Gap between logo and text: `8px`
+- Section vertical padding: `py-10`
+
+Target: approximately 3–4× more prominent. Suggested values to try:
+- Font: `17px`, weight `700`
+- Logo: `36px × 36px`
+- Pill padding: `12px 24px 12px 16px`
+- Gap: `12px`
+- Section padding: increase to `py-14` or `py-16` so the bar feels substantial
+
+After applying, take a Playwright screenshot at 1440×900 to verify pills are prominent. Commit with message: `feat(12-02): larger credibility source pills`
+
+---
+
+## What was built in this session (Phase 12 Wave 2)
+
+Full visual + motion overhaul across two subagent phases + several inline tweaks:
 
 | Change | File |
 |--------|------|
-| Hero headline 52→72px | `landing/src/components/Hero.astro` |
-| Warm hero bg `#FAFAF8` | `landing/src/components/Hero.astro` |
-| 2-blob visible gradient behind hero | `landing/src/components/Hero.astro` |
-| Ambient blue glow + cinematic shadow on phone mockup | `landing/src/components/Hero.astro` |
-| `reveal-in` scale+translate entrance on hero mockup | `landing/src/components/Hero.astro` |
-| Spring easing `cubic-bezier(.19,1,.22,1)` on all animations | `landing/src/styles/global.css` |
-| Dark section FinalCTA (`bg-[var(--color-heading)]`, white text) | `landing/src/components/FinalCTA.astro` |
-| Blue-tinted card surface on HowItWorks step text blocks | `landing/src/components/HowItWorks.astro` |
-| `WaitlistForm` dark variant (glassmorphism input) | `landing/src/components/WaitlistForm.astro` |
-| `@layer base` fix — Tailwind color utilities now override heading defaults | `landing/src/styles/global.css` |
+| 3D Duolingo-style buttons (bottom shadow, press effect) | `WaitlistForm.astro`, `FinalCTA.astro` |
+| Bolder typography — h1 `font-800`, h2 `font-800 tracking-tighter` | `global.css` + all section components |
+| iOS number badges on HowItWorks steps (01/02/03) | `HowItWorks.astro` |
+| Removed blue-tint card bg from HowItWorks text blocks | `HowItWorks.astro` |
+| iOS number badges on FeatureSection (04/05) | `FeatureSection.astro` (new `number` prop) |
+| Zigzag layout on FeatureSections (flip prop) | `index.astro` |
+| Hero headline → "Your supplements / may be working / against each other" (3 lines, 60px) | `Hero.astro` |
+| Screen flow: 01 Stack Entry → 02 Analysis Results → 03 Interaction Analysis → 04 Daily Schedule → 05 Reminders | `HowItWorks.astro`, `index.astro` |
+| CredibilityBar: single-row animated marquee with Google Favicon logos | `CredibilityBar.astro`, `global.css` |
+| Re-triggering scroll animations (fade-up re-arms on scroll-out) | `Layout.astro` |
 
 ---
 
@@ -72,26 +98,15 @@ Font body:    DM Sans
 
 SkillUI reverse-engineers a design system from any live URL.
 
-**Install (already done on this machine):**
-```bash
-npm install -g skillui
-npm install -g playwright && npx playwright install chromium
-```
-
 **Run:**
 ```bash
 cd landing
 npx skillui --url https://example.com/ --name site-name --out ".agents/skills/frontend-references/site-name/site-name-design"
 ```
 
-**Output lands in:** `landing/.agents/skills/frontend-references/{site}/`
-**Bridge skill file:** `landing/.agents/skills/frontend-references.md` — read this to know what references exist and their key signals.
-
 **Already extracted:**
-- `suppco` — https://supp.co/ → dark theme, spring easing, cinematic shadows, `reveal-in` keyframe
-- `duolingo` — https://www.duolingo.com/ → 70 animations, bold section contrast, `#ddf4ff` surface
-
-**When to use:** Any time the user says "make this feel more like X" or references another website for inspiration — run SkillUI on it first, then apply the extracted tokens directly.
+- `suppco` — https://supp.co/ → dark theme, spring easing, cinematic shadows
+- `duolingo` — https://www.duolingo.com/ → 70 animations, bold section contrast
 
 ---
 
@@ -101,29 +116,43 @@ Already configured in `.mcp.json`. Tools available as `mcp__playwright__browser_
 
 Standard screenshot flow:
 ```
-resize(1440, 900) → navigate(http://localhost:4321) → evaluate(force-reveal animations) → take_screenshot(fullPage: true)
+resize(1440, 900) → navigate(http://localhost:4321) → evaluate(force-reveal) → take_screenshot(fullPage: true)
 ```
 
 Force-reveal all animations for screenshots:
 ```js
 document.querySelectorAll('.fade-up, .hero-enter, .reveal-in').forEach(el => {
-  el.style.cssText += '; opacity: 1 !important; transform: none !important; animation: none !important;';
+  el.style.opacity = '1';
+  el.style.transform = 'none';
   el.classList.add('visible');
 });
 ```
 
 ---
 
-## Pending tweaks (user has more changes to make)
+## Wave 3 — Animation polish (next after Wave 2 is done)
 
-User mentioned additional tweaks — gather them at the start of the next session before executing.
+Goals:
+- Hover states on buttons, cards, phone mockups (subtle lift/glow)
+- Verify scroll animations work correctly across the full page using Playwright
+- Any remaining motion refinements
+
+---
+
+## Wave 4 — Mobile responsive audit
+
+Viewports to test: 375px, 390px, 768px
+
+Known risks:
+- Hero headline line breaks (`<br>` tags) may look odd on mobile — may need to remove them at small viewports and let text flow naturally
+- HowItWorks grid collapses to single column — verify badge + content stacking order
+- FeatureSection flip layout — verify phone mockup doesn't disappear or misalign
+- CredibilityBar marquee — verify it doesn't overflow or look too small on mobile
 
 ---
 
 ## Post-Vercel deployment workflow
 
-When the site is live on Vercel:
 - Small tweaks: edit locally → `npm run dev` to verify → `git push origin main` → Vercel auto-deploys (~1 min)
-- Larger changes: open a new GSD phase (e.g., Phase 13), plan → execute → push
-- Preview deployments: push to a branch → Vercel creates a preview URL automatically
+- Larger changes: open a new GSD phase, plan → execute → push
 - Rollback: `git revert <commit>` → push → Vercel redeploys previous version
