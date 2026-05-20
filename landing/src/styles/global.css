@@ -111,14 +111,14 @@ body {
 .cred-marquee-pill {
   display: inline-flex;
   align-items: center;
-  gap: 8px;
-  padding: 7px 16px 7px 10px;
+  gap: 12px;
+  padding: 12px 24px 12px 16px;
   border-radius: 999px;
   border: 1px solid rgba(43, 158, 179, 0.2);
   background: white;
   font-family: var(--font-heading);
-  font-size: 13px;
-  font-weight: 600;
+  font-size: 17px;
+  font-weight: 700;
   color: var(--color-body);
   white-space: nowrap;
   box-shadow: 0 1px 3px rgba(0, 0, 0, 0.06);
@@ -126,8 +126,8 @@ body {
 }
 
 .cred-logo {
-  width: 20px;
-  height: 20px;
+  width: 36px;
+  height: 36px;
   object-fit: contain;
   flex-shrink: 0;
   border-radius: 3px;
