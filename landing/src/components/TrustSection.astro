@@ -1,10 +1,25 @@
 ---
 const credibilitySignals = [
-  { icon: '📚', text: 'Every record citation-backed from NIH, PubMed, MSK, MedlinePlus, or OpenFDA' },
-  { icon: '✅', text: 'Human-verified against original sources' },
-  { icon: '🔍', text: 'Confidence-filtered — low-confidence records excluded' },
-  { icon: '💊', text: 'Covers the most commonly taken supplements and prescribed medications' },
-  { icon: '🔔', text: "Honest about gaps — items not in the database are clearly flagged" },
+  {
+    text: 'Every record citation-backed from NIH, PubMed, MSK, MedlinePlus, or OpenFDA',
+    svg: '<svg class="w-4 h-4 text-[var(--color-blue-accent)] flex-shrink-0 mt-0.5" fill="currentColor" viewBox="0 0 24 24"><path d="M6 2a2 2 0 00-2 2v16a2 2 0 002 2h12a2 2 0 002-2V8l-6-6H6zm7 1.5L18.5 9H13V3.5zM6 4h5v7h7v9H6V4z"/></svg>',
+  },
+  {
+    text: 'Human-verified against original sources',
+    svg: '<svg class="w-4 h-4 text-[var(--color-blue-accent)] flex-shrink-0 mt-0.5" fill="currentColor" viewBox="0 0 24 24"><path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm-2 15l-5-5 1.41-1.41L10 14.17l7.59-7.59L19 8l-9 9z"/></svg>',
+  },
+  {
+    text: 'Confidence-filtered — low-confidence records excluded',
+    svg: '<svg class="w-4 h-4 text-[var(--color-blue-accent)] flex-shrink-0 mt-0.5" fill="currentColor" viewBox="0 0 24 24"><path d="M15.5 14h-.79l-.28-.27A6.47 6.47 0 0016 9.5 6.5 6.5 0 109.5 16c1.61 0 3.09-.59 4.23-1.57l.27.28v.79l5 4.99L20.49 19l-4.99-5zm-6 0C7.01 14 5 11.99 5 9.5S7.01 5 9.5 5 14 7.01 14 9.5 11.99 14 9.5 14z"/></svg>',
+  },
+  {
+    text: 'Covers the most commonly taken supplements and prescribed medications',
+    svg: '<svg class="w-4 h-4 text-[var(--color-blue-accent)] flex-shrink-0 mt-0.5" fill="currentColor" viewBox="0 0 24 24"><path d="M19 3H5c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2zm-7 3c1.93 0 3.5 1.57 3.5 3.5S13.93 13 12 13s-3.5-1.57-3.5-3.5S10.07 6 12 6zm7 13H5v-.23c0-.62.28-1.2.76-1.58C7.47 15.82 9.64 15 12 15s4.53.82 6.24 2.19c.48.38.76.97.76 1.58V19z"/></svg>',
+  },
+  {
+    text: 'Honest about gaps — items not in the database are clearly flagged',
+    svg: '<svg class="w-4 h-4 text-[var(--color-blue-accent)] flex-shrink-0 mt-0.5" fill="currentColor" viewBox="0 0 24 24"><path d="M12 22c1.1 0 2-.9 2-2h-4c0 1.1.9 2 2 2zm6-6v-5c0-3.07-1.64-5.64-4.5-6.32V4c0-.83-.67-1.5-1.5-1.5s-1.5.67-1.5 1.5v.68C7.63 5.36 6 7.92 6 11v5l-2 2v1h16v-1l-2-2z"/></svg>',
+  },
 ];
 ---
 
@@ -24,7 +39,11 @@ const credibilitySignals = [
           No cloud accounts. No server-side storage. No health data transmitted — ever. StackWise runs entirely on your iPhone.
         </p>
         <div class="fade-up delay-3 mt-2 flex items-start gap-3 p-4 rounded-2xl bg-white/70 border border-white">
-          <div class="w-10 h-10 rounded-xl bg-[var(--color-blue-accent)]/10 flex items-center justify-center flex-shrink-0 text-lg">🔒</div>
+          <div class="w-10 h-10 rounded-xl bg-[var(--color-blue-accent)]/10 flex items-center justify-center flex-shrink-0">
+            <svg class="w-5 h-5 text-[var(--color-blue-accent)]" fill="currentColor" viewBox="0 0 24 24">
+              <path d="M18 8h-1V6c0-2.76-2.24-5-5-5S7 3.24 7 6v2H6c-1.1 0-2 .9-2 2v10c0 1.1.9 2 2 2h12c1.1 0 2-.9 2-2V10c0-1.1-.9-2-2-2zm-6 9c-1.1 0-2-.9-2-2s.9-2 2-2 2 .9 2 2-.9 2-2 2zm3.1-9H8.9V6c0-1.71 1.39-3.1 3.1-3.1 1.71 0 3.1 1.39 3.1 3.1v2z"/>
+            </svg>
+          </div>
           <p class="text-sm text-[var(--color-body)] leading-relaxed pt-1">
             The only outbound data is optional feedback you choose to send — which never includes health information.
           </p>
@@ -45,7 +64,7 @@ const credibilitySignals = [
         <ul class="fade-up delay-3 flex flex-col gap-3 mt-1">
           {credibilitySignals.map((signal) => (
             <li class="flex items-start gap-3">
-              <span class="text-base flex-shrink-0 mt-0.5">{signal.icon}</span>
+              <Fragment set:html={signal.svg} />
               <span class="text-sm text-[var(--color-body)] leading-snug">{signal.text}</span>
             </li>
           ))}
