@@ -316,7 +316,7 @@ Plans:
 **Plans:** 1 plan
 
 Plans:
-- [ ] 11.5-01-PLAN.md — User presents tool list, Claude evaluates each, selected tools installed and configured, TOOLS.md written
+- [x] 11.5-01-PLAN.md — User presents tool list, Claude evaluates each, selected tools installed and configured, TOOLS.md written — COMPLETE
 
 **Success Criteria:**
 1. `TOOLS.md` exists in `.planning/phases/12-landing-polish/`
@@ -432,6 +432,6 @@ Plans:
 | 11 | Complete | 1/1 | 11-01 |
 | 11.5 | Complete | 1/1 | 11.5-01 |
 | 12 | Complete | 3/3 | 12-01, 12-02, 12-03 |
-| 13 | Not started | 0/3 | — |
-| 14 | Not started | 0/1 | — |
-| 15 | Not started | 0/1 | — |
+| 13 | Not started | 3/3 plans written | — |
+| 14 | Not started | 1/1 plan written | — |
+| 15 | Not started | 1/1 plan written | — |
