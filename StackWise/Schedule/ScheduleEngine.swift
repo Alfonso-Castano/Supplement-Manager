@@ -69,6 +69,12 @@ enum ScheduleEngine {
                 // Always morning (at wake, before breakfast) -- override other constraints.
                 assignment[item.id] = .morning
             }
+            if props.avoidWithCaffeine && !props.requiresEmptyStomach {
+                // Move away from morning (typical caffeine window) unless empty-stomach overrides.
+                if assignment[item.id] == nil || assignment[item.id] == .morning {
+                    assignment[item.id] = .afternoon
+                }
+            }
         }
 
         // --- Rule 1: prescriptions lock in -- override timing_properties if needed,
