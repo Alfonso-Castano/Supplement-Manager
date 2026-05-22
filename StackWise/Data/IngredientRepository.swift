@@ -40,10 +40,10 @@ final class IngredientRepository {
         let sql = """
         SELECT id, canonical_name, item_type, aliases
         FROM ingredients
-        WHERE canonical_name LIKE ?1 COLLATE NOCASE
-           OR aliases LIKE ?1 COLLATE NOCASE
+        WHERE canonical_name LIKE ?1 ESCAPE '\\' COLLATE NOCASE
+           OR aliases LIKE ?1 ESCAPE '\\' COLLATE NOCASE
         ORDER BY
-            CASE WHEN canonical_name LIKE ?2 COLLATE NOCASE THEN 0 ELSE 1 END,
+            CASE WHEN canonical_name LIKE ?2 ESCAPE '\\' COLLATE NOCASE THEN 0 ELSE 1 END,
             length(canonical_name),
             canonical_name
         LIMIT ?3
@@ -53,8 +53,9 @@ final class IngredientRepository {
         defer { sqlite3_finalize(stmt) }
         guard sqlite3_prepare_v2(db, sql, -1, &stmt, nil) == SQLITE_OK else { return [] }
 
-        let likePattern = "%\(trimmed)%"
-        let prefixPattern = "\(trimmed)%"
+        let escaped = escapeLikePattern(trimmed)
+        let likePattern = "%\(escaped)%"
+        let prefixPattern = "\(escaped)%"
         sqlite3_bind_text(stmt, 1, likePattern, -1, SQLITE_TRANSIENT)
         sqlite3_bind_text(stmt, 2, prefixPattern, -1, SQLITE_TRANSIENT)
         sqlite3_bind_int(stmt, 3, Int32(limit))
@@ -86,6 +87,13 @@ final class IngredientRepository {
         let blob: String? = (sqlite3_column_type(stmt, 0) != SQLITE_NULL)
             ? String(cString: sqlite3_column_text(stmt, 0)) : nil
         return TimingProperties.decode(from: blob)
+    }
+
+    private func escapeLikePattern(_ input: String) -> String {
+        input
+            .replacingOccurrences(of: "\\", with: "\\\\")
+            .replacingOccurrences(of: "%", with: "\\%")
+            .replacingOccurrences(of: "_", with: "\\_")
     }
 
     private func firstAliasMatching(query: String, aliasesJSON: String,
