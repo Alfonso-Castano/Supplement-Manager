@@ -6,14 +6,10 @@ struct ScheduleView: View {
     @Environment(\.managedObjectContext) private var context
 
     private var schedule: ScheduleResult {
-        scheduleStore.currentSchedule()
+        scheduleStore.cachedResult ?? .empty
     }
 
-    private var profile: UserProfile? {
-        let request = UserProfile.fetchRequest()
-        request.fetchLimit = 1
-        return try? context.fetch(request).first
-    }
+    @State private var profile: UserProfile?
 
     var body: some View {
         NavigationStack {
@@ -58,12 +54,18 @@ struct ScheduleView: View {
             }
             .navigationTitle("Schedule")
         }
+        .task {
+            scheduleStore.currentSchedule()
+            let request = UserProfile.fetchRequest()
+            request.fetchLimit = 1
+            profile = try? context.fetch(request).first
+        }
     }
 
     // MARK: - Section Header Helpers
 
     private func sectionHeader(block: String) -> String {
-        let prof = profile
+        let prof = self.profile
         let now = Date()
         let cal = Calendar.current
 
