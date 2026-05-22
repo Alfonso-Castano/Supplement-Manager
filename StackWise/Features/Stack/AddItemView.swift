@@ -99,12 +99,12 @@ struct AddItemView: View {
             suggestions = []
             return
         }
-        searchTask = Task { @MainActor in
+        searchTask = Task {
             try? await Task.sleep(nanoseconds: 200_000_000)
             guard !Task.isCancelled else { return }
             let results = repo.search(trimmed)
             guard !Task.isCancelled else { return }
-            suggestions = results
+            await MainActor.run { suggestions = results }
         }
     }
 
