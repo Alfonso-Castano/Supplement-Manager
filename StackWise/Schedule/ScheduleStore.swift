@@ -139,7 +139,13 @@ final class ScheduleStore {
             dose.stackItem = itemLookup[scheduledItem.id]
         }
 
-        try? ctx.save()
+        do {
+            try ctx.save()
+        } catch {
+            ctx.rollback()
+            assertionFailure("ScheduleStore save failed: \(error)")
+            return
+        }
 
         // 8. Update cache.
         cachedResult = result
