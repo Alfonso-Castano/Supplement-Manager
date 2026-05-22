@@ -112,7 +112,17 @@ enum ScheduleEngine {
                     return abs(t.timeIntervalSince(anchorTime)) / 3600 >= Double(windowHours)
                 }
                 if let candidate {
-                    assignment[itemToMove.id] = candidate
+                    // Re-validate timing constraints before committing the move.
+                    let slug = itemToMove.activeIngredient
+                    let props = input.timingProps[slug] ?? .none
+                    let constraintsSatisfied: Bool = {
+                        if props.requiresEmptyStomach { return candidate == .morning }
+                        if props.requiredFood { return true } // all blocks have meals
+                        return true
+                    }()
+                    if constraintsSatisfied {
+                        assignment[itemToMove.id] = candidate
+                    }
                 }
             }
         }
