@@ -2,6 +2,7 @@ import Foundation
 import CoreData
 import Observation
 
+@MainActor
 @Observable
 final class ScheduleStore {
     private(set) var cachedResult: ScheduleResult? = nil
@@ -26,6 +27,7 @@ final class ScheduleStore {
     }
 
     /// Returns cached result if clean; recomputes if dirty.
+    @discardableResult
     func currentSchedule() -> ScheduleResult {
         if dirty || cachedResult == nil {
             recompute()
