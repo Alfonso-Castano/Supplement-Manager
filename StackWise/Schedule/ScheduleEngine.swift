@@ -150,6 +150,8 @@ enum ScheduleEngine {
         evening = sort(evening)
 
         // Overflow: spill from morning -> afternoon -> evening.
+        // Note: evening has no cap -- it is the terminal block so overflow
+        // accumulates there. With typical stacks (< 15 items) this is fine.
         while morning.count > 5 {
             let spill = morning.removeLast()
             afternoon.insert(spill, at: 0)
@@ -157,6 +159,10 @@ enum ScheduleEngine {
         while afternoon.count > 5 {
             let spill = afternoon.removeLast()
             evening.insert(spill, at: 0)
+        }
+
+        if evening.count > 5 {
+            assertionFailure("Evening block has \(evening.count) items — consider splitting into sub-blocks")
         }
 
         // Build ScheduledItems.
