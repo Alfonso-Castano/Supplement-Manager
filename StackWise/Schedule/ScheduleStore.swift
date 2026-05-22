@@ -88,10 +88,14 @@ final class ScheduleStore {
         let dinnerTime = profile?.dinnerTime ?? cal.date(bySettingHour: 18, minute: 0, second: 0, of: now)!
         let sleepTime = profile?.sleepTime ?? cal.date(bySettingHour: 22, minute: 0, second: 0, of: now)!
 
-        // 6. Build item projections and call engine.
-        let projections: [ScheduleEngine.ItemProjection] = items.map { item in
-            ScheduleEngine.ItemProjection(
-                id: item.id ?? UUID(),
+        // 6. Build item projections and call engine (skip items with nil id).
+        let projections: [ScheduleEngine.ItemProjection] = items.compactMap { item in
+            guard let id = item.id else {
+                assertionFailure("StackItem missing id")
+                return nil
+            }
+            return ScheduleEngine.ItemProjection(
+                id: id,
                 label: item.labelValue,
                 activeIngredient: item.activeIngredientValue,
                 dosage: item.dosage ?? "",
