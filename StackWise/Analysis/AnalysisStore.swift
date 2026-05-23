@@ -1,5 +1,6 @@
 import CoreData
 
+@MainActor
 @Observable
 final class AnalysisStore {
     private let repo: InteractionRepository
