@@ -34,7 +34,7 @@ struct InteractionPair: Equatable, Identifiable {
 }
 
 @Observable
-final class InteractionRepository {
+final class InteractionRepository: @unchecked Sendable {
     private var db: OpaquePointer?
 
     init(bundle: Bundle = .main, resource: String = "stackwise", ext: String = "sqlite") {

@@ -11,7 +11,7 @@ struct IngredientMatch: Equatable, Identifiable {
 }
 
 @Observable
-final class IngredientRepository {
+final class IngredientRepository: @unchecked Sendable {
     private var db: OpaquePointer?
 
     init(bundle: Bundle = .main, resource: String = "stackwise", ext: String = "sqlite") {
