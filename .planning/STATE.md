@@ -3,9 +3,9 @@ current_phase: "4"
 current_phase_name: "Smart Schedule"
 current_plan: "4 of 4"
 total_phases: "10"
-status: "in-progress"
+status: "complete"
 progress: "[████░░░░░░] 40%"
-last_activity: "2026-05-15"
+last_activity: "2026-05-22"
 phase_count: 10
 plan_count: 22
 summary_count: 15
@@ -22,11 +22,11 @@ See: SPEC.md (full project specification)
 
 ## Current Position
 
-Phase: 4 of 10 (Smart Schedule) — in-progress
-Plan: 4 of 4 (04-04 complete; awaiting Mac verification)
-Status: Plan 04-04 executed (2026-05-15). ScheduleStore invalidation wired, Core Data writes verified, Mac handoff doc created.
-Last activity: 2026-05-15 — Plan 04-04 executed: 3 tasks, 2 commits.
-Progress: [█████░░░░░] 40%
+Phase: 4 of 10 (Smart Schedule) — COMPLETE
+Plan: 4 of 4
+Status: Phase 4 complete. 48/48 tests passing, Mac verified 2026-05-22. Code review fixes applied (9/10 findings fixed). All UAT tests passed.
+Last activity: 2026-05-22 — Mac verification complete, all UAT tests passed.
+Progress: [████░░░░░░] 40%
 
 ---
 
@@ -88,6 +88,6 @@ None.
 
 ## Session Continuity
 
-Last session: 2026-05-15
-Stopped at: Plan 04-04 complete (3/3 tasks). Invalidation wired, writes verified, Mac handoff ready.
-Resume: Run Mac verification per `.claude/MAC-TEST-HANDOFF-04.md`, then close Phase 4.
+Last session: 2026-05-22
+Stopped at: Phase 4 closed. Mac verification passed (48/48 tests, all UAT pass). Code review fixes applied.
+Resume: Start Phase 5 (Functional Onboarding).
