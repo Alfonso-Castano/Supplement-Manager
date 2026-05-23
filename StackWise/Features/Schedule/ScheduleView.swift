@@ -11,6 +11,12 @@ struct ScheduleView: View {
 
     @State private var profile: UserProfile?
 
+    private static let timeFormatter: DateFormatter = {
+        let f = DateFormatter()
+        f.timeStyle = .short
+        return f
+    }()
+
     var body: some View {
         NavigationStack {
             Group {
@@ -88,8 +94,7 @@ struct ScheduleView: View {
             }
         }()
 
-        let formatter = DateFormatter()
-        formatter.timeStyle = .short
+        let formatter = Self.timeFormatter
         return "\(block) \u{00B7} \(formatter.string(from: start))\u{2013}\(formatter.string(from: end))"
     }
 }
