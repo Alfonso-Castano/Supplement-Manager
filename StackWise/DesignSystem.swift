@@ -57,8 +57,8 @@ extension Color {
     static let backgroundPage = Color(lightHex: "#F2F2F7", darkHex: "#1C1C1E")
     static let backgroundCard = Color(lightHex: "#FDFAF6", darkHex: "#2C2C2E")
     static let borderDefault  = Color(lightHex: "#C6C6C8", darkHex: "#38383A")
-    static let textPrimary    = Color(hex: "#3A3830")
-    static let textSecondary  = Color(hex: "#706C60")
+    static let textPrimary    = Color(lightHex: "#3A3830", darkHex: "#F5F5F0")
+    static let textSecondary  = Color(lightHex: "#706C60", darkHex: "#AEAEB2")
     static let textTertiary   = Color(lightHex: "#8E8E93", darkHex: "#636366")
 
     // Severity — use ONLY for interaction flag badges
