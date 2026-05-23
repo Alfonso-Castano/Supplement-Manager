@@ -72,6 +72,31 @@ extension Color {
     static let notFoundFG  = Color(hex: "#5E5C56")
 }
 
+// MARK: — ShapeStyle forwarding (enables dot-syntax in foregroundStyle/background)
+
+extension ShapeStyle where Self == Color {
+    static var aquaPrimary: Color { Color.aquaPrimary }
+    static var aquaLight:   Color { Color.aquaLight }
+    static var aquaDark:    Color { Color.aquaDark }
+    static var sagePrimary: Color { Color.sagePrimary }
+    static var sageLight:   Color { Color.sageLight }
+    static var sageDark:    Color { Color.sageDark }
+    static var backgroundPage: Color { Color.backgroundPage }
+    static var backgroundCard: Color { Color.backgroundCard }
+    static var borderDefault:  Color { Color.borderDefault }
+    static var textPrimary:    Color { Color.textPrimary }
+    static var textSecondary:  Color { Color.textSecondary }
+    static var textTertiary:   Color { Color.textTertiary }
+    static var criticalBG: Color { Color.criticalBG }
+    static var criticalFG: Color { Color.criticalFG }
+    static var advisoryBG: Color { Color.advisoryBG }
+    static var advisoryFG: Color { Color.advisoryFG }
+    static var positiveBG: Color { Color.positiveBG }
+    static var positiveFG: Color { Color.positiveFG }
+    static var notFoundBG: Color { Color.notFoundBG }
+    static var notFoundFG: Color { Color.notFoundFG }
+}
+
 // MARK: — Typography
 
 extension Font {

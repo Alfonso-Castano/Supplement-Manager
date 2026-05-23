@@ -177,7 +177,7 @@ enum ScheduleEngine {
                 let hasSynergyFlag = pairs.contains {
                     $0.isSynergy && ($0.slugA == proj.activeIngredient || $0.slugB == proj.activeIngredient)
                 }
-                ScheduledItem(
+                return ScheduledItem(
                     id: proj.id,
                     label: proj.label,
                     activeIngredient: proj.activeIngredient,

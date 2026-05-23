@@ -1,7 +1,7 @@
 import CoreData
 
 @objc(StackItem)
-public class StackItem: NSManagedObject {
+public class StackItem: NSManagedObject, Identifiable {
     @NSManaged public var id: UUID?
     @NSManaged public var label: String?
     @NSManaged public var activeIngredient: String?

@@ -2,6 +2,7 @@ import XCTest
 import CoreData
 @testable import StackWise
 
+@MainActor
 final class ScheduleStoreTests: XCTestCase {
 
     // MARK: - Helpers

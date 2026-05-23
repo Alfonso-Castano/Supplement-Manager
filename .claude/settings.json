@@ -3,7 +3,16 @@
     "allow": [
       "Bash(npm create *)",
       "Bash(Rename-Item \"c:\\\\Users\\\\alfon\\\\PersonalProjects\\\\Supplement-Manager\\\\.planning\\\\phases\\\\12-landing-deploy\" \"12-landing-polish\")",
-      "WebFetch(domain:app.aitmpl.com)"
+      "WebFetch(domain:app.aitmpl.com)",
+      "Bash(xcodebuild *)",
+      "Bash(xcrun *)",
+      "Bash(open *)",
+      "Bash(git pull *)",
+      "Bash(git add *)",
+      "Bash(git commit *)",
+      "Bash(git push *)",
+      "Bash(tee *)",
+      "Bash(xcode-select *)"
     ]
   },
   "hooks": {
