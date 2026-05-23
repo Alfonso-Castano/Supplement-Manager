@@ -24,6 +24,7 @@ final class ScheduleStore {
 
     func invalidate() {
         dirty = true
+        cachedResult = nil
     }
 
     /// Returns cached result if clean; recomputes if dirty.
