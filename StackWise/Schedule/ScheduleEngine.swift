@@ -133,6 +133,24 @@ enum ScheduleEngine {
             }
         }
 
+        // --- Rule 2b: second-pass conflict validation. ---
+        // After all moves, check which items still violate timing windows.
+        var unresolvedConflictIDs: Set<UUID> = []
+        for pair in input.pairs where pair.timingRelevant {
+            guard let windowHours = pair.timingWindowHours,
+                  let itemA = input.items.first(where: { $0.activeIngredient == pair.slugA }),
+                  let itemB = input.items.first(where: { $0.activeIngredient == pair.slugB })
+            else { continue }
+            let blockA = assignment[itemA.id] ?? .morning
+            let blockB = assignment[itemB.id] ?? .morning
+            guard let timeA = blockTimes[blockA], let timeB = blockTimes[blockB] else { continue }
+            let separation = abs(timeA.timeIntervalSince(timeB)) / 3600
+            if separation < Double(windowHours) {
+                unresolvedConflictIDs.insert(itemA.id)
+                unresolvedConflictIDs.insert(itemB.id)
+            }
+        }
+
         // --- Rule 4: overflow if any block exceeds 5 items. ---
         var morning = input.items.filter { assignment[$0.id] == .morning }
         var afternoon = input.items.filter { assignment[$0.id] == .afternoon }
@@ -169,8 +187,7 @@ enum ScheduleEngine {
         func makeItems(
             _ projections: [ItemProjection],
             block: Block,
-            pairs: [PairProjection],
-            allAssignments: [UUID: Block]
+            pairs: [PairProjection]
         ) -> [ScheduledItem] {
             projections.enumerated().map { idx, proj in
                 let blockTime = blockTimes[block]!
@@ -185,16 +202,16 @@ enum ScheduleEngine {
                     isPrescription: proj.isPrescription,
                     position: Int16(idx),
                     suggestedTime: blockTime,
-                    hasTimingConflict: false, // simplified: conflict detection in AnalysisStore
+                    hasTimingConflict: unresolvedConflictIDs.contains(proj.id),
                     hasSynergy: hasSynergyFlag
                 )
             }
         }
 
         return ScheduleResult(
-            morning: makeItems(morning, block: .morning, pairs: input.pairs, allAssignments: assignment),
-            afternoon: makeItems(afternoon, block: .afternoon, pairs: input.pairs, allAssignments: assignment),
-            evening: makeItems(evening, block: .evening, pairs: input.pairs, allAssignments: assignment)
+            morning: makeItems(morning, block: .morning, pairs: input.pairs),
+            afternoon: makeItems(afternoon, block: .afternoon, pairs: input.pairs),
+            evening: makeItems(evening, block: .evening, pairs: input.pairs)
         )
     }
 }
