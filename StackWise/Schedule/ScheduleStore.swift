@@ -81,13 +81,19 @@ final class ScheduleStore {
         profileRequest.fetchLimit = 1
         let profile = (try? ctx.fetch(profileRequest))?.first
 
-        let now = Date()
         let cal = Calendar.current
-        let wakeTime = profile?.wakeTime ?? cal.date(bySettingHour: 7, minute: 0, second: 0, of: now)!
-        let breakfastTime = profile?.breakfastTime ?? cal.date(bySettingHour: 7, minute: 30, second: 0, of: now)!
-        let lunchTime = profile?.lunchTime ?? cal.date(bySettingHour: 12, minute: 0, second: 0, of: now)!
-        let dinnerTime = profile?.dinnerTime ?? cal.date(bySettingHour: 18, minute: 0, second: 0, of: now)!
-        let sleepTime = profile?.sleepTime ?? cal.date(bySettingHour: 22, minute: 0, second: 0, of: now)!
+        let now = Date()
+        let baseComponents = cal.dateComponents([.year, .month, .day], from: now)
+        func pinned(_ hour: Int, _ minute: Int) -> Date {
+            var c = baseComponents
+            c.hour = hour; c.minute = minute; c.second = 0
+            return cal.date(from: c)!
+        }
+        let wakeTime = profile?.wakeTime ?? pinned(7, 0)
+        let breakfastTime = profile?.breakfastTime ?? pinned(7, 30)
+        let lunchTime = profile?.lunchTime ?? pinned(12, 0)
+        let dinnerTime = profile?.dinnerTime ?? pinned(18, 0)
+        let sleepTime = profile?.sleepTime ?? pinned(22, 0)
 
         // 6. Build item projections and call engine (skip items with nil id).
         let projections: [ScheduleEngine.ItemProjection] = items.compactMap { item in
