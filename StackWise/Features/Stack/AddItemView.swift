@@ -15,6 +15,7 @@ struct AddItemView: View {
     @State private var selectedMatch: IngredientMatch?
     @State private var suggestions: [IngredientMatch] = []
     @State private var searchTask: Task<Void, Never>?
+    @State private var saveError: String?
 
     private static let frequencyOptions = ["daily", "twice daily", "as needed", "weekly"]
 
@@ -90,6 +91,14 @@ struct AddItemView: View {
                 }
             }
         }
+        .alert("Error", isPresented: Binding(
+            get: { saveError != nil },
+            set: { if !$0 { saveError = nil } }
+        )) {
+            Button("OK") { saveError = nil }
+        } message: {
+            Text(saveError ?? "")
+        }
     }
 
     private func scheduleSearch(for query: String) {
@@ -130,7 +139,7 @@ struct AddItemView: View {
             })
             dismiss()
         } catch {
-            assertionFailure("Failed to save StackItem: \(error)")
+            saveError = "Could not save item. Please try again."
         }
     }
 }
