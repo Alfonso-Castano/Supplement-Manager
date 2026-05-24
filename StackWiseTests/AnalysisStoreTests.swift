@@ -2,6 +2,7 @@ import XCTest
 import CoreData
 @testable import StackWise
 
+@MainActor
 final class AnalysisStoreTests: XCTestCase {
 
     // In-memory Core Data context (no persistent store)
