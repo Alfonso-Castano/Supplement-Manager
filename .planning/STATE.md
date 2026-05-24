@@ -5,7 +5,7 @@ current_plan: "4 of 4"
 total_phases: "10"
 status: "complete"
 progress: "[████░░░░░░] 40%"
-last_activity: "2026-05-22"
+last_activity: "2026-05-24"
 phase_count: 10
 plan_count: 22
 summary_count: 15
@@ -24,8 +24,8 @@ See: SPEC.md (full project specification)
 
 Phase: 4 of 10 (Smart Schedule) — COMPLETE
 Plan: 4 of 4
-Status: Phase 4 complete. 48/48 tests passing, Mac verified 2026-05-22. Code review fixes applied (9/10 findings fixed). All UAT tests passed.
-Last activity: 2026-05-22 — Mac verification complete, all UAT tests passed.
+Status: Phase 4 complete. 50/50 tests passing, Mac verified 2026-05-24. Deep review fixes applied (8 commits) and verified. All 4 UAT tests passed. Simulator golden path confirmed.
+Last activity: 2026-05-24 — Deep review fix verification complete on Mac (50/50 tests, commit fb88540).
 Progress: [████░░░░░░] 40%
 
 ---
@@ -69,7 +69,7 @@ Progress: [████░░░░░░] 40%
 
 ### Pending Todos
 
-- Mac batch at Phase 4 end: build + >=48 tests + simulator golden path (D-42). Handoff doc at `.claude/MAC-TEST-HANDOFF-04.md`.
+None.
 
 ### Blockers / Concerns
 
@@ -88,6 +88,6 @@ None.
 
 ## Session Continuity
 
-Last session: 2026-05-22
-Stopped at: Phase 4 closed. Mac verification passed (48/48 tests, all UAT pass). Code review fixes applied.
+Last session: 2026-05-24
+Stopped at: Phase 4 fully closed. Deep review fixes verified on Mac (50/50 tests, commit fb88540). All UAT passed. Simulator golden path confirmed (2026-05-22).
 Resume: Start Phase 5 (Functional Onboarding).

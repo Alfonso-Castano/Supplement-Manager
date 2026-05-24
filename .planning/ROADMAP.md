@@ -12,7 +12,7 @@
 - [x] **Phase 1: Project Foundation** — Xcode setup, Core Data schema, three-tab navigation shell — COMPLETE
 - [x] **Phase 2: Stack & User Setup** — Health profile entry, add item flow with auto-suggestion — COMPLETE (driven from `~/.claude/plans/stackwise-phase-2-lovely-bachman.md`; no `.planning/phases/02-*` dir was created during execution. Carry-forward nits tracked in `.claude/PHASE-3-HANDOFF.md` and folded into Phase 3 where they touch the same files.)
 - [x] **Phase 3: Interaction Analysis Engine** — Bundle database, pairwise lookup, analysis screen — COMPLETE (36 tests passing, Mac verified 2026-05-15)
-- [x] **Phase 4: Smart Schedule** — Priority-rule scheduling algorithm, schedule tab with blocks — COMPLETE (48 tests passing, Mac verified 2026-05-22)
+- [x] **Phase 4: Smart Schedule** — Priority-rule scheduling algorithm, schedule tab with blocks — COMPLETE (50 tests passing, Mac verified 2026-05-24, deep review fixes verified)
 - [ ] **Phase 5: Functional Onboarding** — Onboarding coordinator, preview screen, trial trigger
 - [ ] **Phase 6: Reminders & Today Tab** — Local notifications, block-level check-off interface
 - [ ] **Phase 7: Monetization** — StoreKit 2, 14-day trial, hard paywall, restore purchases
