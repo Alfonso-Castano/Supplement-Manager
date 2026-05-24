@@ -9,6 +9,12 @@ differentiator — it powers everything.
 **Before starting any session:** Read the active phase plan file(s) in `.claude/` for
 current scope, decisions, and constraints. Do not rely on prior context window memory.
 
+Read recent learnings: check `learnings/[relevant-category]/` — read the 1-2 most recent
+files (sorted by filename date). These capture environment-specific knowledge and failure
+patterns from prior sessions that are not captured anywhere else in the codebase. Infer
+the relevant category from the task you are about to begin: `stackwise-app` for iOS app
+work, `landing-page` for web/deployment work, `ui-design` for design system work.
+
 ---
 
 ## Workflow Orchestration
