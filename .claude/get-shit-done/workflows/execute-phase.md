@@ -1135,6 +1135,56 @@ Code review found issues. Consider running:
 Regardless of review result, ALWAYS proceed to close_parent_artifacts → regression_gate → verify_phase_goal.
 </step>
 
+<step name="objective_review_gate" required="true">
+**This step runs AFTER code_review_gate and BEFORE close_parent_artifacts.**
+
+**Config gate:**
+```bash
+OBJECTIVE_REVIEW=$(gsd-sdk query config-get workflow.objective_review 2>/dev/null || echo "true")
+```
+
+If `OBJECTIVE_REVIEW` is `"false"`: display "Objective review skipped (workflow.objective_review=false)" and proceed to close_parent_artifacts.
+
+If `--skip-review` flag is present in $ARGUMENTS: display "Objective review skipped (--skip-review override)" and proceed to close_parent_artifacts.
+
+**Invoke the objective reviewer:**
+```
+Skill(skill="review", args="--hard ${PHASE_NUMBER}")
+```
+
+**Read result:**
+```bash
+PADDED=$(printf "%02d" "${PHASE_NUMBER}")
+OBJ_REVIEW_FILE="${PHASE_DIR}/${PADDED}-OBJECTIVE-REVIEW.md"
+OBJ_REVIEW_RESULT=$(grep "^REVIEW RESULT:" "$OBJ_REVIEW_FILE" 2>/dev/null | head -1 | sed 's/REVIEW RESULT: //' | tr '[:upper:]' '[:lower:]' | tr ' ' '_')
+```
+
+**Hard gate logic:**
+
+- `pass` or `pass_with_warnings` → proceed to close_parent_artifacts.
+- `fail` → extract the Fix Prompt section from `${OBJ_REVIEW_FILE}` and display:
+  ```
+  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+   OBJECTIVE REVIEW FAILED — Phase cannot proceed
+  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  Resolve all CRITICAL and HIGH findings before continuing.
+
+  Fix Prompt (paste into a fix agent session):
+  [Fix Prompt section from the review file]
+
+  Options:
+  1. Run /gsd-code-review-fix or paste the Fix Prompt above into a fix agent session.
+  2. When all fixes are committed, re-run /gsd-execute-phase [phase] to continue.
+  3. Override with --skip-review to bypass (escape hatch — use sparingly).
+  ```
+  **STOP.** Do not proceed to close_parent_artifacts or verify_phase_goal.
+
+- If `OBJ_REVIEW_RESULT` is empty (review file missing or unreadable): display
+  "Objective review result could not be read — treating as non-blocking and continuing."
+  and proceed to close_parent_artifacts.
+</step>
+
 <step name="close_parent_artifacts">
 **For decimal/polish phases only (X.Y pattern):** Close the feedback loop by resolving parent UAT and debug artifacts.
 
