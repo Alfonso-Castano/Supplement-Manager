@@ -12,9 +12,9 @@ compliance, code quality, and iOS/Swift security. Works in two modes:
 
 Parse `$ARGUMENTS`:
 
-- If `--hard` flag present → set `GATE_MODE=hard`; extract phase number from remaining args
+- If `--hard` flag present → set `GATE_MODE=gsd-automated`; extract phase number from remaining args
 - If `--skip-review` flag present → print "Objective review skipped (--skip-review)" and STOP
-- Otherwise → set `GATE_MODE=soft`
+- Otherwise → set `GATE_MODE=manual`
 
 Extract scope:
 - Empty args → scope is recent files (last 20 changed files in git)
@@ -154,7 +154,7 @@ Do not round up. Do not give partial credit.
 
 ---
 REVIEW RESULT: [PASS | PASS WITH WARNINGS | FAIL]
-MODE: [gsd-automated | manual]
+MODE: [value from Mode input — exactly as provided]
 PHASE: [phase number if provided in the prompt, else omit this line]
 TIMESTAMP: [ISO 8601]
 ---
@@ -203,8 +203,8 @@ message. Do not change anything not listed here.
 
 Issues to fix:
 
-[For each CRITICAL and HIGH finding only, one line per issue:]
-[N]. [CRITICAL|HIGH] [file:line if known] — [what went wrong]. Fix: [solution 1].
+[Scope: if Mode is gsd-automated, include CRITICAL and HIGH findings only; if Mode is manual, include ALL findings regardless of severity — one line per issue:]
+[N]. [CRITICAL|HIGH|MEDIUM|LOW] [file:line if known] — [what went wrong]. Fix: [solution 1].
 
 After all fixes are committed, run the relevant tests and confirm they pass.
 ---
@@ -216,6 +216,8 @@ After all fixes are committed, run the relevant tests and confirm they pass.
 </context>
 
 <inputs>
+**Mode:** ${GATE_MODE}
+
 **What was required:**
 ${REQUIREMENTS_LIST}
 
