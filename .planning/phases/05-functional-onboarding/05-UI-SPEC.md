@@ -45,7 +45,7 @@ Declared values follow the 4pt grid established in the existing design system:
 Exceptions:
 - Touch targets: minimum 44pt height on all tappable elements (HIG requirement)
 - "Start Free Trial" CTA button: minimum 50pt height, full-width with 16pt horizontal margin
-- Progress dot indicators: 8pt diameter, 6pt gap between dots
+- Progress dot indicators: 8pt diameter, 8pt gap between dots
 
 Source: `.claude/skills/stackwise-design/SKILL.md` (4pt grid canonical)
 
@@ -59,10 +59,10 @@ SF Pro scale from `DesignSystem.swift`. This phase uses 4 of the 8 declared step
 |------|------|--------|-------------|---------------|-------|
 | Display | 34pt | bold (700) | 1.2 | `.swLargeTitle` | Preview screen headline stat numbers ("2 critical") |
 | Heading | 22pt | bold (700) | 1.2 | `.swTitle2` | Section titles, step screen NavigationTitle |
-| Body | 17pt | regular (400) | 1.5 | `.swBody` | Form labels, instruction copy, list item labels |
+| Body | 17pt | regular (400) | 1.5 | `.swBody` | Form labels, instruction copy, list item labels, "Start Free Trial" button label, "See full analysis" link text |
 | Caption | 13pt | regular (400) | 1.4 | `.swFootnote` | Footer explanations, disabled-state hint copy |
 
-Accent weight for interactive labels: 17pt semibold (600) using `.swHeadline` — reserved for the "Start Free Trial" button label and "See full analysis" link text only.
+Two weights only: regular (400) and bold (700). Interactive labels ("Start Free Trial" button and "See full analysis" link) use Body (17pt regular 400) — their accent color (`.aquaPrimary`) provides sufficient visual distinction without a third weight.
 
 Source: `StackWise/DesignSystem.swift` (Font extension, lines 102–111)
 
@@ -144,7 +144,7 @@ Smart resume logic inferred from Core Data state (D-07). The coordinator evaluat
 - Summary card renders two headline stats side-by-side using the declared Display type:
   - Interaction count pill: "N critical interactions found" (`.criticalFG` text if N > 0, `.textSecondary` if N == 0)
   - Schedule block count: "Your N-block schedule is ready" (`.sagePrimary` text)
-- "See full analysis" is a `NavigationLink` push to existing `AnalysisView` — uses `.swHeadline` + `.aquaPrimary` tint
+- "See full analysis" is a `NavigationLink` push to existing `AnalysisView` — uses `.swBody` + `.aquaPrimary` tint
 - Data sourced live from `AnalysisStore.results` and `ScheduleStore.result` — both must be invalidated before preview renders
 
 ### Paywall Placeholder — 4 Zones
