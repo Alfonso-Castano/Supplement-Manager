@@ -48,11 +48,7 @@ struct ScheduleInputsView: View {
         profile.breakfastTime = breakfastTime
         profile.lunchTime = lunchTime
         profile.dinnerTime = dinnerTime
-        do {
-            try context.save()
-        } catch {
-            assertionFailure("ScheduleInputsView save failed: \(error)")
-        }
+        try? context.save()
     }
 
     private static func defaultTime(hour: Int, minute: Int = 0) -> Date {

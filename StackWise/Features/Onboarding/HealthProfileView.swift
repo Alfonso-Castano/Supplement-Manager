@@ -59,13 +59,9 @@ struct HealthProfileView: View {
         profile.age = Int16(age)
         profile.sex = sex
         profile.weightKg = weightKg
-        profile.allergies = Self.parseList(allergiesText)
-        profile.conditions = Self.parseList(conditionsText)
-        do {
-            try context.save()
-        } catch {
-            assertionFailure("HealthProfileView save failed: \(error)")
-        }
+        profile.allergies = Self.parseList(allergiesText).isEmpty ? nil : Self.parseList(allergiesText)
+        profile.conditions = Self.parseList(conditionsText).isEmpty ? nil : Self.parseList(conditionsText)
+        try? context.save()
     }
 
     static func parseList(_ raw: String) -> [String] {

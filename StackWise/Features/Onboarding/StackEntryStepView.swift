@@ -23,7 +23,12 @@ struct StackEntryStepView: View {
                     .padding(.horizontal, 24)
                 Spacer()
             } else {
-                StackListView()
+                List(items) { item in
+                    Text(item.labelValue)
+                        .font(.swBody)
+                        .foregroundStyle(.textPrimary)
+                }
+                .listStyle(.plain)
             }
 
             Button("Next", action: onNext)
