@@ -123,11 +123,24 @@ private struct StackItemCard: View {
         return store.currentResults().worstSeverity(forSlug: slug)
     }
 
+    @State private var showEdit = false
+
+    private var subtitle: String {
+        let dose = (item.dosage ?? "").trimmingCharacters(in: .whitespaces)
+        let freq = (item.frequency ?? "").trimmingCharacters(in: .whitespaces)
+        switch (dose.isEmpty, freq.isEmpty) {
+        case (true, true):   return ""
+        case (false, true):  return dose
+        case (true, false):  return freq
+        case (false, false): return "\(dose) · \(freq)"
+        }
+    }
+
     var body: some View {
         HStack(alignment: .top) {
             VStack(alignment: .leading, spacing: 4) {
                 HStack(spacing: 8) {
-                    Text(item.labelValue)
+                    Text(displayName(item.labelValue))
                         .font(.body.weight(.medium))
                         .foregroundStyle(.textPrimary)
                     if !item.isInDatabase {
@@ -146,8 +159,8 @@ private struct StackItemCard: View {
                                                 : "Advisory interaction present")
                     }
                 }
-                if let dosage = item.dosage, !dosage.isEmpty {
-                    Text(dosage)
+                if !subtitle.isEmpty {
+                    Text(subtitle)
                         .font(.subheadline)
                         .foregroundStyle(.textSecondary)
                 }
@@ -166,6 +179,9 @@ private struct StackItemCard: View {
         .frame(maxWidth: .infinity, alignment: .leading)
         .background(Color.backgroundCard)
         .clipShape(RoundedRectangle(cornerRadius: 12))
+        .contentShape(Rectangle())
+        .onTapGesture { showEdit = true }
+        .sheet(isPresented: $showEdit) { EditItemView(item: item) }
     }
 
     private func badgeColor(for itemType: String) -> Color {

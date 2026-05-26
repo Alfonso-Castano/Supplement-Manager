@@ -97,6 +97,14 @@ extension ShapeStyle where Self == Color {
     static var notFoundFG: Color { Color.notFoundFG }
 }
 
+// MARK: — String display helpers
+
+/// Converts a slug-style or canonical name (e.g. "vitamin_d3") into a user-facing
+/// display string (e.g. "Vitamin D3"). Display only — never mutates stored values.
+func displayName(_ raw: String) -> String {
+    raw.replacingOccurrences(of: "_", with: " ").capitalized
+}
+
 // MARK: — Typography
 
 extension Font {
