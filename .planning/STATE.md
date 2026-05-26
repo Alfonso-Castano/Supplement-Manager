@@ -1,7 +1,7 @@
 ---
 current_phase: "5"
 current_phase_name: "Functional Onboarding"
-current_plan: "0 of 5"
+current_plan: "1 of 5"
 total_phases: "10"
 status: "in_progress"
 progress: "[████░░░░░░] 40%"
@@ -22,10 +22,10 @@ See: SPEC.md (full project specification)
 
 ## Current Position
 
-Phase: 4 of 10 (Smart Schedule) — COMPLETE
-Plan: 4 of 4
-Status: Phase 4 complete. 50/50 tests passing, Mac verified 2026-05-24. Deep review fixes applied (8 commits) and verified. All 4 UAT tests passed. Simulator golden path confirmed.
-Last activity: 2026-05-24 — Deep review fix verification complete on Mac (50/50 tests, commit fb88540).
+Phase: 5 of 10 (Functional Onboarding) — in progress
+Plan: 1 of 5 (05-00 complete)
+Status: Phase 5 Wave 0 complete. OnboardingCoordinatorTests.swift created with 5 RED stubs (REQ-18, REQ-19 contract). Wave 1 (05-01) is next.
+Last activity: 2026-05-25 — Phase 5 Wave 0 test stubs committed (657d125).
 Progress: [████░░░░░░] 40%
 
 ---
@@ -89,5 +89,5 @@ None.
 ## Session Continuity
 
 Last session: 2026-05-25
-Stopped at: Phase 5 planning complete (2026-05-25). 5 plans written across 4 waves (00, 01, 02+03 parallel, 04).
-Resume: Execute Phase 5 — start with 05-00-PLAN.md (Wave 0 test stubs).
+Stopped at: Phase 5 Wave 0 complete (2026-05-25). OnboardingCoordinatorTests.swift with 5 RED stubs committed (657d125).
+Resume: Execute Phase 5 Wave 1 — 05-01-PLAN.md (HealthProfileView surgery + ContentView coordinator gate).
