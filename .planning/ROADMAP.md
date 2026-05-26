@@ -190,7 +190,7 @@ Plans:
 - [x] 05-00-PLAN.md — Wave 0: OnboardingCoordinatorTests.swift stubs (REQ-18, REQ-19 — RED until Wave 3) — COMPLETE 2026-05-25
 
 **Wave 1** *(blocked on Wave 0 completion)*
-- [ ] 05-01-PLAN.md — HealthProfileView surgery (remove schedule section + markOnboarded) + ContentView coordinator gate
+- [x] 05-01-PLAN.md — HealthProfileView surgery (remove schedule section + markOnboarded) + ContentView coordinator gate — COMPLETE 2026-05-25
 
 **Wave 2** *(blocked on Wave 1 completion — plans 02 and 03 run in parallel)*
 - [ ] 05-02-PLAN.md — ScheduleInputsView (step 3, time fields only) + StackEntryStepView (step 2, item gate)
@@ -439,7 +439,7 @@ Plans:
 | 2 | Complete | 4/4 | 02-01, 02-02, 02-03, 02-04 (executed via `~/.claude/plans/stackwise-phase-2-lovely-bachman.md`; no `.planning/phases/02-*` dir) |
 | 3 | Complete | 4/4 | 03-01, 03-02, 03-03, 03-04 |
 | 4 | In Progress | 4/4 | 04-01, 04-02, 04-03, 04-04 (Mac verification pending) |
-| 5 | In Progress | 5/5 plans written | 05-00 |
+| 5 | In Progress | 5/5 plans written | 05-00, 05-01 |
 | 6 | Not started | 0/0 | — |
 | 7 | Not started | 0/0 | — |
 | 8 | Not started | 0/0 | — |

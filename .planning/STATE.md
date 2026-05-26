@@ -1,7 +1,7 @@
 ---
 current_phase: "5"
 current_phase_name: "Functional Onboarding"
-current_plan: "1 of 5"
+current_plan: "2 of 5"
 total_phases: "10"
 status: "in_progress"
 progress: "[████░░░░░░] 40%"
@@ -24,8 +24,8 @@ See: SPEC.md (full project specification)
 
 Phase: 5 of 10 (Functional Onboarding) — in progress
 Plan: 1 of 5 (05-00 complete)
-Status: Phase 5 Wave 0 complete. OnboardingCoordinatorTests.swift created with 5 RED stubs (REQ-18, REQ-19 contract). Wave 1 (05-01) is next.
-Last activity: 2026-05-25 — Phase 5 Wave 0 test stubs committed (657d125).
+Status: Phase 5 Wave 1 complete. HealthProfileView surgically refactored (personal fields only, onNext callback). ContentView gate replaces .sheet with if/else on appState.onboardingComplete. Wave 2 (05-02 + 05-03) is next.
+Last activity: 2026-05-25 — Phase 5 Wave 1 committed (5d3868b, db86a40).
 Progress: [████░░░░░░] 40%
 
 ---
@@ -43,6 +43,11 @@ Progress: [████░░░░░░] 40%
 - D-23: `UserProfile` is a singleton (`fetchLimit = 1`); `UserProfileStore` enum is the only writer.
 - D-24: Onboarding source of truth is Core Data `UserProfile.onboardingComplete`; `AppState.onboardingComplete` mirrors it at launch.
 - D-25: Unmatched stack items are saved with `isInDatabase = false` and the user-entered label verbatim. Phase 3 surfaces them in the "not-in-database" group on the analysis screen.
+
+**Phase 5 Plan 01 (2026-05-25):**
+- D-43: HealthProfileView removes @Environment(AppState.self) entirely — no remaining references after markOnboarded and appState mutation removed from save().
+- D-44: ContentView wraps if/else gate in Group{} so .task modifier attaches to both branches (not just the TabView).
+- D-45: Temporary OnboardingCoordinatorView stub created in Plan 01 to keep build green; Plan 04 overwrites with real coordinator.
 
 **Phase 4 (locked 2026-05-15, in `.planning/phases/04-smart-schedule/04-CONTEXT.md`):**
 - D-36: `IngredientRepository` extended with `timingProperties(for slug:) -> TimingProperties` — no new repository.
@@ -89,5 +94,5 @@ None.
 ## Session Continuity
 
 Last session: 2026-05-25
-Stopped at: Phase 5 Wave 0 complete (2026-05-25). OnboardingCoordinatorTests.swift with 5 RED stubs committed (657d125).
-Resume: Execute Phase 5 Wave 1 — 05-01-PLAN.md (HealthProfileView surgery + ContentView coordinator gate).
+Stopped at: Phase 5 Wave 1 complete (2026-05-25). HealthProfileView refactored, ContentView gate installed, temp OnboardingCoordinatorView stub created (5d3868b, db86a40).
+Resume: Execute Phase 5 Wave 2 — 05-02-PLAN.md (ScheduleInputsView + StackEntryStepView) and 05-03-PLAN.md (OnboardingPreviewView + PaywallPlaceholderView) in parallel.
