@@ -1,7 +1,7 @@
 ---
 current_phase: "5"
 current_phase_name: "Functional Onboarding"
-current_plan: "2 of 5"
+current_plan: "3 of 5"
 total_phases: "10"
 status: "in_progress"
 progress: "[████░░░░░░] 40%"
@@ -23,9 +23,9 @@ See: SPEC.md (full project specification)
 ## Current Position
 
 Phase: 5 of 10 (Functional Onboarding) — in progress
-Plan: 1 of 5 (05-00 complete)
-Status: Phase 5 Wave 1 complete. HealthProfileView surgically refactored (personal fields only, onNext callback). ContentView gate replaces .sheet with if/else on appState.onboardingComplete. Wave 2 (05-02 + 05-03) is next.
-Last activity: 2026-05-25 — Phase 5 Wave 1 committed (5d3868b, db86a40).
+Plan: 3 of 5 (05-02 complete)
+Status: Phase 5 Wave 2 in progress. 05-02 complete: ScheduleInputsView (Step 3) and StackEntryStepView (Step 2) created. 05-03 (OnboardingPreviewView + PaywallPlaceholderView) running concurrently.
+Last activity: 2026-05-26 — 05-02 committed (5401e2d, 8d36158).
 Progress: [████░░░░░░] 40%
 
 ---
@@ -48,6 +48,10 @@ Progress: [████░░░░░░] 40%
 - D-43: HealthProfileView removes @Environment(AppState.self) entirely — no remaining references after markOnboarded and appState mutation removed from save().
 - D-44: ContentView wraps if/else gate in Group{} so .task modifier attaches to both branches (not just the TabView).
 - D-45: Temporary OnboardingCoordinatorView stub created in Plan 01 to keep build green; Plan 04 overwrites with real coordinator.
+
+**Phase 5 Plan 03 (2026-05-25):**
+- D-46: OnboardingPreviewView positions "See What You're Getting" CTA via .safeAreaInset(edge: .bottom) so button floats persistently above safe area without disrupting ScrollView content.
+- D-47: Block count computed as [s.morning, s.afternoon, s.evening].filter { !$0.isEmpty }.count — matches ScheduleResult's actual property names (confirmed morning/afternoon/evening as [ScheduledItem]).
 
 **Phase 4 (locked 2026-05-15, in `.planning/phases/04-smart-schedule/04-CONTEXT.md`):**
 - D-36: `IngredientRepository` extended with `timingProperties(for slug:) -> TimingProperties` — no new repository.
@@ -94,5 +98,5 @@ None.
 ## Session Continuity
 
 Last session: 2026-05-25
-Stopped at: Phase 5 Wave 1 complete (2026-05-25). HealthProfileView refactored, ContentView gate installed, temp OnboardingCoordinatorView stub created (5d3868b, db86a40).
-Resume: Execute Phase 5 Wave 2 — 05-02-PLAN.md (ScheduleInputsView + StackEntryStepView) and 05-03-PLAN.md (OnboardingPreviewView + PaywallPlaceholderView) in parallel.
+Stopped at: Wave 2 complete (2026-05-25). 05-02 committed ScheduleInputsView + StackEntryStepView (5401e2d, 8d36158). 05-03 committed OnboardingPreviewView + PaywallPlaceholderView (ded7fdc, 4f04666).
+Resume: Execute Wave 3 — 05-04-PLAN.md (OnboardingCoordinatorView — full coordinator, smart resume, fills coordinator stub, simulator checkpoint).
