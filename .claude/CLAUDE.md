@@ -6,14 +6,9 @@ StackWise is an iOS supplement and medication management app. Core features: int
 analysis, smart daily schedule, reminders. The interaction analysis is the product's
 differentiator — it powers everything.
 
-**Before starting any session:** Read the active phase plan file(s) in `.claude/` for
-current scope, decisions, and constraints. Do not rely on prior context window memory.
-
-Read recent learnings: check `learnings/[relevant-category]/` — read the 1-2 most recent
-files (sorted by filename date). These capture environment-specific knowledge and failure
-patterns from prior sessions that are not captured anywhere else in the codebase. Infer
-the relevant category from the task you are about to begin: `stackwise-app` for iOS app
-work, `landing-page` for web/deployment work, `ui-design` for design system work.
+**Before starting any session:**
+1. Read the active phase plan file(s) in `.claude/` for current scope, decisions, and constraints. Do not rely on prior context window memory.
+2. Read recent learnings: check `.claude/learnings/[relevant-category]/` — read the 1-2 most recent files (sorted by filename date). These capture environment-specific knowledge and failure patterns from prior sessions. Infer the relevant category from the task you are about to begin: `stackwise-app` for iOS app work, `landing-page` for web/deployment work, `ui-design` for design system work. If the folder is empty or the category is unclear, skip this step.
 
 ---
 
@@ -32,11 +27,16 @@ work, `landing-page` for web/deployment work, `ui-design` for design system work
 - One task per subagent — focused execution only
 
 ### 3. Self-Improvement Loop
-- After ANY correction from the user: update `.claude/lessons.md` with the pattern
-- Only log general, cross-phase mistakes — workflow failures, autonomy violations,
-  verification gaps. Phase-specific data errors do not belong here.
-- Review `.claude/lessons.md` at the start of every session
-- Rules you write for yourself should be specific enough to prevent recurrence
+- **At session start:** Read `.claude/learnings/[relevant-category]/` — the 1-2 most recent
+  files tell you what prior agents learned the hard way. Do not skip this if files exist.
+- **During session:** After ANY correction from the user, note the pattern internally.
+- **At session end:** When the user runs `/end-session`, write a learning file to
+  `.claude/learnings/[relevant-category]/YYYY-MM-DD-[slug].md` capturing what went right,
+  what went wrong, and the key lessons. Follow the format in `.claude/commands/end-session.md`.
+- Categories: `stackwise-app` (iOS code/tests), `landing-page` (web/deployment), `ui-design` (design)
+- Learning files capture environment-specific and session-specific knowledge. General
+  workflow behavior mistakes go in `.claude/lessons.md` (for cross-session behavioral rules).
+- Rules you write must be specific enough to prevent recurrence — vague lessons are useless.
 
 ### 4. Verification Before Done
 - Never mark a task complete without proving it works

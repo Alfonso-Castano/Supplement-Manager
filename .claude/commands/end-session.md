@@ -1,7 +1,7 @@
 # End-Session — Session Learning Capture
 
 Write a structured learning file at the close of a meaningful session. Run this manually
-when you decide real work was done. The file is written to the correct `learnings/`
+when you decide real work was done. The file is written to the correct `.claude/learnings/`
 subfolder and committed. Future agents read these files before starting work.
 
 ---
@@ -71,7 +71,7 @@ Construct: `YYYY-MM-DD-[slug].md`
   - Examples: `phase-4-test-verification`, `interaction-analysis-refactor`, `landing-hero-section`
   - Keep it specific enough to be useful when scanning a file list
 
-Full path: `learnings/[category]/[filename]`
+Full path: `.claude/learnings/[category]/[filename]`
 
 ---
 
@@ -135,7 +135,7 @@ open. No command logs, no code snippets unless the pattern IS the lesson.]
 
 After presenting the draft, ask:
 
-"Write this to `learnings/[category]/[filename].md`?
+"Write this to `.claude/learnings/[category]/[filename].md`?
 
 - **yes** → write and commit
 - **edit** → describe what to change, I'll revise and ask again
@@ -158,17 +158,17 @@ Print: "Session learnings discarded. Nothing written." STOP.
 
 On "yes":
 
-1. Write the file to `learnings/[category]/[filename].md`
+1. Write the file to `.claude/learnings/[category]/[filename].md`
 2. Commit:
    ```bash
-   git add learnings/[category]/[filename].md
+   git add .claude/learnings/[category]/[filename].md
    git commit -m "docs(learnings): [YYYY-MM-DD] [category] — [brief outcome in 5-8 words]"
    ```
    Example commit message: `docs(learnings): 2026-05-24 stackwise-app — phase 4 test verification complete`
 
 3. Confirm to user:
    ```
-   Session learnings written to learnings/[category]/[filename].md
+   Session learnings written to .claude/learnings/[category]/[filename].md
    
    Future agents working on [category] will read this before starting.
    ```
