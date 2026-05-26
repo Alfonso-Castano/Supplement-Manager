@@ -1,14 +1,14 @@
 ---
-current_phase: "5"
-current_phase_name: "Functional Onboarding"
-current_plan: "3 of 5"
+current_phase: "6"
+current_phase_name: "Reminders & Today Tab"
+current_plan: "0 of 0"
 total_phases: "10"
-status: "in_progress"
-progress: "[████░░░░░░] 40%"
-last_activity: "2026-05-25"
+status: "planning"
+progress: "[█████░░░░░] 50%"
+last_activity: "2026-05-26"
 phase_count: 10
 plan_count: 27
-summary_count: 15
+summary_count: 20
 ---
 
 ## Project Reference
@@ -16,17 +16,17 @@ summary_count: 15
 See: SPEC.md (full project specification)
 
 **Core value:** Trustworthy supplement/medication interaction analysis paired with a personalized smart schedule and reminders
-**Current focus:** Phase 4 — Smart Schedule (priority-rule scheduling algorithm + schedule tab)
+**Current focus:** Phase 6 — Reminders & Today Tab (local notifications, block-level check-off interface)
 
 ---
 
 ## Current Position
 
-Phase: 5 of 10 (Functional Onboarding) — in progress
-Plan: 3 of 5 (05-02 complete)
-Status: Phase 5 Wave 2 in progress. 05-02 complete: ScheduleInputsView (Step 3) and StackEntryStepView (Step 2) created. 05-03 (OnboardingPreviewView + PaywallPlaceholderView) running concurrently.
-Last activity: 2026-05-26 — 05-02 committed (5401e2d, 8d36158).
-Progress: [████░░░░░░] 40%
+Phase: 6 of 10 (Reminders & Today Tab) — context gathered, ready for planning
+Plan: 0 of 0 (not yet planned)
+Status: Phase 5 COMPLETE (2026-05-26). Phase 6 context gathered (2026-05-26) — 06-CONTEXT.md written.
+Last activity: 2026-05-26 — Phase 6 context gathered (06-CONTEXT.md).
+Progress: [█████░░░░░] 50%
 
 ---
 
@@ -97,6 +97,10 @@ None.
 
 ## Session Continuity
 
-Last session: 2026-05-25
-Stopped at: Wave 2 complete (2026-05-25). 05-02 committed ScheduleInputsView + StackEntryStepView (5401e2d, 8d36158). 05-03 committed OnboardingPreviewView + PaywallPlaceholderView (ded7fdc, 4f04666).
-Resume: Execute Wave 3 — 05-04-PLAN.md (OnboardingCoordinatorView — full coordinator, smart resume, fills coordinator stub, simulator checkpoint).
+Last session: 2026-05-26
+Stopped at: Phase 5 COMPLETE. 05-04 committed OnboardingCoordinatorView + tests GREEN (6d9dc54). Post-checkpoint bug fixes (assertionFailure → try?, nested NavigationStack) committed (c2c1e8b). SUMMARY.md created. ROADMAP.md + STATE.md updated.
+Resume: Plan Phase 6 — Reminders & Today Tab (REQ-20, REQ-21). Run /gsd:discuss-phase 6 or /gsd:plan-phase 6.
+
+**Phase 5 decisions:**
+- D-48: appState.onboardingComplete = true works directly in function scope on iOS 17+ @Observable — no @Bindable unwrap required.
+- D-49: Smart resume uses age==0 || weightKg==0 as step-1 sentinel (no new Core Data column needed, aligns with D-24).
