@@ -185,11 +185,23 @@ Plans:
 **Plans:** 5 plans
 
 Plans:
+
+**Wave 0**
 - [ ] 05-00-PLAN.md — Wave 0: OnboardingCoordinatorTests.swift stubs (REQ-18, REQ-19 — RED until Wave 3)
+
+**Wave 1** *(blocked on Wave 0 completion)*
 - [ ] 05-01-PLAN.md — HealthProfileView surgery (remove schedule section + markOnboarded) + ContentView coordinator gate
+
+**Wave 2** *(blocked on Wave 1 completion — plans 02 and 03 run in parallel)*
 - [ ] 05-02-PLAN.md — ScheduleInputsView (step 3, time fields only) + StackEntryStepView (step 2, item gate)
 - [ ] 05-03-PLAN.md — OnboardingPreviewView (summary card, force-recompute) + PaywallPlaceholderView (4 zones)
+
+**Wave 3** *(blocked on Wave 2 completion)*
 - [ ] 05-04-PLAN.md — OnboardingCoordinatorView (full coordinator, smart resume) + fill stubs GREEN + simulator checkpoint
+
+Cross-cutting constraints:
+- `@Observable` + `.environment()` only — no `ObservableObject`/`@Published` (Phase 1 lock, all plans)
+- `UserProfileStore.fetchOrCreate` is the only valid UserProfile writer — no `UserProfile(context:)` direct init
 
 ---
 
