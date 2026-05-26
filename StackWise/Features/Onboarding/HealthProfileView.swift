@@ -2,17 +2,12 @@ import SwiftUI
 import CoreData
 
 struct HealthProfileView: View {
-    @Environment(AppState.self) private var appState
+    var onNext: () -> Void = {}
     @Environment(\.managedObjectContext) private var context
 
     @State private var age: Int = 30
     @State private var sex: String = "unspecified"
     @State private var weightKg: Double = 70
-    @State private var wakeTime: Date = Self.defaultTime(hour: 7)
-    @State private var sleepTime: Date = Self.defaultTime(hour: 23)
-    @State private var breakfastTime: Date = Self.defaultTime(hour: 8)
-    @State private var lunchTime: Date = Self.defaultTime(hour: 12, minute: 30)
-    @State private var dinnerTime: Date = Self.defaultTime(hour: 19)
     @State private var allergiesText: String = ""
     @State private var conditionsText: String = ""
 
@@ -23,48 +18,40 @@ struct HealthProfileView: View {
     }
 
     var body: some View {
-        NavigationStack {
-            Form {
-                Section("Personal") {
-                    Stepper("Age: \(age)", value: $age, in: 1...120)
-                    Picker("Sex", selection: $sex) {
-                        ForEach(Self.sexOptions, id: \.self) { Text($0.capitalized).tag($0) }
-                    }
-                    HStack {
-                        Text("Weight (kg)")
-                        Spacer()
-                        TextField("kg", value: $weightKg, format: .number)
-                            .keyboardType(.decimalPad)
-                            .multilineTextAlignment(.trailing)
-                            .frame(maxWidth: 100)
-                    }
+        Form {
+            Section("Personal") {
+                Stepper("Age: \(age)", value: $age, in: 1...120)
+                Picker("Sex", selection: $sex) {
+                    ForEach(Self.sexOptions, id: \.self) { Text($0.capitalized).tag($0) }
                 }
-
-                Section("Schedule") {
-                    DatePicker("Wake", selection: $wakeTime, displayedComponents: .hourAndMinute)
-                    DatePicker("Sleep", selection: $sleepTime, displayedComponents: .hourAndMinute)
-                    DatePicker("Breakfast", selection: $breakfastTime, displayedComponents: .hourAndMinute)
-                    DatePicker("Lunch", selection: $lunchTime, displayedComponents: .hourAndMinute)
-                    DatePicker("Dinner", selection: $dinnerTime, displayedComponents: .hourAndMinute)
-                }
-
-                Section {
-                    TextField("Allergies (comma-separated)", text: $allergiesText, axis: .vertical)
-                    TextField("Conditions (comma-separated)", text: $conditionsText, axis: .vertical)
-                } header: {
-                    Text("Health")
-                } footer: {
-                    Text("Used to personalize interaction analysis. Stored only on this device.")
+                HStack {
+                    Text("Weight (kg)")
+                    Spacer()
+                    TextField("kg", value: $weightKg, format: .number)
+                        .keyboardType(.decimalPad)
+                        .multilineTextAlignment(.trailing)
+                        .frame(maxWidth: 100)
                 }
             }
-            .navigationTitle("Your Health Profile")
-            .toolbar {
-                ToolbarItem(placement: .confirmationAction) {
-                    Button("Save", action: save).disabled(!canSave)
-                }
+
+            Section {
+                TextField("Allergies (comma-separated)", text: $allergiesText, axis: .vertical)
+                TextField("Conditions (comma-separated)", text: $conditionsText, axis: .vertical)
+            } header: {
+                Text("Health")
+            } footer: {
+                Text("Used to personalize interaction analysis. Stored only on this device.")
             }
         }
-        .interactiveDismissDisabled(true)
+        .navigationTitle("Your Health Profile")
+        .toolbar {
+            ToolbarItem(placement: .confirmationAction) {
+                Button("Next") {
+                    save()
+                    onNext()
+                }.disabled(!canSave)
+            }
+        }
     }
 
     private func save() {
@@ -72,15 +59,13 @@ struct HealthProfileView: View {
         profile.age = Int16(age)
         profile.sex = sex
         profile.weightKg = weightKg
-        profile.wakeTime = wakeTime
-        profile.sleepTime = sleepTime
-        profile.breakfastTime = breakfastTime
-        profile.lunchTime = lunchTime
-        profile.dinnerTime = dinnerTime
         profile.allergies = Self.parseList(allergiesText)
         profile.conditions = Self.parseList(conditionsText)
-        UserProfileStore.markOnboarded(profile, in: context)
-        appState.onboardingComplete = true
+        do {
+            try context.save()
+        } catch {
+            assertionFailure("HealthProfileView save failed: \(error)")
+        }
     }
 
     static func parseList(_ raw: String) -> [String] {
