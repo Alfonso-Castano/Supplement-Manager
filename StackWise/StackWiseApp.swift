@@ -11,7 +11,17 @@ struct StackWiseApp: App {
     let persistenceController = PersistenceController.shared
 
     init() {
+        // Bootstrap onboarding state synchronously so ContentView renders the correct
+        // branch on the first frame — avoids a flash of OnboardingCoordinatorView for
+        // returning users whose Core Data record has onboardingComplete = true.
+        let context = PersistenceController.shared.container.viewContext
+        let profileRequest = UserProfile.fetchRequest()
+        profileRequest.fetchLimit = 1
+        let onboardingDone = (try? context.fetch(profileRequest).first?.onboardingComplete) ?? false
+
         let app = AppState()
+        app.onboardingComplete = onboardingDone
+
         let ing = IngredientRepository()
         let inter = InteractionRepository()
         _appState        = State(initialValue: app)
