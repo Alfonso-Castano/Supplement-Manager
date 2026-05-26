@@ -1,13 +1,13 @@
 ---
-current_phase: "4"
-current_phase_name: "Smart Schedule"
-current_plan: "4 of 4"
+current_phase: "5"
+current_phase_name: "Functional Onboarding"
+current_plan: "0 of 5"
 total_phases: "10"
-status: "complete"
+status: "in_progress"
 progress: "[████░░░░░░] 40%"
-last_activity: "2026-05-24"
+last_activity: "2026-05-25"
 phase_count: 10
-plan_count: 22
+plan_count: 27
 summary_count: 15
 ---
 
@@ -88,6 +88,6 @@ None.
 
 ## Session Continuity
 
-Last session: 2026-05-24
-Stopped at: Phase 4 fully closed. Deep review fixes verified on Mac (50/50 tests, commit fb88540). All UAT passed. Simulator golden path confirmed (2026-05-22).
-Resume: Start Phase 5 (Functional Onboarding).
+Last session: 2026-05-25
+Stopped at: Phase 5 planning complete (2026-05-25). 5 plans written across 4 waves (00, 01, 02+03 parallel, 04).
+Resume: Execute Phase 5 — start with 05-00-PLAN.md (Wave 0 test stubs).

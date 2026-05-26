@@ -182,6 +182,15 @@ Plans:
 3. Trial start trigger fires at onboarding completion; writes `trialStartDate` to UserProfile
 4. Main app tabs hidden until onboarding complete flag set
 
+**Plans:** 5 plans
+
+Plans:
+- [ ] 05-00-PLAN.md — Wave 0: OnboardingCoordinatorTests.swift stubs (REQ-18, REQ-19 — RED until Wave 3)
+- [ ] 05-01-PLAN.md — HealthProfileView surgery (remove schedule section + markOnboarded) + ContentView coordinator gate
+- [ ] 05-02-PLAN.md — ScheduleInputsView (step 3, time fields only) + StackEntryStepView (step 2, item gate)
+- [ ] 05-03-PLAN.md — OnboardingPreviewView (summary card, force-recompute) + PaywallPlaceholderView (4 zones)
+- [ ] 05-04-PLAN.md — OnboardingCoordinatorView (full coordinator, smart resume) + fill stubs GREEN + simulator checkpoint
+
 ---
 
 ### Phase 6: Reminders & Today Tab
@@ -418,7 +427,7 @@ Plans:
 | 2 | Complete | 4/4 | 02-01, 02-02, 02-03, 02-04 (executed via `~/.claude/plans/stackwise-phase-2-lovely-bachman.md`; no `.planning/phases/02-*` dir) |
 | 3 | Complete | 4/4 | 03-01, 03-02, 03-03, 03-04 |
 | 4 | In Progress | 4/4 | 04-01, 04-02, 04-03, 04-04 (Mac verification pending) |
-| 5 | Not started | 0/0 | — |
+| 5 | In Progress | 5/5 plans written | — |
 | 6 | Not started | 0/0 | — |
 | 7 | Not started | 0/0 | — |
 | 8 | Not started | 0/0 | — |
