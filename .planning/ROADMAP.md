@@ -13,7 +13,7 @@
 - [x] **Phase 2: Stack & User Setup** — Health profile entry, add item flow with auto-suggestion — COMPLETE (driven from `~/.claude/plans/stackwise-phase-2-lovely-bachman.md`; no `.planning/phases/02-*` dir was created during execution. Carry-forward nits tracked in `.claude/PHASE-3-HANDOFF.md` and folded into Phase 3 where they touch the same files.)
 - [x] **Phase 3: Interaction Analysis Engine** — Bundle database, pairwise lookup, analysis screen — COMPLETE (36 tests passing, Mac verified 2026-05-15)
 - [x] **Phase 4: Smart Schedule** — Priority-rule scheduling algorithm, schedule tab with blocks — COMPLETE (50 tests passing, Mac verified 2026-05-24, deep review fixes verified)
-- [ ] **Phase 5: Functional Onboarding** — Onboarding coordinator, preview screen, trial trigger
+- [x] **Phase 5: Functional Onboarding** — Onboarding coordinator, preview screen, trial trigger — COMPLETE (simulator golden path verified 2026-05-26)
 - [ ] **Phase 6: Reminders & Today Tab** — Local notifications, block-level check-off interface
 - [ ] **Phase 7: Monetization** — StoreKit 2, 14-day trial, hard paywall, restore purchases
 - [ ] **Phase 8: In-App Feedback** — Formspree integration, feedback entry points, local retry
@@ -197,7 +197,7 @@ Plans:
 - [x] 05-03-PLAN.md — OnboardingPreviewView (summary card, force-recompute) + PaywallPlaceholderView (4 zones) — COMPLETE 2026-05-25
 
 **Wave 3** *(blocked on Wave 2 completion)*
-- [ ] 05-04-PLAN.md — OnboardingCoordinatorView (full coordinator, smart resume) + fill stubs GREEN + simulator checkpoint
+- [x] 05-04-PLAN.md — OnboardingCoordinatorView (full coordinator, smart resume) + fill stubs GREEN + simulator checkpoint — COMPLETE 2026-05-26
 
 Cross-cutting constraints:
 - `@Observable` + `.environment()` only — no `ObservableObject`/`@Published` (Phase 1 lock, all plans)
@@ -218,6 +218,15 @@ Cross-cutting constraints:
 2. Tapping notification opens Today tab
 3. Today tab shows morning / afternoon / evening rows with items and check-off state
 4. Mark-complete persists to Core Data DailyCheckOff; UI updates immediately
+
+**Plans:** 5 plans
+
+Plans:
+- [ ] 06-01-PLAN.md — Foundation: AppDelegate (UNUserNotificationCenterDelegate), AppState.selectedTab, NotificationScheduler service, 6 RED test stubs
+- [ ] 06-02-PLAN.md — Wiring: ContentView two-gate pattern, TabView(selection:), StackWiseApp AppDelegate bridge, ScheduleStore reschedule hook
+- [ ] 06-03-PLAN.md — NotificationPermissionView: full-screen value-framing gate with Enable Reminders CTA
+- [ ] 06-04-PLAN.md — TodayView: block cards, check-off toggles, DailyCheckOff upsert, past-block dimming, completion summary
+- [ ] 06-05-PLAN.md — Fill 6 tests GREEN + simulator golden path checkpoint
 
 ---
 
@@ -438,9 +447,9 @@ Plans:
 | 1 | Complete | 3/3 | 01-01, 01-02, 01-03 |
 | 2 | Complete | 4/4 | 02-01, 02-02, 02-03, 02-04 (executed via `~/.claude/plans/stackwise-phase-2-lovely-bachman.md`; no `.planning/phases/02-*` dir) |
 | 3 | Complete | 4/4 | 03-01, 03-02, 03-03, 03-04 |
-| 4 | In Progress | 4/4 | 04-01, 04-02, 04-03, 04-04 (Mac verification pending) |
-| 5 | In Progress | 5/5 plans written | 05-00, 05-01, 05-02, 05-03 |
-| 6 | Not started | 0/0 | — |
+| 4 | Complete | 4/4 | 04-01, 04-02, 04-03, 04-04 (Mac verification pending) |
+| 5 | Complete | 5/5 | 05-00, 05-01, 05-02, 05-03, 05-04 |
+| 6 | In progress | 0/5 | — |
 | 7 | Not started | 0/0 | — |
 | 8 | Not started | 0/0 | — |
 | 9 | Not started | 0/0 | — |
