@@ -70,6 +70,11 @@ extension Color {
     static let positiveFG  = Color(hex: "#175232")
     static let notFoundBG  = Color(hex: "#F0EEE9")
     static let notFoundFG  = Color(hex: "#5E5C56")
+
+    // Card tint backgrounds — light-mode only
+    static let cardCriticalBG = Color(hex: "#FFF5F5")
+    static let cardAdvisoryBG = Color(hex: "#FFFBF0")
+    static let cardPositiveBG = Color(hex: "#F5FBF7")
 }
 
 // MARK: — ShapeStyle forwarding (enables dot-syntax in foregroundStyle/background)
@@ -95,6 +100,9 @@ extension ShapeStyle where Self == Color {
     static var positiveFG: Color { Color.positiveFG }
     static var notFoundBG: Color { Color.notFoundBG }
     static var notFoundFG: Color { Color.notFoundFG }
+    static var cardCriticalBG: Color { Color.cardCriticalBG }
+    static var cardAdvisoryBG: Color { Color.cardAdvisoryBG }
+    static var cardPositiveBG: Color { Color.cardPositiveBG }
 }
 
 // MARK: — String display helpers

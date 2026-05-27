@@ -9,8 +9,8 @@ all data flows are working, and it has been reviewed in the simulator.
 
 | Screen | Phase | Functional Status | Design Status | Notes |
 |---|---|---|---|---|
-| Stack tab | 2–3 | ✅ Complete | 🔄 In progress | Translation applied — pending simulator review |
-| Analysis screen | 3 | ✅ Complete | ⏳ Not started | Ready for Claude Design |
+| Stack tab | 2–3 | ✅ Complete | ✅ Complete | MVP design shipped — severity badges, Add/Analyze layout, tap-to-edit |
+| Analysis screen | 3 | ✅ Complete | 🔄 In progress | Translation applied — pending simulator review |
 | Schedule tab | 4 | ✅ Complete | ⏳ Not started | Ready for Claude Design |
 | Today tab | 5 | ❌ Not started | 🔒 Blocked | Placeholder only — wait for Phase 5 |
 | Onboarding | 6 | ✅ Complete | ⏳ Not started | HealthProfileView functional; ready for Claude Design |
@@ -29,7 +29,7 @@ all data flows are working, and it has been reviewed in the simulator.
 [x] Typography tokens populated
 [x] Severity tokens populated
 [x] Adaptive light/dark tokens applied (backgroundPage, backgroundCard, borderDefault, textTertiary)
-[x] Applied to Stack tab
+[x] Applied to Stack tab — complete
 [x] Applied to Analysis screen
 [x] Applied to Schedule tab
 [ ] Applied to Today tab
