@@ -163,6 +163,7 @@ final class ScheduleStore {
         // 8. Update cache.
         cachedResult = result
         dirty = false
+        NotificationScheduler.reschedule(for: result)
     }
 
     private func deleteAllScheduledDoses(in ctx: NSManagedObjectContext) {

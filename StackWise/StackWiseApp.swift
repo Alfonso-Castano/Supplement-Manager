@@ -3,6 +3,7 @@ import SwiftUI
 
 @main
 struct StackWiseApp: App {
+    @UIApplicationDelegateAdaptor(AppDelegate.self) var appDelegate
     @State private var appState: AppState
     @State private var ingredientRepo: IngredientRepository
     @State private var interactionRepo: InteractionRepository
@@ -47,6 +48,7 @@ struct StackWiseApp: App {
                 .environment(analysisStore)
                 .environment(scheduleStore)
                 .environment(\.managedObjectContext, persistenceController.container.viewContext)
+                .task { appDelegate.appState = appState }
         }
     }
 }
