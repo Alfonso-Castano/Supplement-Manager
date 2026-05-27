@@ -1,7 +1,7 @@
 ---
 current_phase: "6"
 current_phase_name: "Reminders & Today Tab"
-current_plan: "1 of 5"
+current_plan: "2 of 5"
 total_phases: "10"
 status: "executing"
 progress: "[█████░░░░░] 50%"
@@ -23,9 +23,9 @@ See: SPEC.md (full project specification)
 ## Current Position
 
 Phase: 6 of 10 (Reminders & Today Tab) — executing
-Plan: 1 of 5
-Status: Phase 6 executing — Plan 01 (Foundation) complete.
-Last activity: 2026-05-27 — Plan 06-01 complete (AppDelegate, NotificationScheduler, 6 RED test stubs).
+Plan: 2 of 5
+Status: Phase 6 executing — Plan 02 (Wiring) complete.
+Last activity: 2026-05-27 — Plan 06-02 complete (ContentView two-gate, TabView selection, AppDelegate bridge, ScheduleStore hook).
 Progress: [█████░░░░░] 50%
 
 ---
@@ -98,8 +98,8 @@ None.
 ## Session Continuity
 
 Last session: 2026-05-27
-Stopped at: Plan 06-01 complete. AppDelegate (ee04910), NotificationScheduler (976410a), 6 RED test stubs (782bc18) committed.
-Resume: Execute Plan 06-02 — Wiring (ContentView two-gate, TabView selection, StackWiseApp AppDelegate bridge, ScheduleStore reschedule hook).
+Stopped at: Plan 06-02 complete. ContentView two-gate (c984899), AppDelegate bridge + ScheduleStore hook (2088d3e) committed.
+Resume: Execute Plan 06-03 — NotificationPermissionView (full UI replacing stub).
 
 **Phase 5 decisions:**
 - D-48: appState.onboardingComplete = true works directly in function scope on iOS 17+ @Observable — no @Bindable unwrap required.
