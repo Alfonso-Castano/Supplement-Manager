@@ -1,27 +1,78 @@
 import SwiftUI
+import UserNotifications
 
-/// Stub: Plan 06-03 replaces this with the full permission-gate UI.
 struct NotificationPermissionView: View {
     var onComplete: () -> Void
+    @Environment(ScheduleStore.self) private var scheduleStore
 
     var body: some View {
-        VStack(spacing: 20) {
-            Image(systemName: "bell.badge.fill")
-                .font(.system(size: 56))
-                .foregroundStyle(.aquaPrimary)
+        ScrollView {
+            VStack(spacing: 32) {
+                Image(systemName: "bell.badge.fill")
+                    .font(.system(size: 56))
+                    .foregroundStyle(.aquaPrimary)
+                    .padding(.top, 24)
 
-            Text("Never Miss a Dose")
-                .font(.title.bold())
+                Text("Never Miss a Dose")
+                    .font(.swTitle1)
+                    .foregroundStyle(.textPrimary)
+                    .multilineTextAlignment(.center)
 
-            Text("Enable reminders to stay on track.")
-                .foregroundStyle(.secondary)
+                Text("Get a reminder at the right time for each block in your schedule.")
+                    .font(.swBody)
+                    .foregroundStyle(.textSecondary)
+                    .multilineTextAlignment(.center)
 
-            Button("Enable Reminders") {
-                onComplete()
+                VStack(alignment: .leading, spacing: 16) {
+                    BenefitRow(icon: "clock.fill",
+                               text: "Timed to your morning, afternoon, and evening blocks")
+                    BenefitRow(icon: "list.bullet",
+                               text: "Each reminder lists your specific supplements")
+                    BenefitRow(icon: "bell.slash",
+                               text: "You control notifications any time in Settings")
+                }
             }
-            .buttonStyle(.borderedProminent)
-            .tint(.aquaPrimary)
+            .padding(.horizontal, 16)
+            .padding(.bottom, 48)
         }
-        .padding()
+        .background(Color.backgroundPage.ignoresSafeArea())
+        .safeAreaInset(edge: .bottom) {
+            VStack {
+                Button("Enable Reminders") {
+                    Task {
+                        try? await UNUserNotificationCenter.current()
+                            .requestAuthorization(options: [.alert, .sound, .badge])
+                        // Schedule immediately after auth — notifications were skipped during
+                        // onboarding because permission hadn't been granted yet.
+                        NotificationScheduler.reschedule(for: scheduleStore.currentSchedule())
+                        onComplete()
+                    }
+                }
+                .buttonStyle(.borderedProminent)
+                .tint(.aquaPrimary)
+                .font(.swHeadline)
+                .frame(maxWidth: .infinity)
+                .frame(minHeight: 50)
+                .padding(.horizontal, 16)
+            }
+            .padding(.vertical, 16)
+            .background(Color.backgroundPage)
+        }
+    }
+}
+
+private struct BenefitRow: View {
+    let icon: String
+    let text: String
+
+    var body: some View {
+        HStack(spacing: 12) {
+            Image(systemName: icon)
+                .foregroundStyle(.aquaPrimary)
+                .frame(width: 24)
+            Text(text)
+                .font(.swBody)
+                .foregroundStyle(.textPrimary)
+        }
     }
 }
