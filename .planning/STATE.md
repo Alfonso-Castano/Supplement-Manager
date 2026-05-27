@@ -1,13 +1,13 @@
 ---
 current_phase: "6"
 current_phase_name: "Reminders & Today Tab"
-current_plan: "0 of 0"
+current_plan: "0 of 5"
 total_phases: "10"
-status: "planning"
+status: "ready to execute"
 progress: "[█████░░░░░] 50%"
 last_activity: "2026-05-26"
 phase_count: 10
-plan_count: 27
+plan_count: 32
 summary_count: 20
 ---
 
@@ -22,10 +22,10 @@ See: SPEC.md (full project specification)
 
 ## Current Position
 
-Phase: 6 of 10 (Reminders & Today Tab) — context gathered, ready for planning
-Plan: 0 of 0 (not yet planned)
-Status: Phase 5 COMPLETE (2026-05-26). Phase 6 context gathered (2026-05-26) — 06-CONTEXT.md written.
-Last activity: 2026-05-26 — Phase 6 context gathered (06-CONTEXT.md).
+Phase: 6 of 10 (Reminders & Today Tab) — planned, ready to execute
+Plan: 0 of 5
+Status: Phase 5 COMPLETE (2026-05-26). Phase 6 planned (2026-05-26) — 5 plans in 4 waves.
+Last activity: 2026-05-26 — Phase 6 planned (5 plans: 06-01 through 06-05).
 Progress: [█████░░░░░] 50%
 
 ---

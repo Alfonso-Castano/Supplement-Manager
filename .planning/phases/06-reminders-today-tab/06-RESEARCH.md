@@ -756,17 +756,13 @@ NotificationScheduler.reschedule(for: result)
 
 ---
 
-## Open Questions
+## Open Questions (RESOLVED)
 
-1. **AppDelegate reference bridging timing**
+1. **AppDelegate reference bridging timing** — RESOLVED: Use the `pendingTab` pattern (Pitfall 6). `AppDelegate` stores a `var pendingTab: Int?`; `didSet` on `appState` applies and clears it. `appDelegate.appState` is assigned in `.task {}` on the root WindowGroup view. This makes cold-start notification taps safe regardless of assignment timing. Implemented in Plan 06-01 Task 1.
    - What we know: `AppDelegate` is instantiated by UIKit before `StackWiseApp.init()` runs; `AppState` is created in `StackWiseApp.init()`.
-   - What's unclear: The safest moment to assign `appDelegate.appState = appState` — `.task {}` on the root view may run slightly after first render.
-   - Recommendation: Use the `pendingTab` pattern (Pitfall 6 above) so that cold-start notification taps are never lost regardless of assignment timing.
 
-2. **NotificationPermissionView gate placement — fullScreenCover vs if/else branch**
+2. **NotificationPermissionView gate placement — fullScreenCover vs if/else branch** — RESOLVED: Use the `if/else` branch in ContentView (not `.fullScreenCover`). An `if/else` branch is non-dismissible by default, matching the "gate" intent of D-01. `.fullScreenCover` would allow swipe-to-dismiss. Implemented in Plan 06-02 Task 1; Plan 06-03 acceptance criteria explicitly forbid `.fullScreenCover`.
    - What we know: D-01 specifies the screen "appears as a gate" between onboarding completion and the TabView.
-   - What's unclear: Whether to use `.fullScreenCover(isPresented:)` (animated, modal) or an `if/else` branch in the ContentView body (instant switch). The Phase 5 onboarding used `.fullScreenCover` for the preview step.
-   - Recommendation: Use the `if/else` branch pattern consistent with how Phase 5 gates the onboarding. A `fullScreenCover` modal would allow dismissal without action; an `if/else` branch is non-dismissible by default, matching the "gate" intent of D-01. The planner should decide and document.
 
 ---
 
