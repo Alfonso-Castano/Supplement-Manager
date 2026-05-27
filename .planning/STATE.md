@@ -1,7 +1,7 @@
 ---
 current_phase: "6"
 current_phase_name: "Reminders & Today Tab"
-current_plan: "2 of 5"
+current_plan: "4 of 5"
 total_phases: "10"
 status: "executing"
 progress: "[█████░░░░░] 50%"
@@ -23,9 +23,9 @@ See: SPEC.md (full project specification)
 ## Current Position
 
 Phase: 6 of 10 (Reminders & Today Tab) — executing
-Plan: 2 of 5
-Status: Phase 6 executing — Plan 02 (Wiring) complete.
-Last activity: 2026-05-27 — Plan 06-02 complete (ContentView two-gate, TabView selection, AppDelegate bridge, ScheduleStore hook).
+Plan: 4 of 5
+Status: Phase 6 executing — Plans 01–04 complete. Plan 05 (tests + simulator checkpoint) next.
+Last activity: 2026-05-27 — Plans 06-03 + 06-04 complete (NotificationPermissionView, TodayView with block cards + check-off).
 Progress: [█████░░░░░] 50%
 
 ---

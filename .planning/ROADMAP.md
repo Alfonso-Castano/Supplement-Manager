@@ -449,7 +449,7 @@ Plans:
 | 3 | Complete | 4/4 | 03-01, 03-02, 03-03, 03-04 |
 | 4 | Complete | 4/4 | 04-01, 04-02, 04-03, 04-04 (Mac verification pending) |
 | 5 | Complete | 5/5 | 05-00, 05-01, 05-02, 05-03, 05-04 |
-| 6 | In progress | 1/5 | 06-01 |
+| 6 | In progress | 4/5 | 06-01, 06-02, 06-03, 06-04 |
 | 7 | Not started | 0/0 | — |
 | 8 | Not started | 0/0 | — |
 | 9 | Not started | 0/0 | — |
