@@ -222,7 +222,7 @@ Cross-cutting constraints:
 **Plans:** 5 plans
 
 Plans:
-- [ ] 06-01-PLAN.md — Foundation: AppDelegate (UNUserNotificationCenterDelegate), AppState.selectedTab, NotificationScheduler service, 6 RED test stubs
+- [x] 06-01-PLAN.md — Foundation: AppDelegate (UNUserNotificationCenterDelegate), AppState.selectedTab, NotificationScheduler service, 6 RED test stubs — COMPLETE 2026-05-27
 - [ ] 06-02-PLAN.md — Wiring: ContentView two-gate pattern, TabView(selection:), StackWiseApp AppDelegate bridge, ScheduleStore reschedule hook
 - [ ] 06-03-PLAN.md — NotificationPermissionView: full-screen value-framing gate with Enable Reminders CTA
 - [ ] 06-04-PLAN.md — TodayView: block cards, check-off toggles, DailyCheckOff upsert, past-block dimming, completion summary
@@ -449,7 +449,7 @@ Plans:
 | 3 | Complete | 4/4 | 03-01, 03-02, 03-03, 03-04 |
 | 4 | Complete | 4/4 | 04-01, 04-02, 04-03, 04-04 (Mac verification pending) |
 | 5 | Complete | 5/5 | 05-00, 05-01, 05-02, 05-03, 05-04 |
-| 6 | In progress | 0/5 | — |
+| 6 | In progress | 1/5 | 06-01 |
 | 7 | Not started | 0/0 | — |
 | 8 | Not started | 0/0 | — |
 | 9 | Not started | 0/0 | — |

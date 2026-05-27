@@ -1,9 +1,9 @@
 ---
 current_phase: "6"
 current_phase_name: "Reminders & Today Tab"
-current_plan: "0 of 5"
+current_plan: "1 of 5"
 total_phases: "10"
-status: "ready to execute"
+status: "executing"
 progress: "[█████░░░░░] 50%"
 last_activity: "2026-05-26"
 phase_count: 10
@@ -22,10 +22,10 @@ See: SPEC.md (full project specification)
 
 ## Current Position
 
-Phase: 6 of 10 (Reminders & Today Tab) — planned, ready to execute
-Plan: 0 of 5
-Status: Phase 5 COMPLETE (2026-05-26). Phase 6 planned (2026-05-26) — 5 plans in 4 waves.
-Last activity: 2026-05-26 — Phase 6 planned (5 plans: 06-01 through 06-05).
+Phase: 6 of 10 (Reminders & Today Tab) — executing
+Plan: 1 of 5
+Status: Phase 6 executing — Plan 01 (Foundation) complete.
+Last activity: 2026-05-27 — Plan 06-01 complete (AppDelegate, NotificationScheduler, 6 RED test stubs).
 Progress: [█████░░░░░] 50%
 
 ---
@@ -97,9 +97,9 @@ None.
 
 ## Session Continuity
 
-Last session: 2026-05-26
-Stopped at: Phase 5 COMPLETE. 05-04 committed OnboardingCoordinatorView + tests GREEN (6d9dc54). Post-checkpoint bug fixes (assertionFailure → try?, nested NavigationStack) committed (c2c1e8b). SUMMARY.md created. ROADMAP.md + STATE.md updated.
-Resume: Plan Phase 6 — Reminders & Today Tab (REQ-20, REQ-21). Run /gsd:discuss-phase 6 or /gsd:plan-phase 6.
+Last session: 2026-05-27
+Stopped at: Plan 06-01 complete. AppDelegate (ee04910), NotificationScheduler (976410a), 6 RED test stubs (782bc18) committed.
+Resume: Execute Plan 06-02 — Wiring (ContentView two-gate, TabView selection, StackWiseApp AppDelegate bridge, ScheduleStore reschedule hook).
 
 **Phase 5 decisions:**
 - D-48: appState.onboardingComplete = true works directly in function scope on iOS 17+ @Observable — no @Bindable unwrap required.
