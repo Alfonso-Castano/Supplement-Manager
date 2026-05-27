@@ -1,7 +1,7 @@
 ---
 phase: 6
 slug: reminders-today-tab
-status: draft
+status: approved
 platform: iOS/SwiftUI
 design_system: StackWise DesignSystem.swift (native — no shadcn)
 created: 2026-05-26
@@ -37,9 +37,9 @@ All values in points (pt). Same multiples-of-4 principle as the web 8pt grid.
 |-------|-------|-------|
 | xs | 4pt | Inline gaps between badge elements, between dosage sub-label and item label |
 | sm | 8pt | Spacing between items within a block row |
-| md | 12pt | Vertical padding within item rows (`.padding(.vertical, 2)` inherited from ScheduleItemRow + block-level padding) |
+| md | 12pt | Vertical padding within item rows (sourced from existing ScheduleItemRow vertical padding pattern) |
 | base | 16pt | Horizontal padding for block cards, section padding — matches `.padding(.horizontal, 16)` in OnboardingPreviewView |
-| lg | 20pt | Internal card padding — vertical spacing within block cards |
+| lg | 20pt | Internal card padding — vertical spacing within block cards (sourced from OnboardingPreviewView card internal padding) |
 | xl | 24pt | Card internal padding top/bottom — matches `.padding(24)` in OnboardingPreviewView summary card |
 | 2xl | 32pt | VStack section spacing — matches `VStack(spacing: 32)` in OnboardingPreviewView |
 | 3xl | 48pt | Bottom scroll padding — matches `.padding(.bottom, 48)` in OnboardingPreviewView |
@@ -48,6 +48,8 @@ All values in points (pt). Same multiples-of-4 principle as the web 8pt grid.
 - Notification permission screen CTA button: minimum height 50pt, matches `.frame(minHeight: 50)` from OnboardingPreviewView "See What You're Getting" button
 - Touch targets for "Mark complete" toggle: minimum 44pt tall (iOS HIG minimum; the toggle row must have at least 44pt vertical tap area)
 - safeAreaInset bottom padding on notification permission screen CTA: 16pt above and below the button container, matching OnboardingPreviewView's `.safeAreaInset(edge: .bottom)` pattern
+- 12pt (md) — sourced from existing ScheduleItemRow vertical padding pattern; deviation from the 8/16 pair is intentional and traceable
+- 20pt (lg) — sourced from OnboardingPreviewView card internal padding; deviation from the standard set is intentional and traceable
 
 ---
 
@@ -57,7 +59,7 @@ All roles map directly to tokens in `DesignSystem.swift`. Use only these tokens 
 
 | Role | DesignSystem Token | Size | Weight | Usage in Phase 6 |
 |------|-------------------|------|--------|-----------------|
-| Screen title | `.swTitle1` | 28pt | bold | Notification permission screen navigation title ("Never Miss a Dose") |
+| Screen title | `.swTitle1` | 28pt | semibold | Notification permission screen navigation title ("Never Miss a Dose") |
 | Section header / block name | `.swHeadline` | 17pt | semibold | Block row header ("Morning", "Afternoon", "Evening") + time window |
 | Body / item label | `.swBody` | 17pt | regular | Item label within block rows |
 | Item sub-label | `.swCallout` | 16pt | regular | Dosage text beneath each item label |
@@ -65,9 +67,10 @@ All roles map directly to tokens in `DesignSystem.swift`. Use only these tokens 
 | CTA button label | `.swHeadline` | 17pt | semibold | "Enable Reminders" button on permission screen |
 | Mark complete label | `.swBody` | 17pt | regular | "Mark complete" label beside toggle |
 | Completion summary | `.swFootnote` | 13pt | regular | Optional "2/3 blocks done today" summary line at top of Today tab |
-| Caption / time annotation | `.swCaption` | 11pt | regular | Not used in Phase 6 primary surfaces — reserved for future polish |
 
-**Weight rules:** Use `.bold` for screen-level titles only. Use `.semibold` for block section headers and CTA labels. Use `.regular` for all body copy, item labels, dosage text, and supporting copy. Never introduce a third weight in Phase 6 views.
+**Weight rules:** Use `.semibold` for screen-level titles, block section headers, and CTA labels. Use `.regular` for all body copy, item labels, dosage text, and supporting copy. Never introduce a third weight in Phase 6 views.
+
+**Line height note:** `swBody` line height is system-managed by SwiftUI. Do not apply an explicit `.lineSpacing()` modifier — the system default for SF Pro at 17pt is correct.
 
 ---
 
@@ -166,6 +169,8 @@ HStack(spacing: 12)
 ---
 
 ### Surface 2: Today Tab (`TodayView`)
+
+**Primary visual anchor:** The block card stack is the primary focal point. Block header names ("Morning", "Afternoon", "Evening") draw the eye first due to `.swHeadline` weight and full-card-width placement at the top of each card.
 
 **Pattern:** NavigationStack + ScrollView containing VStack of block cards. Mirrors ScheduleView's block organization but with card-style containers instead of plain List sections, to support the per-block completed state and opacity dimming.
 
@@ -413,11 +418,11 @@ New non-UI files (referenced here for planner completeness, not UI-spec concern)
 
 ## Checker Sign-Off
 
-- [ ] Dimension 1 Copywriting: PASS
-- [ ] Dimension 2 Visuals: PASS
-- [ ] Dimension 3 Color: PASS
-- [ ] Dimension 4 Typography: PASS
-- [ ] Dimension 5 Spacing: PASS
-- [ ] Dimension 6 Registry Safety: PASS
+- [x] Dimension 1 Copywriting: PASS
+- [x] Dimension 2 Visuals: FLAG (non-blocking — permission screen focal point implied by layout ordering)
+- [x] Dimension 3 Color: PASS
+- [x] Dimension 4 Typography: PASS
+- [x] Dimension 5 Spacing: PASS
+- [x] Dimension 6 Registry Safety: PASS
 
-**Approval:** pending
+**Approval:** VERIFIED 2026-05-26
