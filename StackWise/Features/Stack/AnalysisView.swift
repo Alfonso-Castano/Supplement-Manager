@@ -50,6 +50,8 @@ struct AnalysisView: View {
         .navigationBarTitleDisplayMode(.large)
         .safeAreaInset(edge: .bottom) {
             anchorBar(results: .empty)
+                .padding(.horizontal, 16)
+                .padding(.vertical, 8)
         }
     }
 
@@ -96,7 +98,7 @@ struct AnalysisView: View {
                             }
                             .listRowBackground(Color.clear)
                             .listRowSeparator(.hidden)
-                            .listRowInsets(EdgeInsets(top: 4, leading: 16, bottom: 4, trailing: 16))
+                            .listRowInsets(EdgeInsets(top: 2, leading: 0, bottom: 2, trailing: 0))
                         }
                     } header: {
                         sectionHeader(
@@ -126,7 +128,7 @@ struct AnalysisView: View {
                             }
                             .listRowBackground(Color.clear)
                             .listRowSeparator(.hidden)
-                            .listRowInsets(EdgeInsets(top: 4, leading: 16, bottom: 4, trailing: 16))
+                            .listRowInsets(EdgeInsets(top: 2, leading: 0, bottom: 2, trailing: 0))
                         }
                     } header: {
                         sectionHeader(
@@ -156,7 +158,7 @@ struct AnalysisView: View {
                             }
                             .listRowBackground(Color.clear)
                             .listRowSeparator(.hidden)
-                            .listRowInsets(EdgeInsets(top: 4, leading: 16, bottom: 4, trailing: 16))
+                            .listRowInsets(EdgeInsets(top: 2, leading: 0, bottom: 2, trailing: 0))
                         }
                     } header: {
                         sectionHeader(
@@ -206,6 +208,8 @@ struct AnalysisView: View {
         .navigationBarTitleDisplayMode(.large)
         .safeAreaInset(edge: .bottom) {
             anchorBar(results: results, allExpanded: allExpanded, allPairIDs: allPairIDs)
+                .padding(.horizontal, 16)
+                .padding(.vertical, 8)
         }
     }
 
@@ -220,7 +224,7 @@ struct AnalysisView: View {
         let label = (allExpanded && !isEmpty) ? "Collapse All" : "Reveal Full Analysis"
         let isActive = !isEmpty
 
-        return Button {
+        return Button(action: {
             withAnimation(.easeInOut(duration: 0.25)) {
                 if allExpanded {
                     expandedCards.removeAll()
@@ -228,20 +232,22 @@ struct AnalysisView: View {
                     expandedCards = Set(allPairIDs)
                 }
             }
-        } label: {
-            HStack(spacing: 8) {
+        }) {
+            HStack(spacing: 10) {
                 Image(systemName: "sparkles")
-                    .font(.system(size: 16, weight: .semibold))
-                    .foregroundStyle(isActive ? .white : Color.white.opacity(0.6))
+                    .font(.swHeadline)
                 Text(label)
                     .font(.swHeadline)
-                    .fontWeight(.semibold)
-                    .foregroundStyle(isActive ? .white : Color.white.opacity(0.6))
+                Spacer()
             }
+            .foregroundStyle(isActive ? .white : Color.white.opacity(0.6))
+            .padding(.horizontal, 16)
+            .padding(.vertical, 14)
             .frame(maxWidth: .infinity)
-            .frame(height: 56)
             .background(isActive ? Color.aquaPrimary : Color.textTertiary.opacity(0.4))
+            .clipShape(RoundedRectangle(cornerRadius: 14))
         }
+        .buttonStyle(.plain)
         .disabled(!isActive)
     }
 
