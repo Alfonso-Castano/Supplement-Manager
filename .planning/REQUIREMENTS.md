@@ -47,8 +47,8 @@
 
 ### Reminders & Today Tab (Phase 6)
 
-- [ ] **REQ-20**: Local notifications scheduled for each time block; notification body lists specific item labels (not generic); tapping opens Today tab
-- [ ] **REQ-21**: Today tab shows morning / afternoon / evening rows with per-block check-off; completion persists to Core Data DailyCheckOff
+- [x] **REQ-20**: Local notifications scheduled for each time block; notification body lists specific item labels (not generic); tapping opens Today tab
+- [x] **REQ-21**: Today tab shows morning / afternoon / evening rows with per-block check-off; completion persists to Core Data DailyCheckOff
 
 ### Monetization (Phase 7)
 
@@ -119,8 +119,8 @@
 | REQ-17 | Phase 4 | Pending |
 | REQ-18 | Phase 5 | Pending |
 | REQ-19 | Phase 5 | Pending |
-| REQ-20 | Phase 6 | Pending |
-| REQ-21 | Phase 6 | Pending |
+| REQ-20 | Phase 6 | Complete |
+| REQ-21 | Phase 6 | Complete |
 | REQ-22 | Phase 7 | Pending |
 | REQ-23 | Phase 7 | Pending |
 | REQ-24 | Phase 7 | Pending |

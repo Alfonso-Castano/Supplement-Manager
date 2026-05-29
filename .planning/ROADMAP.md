@@ -14,7 +14,7 @@
 - [x] **Phase 3: Interaction Analysis Engine** — Bundle database, pairwise lookup, analysis screen — COMPLETE (36 tests passing, Mac verified 2026-05-15)
 - [x] **Phase 4: Smart Schedule** — Priority-rule scheduling algorithm, schedule tab with blocks — COMPLETE (50 tests passing, Mac verified 2026-05-24, deep review fixes verified)
 - [x] **Phase 5: Functional Onboarding** — Onboarding coordinator, preview screen, trial trigger — COMPLETE (simulator golden path verified 2026-05-26)
-- [ ] **Phase 6: Reminders & Today Tab** — Local notifications, block-level check-off interface
+- [x] **Phase 6: Reminders & Today Tab** — Local notifications, block-level check-off interface — COMPLETE (simulator golden path verified 2026-05-29)
 - [ ] **Phase 7: Monetization** — StoreKit 2, 14-day trial, hard paywall, restore purchases
 - [ ] **Phase 8: In-App Feedback** — Formspree integration, feedback entry points, local retry
 - [ ] **Phase 9: Polish & Ship** — Dark mode, branding, privacy policy, App Store submission
@@ -224,9 +224,9 @@ Cross-cutting constraints:
 Plans:
 - [x] 06-01-PLAN.md — Foundation: AppDelegate (UNUserNotificationCenterDelegate), AppState.selectedTab, NotificationScheduler service, 6 RED test stubs — COMPLETE 2026-05-27
 - [x] 06-02-PLAN.md — Wiring: ContentView two-gate pattern, TabView(selection:), StackWiseApp AppDelegate bridge, ScheduleStore reschedule hook — COMPLETE 2026-05-27
-- [ ] 06-03-PLAN.md — NotificationPermissionView: full-screen value-framing gate with Enable Reminders CTA
-- [ ] 06-04-PLAN.md — TodayView: block cards, check-off toggles, DailyCheckOff upsert, past-block dimming, completion summary
-- [ ] 06-05-PLAN.md — Fill 6 tests GREEN + simulator golden path checkpoint
+- [x] 06-03-PLAN.md — NotificationPermissionView: full-screen value-framing gate with Enable Reminders CTA — COMPLETE 2026-05-27
+- [x] 06-04-PLAN.md — TodayView: block cards, check-off toggles, DailyCheckOff upsert, past-block dimming, completion summary — COMPLETE 2026-05-27
+- [x] 06-05-PLAN.md — Fill tests GREEN + simulator golden path checkpoint — COMPLETE 2026-05-29
 
 ---
 
@@ -449,7 +449,7 @@ Plans:
 | 3 | Complete | 4/4 | 03-01, 03-02, 03-03, 03-04 |
 | 4 | Complete | 4/4 | 04-01, 04-02, 04-03, 04-04 (Mac verification pending) |
 | 5 | Complete | 5/5 | 05-00, 05-01, 05-02, 05-03, 05-04 |
-| 6 | In progress | 4/5 | 06-01, 06-02, 06-03, 06-04 |
+| 6 | Complete | 5/5 | 06-01, 06-02, 06-03, 06-04, 06-05 |
 | 7 | Not started | 0/0 | — |
 | 8 | Not started | 0/0 | — |
 | 9 | Not started | 0/0 | — |

@@ -1,14 +1,14 @@
 ---
 current_phase: "6"
 current_phase_name: "Reminders & Today Tab"
-current_plan: "4 of 5"
+current_plan: "5 of 5"
 total_phases: "10"
-status: "executing"
-progress: "[█████░░░░░] 50%"
-last_activity: "2026-05-26"
+status: "phase-complete"
+progress: "[██████░░░░] 60%"
+last_activity: "2026-05-29"
 phase_count: 10
 plan_count: 32
-summary_count: 20
+summary_count: 21
 ---
 
 ## Project Reference
@@ -22,11 +22,11 @@ See: SPEC.md (full project specification)
 
 ## Current Position
 
-Phase: 6 of 10 (Reminders & Today Tab) — executing
-Plan: 4 of 5
-Status: Phase 6 executing — Plans 01–04 complete. Plan 05 (tests + simulator checkpoint) next.
-Last activity: 2026-05-27 — Plans 06-03 + 06-04 complete (NotificationPermissionView, TodayView with block cards + check-off).
-Progress: [█████░░░░░] 50%
+Phase: 6 of 10 (Reminders & Today Tab) — phase-complete
+Plan: 5 of 5
+Status: Phase 6 complete — All 5 plans executed. Tests GREEN, simulator golden path verified.
+Last activity: 2026-05-29 — Plan 06-05 complete (tests filled GREEN, human checkpoint approved).
+Progress: [██████░░░░] 60%
 
 ---
 
@@ -97,10 +97,14 @@ None.
 
 ## Session Continuity
 
-Last session: 2026-05-27
-Stopped at: Plan 06-02 complete. ContentView two-gate (c984899), AppDelegate bridge + ScheduleStore hook (2088d3e) committed.
-Resume: Execute Plan 06-03 — NotificationPermissionView (full UI replacing stub).
+Last session: 2026-05-29
+Stopped at: Phase 6 complete. All 5 plans executed, REQ-20 and REQ-21 verified.
+Resume: Phase 7 — Monetization (StoreKit 2 subscription, trial expiry, hard paywall).
 
 **Phase 5 decisions:**
 - D-48: appState.onboardingComplete = true works directly in function scope on iOS 17+ @Observable — no @Bindable unwrap required.
 - D-49: Smart resume uses age==0 || weightKg==0 as step-1 sentinel (no new Core Data column needed, aligns with D-24).
+
+**Phase 6 Plan 05 decisions:**
+- D-50: Tests call NotificationScheduler.buildRequests(for:) directly instead of replicating logic inline — the implementation exposes a pure content builder.
+- D-51: TodayViewModelTests already filled by Plan 04 with 7 tests — no additional changes needed in Plan 05.
