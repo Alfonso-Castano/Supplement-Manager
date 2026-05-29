@@ -4,6 +4,8 @@ struct AnalysisView: View {
     @Environment(AnalysisStore.self) private var store
     @Environment(\.dismiss) private var dismiss
 
+    @State private var expandedCards: Set<Int64> = []
+
     var body: some View {
         let results = store.currentResults()
         if results == .empty {
@@ -46,12 +48,18 @@ struct AnalysisView: View {
         }
         .navigationTitle("Analysis")
         .navigationBarTitleDisplayMode(.large)
+        .safeAreaInset(edge: .bottom) {
+            anchorBar(results: .empty)
+        }
     }
 
     // MARK: — Populated State
 
     private func populatedState(results: AnalysisResults) -> some View {
-        ZStack {
+        let allPairIDs: [Int64] = (results.critical + results.advisory + results.synergy).map(\.id)
+        let allExpanded = !allPairIDs.isEmpty && allPairIDs.allSatisfy { expandedCards.contains($0) }
+
+        return ZStack {
             Color.backgroundPage.ignoresSafeArea()
             List {
                 // Subtitle row
@@ -73,10 +81,22 @@ struct AnalysisView: View {
                 if !results.critical.isEmpty {
                     Section {
                         ForEach(results.critical) { pair in
-                            InteractionCard(pair: pair, cardType: .critical)
-                                .listRowBackground(Color.clear)
-                                .listRowSeparator(.hidden)
-                                .listRowInsets(EdgeInsets(top: 4, leading: 16, bottom: 4, trailing: 16))
+                            InteractionCard(
+                                pair: pair,
+                                cardType: .critical,
+                                isExpanded: expandedCards.contains(pair.id)
+                            ) {
+                                withAnimation(.easeInOut(duration: 0.25)) {
+                                    if expandedCards.contains(pair.id) {
+                                        expandedCards.remove(pair.id)
+                                    } else {
+                                        expandedCards.insert(pair.id)
+                                    }
+                                }
+                            }
+                            .listRowBackground(Color.clear)
+                            .listRowSeparator(.hidden)
+                            .listRowInsets(EdgeInsets(top: 4, leading: 16, bottom: 4, trailing: 16))
                         }
                     } header: {
                         sectionHeader(
@@ -91,10 +111,22 @@ struct AnalysisView: View {
                 if !results.advisory.isEmpty {
                     Section {
                         ForEach(results.advisory) { pair in
-                            InteractionCard(pair: pair, cardType: .advisory)
-                                .listRowBackground(Color.clear)
-                                .listRowSeparator(.hidden)
-                                .listRowInsets(EdgeInsets(top: 4, leading: 16, bottom: 4, trailing: 16))
+                            InteractionCard(
+                                pair: pair,
+                                cardType: .advisory,
+                                isExpanded: expandedCards.contains(pair.id)
+                            ) {
+                                withAnimation(.easeInOut(duration: 0.25)) {
+                                    if expandedCards.contains(pair.id) {
+                                        expandedCards.remove(pair.id)
+                                    } else {
+                                        expandedCards.insert(pair.id)
+                                    }
+                                }
+                            }
+                            .listRowBackground(Color.clear)
+                            .listRowSeparator(.hidden)
+                            .listRowInsets(EdgeInsets(top: 4, leading: 16, bottom: 4, trailing: 16))
                         }
                     } header: {
                         sectionHeader(
@@ -109,10 +141,22 @@ struct AnalysisView: View {
                 if !results.synergy.isEmpty {
                     Section {
                         ForEach(results.synergy) { pair in
-                            InteractionCard(pair: pair, cardType: .positive)
-                                .listRowBackground(Color.clear)
-                                .listRowSeparator(.hidden)
-                                .listRowInsets(EdgeInsets(top: 4, leading: 16, bottom: 4, trailing: 16))
+                            InteractionCard(
+                                pair: pair,
+                                cardType: .positive,
+                                isExpanded: expandedCards.contains(pair.id)
+                            ) {
+                                withAnimation(.easeInOut(duration: 0.25)) {
+                                    if expandedCards.contains(pair.id) {
+                                        expandedCards.remove(pair.id)
+                                    } else {
+                                        expandedCards.insert(pair.id)
+                                    }
+                                }
+                            }
+                            .listRowBackground(Color.clear)
+                            .listRowSeparator(.hidden)
+                            .listRowInsets(EdgeInsets(top: 4, leading: 16, bottom: 4, trailing: 16))
                         }
                     } header: {
                         sectionHeader(
@@ -160,6 +204,45 @@ struct AnalysisView: View {
         }
         .navigationTitle("Analysis")
         .navigationBarTitleDisplayMode(.large)
+        .safeAreaInset(edge: .bottom) {
+            anchorBar(results: results, allExpanded: allExpanded, allPairIDs: allPairIDs)
+        }
+    }
+
+    // MARK: — Anchor Bar
+
+    private func anchorBar(
+        results: AnalysisResults,
+        allExpanded: Bool = false,
+        allPairIDs: [Int64] = []
+    ) -> some View {
+        let isEmpty = results == .empty
+        let label = (allExpanded && !isEmpty) ? "Collapse All" : "Reveal Full Analysis"
+        let isActive = !isEmpty
+
+        return Button {
+            withAnimation(.easeInOut(duration: 0.25)) {
+                if allExpanded {
+                    expandedCards.removeAll()
+                } else {
+                    expandedCards = Set(allPairIDs)
+                }
+            }
+        } label: {
+            HStack(spacing: 8) {
+                Image(systemName: "sparkles")
+                    .font(.system(size: 16, weight: .semibold))
+                    .foregroundStyle(isActive ? .white : Color.white.opacity(0.6))
+                Text(label)
+                    .font(.swHeadline)
+                    .fontWeight(.semibold)
+                    .foregroundStyle(isActive ? .white : Color.white.opacity(0.6))
+            }
+            .frame(maxWidth: .infinity)
+            .frame(height: 56)
+            .background(isActive ? Color.aquaPrimary : Color.textTertiary.opacity(0.4))
+        }
+        .disabled(!isActive)
     }
 
     // MARK: — Helpers
@@ -243,10 +326,12 @@ private enum CardType {
 private struct InteractionCard: View {
     let pair: InteractionPair
     let cardType: CardType
+    let isExpanded: Bool
+    let onTap: () -> Void
 
     var body: some View {
         VStack(alignment: .leading, spacing: 6) {
-            // Header row
+            // Line 1: icon + name + badge
             HStack {
                 Image(systemName: iconName)
                     .foregroundStyle(cardType.accentColor)
@@ -262,14 +347,21 @@ private struct InteractionCard: View {
                     .background(cardType.badgeBG)
                     .clipShape(RoundedRectangle(cornerRadius: 100))
             }
-            // Effect
-            Text(pair.effect)
+            // Line 2: interaction type subtitle
+            Text(interactionTypeLabel)
                 .font(.swCallout)
                 .foregroundStyle(Color.textSecondary)
-            // Suggested action
-            Text(pair.suggestedAction)
-                .font(.swCallout)
-                .foregroundStyle(Color.textPrimary)
+
+            // Lines 3-4: expanded content
+            if isExpanded {
+                Text(pair.effect)
+                    .font(.swCallout)
+                    .foregroundStyle(Color.textSecondary)
+                    .padding(.top, 2)
+                Text(pair.suggestedAction)
+                    .font(.swCallout)
+                    .foregroundStyle(Color.textPrimary)
+            }
         }
         .padding(.horizontal, 16)
         .padding(.vertical, 12)
@@ -290,6 +382,8 @@ private struct InteractionCard: View {
                     )
                 )
         }
+        .contentShape(Rectangle())
+        .onTapGesture { onTap() }
     }
 
     private var iconName: String {
@@ -298,6 +392,15 @@ private struct InteractionCard: View {
         case .unsafeCombination:     return "exclamationmark.octagon.fill"
         case .absorptionCompetition: return "arrow.left.arrow.right.circle"
         case .timingConflict:        return "clock.badge.exclamationmark"
+        }
+    }
+
+    private var interactionTypeLabel: String {
+        switch pair.interactionType {
+        case .unsafeCombination:     return "Unsafe combination"
+        case .absorptionCompetition: return "Absorption competition"
+        case .timingConflict:        return "Timing conflict"
+        case .synergy:               return "Synergy"
         }
     }
 }
