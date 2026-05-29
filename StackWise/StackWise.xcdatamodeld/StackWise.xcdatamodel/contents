@@ -25,6 +25,7 @@
     <entity name="StackItem" representedClassName="StackItem" codeGenerationType="none" syncable="YES">
         <attribute name="activeIngredient" optional="YES" attributeType="String"/>
         <attribute name="addedDate" optional="YES" attributeType="Date" usesScalarValueType="NO"/>
+        <attribute name="customScheduleTime" optional="YES" attributeType="Date" usesScalarValueType="NO"/>
         <attribute name="dosage" optional="YES" attributeType="String"/>
         <attribute name="frequency" optional="YES" attributeType="String"/>
         <attribute name="id" optional="YES" attributeType="UUID" usesScalarValueType="NO"/>
@@ -33,6 +34,8 @@
         <attribute name="isPrescription" optional="YES" attributeType="Boolean" usesScalarValueType="YES"/>
         <attribute name="itemType" optional="YES" attributeType="String"/>
         <attribute name="label" optional="YES" attributeType="String"/>
+        <attribute name="pinnedBlock" optional="YES" attributeType="String"/>
+        <attribute name="scheduleNotes" optional="YES" attributeType="String"/>
         <attribute name="sortOrder" optional="YES" attributeType="Integer 16" defaultValueString="0" usesScalarValueType="YES"/>
         <relationship name="scheduledDoses" optional="YES" toMany="YES" deletionRule="Cascade" destinationEntity="ScheduledDose" inverseName="stackItem" inverseEntity="ScheduledDose"/>
     </entity>

@@ -123,12 +123,9 @@ final class ScheduleStore {
             sleepTime: sleepTime
         )
 
-        let result = ScheduleEngine.schedule(input)
+        let engineResult = ScheduleEngine.schedule(input)
 
-        // 7. Delete old ScheduledDose records, insert new ones.
-        deleteAllScheduledDoses(in: ctx)
-
-        // Build StackItem lookup by id for relationship assignment.
+        // Build StackItem lookup by id for override application and relationship assignment.
         let itemLookup: [UUID: StackItem] = Dictionary(
             uniqueKeysWithValues: items.compactMap { item in
                 guard let id = item.id else { return nil }
@@ -136,20 +133,26 @@ final class ScheduleStore {
             }
         )
 
-        for scheduledItem in result.allItems() {
-            let dose = ScheduledDose(context: ctx)
-            dose.id = UUID()
-            dose.position = scheduledItem.position
-            dose.suggestedTime = scheduledItem.suggestedTime
-            // Determine timeBlock from position in result.
-            if result.morning.contains(where: { $0.id == scheduledItem.id }) {
-                dose.timeBlock = "morning"
-            } else if result.afternoon.contains(where: { $0.id == scheduledItem.id }) {
-                dose.timeBlock = "afternoon"
-            } else {
-                dose.timeBlock = "evening"
-            }
-            dose.stackItem = itemLookup[scheduledItem.id]
+        // 7. Apply user overrides (pinned blocks, custom times, notes) as post-processing.
+        let result = applyUserOverrides(
+            engineResult,
+            itemLookup: itemLookup,
+            breakfastTime: breakfastTime,
+            lunchTime: lunchTime,
+            dinnerTime: dinnerTime
+        )
+
+        // 8. Delete old ScheduledDose records, insert new ones using the overridden result.
+        deleteAllScheduledDoses(in: ctx)
+
+        for scheduledItem in result.morning {
+            writeDose(scheduledItem, timeBlock: "morning", itemLookup: itemLookup, in: ctx)
+        }
+        for scheduledItem in result.afternoon {
+            writeDose(scheduledItem, timeBlock: "afternoon", itemLookup: itemLookup, in: ctx)
+        }
+        for scheduledItem in result.evening {
+            writeDose(scheduledItem, timeBlock: "evening", itemLookup: itemLookup, in: ctx)
         }
 
         do {
@@ -160,7 +163,7 @@ final class ScheduleStore {
             return
         }
 
-        // 8. Update cache.
+        // 9. Update cache.
         cachedResult = result
         dirty = false
         NotificationScheduler.reschedule(for: result)
@@ -169,10 +172,130 @@ final class ScheduleStore {
     private func deleteAllScheduledDoses(in ctx: NSManagedObjectContext) {
         let fetchRequest = ScheduledDose.fetchRequest()
         if let existing = try? ctx.fetch(fetchRequest) {
-            for dose in existing {
-                ctx.delete(dose)
+            for dose in existing { ctx.delete(dose) }
+        }
+    }
+
+    private func writeDose(
+        _ item: ScheduledItem,
+        timeBlock: String,
+        itemLookup: [UUID: StackItem],
+        in ctx: NSManagedObjectContext
+    ) {
+        let dose = ScheduledDose(context: ctx)
+        dose.id = UUID()
+        dose.position = item.position
+        dose.suggestedTime = item.customTime ?? item.suggestedTime
+        dose.timeBlock = timeBlock
+        dose.stackItem = itemLookup[item.id]
+    }
+
+    private func applyUserOverrides(
+        _ result: ScheduleResult,
+        itemLookup: [UUID: StackItem],
+        breakfastTime: Date,
+        lunchTime: Date,
+        dinnerTime: Date
+    ) -> ScheduleResult {
+        var morning = result.morning
+        var afternoon = result.afternoon
+        var evening = result.evening
+
+        for (id, stackItem) in itemLookup {
+            let pinned = stackItem.pinnedBlock
+            let customTime = stackItem.customScheduleTime
+            let notes = stackItem.scheduleNotes
+
+            if pinned == nil && customTime == nil && (notes == nil || notes!.isEmpty) { continue }
+
+            // Notes-only: update in-place without changing block or position.
+            if pinned == nil && customTime == nil {
+                if let idx = morning.firstIndex(where: { $0.id == id }) {
+                    morning[idx] = morning[idx].withOverride(customTime: nil, scheduleNotes: notes)
+                } else if let idx = afternoon.firstIndex(where: { $0.id == id }) {
+                    afternoon[idx] = afternoon[idx].withOverride(customTime: nil, scheduleNotes: notes)
+                } else if let idx = evening.firstIndex(where: { $0.id == id }) {
+                    evening[idx] = evening[idx].withOverride(customTime: nil, scheduleNotes: notes)
+                }
+                continue
+            }
+
+            // Pinned or custom-time: remove from engine-assigned block, re-append to target block.
+            let original: ScheduledItem
+            if let idx = morning.firstIndex(where: { $0.id == id }) {
+                original = morning.remove(at: idx)
+            } else if let idx = afternoon.firstIndex(where: { $0.id == id }) {
+                original = afternoon.remove(at: idx)
+            } else if let idx = evening.firstIndex(where: { $0.id == id }) {
+                original = evening.remove(at: idx)
+            } else {
+                continue
+            }
+
+            let targetBlock: String
+            if let pinned {
+                targetBlock = pinned
+            } else {
+                targetBlock = inferBlock(from: customTime!, breakfastTime: breakfastTime, lunchTime: lunchTime, dinnerTime: dinnerTime)
+            }
+
+            let blockTime: Date
+            switch targetBlock {
+            case "afternoon": blockTime = lunchTime
+            case "evening":   blockTime = dinnerTime
+            default:          blockTime = breakfastTime
+            }
+
+            let updated = original.withOverride(
+                customTime: customTime,
+                scheduleNotes: notes,
+                suggestedTime: customTime ?? blockTime
+            )
+
+            switch targetBlock {
+            case "afternoon": afternoon.append(updated)
+            case "evening":   evening.append(updated)
+            default:          morning.append(updated)
             }
         }
+
+        // Re-index positions within each block.
+        func reindex(_ items: [ScheduledItem]) -> [ScheduledItem] {
+            items.enumerated().map { idx, item in
+                ScheduledItem(
+                    id: item.id, label: item.label, activeIngredient: item.activeIngredient,
+                    dosage: item.dosage, isPrescription: item.isPrescription,
+                    position: Int16(idx), suggestedTime: item.suggestedTime,
+                    hasTimingConflict: item.hasTimingConflict, hasSynergy: item.hasSynergy,
+                    customTime: item.customTime, scheduleNotes: item.scheduleNotes
+                )
+            }
+        }
+
+        return ScheduleResult(morning: reindex(morning), afternoon: reindex(afternoon), evening: reindex(evening))
+    }
+
+    private func inferBlock(from time: Date, breakfastTime: Date, lunchTime: Date, dinnerTime: Date) -> String {
+        let cal = Calendar.current
+        let timeHour = cal.component(.hour, from: time) * 60 + cal.component(.minute, from: time)
+        let lunchMinute = cal.component(.hour, from: lunchTime) * 60 + cal.component(.minute, from: lunchTime)
+        let dinnerMinute = cal.component(.hour, from: dinnerTime) * 60 + cal.component(.minute, from: dinnerTime)
+        if timeHour < lunchMinute { return "morning" }
+        if timeHour < dinnerMinute { return "afternoon" }
+        return "evening"
+    }
+
+    func saveOverride(for itemID: UUID, pinnedBlock: String?, customTime: Date?, notes: String?) {
+        let ctx = context()
+        let request = StackItem.fetchRequest()
+        request.predicate = NSPredicate(format: "id == %@", itemID as CVarArg)
+        request.fetchLimit = 1
+        guard let item = (try? ctx.fetch(request))?.first else { return }
+        item.pinnedBlock = pinnedBlock
+        item.customScheduleTime = customTime
+        item.scheduleNotes = (notes?.isEmpty == true) ? nil : notes
+        do { try ctx.save() } catch { ctx.rollback() }
+        invalidate()
     }
 
     #if DEBUG

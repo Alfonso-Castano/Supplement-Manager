@@ -40,7 +40,9 @@ final class TodayViewModelTests: XCTestCase {
             position: 0,
             suggestedTime: pastTime,
             hasTimingConflict: false,
-            hasSynergy: false
+            hasSynergy: false,
+            customTime: nil,
+            scheduleNotes: nil
         )
         // TodayView.isPast checks first item's suggestedTime < Date()
         XCTAssertTrue(TodayView.isPastBlock(items: [item]),
@@ -58,7 +60,9 @@ final class TodayViewModelTests: XCTestCase {
             position: 0,
             suggestedTime: futureTime,
             hasTimingConflict: false,
-            hasSynergy: false
+            hasSynergy: false,
+            customTime: nil,
+            scheduleNotes: nil
         )
         XCTAssertFalse(TodayView.isPastBlock(items: [item]),
                        "Block with future suggestedTime should not be classified as past")

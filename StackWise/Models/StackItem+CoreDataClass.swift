@@ -13,6 +13,9 @@ public class StackItem: NSManagedObject, Identifiable {
     @NSManaged public var addedDate: Date?
     @NSManaged public var isActive: Bool
     @NSManaged public var sortOrder: Int16
+    @NSManaged public var customScheduleTime: Date?
+    @NSManaged public var pinnedBlock: String?
+    @NSManaged public var scheduleNotes: String?
     @NSManaged public var scheduledDoses: NSSet?
 
     var labelValue: String { label ?? "" }

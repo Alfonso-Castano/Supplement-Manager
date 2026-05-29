@@ -55,6 +55,9 @@ struct PersistenceController {
         if inMemory {
             container.persistentStoreDescriptions.first!.url = URL(fileURLWithPath: "/dev/null")
         }
+        let storeDescription = container.persistentStoreDescriptions.first!
+        storeDescription.setOption(true as NSNumber, forKey: NSMigratePersistentStoresAutomaticallyOption)
+        storeDescription.setOption(true as NSNumber, forKey: NSInferMappingModelAutomaticallyOption)
         container.loadPersistentStores { _, error in
             if let error = error as NSError? {
                 // TODO Phase 9: Replace fatalError with user-facing error screen before App Store submission

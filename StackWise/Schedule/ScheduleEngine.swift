@@ -203,7 +203,9 @@ enum ScheduleEngine {
                     position: Int16(idx),
                     suggestedTime: blockTime,
                     hasTimingConflict: unresolvedConflictIDs.contains(proj.id),
-                    hasSynergy: hasSynergyFlag
+                    hasSynergy: hasSynergyFlag,
+                    customTime: nil,
+                    scheduleNotes: nil
                 )
             }
         }

@@ -13,7 +13,8 @@ final class NotificationSchedulerTests: XCTestCase {
         return ScheduledItem(
             id: UUID(), label: label, activeIngredient: "", dosage: "",
             isPrescription: false, position: 0,
-            suggestedTime: time, hasTimingConflict: false, hasSynergy: false
+            suggestedTime: time, hasTimingConflict: false, hasSynergy: false,
+            customTime: nil, scheduleNotes: nil
         )
     }
 

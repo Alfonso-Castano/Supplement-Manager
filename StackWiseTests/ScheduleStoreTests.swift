@@ -48,7 +48,9 @@ final class ScheduleStoreTests: XCTestCase {
                 position: 0,
                 suggestedTime: cal.date(bySettingHour: 7, minute: 0, second: 0, of: now)!,
                 hasTimingConflict: false,
-                hasSynergy: false
+                hasSynergy: false,
+                customTime: nil,
+                scheduleNotes: nil
             )
         ]
         return ScheduleResult(morning: morning, afternoon: [], evening: [])
